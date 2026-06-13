@@ -1,6 +1,6 @@
 from __future__ import annotations
 
-from fastapi import Request
+from fastapi import HTTPException, Request, status
 
 from stirling.agents import (
     ExecutionPlanningAgent,
@@ -11,8 +11,9 @@ from stirling.agents import (
 )
 from stirling.agents.ledger import MathAuditorAgent
 from stirling.agents.pdf_comment import PdfCommentAgent
-from stirling.rag import RagService
-from stirling.services import AppRuntime
+from stirling.documents import DocumentService
+from stirling.models import UserId
+from stirling.services import AppRuntime, current_user_id
 
 
 def get_runtime(request: Request) -> AppRuntime:
@@ -39,8 +40,8 @@ def get_execution_planning_agent(request: Request) -> ExecutionPlanningAgent:
     return request.app.state.execution_planning_agent
 
 
-def get_rag_service(request: Request) -> RagService:
-    return request.app.state.runtime.rag_service
+def get_document_service(request: Request) -> DocumentService:
+    return request.app.state.runtime.documents
 
 
 def get_math_auditor_agent(request: Request) -> MathAuditorAgent:
@@ -49,3 +50,20 @@ def get_math_auditor_agent(request: Request) -> MathAuditorAgent:
 
 def get_pdf_comment_agent(request: Request) -> PdfCommentAgent:
     return request.app.state.pdf_comment_agent
+
+
+def require_user_id() -> UserId:
+    """FastAPI dependency for routes that touch per-user storage.
+
+    Reads ``X-User-Id`` (already extracted into a ContextVar by ``UserIdMiddleware``)
+    and returns it. Returns HTTP 401 if the caller didn't supply the header. Apply
+    to any route that ingests, searches, reads, or deletes document content so
+    the tenancy gate is enforced at the API boundary.
+    """
+    user_id = current_user_id.get()
+    if user_id is None:
+        raise HTTPException(
+            status_code=status.HTTP_401_UNAUTHORIZED,
+            detail="X-User-Id header is required",
+        )
+    return user_id

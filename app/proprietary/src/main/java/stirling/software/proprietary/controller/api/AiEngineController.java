@@ -5,6 +5,7 @@ import java.util.List;
 import java.util.Map;
 import java.util.concurrent.Executor;
 
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.http.HttpStatus;
@@ -30,6 +31,8 @@ import lombok.extern.slf4j.Slf4j;
 import stirling.software.common.model.job.ResultFile;
 import stirling.software.common.service.JobOwnershipService;
 import stirling.software.common.service.TaskManager;
+import stirling.software.common.service.UserServiceInterface;
+import stirling.software.proprietary.model.api.ai.AiWorkflowProgressEvent;
 import stirling.software.proprietary.model.api.ai.AiWorkflowRequest;
 import stirling.software.proprietary.model.api.ai.AiWorkflowResponse;
 import stirling.software.proprietary.model.api.ai.AiWorkflowResultFile;
@@ -57,6 +60,7 @@ public class AiEngineController {
     private final TaskManager taskManager;
     private final JobOwnershipService jobOwnershipService;
     private final AiEngineEndpointResolver endpointResolver;
+    private final UserServiceInterface userService;
 
     /**
      * SSE emitter timeout. Long enough to accommodate multi-gigabyte PDF workflows (OCR on a
@@ -73,7 +77,8 @@ public class AiEngineController {
             @Qualifier("aiStreamExecutor") Executor aiStreamExecutor,
             TaskManager taskManager,
             JobOwnershipService jobOwnershipService,
-            AiEngineEndpointResolver endpointResolver) {
+            AiEngineEndpointResolver endpointResolver,
+            @Autowired(required = false) UserServiceInterface userService) {
         this.aiEngineClient = aiEngineClient;
         this.aiWorkflowService = aiWorkflowService;
         this.objectMapper = objectMapper;
@@ -81,6 +86,11 @@ public class AiEngineController {
         this.taskManager = taskManager;
         this.jobOwnershipService = jobOwnershipService;
         this.endpointResolver = endpointResolver;
+        this.userService = userService;
+    }
+
+    private String currentUserId() {
+        return userService != null ? userService.getCurrentUsername() : null;
     }
 
     @GetMapping("/health")
@@ -88,7 +98,7 @@ public class AiEngineController {
             summary = "AI engine health check",
             description = "Returns the health status of the AI engine including configured models")
     public ResponseEntity<String> health() throws IOException {
-        String response = aiEngineClient.get("/health");
+        String response = aiEngineClient.get("/health", currentUserId());
         return ResponseEntity.ok().contentType(MediaType.APPLICATION_JSON).body(response);
     }
 
@@ -140,13 +150,32 @@ public class AiEngineController {
     }
 
     private void runOrchestrationStream(AiWorkflowRequest request, SseEmitter emitter) {
+        AiWorkflowService.ProgressListener listener =
+                new AiWorkflowService.ProgressListener() {
+                    @Override
+                    public void onProgress(AiWorkflowProgressEvent event) {
+                        sendEvent(emitter, "progress", event);
+                    }
+
+                    @Override
+                    public void onHeartbeat() {
+                        // Forward upstream heartbeats so the SSE pipe stays visibly alive between
+                        // real progress events; if the frontend has gone away, sendEvent throws,
+                        // which propagates up through the stream consumer and closes our upstream
+                        // engine connection so the engine can cancel its in-flight workflow.
+                        sendEvent(emitter, "heartbeat", Map.of());
+                    }
+                };
         try {
-            AiWorkflowResponse result =
-                    aiWorkflowService.orchestrate(
-                            request, progress -> sendEvent(emitter, "progress", progress));
+            AiWorkflowResponse result = aiWorkflowService.orchestrate(request, listener);
             registerFileResultAsJob(result);
             sendEvent(emitter, "result", result);
             emitter.complete();
+        } catch (ClientDisconnectedException e) {
+            // The frontend gave up mid-stream. The exception unwinding through orchestrate()
+            // already closed the upstream engine connection (engine sees disconnect and cancels).
+            // The emitter is already toast; nothing useful left to send.
+            log.debug("Client disconnected mid-stream; aborting workflow", e);
         } catch (Exception e) {
             log.error("AI orchestration stream failed", e);
             // Emit an error frame for the frontend and then complete normally. Using
@@ -192,7 +221,21 @@ public class AiEngineController {
         try {
             emitter.send(SseEmitter.event().name(name).data(data, MediaType.APPLICATION_JSON));
         } catch (IOException e) {
-            log.debug("Failed to send SSE event (client may have disconnected)", e);
+            // Surface the disconnect so the streaming pipeline unwinds: callers higher up close
+            // the upstream engine connection, which lets the engine cancel its in-flight workflow.
+            // Without this, the engine would keep producing (and billing for) tokens whose results
+            // nobody is reading.
+            throw new ClientDisconnectedException("Client disconnected from SSE stream", e);
+        }
+    }
+
+    /**
+     * Thrown by {@link #sendEvent} when the SSE emitter's underlying connection is gone. Treated as
+     * a signal to abort the workflow, not as an error to report.
+     */
+    private static final class ClientDisconnectedException extends RuntimeException {
+        ClientDisconnectedException(String message, Throwable cause) {
+            super(message, cause);
         }
     }
 
@@ -209,7 +252,7 @@ public class AiEngineController {
                     HttpStatus.BAD_REQUEST, "Request body must be a JSON object");
         }
         String forwardedBody = withEnabledEndpoints((ObjectNode) parsed);
-        String response = aiEngineClient.post("/api/v1/pdf/edit", forwardedBody);
+        String response = aiEngineClient.post("/api/v1/pdf/edit", forwardedBody, currentUserId());
         return ResponseEntity.ok().contentType(MediaType.APPLICATION_JSON).body(response);
     }
 

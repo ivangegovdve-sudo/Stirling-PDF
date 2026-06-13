@@ -61,6 +61,8 @@ class WorkflowOutcome(StrEnum):
     COMPLETED = "completed"
     CANNOT_CONTINUE = "cannot_continue"
     UNSUPPORTED_CAPABILITY = "unsupported_capability"
+    GENERATE_FILE = "generate_file"
+    CONVERT_MARKDOWN = "convert_markdown"
 
 
 class ArtifactKind(StrEnum):
@@ -70,6 +72,7 @@ class ArtifactKind(StrEnum):
     """
 
     EXTRACTED_TEXT = "extracted_text"
+    PAGE_LAYOUT = "page_layout"
     TOOL_REPORT = "tool_report"
 
 
@@ -85,6 +88,7 @@ class SupportedCapability(StrEnum):
     PDF_EDIT = "pdf_edit"
     PDF_QUESTION = "pdf_question"
     PDF_REVIEW = "pdf_review"
+    PDF_CREATE = "pdf_create"
     AGENT_DRAFT = "agent_draft"
     AGENT_REVISE = "agent_revise"
     AGENT_NEXT_ACTION = "agent_next_action"
@@ -167,10 +171,10 @@ ToolReportArtifact = MathAuditorToolReportArtifact
 
 
 class NeedIngestResponse(ApiModel):
-    """Signal that the listed files must be ingested into RAG before the agent can continue.
+    """Signal that the listed files must be ingested before the agent can continue.
 
     Java's handling: for each file, extract the requested content types, POST to
-    ``/api/v1/rag/documents`` keyed by ``file.id``, then retry the original request.
+    ``/api/v1/documents`` keyed by ``file.id``, then retry the original request.
     """
 
     outcome: Literal[WorkflowOutcome.NEED_INGEST] = WorkflowOutcome.NEED_INGEST
@@ -178,6 +182,19 @@ class NeedIngestResponse(ApiModel):
     reason: str
     files_to_ingest: list[AiFile]
     content_types: list[PdfContentType] = Field(default_factory=list)
+
+
+class ConvertMarkdownResponse(ApiModel):
+    """Terminal signal: convert the listed files to Markdown deterministically.
+
+    This is a deterministic, non-AI conversion. Java runs the PDF→Markdown converter
+    (``PdfMarkdownConverter``) on each file and returns the resulting ``.md`` file(s) as a
+    completed result. There is no resume turn — the conversion output is the final answer.
+    """
+
+    outcome: Literal[WorkflowOutcome.CONVERT_MARKDOWN] = WorkflowOutcome.CONVERT_MARKDOWN
+    reason: str
+    files_to_ingest: list[AiFile]
 
 
 class ToolOperationStep(ApiModel):
@@ -198,6 +215,19 @@ class ToolOperationStep(ApiModel):
             actual_type = type(self.parameters).__name__
             raise ValueError(f"Parameters for tool {self.tool} must be {expected_type.__name__}, got {actual_type}.")
         return self
+
+
+class GenerateFileResponse(ApiModel):
+    """Return generated text content directly to Java for file packaging.
+
+    Java converts the content string to bytes and stores it as a result file,
+    avoiding a round-trip through a write-file tool endpoint.
+    """
+
+    outcome: Literal[WorkflowOutcome.GENERATE_FILE] = WorkflowOutcome.GENERATE_FILE
+    content: str
+    filename: str = Field(pattern=r"^[^/\\]+$", description="Output filename; no path separators.")
+    summary: str | None = None
 
 
 def drop_unknown_tool_endpoints(value: Iterable[str | ToolEndpoint]) -> list[ToolEndpoint]:
