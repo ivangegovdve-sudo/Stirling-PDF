@@ -122,7 +122,7 @@ describe("Convert Tool Integration Tests", () => {
   beforeEach(() => {
     vi.clearAllMocks();
     // Setup default apiClient mock
-    mockedApiClient.post = vi.fn() as any;
+    mockedApiClient.post = vi.fn() as typeof mockedApiClient.post;
   });
 
   afterEach(() => {
