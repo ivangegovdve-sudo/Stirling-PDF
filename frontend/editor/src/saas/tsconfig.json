@@ -1,12 +1,11 @@
 {
   "extends": "../../tsconfig.json",
   "compilerOptions": {
-    "baseUrl": "../../",
     "paths": {
-      "@app/*": ["src/saas/*", "src/proprietary/*", "src/core/*"],
-      "@proprietary/*": ["src/proprietary/*"],
-      "@core/*": ["src/core/*"],
-      "@shared/*": ["../shared/*"]
+      "@app/*": ["./*", "../proprietary/*", "../core/*"],
+      "@proprietary/*": ["../proprietary/*"],
+      "@core/*": ["../core/*"],
+      "@shared/*": ["../../../shared/*"]
     }
   },
   "include": ["../global.d.ts", "../*.js", "../*.ts", "../*.tsx", "."]
