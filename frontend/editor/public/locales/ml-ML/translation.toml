@@ -1,5 +1,4 @@
 accessInvite = "ക്ഷണിക്കുക"
-addToDoc = "പ്രമാണത്തിലേക്ക് ചേർക്കുക"
 alphabet = "അക്ഷരമാല"
 apply = "പ്രയോഗിക്കുക"
 applyAndContinue = "സേവ് ചെയ്ത് പുറത്ത് പോകുക"
@@ -7,9 +6,7 @@ areYouSure = "നിങ്ങൾക്ക് പോകണമെന്ന് ത�
 back = "തിരികെ"
 black = "കറുപ്പ്"
 blue = "നീല"
-bored = "കാത്തിരുന്ന് മുഷിഞ്ഞോ?"
 cancel = "റദ്ദാക്കുക"
-changedCredsMessage = "വിവരങ്ങൾ മാറ്റി!"
 chooseFile = "ഫയൽ തിരഞ്ഞെടുക്കുക"
 close = "അടയ്ക്കുക"
 comingSoon = "ഉടൻ വരുന്നു"
@@ -24,22 +21,13 @@ confirmCloseSaveFailed = "പിശകുകളോടെ സംരക്ഷി�
 confirmCloseSaveFailedTitle = "സംരക്ഷിക്കൽ പരാജയപ്പെട്ടു"
 confirmCloseUnsaved = "ഈ ഫയലിൽ സംരക്ഷിക്കാത്ത മാറ്റങ്ങൾ ഉണ്ട്."
 confirmCloseUnsavedList = "നിങ്ങൾക്ക് സംരക്ഷിക്കാത്ത മാറ്റങ്ങൾ ഉള്ള {{count}} ഫയൽ{{plural}} ഉണ്ട്.\n\n{{fileList}}"
-confirmPasswordErrorMessage = "പുതിയ പാസ്‌വേഡും പുതിയ പാസ്‌വേഡ് സ്ഥിരീകരണവും പൊരുത്തപ്പെടണം."
 custom = "ഇഷ്ടാനുസൃതം..."
 customPosition = "ഇഷ്ടാനുസൃത സ്ഥാനം"
 customTextTooltip = "പേജ് നമ്പറുകൾക്കുള്ള ഐച്ഛിക ഇഷ്ടാനുസൃത ഫോർമാറ്റ്. നമ്പറിന് പ്ലേസ്‌ഹോൾഡറായി {n} ഉപയോഗിക്കുക. ഉദാഹരണം: \"Page {n}\" എന്ന് നൽകിയാൽ \"Page 1\", \"Page 2\" എന്നിവർ കാണിക്കും."
 delete = "മായ്ക്കുക"
-deleteCurrentUserMessage = "നിലവിൽ ലോഗിൻ ചെയ്തിട്ടുള്ള ഉപയോക്താവിനെ ഇല്ലാതാക്കാൻ കഴിയില്ല."
-deleteUsernameExistsMessage = "ഉപയോക്തൃനാമം നിലവിലില്ല, ഇല്ലാതാക്കാൻ കഴിയില്ല."
 details = "വിശദാംശങ്ങൾ"
-disabledCurrentUserMessage = "നിലവിലെ ഉപയോക്താവിനെ പ്രവർത്തനരഹിതമാക്കാൻ കഴിയില്ല"
 discardChanges = "മാറ്റങ്ങൾ ഉപേക്ഷിച്ച് പുറത്ത് പോകുക"
-discardRedactions = "റദ്ദാക്കി പുറത്ത് പോകുക"
-donate = "സംഭാവന ചെയ്യുക"
-downgradeCurrentUserLongMessage = "നിലവിലെ ഉപയോക്താവിന്റെ റോൾ താഴ്ത്താൻ കഴിയില്ല. അതിനാൽ, നിലവിലെ ഉപയോക്താവിനെ കാണിക്കില്ല."
-downgradeCurrentUserMessage = "നിലവിലെ ഉപയോക്താവിന്റെ റോൾ താഴ്ത്താൻ കഴിയില്ല"
 download = "ഡൗൺലോഡ്"
-downloadComplete = "ഡൗൺലോഡ് പൂർത്തിയായി"
 downloadPdf = "PDF ഡൗൺലോഡ് ചെയ്യുക"
 downloadUnavailable = "ഈ ഇനത്തിന് ഡൗൺലോഡ് ലഭ്യമല്ല"
 edit = "തിരുത്തുക"
@@ -57,36 +45,24 @@ font = "അക്ഷരം"
 fontSizeTooltip = "പേജ് നമ്പർ ടെക്സ്റ്റിന്റെ പോയിന്റ് സൈസ്. വലിയ നമ്പറുകൾ വലുതായ ടെക്സ്റ്റ് സൃഷ്ടിക്കും."
 fontTypeTooltip = "പേജ് നമ്പറുകളുടെ ഫോണ്ട് കുടുംബം. നിങ്ങളുടെ ഡോക്യുമെന്റിന്റെ ശൈലിയനുസരിച്ച് തിരഞ്ഞെടുക്കുക."
 genericSubmit = "സമർപ്പിക്കുക"
-goHomepage = "ഹോംപേജിലേക്ക് പോകുക"
-goToPage = "പോകുക"
 green = "പച്ച"
 help = "സഹായം"
 imgPrompt = "ചിത്രം(ങ്ങൾ) തിരഞ്ഞെടുക്കുക"
 incorrectPasswordMessage = "നിലവിലെ പാസ്‌വേഡ് തെറ്റാണ്."
 info = "വിവരം"
-insufficientCredits = "ക്രെഡിറ്റുകൾ പോരാ. ആവശ്യം: {{requiredCredits}}, ലഭ്യം: {{currentBalance}}, കുറവ്: {{shortfall}}"
-invalidPasswordMessage = "പാസ്‌വേഡ് ശൂന്യമായിരിക്കരുത്, തുടക്കത്തിലോ അവസാനത്തിലോ സ്പേസുകൾ ഉണ്ടാകരുത്."
 invalidUndoData = "റദ്ദാക്കാൻ കഴിയില്ല: അസാധുവായ പ്രവർത്തന ഡാറ്റ"
-invalidUsernameMessage = "അസാധുവായ ഉപയോക്തൃനാമം, ഉപയോക്തൃനാമത്തിൽ അക്ഷരങ്ങൾ, അക്കങ്ങൾ, താഴെ പറയുന്ന പ്രത്യേക പ്രതീകങ്ങൾ @._+- എന്നിവ മാത്രമേ ഉണ്ടാകാവൂ അല്ലെങ്കിൽ സാധുവായ ഒരു ഇമെയിൽ വിലാസം ആയിരിക്കണം."
-joinDiscord = "ഞങ്ങളുടെ ഡിസ്കോർഡ് സെർവറിൽ ചേരുക"
 keepWorking = "തുടർന്നു പ്രവർത്തിക്കുക"
 loading = "ലോഡ് ചെയ്യുന്നു..."
-loadingCredits = "ക്രെഡിറ്റുകൾ പരിശോധിക്കുന്നു..."
-loadingProStatus = "സബ്സ്ക്രിപ്ഷൻ നില പരിശോധിക്കുന്നു..."
 logOut = "ലോഗൗട്ട് ചെയ്യുക"
 marginTooltip = "പേജ് നമ്പറും പേജിന്റെ അരവുമുള്ള ദൂരം."
 moreOptions = "കൂടുതൽ ഓപ്ഷനുകൾ"
-multiPdfDropPrompt = "നിങ്ങൾക്ക് ആവശ്യമുള്ള എല്ലാ PDF-കളും തിരഞ്ഞെടുക്കുക (അല്ലെങ്കിൽ വലിച്ചിടുക)"
 multiPdfPrompt = "PDF-കൾ തിരഞ്ഞെടുക്കുക (2+)"
 never = "ഒരിക്കലും"
 no = "ഇല്ല"
-noFavourites = "പ്രിയപ്പെട്ടവ ചേർത്തിട്ടില്ല"
 noFileSelected = "ഫയലൊന്നും തിരഞ്ഞെടുത്തിട്ടില്ല. ദയവായി ഒരെണ്ണം അപ്‌ലോഡ് ചെയ്യുക."
 noFilesToUndo = "റദ്ദാക്കാൻ കഴിയില്ല: കഴിഞ്ഞ പ്രവർത്തനത്തിൽ ഫയലുകൾ ഒന്നും പ്രോസസ് ചെയ്തിട്ടില്ല"
 noOperationToUndo = "റദ്ദാക്കാൻ പ്രവർത്തനമില്ല"
-notAuthenticatedMessage = "ഉപയോക്താവിനെ സ്ഥിരീകരിച്ചിട്ടില്ല."
 nothingToUndo = "പിൻവലിക്കാൻ ഒന്നുമില്ല"
-noticeTopUpOrPlan = "ക്രെഡിറ്റുകൾ മതി വരുന്നില്ല, ദയവായി ടോപ്പ് അപ് ചെയ്യുക അല്ലെങ്കിൽ ഒരു പ്ലാനിലേക്ക് അപ്‌ഗ്രേഡ് ചെയ്യുക"
 noValidFiles = "പ്രോസസ് ചെയ്യാൻ സാധുവായ ഫയലുകളില്ല"
 oops = "അയ്യോ!"
 openInNewWindow = "പുതിയ വിൻഡോയിൽ തുറക്കുക"
@@ -99,26 +75,18 @@ pages = "പേജുകൾ"
 pageSelectionPrompt = "ഇഷ്ടാനുസൃത പേജ് തിരഞ്ഞെടുക്കൽ (പേജ് നമ്പറുകളുടെ കോമയാൽ വേർതിരിച്ച ലിസ്റ്റ് 1,5,6 അല്ലെങ്കിൽ 2n+1 പോലുള്ള ഫംഗ്ഷനുകൾ നൽകുക) :"
 password = "പാസ്‌വേഡ്"
 pdfPrompt = "PDF(കൾ) തിരഞ്ഞെടുക്കുക"
-pendingRedactions = "നിങ്ങൾ പ്രയോഗിച്ചിട്ടില്ലാത്ത റെഡാക്ഷനുകൾ ഉണ്ട്; അവ നഷ്ടപ്പെടും."
-pendingRedactionsTitle = "പ്രയോഗിച്ചിട്ടില്ലാത്ത റെഡാക്ഷനുകൾ"
 pin = "ഫയൽ പിൻ ചെയ്യുക (ടൂൾ പ്രവർത്തനത്തിന് ശേഷം സജീവമായി നിലനിർത്തുക)"
-poweredBy = "സഹായത്തോടെ"
 pro = "പ്രോ"
 processingComplete = "താങ്കളുടെ ഫയൽ തയ്യാറായി."
 processingCompleteMultiple = "{{count}} ഫയലുകൾ തയ്യാറായി."
-processTimeWarning = "മുന്നറിയിപ്പ്: ഫയൽ വലുപ്പത്തിനനുസരിച്ച് ഈ പ്രക്രിയ ഒരു മിനിറ്റ് വരെ എടുത്തേക്കാം"
 property = "പ്രോപ്പർട്ടി"
 quickPosition = "ദ്രുത സ്ഥാനം"
 red = "ചുവപ്പ്"
 reset = "പുനഃസജ്ജമാക്കുക"
 review = "പരിശോധിക്കുക"
 save = "സേവ് ചെയ്യുക"
-saveToBrowser = "ബ്രൗസറിൽ സേവ് ചെയ്യുക"
 saveUnavailable = "ഈ ഇനത്തിന് സേവ് ലഭ്യമല്ല"
-seeDockerHub = "ഡോക്കർ ഹബ് കാണുക"
-selectFillter = "-- തിരഞ്ഞെടുക്കുക --"
 size = "വലിപ്പം"
-sponsor = "സ്പോൺസർ ചെയ്യുക"
 startingNumberTooltip = "പ്രദർശിപ്പിക്കേണ്ട ആദ്യ നമ്പർ. തുടർന്ന് പേജുകൾ ഈ നമ്പറിൽ നിന്ന് വർധിക്കും."
 submit = "സമർപ്പിക്കുക"
 success = "വിജയം"
@@ -137,18 +105,9 @@ unpin = "പിൻ നീക്കം ചെയ്യുക (ടൂൾ പ്ര
 unsavedChanges = "നിങ്ങളുടെ PDF-ിൽ സംരക്ഷിക്കാത്ത മാറ്റങ്ങൾ ഉണ്ട്."
 unsavedChangesTitle = "സംരക്ഷിക്കാത്ത മാറ്റങ്ങൾ"
 unsupported = "പിന്തുണയില്ല"
-uploadLimit = "പരമാവധി ഫയൽ വലുപ്പം:"
-uploadLimitExceededPlural = "വളരെ വലുതാണ്. അനുവദനീയമായ പരമാവധി വലുപ്പം"
-uploadLimitExceededSingular = "വളരെ വലുതാണ്. അനുവദനീയമായ പരമാവധി വലുപ്പം"
-userAlreadyExistsOAuthMessage = "ഈ ഉപയോക്താവ് ഇതിനകം ഒരു OAuth2 ഉപയോക്താവായി നിലവിലുണ്ട്."
-userAlreadyExistsWebMessage = "ഈ ഉപയോക്താവ് ഇതിനകം ഒരു വെബ് ഉപയോക്താവായി നിലവിലുണ്ട്."
 username = "ഉപയോക്തൃനാമം"
-usernameExistsMessage = "പുതിയ ഉപയോക്തൃനാമം ഇതിനകം നിലവിലുണ്ട്."
-userNotFoundMessage = "ഉപയോക്താവിനെ കണ്ടെത്തിയില്ല."
-visitGithub = "ഗിറ്റ്ഹബ് റിപ്പോസിറ്ററി സന്ദർശിക്കുക"
 welcome = "സ്വാഗതം"
 white = "വെള്ള"
-WorkInProgess = "നിർമ്മാണത്തിലിരിക്കുന്നു, ശരിയായി പ്രവർത്തിച്ചേക്കില്ല അല്ലെങ്കിൽ ബഗ്ഗുകൾ ഉണ്ടാകാം, ദയവായി പ്രശ്നങ്ങൾ അറിയിക്കുക!"
 yes = "അതെ"
 
 [account]
@@ -205,6 +164,9 @@ signedInAs = "സൈൻ ഇൻ ചെയ്‌തിരിക്കുന്ന�
 [add-page-numbers]
 tags = "പേജ് നമ്പർ നൽകുക,ലേബൽ,ക്രമീകരിക്കുക,സൂചിക"
 
+[addAttachments]
+tags = "embed,attach,include,attachments,attach files,embed files,include files,add files,file attachment,associated files,supplementary files"
+
 [addAttachments.error]
 failed = "PDFയിലേക്ക് അറ്റാച്ച്മെന്റുകൾ ചേർക്കുന്നതിനിടെ ഒരു പിശക് സംഭവിച്ചു."
 
@@ -214,7 +176,6 @@ attachments = "അറ്റാച്ച്മെന്റുകൾ തിരഞ�
 info = "നിങ്ങളുടെ PDFയിലേക്ക് അറ്റാച്ചുചെയ്യാൻ ഫയലുകൾ തിരഞ്ഞെടുക്കുക. ഈ ഫയലുകൾ എംബെഡ് ചെയ്യപ്പെടുകയും PDFയുടെ അറ്റാച്ച്മെന്റ് പാനൽ വഴി ആക്സസ് ചെയ്യാനാകുകയും ചെയ്യും."
 placeholder = "ഫയലുകൾ തിരഞ്ഞെടുക്കുക..."
 selectedFiles = "തിരഞ്ഞെടുത്ത ഫയലുകൾ"
-selectFiles = "അറ്റാച്ചുചെയ്യാൻ ഫയലുകൾ തിരഞ്ഞെടുക്കുക"
 submit = "അറ്റാച്ച്മെന്റുകൾ ചേർക്കുക"
 
 [AddAttachmentsRequest.error]
@@ -237,6 +198,9 @@ applySignatures = "ചിത്രങ്ങൾ പ്രയോഗിക്കു
 header = "PDF-ലേക്ക് ചിത്രം ചേർക്കുക"
 tags = "img,jpg,ചിത്രം,ഫോട്ടോ"
 title = "ചിത്രം ചേർക്കുക"
+
+[addImage.canvas]
+colorPickerTitle = "Choose stroke color"
 
 [addImage.error]
 failed = "PDF-ലേക്ക് ചിത്രം ചേർക്കുന്നതിനിടെ ഒരു പിശക് സംഭവിച്ചു."
@@ -264,8 +228,26 @@ resume = "സ്ഥാപിക്കൽ പുനരാരംഭിക്കു
 title = "ചിത്രം ചേർത്ത ഫലം"
 
 [addImage.saved]
+defaultCanvasLabel = "Drawing signature"
 defaultImageLabel = "അപ്‌ലോഡ് ചെയ്ത ചിത്രം"
 defaultLabel = "ചിത്രം"
+defaultTextLabel = "Typed signature"
+delete = "Remove"
+emptyTitle = "No saved signatures yet"
+heading = "Saved signatures"
+label = "Label"
+limitTitle = "Limit reached"
+next = "Next"
+personalHeading = "Personal Signatures"
+prev = "Previous"
+savePersonal = "Save Personal"
+saveShared = "Save Shared"
+sharedHeading = "Shared Signatures"
+
+[addImage.saved.type]
+canvas = "Drawing"
+image = "Upload"
+text = "Text"
 
 [addImage.step]
 createDesc = "ചേർക്കാൻ ഉദ്ദേശിക്കുന്ന ചിത്രം അപ്‌ലോഡ് ചെയ്യുക"
@@ -275,20 +257,31 @@ placeDesc = "PDF-ൽ ക്ലിക്ക് ചെയ്ത് നിങ്ങ
 [addImage.steps]
 configure = "ചിത്രം ക്രമീകരിക്കുക"
 
+[addImage.text]
+colorLabel = "Text color"
+fontLabel = "Font"
+fontSizeLabel = "Font size"
+name = "Text"
+placeholder = "Enter text"
+
+[addImage.type]
+canvas = "Canvas"
+image = "Image"
+saved = "Saved"
+text = "Text"
+
 [addPageNumbers]
-configuration = "ക്രമീകരണം"
 customize = "ദൃശ്യമാനം ഇഷ്ടാനുസൃതമാക്കുക"
 customNumberDesc = "സ്ഥിരസ്ഥിതിയായി {n}, 'പേജ് {n} / {total}', 'ടെക്സ്റ്റ്-{n}', '{filename}-{n}' എന്നിവയും സ്വീകരിക്കുന്നു"
-customTextDesc = "ഇഷ്ടാനുസൃത ടെക്സ്റ്റ്"
 fontName = "അക്ഷരത്തിന്റെ പേര്"
 fontSize = "അക്ഷര വലുപ്പം"
-header = "പേജ് നമ്പറുകൾ ചേർക്കുക"
 numberPagesDesc = "ഏത് പേജുകളാണ് നമ്പർ ചെയ്യേണ്ടത്, സ്ഥിരസ്ഥിതി 'എല്ലാം', 1-5 അല്ലെങ്കിൽ 2,5,9 തുടങ്ങിയവയും സ്വീകരിക്കുന്നു"
 pagesAndStarting = "പേജുകളും ആരംഭ നമ്പറും"
 positionAndPages = "സ്ഥാനം & പേജുകൾ"
 preview = "സ്ഥാനം തിരഞ്ഞെടുപ്പ്"
 previewDisclaimer = "പ്രിവ്യൂ ഏകദേശമാണ്. PDF ഫോണ്ട് മീട്രിക്‌സിന്റെ കാരണമായി അന്തിമ ഔട്ട്പുട്ട് വ്യത്യാസപ്പെട്ടേക്കാം."
 submit = "പേജ് നമ്പറുകൾ ചേർക്കുക"
+tags = "number,pagination,count,add page numbers,page numbering,page numbers,footer,header,number pages,sequential,pagination tool"
 title = "പേജ് നമ്പറുകൾ ചേർക്കുക"
 zeroPad = "Zero‑pad Width (Bates Stamping)"
 zeroPadTooltip = "Zero‑pad (Bates Stamp) page numbers to this width (e.g., 3 ⇒ 001). Set 0 to disable."
@@ -300,18 +293,15 @@ failed = "പേജ് നമ്പർ ചേർക്കൽ പ്രവർത�
 title = "പേജ് നമ്പർ ഫലങ്ങൾ"
 
 [addPageNumbers.selectText]
-1 = "PDF ഫയൽ തിരഞ്ഞെടുക്കുക:"
 2 = "മാർജിൻ വലുപ്പം"
-3 = "സ്ഥാനം"
 4 = "ആരംഭിക്കുന്ന നമ്പർ"
 5 = "നമ്പർ ചെയ്യേണ്ട പേജുകൾ"
 6 = "ഇഷ്ടാനുസൃത ടെക്സ്റ്റ്"
 
 [addPassword]
-completed = "പാസ്‌വേഡ് സംരക്ഷണം പ്രയോഗിച്ചു"
 desc = "നിങ്ങളുടെ PDF ഡോക്യുമെന്റ് ഒരു പാസ്‌വേഡോടെ എൻക്രിപ്റ്റ് ചെയ്യുക."
-filenamePrefix = "എൻക്രിപ്റ്റ്_ചെയ്തത്"
 submit = "എൻക്രിപ്റ്റ് ചെയ്യുക"
+tags = "encrypt,password,lock,secure,protect,security,encryption,safeguard,confidential,private,restrict access"
 title = "പാസ്‌വേഡ് ചേർക്കുക"
 
 [addPassword.encryption.keyLength]
@@ -324,7 +314,6 @@ label = "എൻക്രിപ്ഷൻ കീ നീളം"
 failed = "PDF എൻക്രിപ്റ്റ് ചെയ്യുന്നതിനിടെ പിശക് സംഭവിച്ചു."
 
 [addPassword.passwords]
-completed = "പാസ്‌വേഡുകൾ ക്രമീകരിച്ചു"
 stepTitle = "പാസ്‌വേഡുകളും എൻക്രിപ്ഷനും"
 
 [addPassword.passwords.owner]
@@ -358,12 +347,14 @@ title = "പാസ്‌വേഡ് തരങ്ങൾ"
 text = "ഈ അനുമതികൾ ഉപയോഗിച്ച് ഉപയോക്താക്കൾക്ക് PDF-ോടെ എന്ത് ചെയ്യാമെന്ന് നിയന്ത്രിക്കുന്നു. ഉടമയുടെ പാസ്‌വേഡിനൊപ്പം ഉപയോഗിക്കുമ്പോഴാണ് ഏറ്റവും ഫലപ്രദം."
 title = "അനുമതികൾ മാറ്റുക"
 
+[addStamp]
+tags = "stamp,mark,seal,approved,rejected,confidential,stamp tool,rubber stamp,date stamp,approval stamp,received,void,copy,original"
+
 [AddStampRequest]
 alphabet = "അക്ഷരമാല"
 clickToExpand = "Click to expand"
 customColor = "ഇഷ്ടാനുസൃത ടെക്സ്റ്റ് നിറം"
 customDateDesc = "Custom format"
-customMargin = "ഇഷ്ടാനുസൃത മാർജിൻ"
 customPosition = "പ്രിവ്യൂ വിൻഡോയിൽ സ്റ്റാമ്പ് ആവശ്യമായ സ്ഥാനത്തേക്ക് ഡ്രാഗ് ചെയ്യുക."
 dateDesc = "Current date"
 datetimeDesc = "Date and time combined"
@@ -374,7 +365,6 @@ filenameDesc = "Filename without extension"
 filenameFullDesc = "Filename with extension"
 fileVars = "File Information"
 fontSize = "അക്ഷര/ചിത്ര വലുപ്പം"
-header = "PDF സ്റ്റാമ്പ് ചെയ്യുക"
 imageSize = "ഇമേജ് വലിപ്പം"
 margin = "മാർജിൻ"
 metadataDesc = "From PDF document properties"
@@ -383,8 +373,6 @@ multiLine = "multi-line"
 noStampSelected = "സ്റ്റാമ്പ് ഒന്നും തിരഞ്ഞെടുക്കപ്പെട്ടിട്ടില്ല. പടി 1-ലേക്ക് മടങ്ങുക."
 opacity = "അതാര്യത"
 otherVars = "Other"
-overrideX = "X കോർഡിനേറ്റ് മാറ്റിയെഴുതുക"
-overrideY = "Y കോർഡിനേറ്റ് മാറ്റിയെഴുതുക"
 pageNumberDesc = "Current page number"
 pageVars = "Page Information"
 position = "സ്ഥാനം"
@@ -393,7 +381,6 @@ preview = "Preview:"
 quickPosition = "സ്റ്റാമ്പ് വയ്ക്കാൻ പേജിലെ ഒരു സ്ഥാനം തിരഞ്ഞെടുക്കുക."
 rotation = "തിരിക്കൽ"
 selectTemplate = "Select a template..."
-stampImage = "സ്റ്റാമ്പ് ചിത്രം"
 stampSetup = "സ്റ്റാമ്പ് സജ്ജീകരണം"
 stampText = "സ്റ്റാമ്പ് ടെക്സ്റ്റ്"
 stampTextDescription = "Use dynamic variables below. Use @@ for literal @. Use \\n for new lines."
@@ -433,6 +420,9 @@ header = "PDF-കളിൽ ടെക്സ്റ്റ് ചേർക്കു�
 tags = "ടെക്സ്റ്റ്,അനോട്ടേഷൻ,ലേബൽ"
 title = "ടെക്സ്റ്റ് ചേർക്കുക"
 
+[addText.canvas]
+colorPickerTitle = "Choose stroke color"
+
 [addText.error]
 failed = "PDF-യിൽ ടെക്സ്റ്റ് ചേർക്കുമ്പോൾ പിശക് സംഭവിച്ചു."
 
@@ -452,6 +442,28 @@ resume = "സ്ഥാപിക്കൽ പുനരാരംഭിക്കു
 [addText.results]
 title = "ടെക്സ്റ്റ് ചേർക്കൽ ഫലങ്ങൾ"
 
+[addText.saved]
+defaultCanvasLabel = "Drawing signature"
+defaultImageLabel = "Uploaded signature"
+defaultLabel = "Signature"
+defaultTextLabel = "Typed signature"
+delete = "Remove"
+emptyTitle = "No saved signatures yet"
+heading = "Saved signatures"
+label = "Label"
+limitTitle = "Limit reached"
+next = "Next"
+personalHeading = "Personal Signatures"
+prev = "Previous"
+savePersonal = "Save Personal"
+saveShared = "Save Shared"
+sharedHeading = "Shared Signatures"
+
+[addText.saved.type]
+canvas = "Drawing"
+image = "Upload"
+text = "Text"
+
 [addText.step]
 createDesc = "ചേർക്കാൻ വേണ്ട ടെക്സ്റ്റ് നൽകുക"
 place = "ടെക്സ്റ്റ് സ്ഥാപിക്കുക"
@@ -468,6 +480,12 @@ fontSizePlaceholder = "ഫോണ്ട് വലിപ്പം ടൈപ്പ�
 name = "ടെക്സ്റ്റ് ഉള്ളടക്കം"
 placeholder = "ചേർക്കാൻ വേണ്ട ടെക്സ്റ്റ് നൽകുക"
 
+[addText.type]
+canvas = "Canvas"
+image = "Image"
+saved = "Saved"
+text = "Text"
+
 [adjust-contrast]
 tags = "നിറം-തിരുത്തൽ,ട്യൂൺ ചെയ്യുക,പരിഷ്ക്കരിക്കുക,മെച്ചപ്പെടുത്തുക"
 
@@ -478,12 +496,11 @@ blue = "നീല"
 brightness = "തെളിച്ചം:"
 confirm = "സ്ഥിരീകരിക്കുക"
 contrast = "കോൺട്രാസ്റ്റ്:"
-download = "ഡൗൺലോഡ് ചെയ്യുക"
 green = "പച്ച"
-header = "കോൺട്രാസ്റ്റ് ക്രമീകരിക്കുക"
 noPreview = "പ്രിവ്യൂക്കായി ഒരു PDF തിരഞ്ഞെടുക്കുക"
 red = "ചുവപ്പ്"
 saturation = "സാച്ചുറേഷൻ:"
+tags = "contrast,brightness,saturation,adjust colors,color correction,enhance,lighten,darken,improve quality,color balance,hue,vibrance"
 title = "കോൺട്രാസ്റ്റ് ക്രമീകരിക്കുക"
 
 [adjustContrast.error]
@@ -493,7 +510,6 @@ failed = "നിറങ്ങൾ/കോൺട്രാസ്റ്റ് ക്�
 title = "ക്രമപ്പെടുത്തിയ PDF"
 
 [adjustPageScale]
-header = "പേജ് സ്കെയിൽ ക്രമപ്പെടുത്തുക"
 submit = "പേജ് സ്കെയിൽ ക്രമപ്പെടുത്തുക"
 tags = "resize,modify,dimension,adapt"
 title = "പേജ് സ്കെയിൽ ക്രമപ്പെടുത്തുക"
@@ -537,7 +553,6 @@ title = "സ്കെയിൽ ഫാക്ടർ"
 close = "അടയ്ക്കുക"
 error = "പിശക്"
 expand = "വിപുലീകരിക്കുക"
-success = "വിജയം"
 
 [admin.settings]
 discard = "തള്ളുക"
@@ -1110,6 +1125,70 @@ label = "SMTP പോർട്ട്"
 description = "SMTP ഓതന്റിക്കേഷൻ യൂസർനെയിം"
 label = "SMTP യൂസർനെയിം"
 
+[admin.settings.mcp]
+apikeyNote = "Clients send a Stirling API key in the X-API-KEY header (or Authorization: Bearer <key>). The key maps to its owning Stirling user - only provisioned accounts get in, and actions are audited as that user. Manage keys under Account > API Keys."
+description = "Expose Stirling's PDF tools and AI agents to MCP clients over an OAuth-protected endpoint."
+title = "MCP Server"
+
+[admin.settings.mcp.acceptedAudiences]
+description = "Extra token audience values accepted besides the Resource ID (comma or space separated). Leave blank for strict RFC 8707. Needed for IdPs that cannot mint resource audiences - e.g. Supabase's OAuth server always issues aud=authenticated."
+label = "Additional accepted audiences (optional)"
+
+[admin.settings.mcp.allowedOps]
+description = "If set, ONLY these operation ids are exposed (an allow-list; comma or space separated). Leave blank to expose all enabled tools except any blocked below."
+label = "Allowed tools"
+
+[admin.settings.mcp.blockedOps]
+description = "Operation ids to hide from MCP (comma or space separated), e.g. add-password remove-password. Leave blank to expose all enabled tools."
+label = "Blocked tools"
+
+[admin.settings.mcp.enabled]
+description = "When off (default), no /mcp endpoint, metadata, or MCP beans are loaded."
+label = "Enable MCP Server"
+
+[admin.settings.mcp.guide]
+step1 = "Enter your OAuth issuer + resource ID above, Save, and restart."
+step1ApiKey = "Create an API key under Account > API Keys (each user uses their own)."
+step2 = "In your MCP client add a"
+step2b = "server pointing at:"
+step3 = "The client auto-discovers OAuth from:"
+step3ApiKey = "Send the key in an"
+step3ApiKeyb = "header (or Authorization: Bearer <key>). No OAuth or metadata discovery is used."
+step4 = "Approve the sign-in; the client retries with a token. Tools appear grouped: convert, pages, misc, security, ai."
+step4ApiKey = "Tools appear grouped: convert, pages, misc, security, ai - and every call is audited as the key's owner."
+tip = "Tip: register the resource ID as an allowed audience in your IdP. Tested with MCP Inspector and Claude Desktop."
+tipApiKey = "Tip: API-key mode needs no external IdP - simplest for self-host. The key maps to its owning Stirling user."
+title = "Connect an MCP client"
+
+[admin.settings.mcp.issuerUri]
+description = "Your OAuth2 authorization server (must publish /.well-known/openid-configuration). Required when enabled."
+label = "OAuth Issuer URL"
+
+[admin.settings.mcp.jwksUri]
+description = "Leave blank to discover it from the issuer. Set only if your IdP serves keys at a non-standard URL."
+label = "JWKS URL (optional)"
+placeholder = "Auto-discovered from issuer"
+
+[admin.settings.mcp.mode]
+description = "OAuth needs an external IdP. API key uses a Stirling per-user API key (X-API-KEY) - simplest for self-host."
+label = "Authentication mode"
+
+[admin.settings.mcp.requireAccount]
+description = "Only let tokens through if their subject maps to a provisioned, enabled Stirling user."
+label = "Require an existing Stirling account"
+
+[admin.settings.mcp.resourceId]
+description = "This server's public /mcp URL. Tokens must list it in their audience (RFC 8707) or they are rejected."
+label = "Resource ID"
+
+[admin.settings.mcp.scopes]
+description = "Require mcp.tools.read for read ops and mcp.tools.write for write/AI ops."
+label = "Enforce OAuth scopes"
+
+[admin.settings.mcp.usernameClaim]
+description = "JWT claim matched against a Stirling username (e.g. sub, email, preferred_username)."
+label = "Username claim"
+
 [admin.settings.plan.noData]
 message = "പ്ലാൻസിന്റെ ഡാറ്റ ഇപ്പോൾ ലഭ്യമല്ല."
 title = "ഡാറ്റ ലഭ്യമല്ല"
@@ -1492,10 +1571,6 @@ hint = "നിങ്ങൾക്ക് സേവ് ചെയ്യാത്ത 
 message = "നിങ്ങൾക്ക് സേവ് ചെയ്യാത്ത മാറ്റങ്ങളുണ്ട്. അവ തള്ളണമോ?"
 title = "സേവ് ചെയ്യാത്ത മാറ്റങ്ങൾ"
 
-[admin.status]
-active = "സജീവം"
-inactive = "നിഷ്ക്രിയം"
-
 [adminOnboarding]
 adminTools = "അവസാനമായി, സിസ്റ്റം പ്രവർത്തനം ട്രാക്കുചെയ്യാൻ <strong>ഓഡിറ്റിംഗ്</strong> പോലുള്ളവയും പ്ലാറ്റ്ഫോം എങ്ങനെ ഉപയോഗിക്കുന്നു എന്ന് കാണാൻ <strong>ഉപയോഗ അനലിറ്റിക്സ്</strong> പോലുള്ളവയും ഉൾപ്പെടെ വികസിത അഡ്മിൻ ടൂളുകൾ ഉണ്ട്."
 configButton = "എല്ലാ സിസ്റ്റം ക്രമീകരണങ്ങളും അഡ്മിനിസ്ട്രേറ്റീവ് നിയന്ത്രണങ്ങളും ആക്സസ് ചെയ്യാൻ <strong>കോൺഫിഗ്</strong> ബട്ടൺ അമർത്തുക."
@@ -1508,76 +1583,23 @@ welcome = "<strong>അഡ്മിൻ ടൂർ</strong> ലേക്ക് സ�
 wrapUp = "ഇതോടെ അഡ്മിൻ ടൂർ തീർന്നു! Stirling PDF നെ സ്ഥാപനങ്ങൾക്കായി ശക്തവും ഇഷ്ടാനുസൃതവുമാക്കുന്ന എന്റർപ്രൈസ് സവിശേഷതകൾ നിങ്ങൾ കണ്ടു. <strong>സഹായം</strong> മെനുവിൽ നിന്ന് ഈ ടൂർ ഏത് സമയവും ആക്സസ് ചെയ്യാം."
 
 [adminUserSettings]
-actions = "പ്രവർത്തനങ്ങൾ"
-activeUsers = "സജീവ ഉപയോക്താക്കൾ:"
-addUser = "പുതിയ ഉപയോക്താവിനെ ചേർക്കുക"
 admin = "അഡ്മിൻ"
-apiUser = "പരിമിതമായ API ഉപയോക്താവ്"
-authenticated = "സ്ഥിരീകരിച്ചു"
-changeUserRole = "ഉപയോക്താവിന്റെ റോൾ മാറ്റുക"
-confirmChangeUserStatus = "ഉപയോക്താവിനെ പ്രവർത്തനരഹിതമാക്കുകയോ/പ്രവർത്തനക്ഷമമാക്കുകയോ ചെയ്യണോ?"
-confirmDeleteUser = "ഉപയോക്താവിനെ ഇല്ലാതാക്കണോ?"
-deleteUser = "ഉപയോക്താവിനെ ഇല്ലാതാക്കുക"
-demoUser = "ഡെമോ ഉപയോക്താവ് (ഇഷ്ടാനുസൃത ക്രമീകരണങ്ങളില്ല)"
-disabledUser = "പ്രവർത്തനരഹിതമാക്കിയ ഉപയോക്താവ്"
-disabledUsers = "പ്രവർത്തനരഹിതമാക്കിയ ഉപയോക്താക്കൾ:"
-editOwnProfil = "സ്വന്തം പ്രൊഫൈൽ തിരുത്തുക"
-enabledUser = "പ്രവർത്തനക്ഷമമാക്കിയ ഉപയോക്താവ്"
-extraApiUser = "അധിക പരിമിതമായ API ഉപയോക്താവ്"
-forceChange = "ലോഗിൻ ചെയ്യുമ്പോൾ പാസ്‌വേഡ് മാറ്റാൻ ഉപയോക്താവിനെ നിർബന്ധിക്കുക"
-header = "അഡ്മിൻ ഉപയോക്തൃ നിയന്ത്രണ ക്രമീകരണങ്ങൾ"
-internalApiUser = "ആന്തരിക API ഉപയോക്താവ്"
-lastRequest = "അവസാന അഭ്യർത്ഥന"
-role = "റോൾ"
-roles = "റോളുകൾ"
-submit = "ഉപയോക്താവിനെ സംരക്ഷിക്കുക"
 title = "ഉപയോക്തൃ നിയന്ത്രണ ക്രമീകരണങ്ങൾ"
-totalUsers = "ആകെ ഉപയോക്താക്കൾ:"
-usage = "ഉപയോഗം കാണുക"
-user = "ഉപയോക്താവ്"
-usernameInfo = "ഉപയോക്തൃനാമത്തിൽ അക്ഷരങ്ങൾ, അക്കങ്ങൾ, താഴെ പറയുന്ന പ്രത്യേക പ്രതീകങ്ങൾ @._+- എന്നിവ മാത്രമേ ഉണ്ടാകാവൂ അല്ലെങ്കിൽ സാധുവായ ഒരു ഇമെയിൽ വിലാസം ആയിരിക്കണം."
-webOnlyUser = "വെബ് മാത്രം ഉപയോക്താവ്"
 
 [agents]
-auto_redaction_description = "PII സ്വയം രഹസ്യമാക്കുക"
-auto_redaction_name = "ഓട്ടോ റെഡാക്ഷൻ"
-back_to_tools = "ടൂളുകളിലേക്ക് മടങ്ങുക"
-coming_soon = "ഉടൻ എത്തുന്നു"
-compliance_description = "ഡോക്യുമെന്റുകൾ കമ്പ്ലൈൻസ് പരിശോധിക്കുക"
-compliance_name = "കമ്പ്ലൈൻസ് പരിശോധിക്കൽ"
-data_extraction_description = "ട്ടേബിളുകളും സ്ട്രക്ചേഡ് ഡാറ്റയും എക്സ്ട്രാക്റ്റ് ചെയ്യുക"
-data_extraction_name = "ഡാറ്റ എക്സ്ട്രാക്ഷൻ"
-doc_summary_description = "വലിയ ഡോക്യുമെന്റുകൾ സംഗ്രഹിക്കുക"
-doc_summary_name = "സംഗ്രഹകൻ"
-form_filler_description = "PDF ഫോമുകൾ ബുദ്ധിപൂർവ്വം പൂരിപ്പിക്കുക"
-form_filler_name = "ഫോം ഫില്ലർ"
-fullscreen_title = "Stirling ഏജന്റുകൾ"
-pdf_to_markdown_description = "PDFകൾ ക്ലീൻ Markdown ആയി മാറിക്കുക"
-pdf_to_markdown_name = "PDF to Markdown"
-section_title = "ഏജന്റുകൾ"
-show_less = "കുറച്ച് കാണിക്കുക"
-start_chat = "സംഭാഷണം തുടങ്ങുക"
-stirling_description = "നിങ്ങളുടെ പൊതുവായ PDF അസിസ്റ്റന്റ്"
-stirling_full_name = "Stirling General Agent"
-stirling_long_description = "ടൂളുകൾ പ്രവർത്തിപ്പിക്കുകയും, PDFകൾ സൃഷ്ടിക്കുകയും, നിങ്ങളുടെ ഡോക്യുമെന്റുകളിൽ നിന്ന് ഇൻസൈറ്റ്‌സ് കണ്ടെത്തുകയും ചെയ്യുന്ന പൊതുവായ PDF അസിസ്റ്റന്റ്."
 stirling_name = "Stirling"
-stirling_running = "പ്രവർത്തിക്കുന്നു..."
-stirling_tooltip = "Stirling ഏജന്റ്"
-view_all = "എല്ലാ ഏജന്റുകളെയും കാണുക"
 
 [analytics]
-disable = "അനലിറ്റിക്സ് പ്രവർത്തനരഹിതമാക്കുക"
-enable = "അനലിറ്റിക്സ് പ്രവർത്തനക്ഷമമാക്കുക"
 learnMore = "കൂടുതൽ അറിയുക"
 paragraph1 = "ഉൽപ്പന്നം മെച്ചപ്പെടുത്താൻ ഞങ്ങളെ സഹായിക്കുന്നതിന് സ്റ്റെർലിംഗ് PDF-ൽ ഓപ്റ്റ്-ഇൻ അനലിറ്റിക്സ് ഉണ്ട്. ഞങ്ങൾ വ്യക്തിഗത വിവരങ്ങളോ ഫയൽ ഉള്ളടക്കങ്ങളോ ട്രാക്ക് ചെയ്യുന്നില്ല."
 paragraph2 = "സ്റ്റെർലിംഗ്-PDF വളരാനും ഞങ്ങളുടെ ഉപയോക്താക്കളെ നന്നായി മനസ്സിലാക്കാനും അനലിറ്റിക്സ് പ്രവർത്തനക്ഷമമാക്കുന്നത് പരിഗണിക്കുക."
-privacyAssurance = "ഞങ്ങൾ നിങ്ങളുടെ വ്യക്തിഗത വിവരങ്ങളോ നിങ്ങളുടെ ഫയലുകളുടെ ഉള്ളടക്കമോ ട്രാക്ക് ചെയ്യുന്നില്ല."
-settings = "config/settings.yml ഫയലിൽ നിങ്ങൾക്ക് അനലിറ്റിക്സിനായുള്ള ക്രമീകരണങ്ങൾ മാറ്റാൻ കഴിയും"
 title = "സ്റ്റെർലിംഗ് PDF മികച്ചതാക്കാൻ നിങ്ങൾ ആഗ്രഹിക്കുന്നുണ്ടോ?"
+
+[annotate]
+tags = "annotate,highlight,draw,markup,comment,notes,review,redline,feedback,markup tools,sticky notes,shapes,arrows,text box,freehand"
 
 [annotation]
 annotationStyle = "അനോട്ടേഷൻ ശൈലി"
-applyChanges = "മാറ്റങ്ങൾ പ്രയോഗിക്കുക"
 backgroundColor = "ബാക്ക്ഗ്രൗണ്ട് നിറം"
 borderOff = "ബോർഡർ: ഓഫ്"
 borderOn = "ബോർഡർ: ഓൺ"
@@ -1590,36 +1612,20 @@ comment = "കമന്റ്"
 comments = "കമന്റുകൾ"
 contents = "ടെക്സ്റ്റ്"
 delete = "ഇല്ലാതാക്കുക"
-desc = "ഹൈലൈറ്റ്, പേന, ടെക്സ്റ്റ്, കുറിപ്പുകൾ എന്നിവ ഉപയോഗിക്കുക. മാറ്റങ്ങൾ തത്സമയം നിലനിൽക്കും—ഫ്ലാറ്റൻ ചെയ്യേണ്ടതില്ല."
 drawing = "വരയ്ക്കൽ"
-duplicate = "പകർപ്പുണ്ടാക്കുക"
-editCircle = "വൃത്തം എഡിറ്റ് ചെയ്യുക"
-editInk = "പേന എഡിറ്റ് ചെയ്യുക"
-editLine = "രേഖ എഡിറ്റ് ചെയ്യുക"
-editNote = "കുറിപ്പ് എഡിറ്റ് ചെയ്യുക"
-editPolygon = "ബഹുഭുജം എഡിറ്റ് ചെയ്യുക"
 editSelectDescription = "നിറം, അപാകത, ടെക്സ്റ്റ്, വലുപ്പം എന്നിവ എഡിറ്റ് ചെയ്യാൻ നിലവിലുള്ള അനോട്ടേഷൻ ക്ലിക്ക് ചെയ്യുക."
-editSelected = "അനോട്ടേഷൻ എഡിറ്റ് ചെയ്യുക"
-editSquare = "ചതുരം എഡിറ്റ് ചെയ്യുക"
-editStampHint = "ചിത്രം മാറ്റാൻ, ഈ സ്റ്റാമ്പ് ഇല്ലാതാക്കി പുതിയത് ചേർക്കുക."
-editSwitchToSelect = "ഈ അനോട്ടേഷൻ എഡിറ്റ് ചെയ്യാൻ Select & Edit-ലേക്ക് മാറുക."
 editText = "ടെക്സ്റ്റ് ബോക്സ് എഡിറ്റ് ചെയ്യുക"
-editTextMarkup = "ടെക്സ്റ്റ് മാർക്കപ്പ് എഡിറ്റ് ചെയ്യുക"
-ellipse = "എലിപ്സ്"
-exit = "അനോട്ടേഷൻ മോഡിൽ നിന്ന് പുറത്ത് പോകുക"
 fillColor = "ഫിൽ നിറം"
 fillOpacity = "ഫിൽ അപാകത"
 fontSize = "ഫോണ്ട് വലുപ്പം"
 freehandHighlighter = "ഫ്രീഹാൻഡ് ഹൈലൈറ്റർ"
 highlight = "ഹൈലൈറ്റ്"
 imagePreview = "പ്രിവ്യൂ"
-inkHighlighter = "ഫ്രീഹാൻഡ് ഹൈലൈറ്റർ"
 insertText = "ടെക്സ്റ്റ് ചേർക്കുക"
 line = "രേഖ"
 lineArrow = "അമ്പ്"
 noBackground = "ബാക്ക്ഗ്രൗണ്ട് ഇല്ല"
 note = "കുറിപ്പ്"
-noteIcon = "കുറിപ്പ് ഐക്കൺ"
 notesStamps = "കുറിപ്പുകളും സ്റ്റാമ്പുകളും"
 opacity = "അപാകത"
 pen = "പേന"
@@ -1627,12 +1633,8 @@ polygon = "ബഹുഭുജം"
 polyline = "പോളിലൈൻ"
 properties = "ഗുണങ്ങൾ"
 rectangle = "ആയതം"
-redo = "റീഡു"
 replaceText = "ടെക്സ്റ്റ് മാറ്റിസ്ഥാപിക്കുക"
 saveChanges = "മാറ്റങ്ങൾ സംരക്ഷിക്കുക"
-saveFailed = "കോപ്പി സംരക്ഷിക്കാൻ കഴിഞ്ഞില്ല"
-saveReady = "ഡൗൺലോഡ് തയ്യാറാണ്"
-savingCopy = "ഡൗൺലോഡിനായി തയ്യാറാക്കുന്നു..."
 select = "തിരഞ്ഞെടുക്കുക"
 selectAndMove = "തിരഞ്ഞെടുക്കി എഡിറ്റ് ചെയ്യുക"
 settings = "സെറ്റിങ്ങുകൾ"
@@ -1650,24 +1652,17 @@ textAlignment = "ടെക്സ്റ്റ് അലൈന്മെന്റ�
 textMarkup = "ടെക്സ്റ്റ് മാർക്കപ്പ്"
 title = "അനോട്ടേറ്റ്"
 underline = "അടിവര"
-undo = "അൺഡു"
-unsupportedType = "ഈ അനോട്ടേഷൻ തരം പൂർണ്ണമായി എഡിറ്റിംഗിനായി പിന്തുണയ്ക്കുന്നില്ല."
 width = "വീതി"
 
 [app]
 description = "സൗജന്യ Adobe Acrobat പകരം (10M+ ഡൗൺലോഡുകൾ)"
 
 [attachments]
-add = "അറ്റാച്ച്മെന്റ് ചേർക്കുക"
 convertToPdfA3b = "PDF/A-3b ആയി മാറ്റുക"
 convertToPdfA3bDescription = "എംബെഡുചെയ്ത അറ്റാച്ച്മെന്റുകളോടുകൂടിയ ആർക്കൈവൽ PDF സൃഷ്ടിക്കുന്നു"
 convertToPdfA3bTooltip = "PDF/A-3b ദീർഘകാല സംരക്ഷണം ഉറപ്പാക്കുന്ന ഒരു ആർക്കൈവൽ ഫോർമാറ്റാണ്. ഇത് ഇച്ഛാനുസൃത ഫയൽ ഫോർമാറ്റുകൾ അറ്റാച്ച്മെന്റുകളായി ഉൾചേർക്കാൻ അനുവദിക്കുന്നു. പരിവർത്തനത്തിന് Ghostscript ആവശ്യമാണ്, വലിയ ഫയലുകൾക്ക് കൂടുതൽ സമയം വേണ്ടിവരാം."
 convertToPdfA3bTooltipHeader = "PDF/A-3b പരിവർത്തനത്തെക്കുറിച്ച്"
 convertToPdfA3bTooltipTitle = "ഇത് ചെയ്യുന്നത്"
-embed = "അറ്റാച്ച്മെന്റ് എംബെഡ് ചെയ്യുക"
-header = "അറ്റാച്ച്മെന്റുകൾ ചേർക്കുക"
-remove = "അറ്റാച്ച്മെന്റ് നീക്കം ചെയ്യുക"
-submit = "അറ്റാച്ച്മെന്റുകൾ ചേർക്കുക"
 tags = "അറ്റാച്ച്മെന്റുകൾ,ചേർക്കുക,നീക്കം ചെയ്യുക,എംബെഡ്,ഫയൽ"
 title = "അറ്റാച്ച്മെന്റുകൾ ചേർക്കുക"
 
@@ -1683,12 +1678,10 @@ notAvailable = "ഓഡിറ്റ് സിസ്റ്റം ലഭ്യമ�
 notAvailableMessage = "ഓഡിറ്റ് സിസ്റ്റം കോൺഫിഗർ ചെയ്തിട്ടില്ല അല്ലെങ്കിൽ ലഭ്യമല്ല."
 
 [audit.charts]
-byTool = "ഏറ്റവും ഉപയോഗിച്ച ടൂൾസ്"
 byType = "തരം അനുസരിച്ചുള്ള ഇവന്റുകൾ"
 byUser = "ഉപയോക്താവ് അനുസരിച്ചുള്ള ഇവന്റുകൾ"
 day = "ദിവസം"
 error = "ചാർട്ടുകൾ ലോഡ് ചെയ്യുന്നതിൽ പിശക്"
-hourlyActivity = "മണിക്കൂറിന്‍റെ പ്രവർത്തനം"
 month = "മാസം"
 noData = "ഈ കാലയളവിൽ ഡാറ്റയില്ല"
 overTime = "കാലക്രമത്തിൽ ഇവന്റുകൾ"
@@ -1725,17 +1718,12 @@ documentName = "ഡോക്യുമെന്റ്"
 endDate = "അവസാന തീയതി"
 error = "ഇവന്റുകൾ ലോഡ് ചെയ്യുന്നതിൽ പിശക്"
 eventDetails = "ഇവന്റ് വിശദാംശങ്ങൾ"
-failure = "പരാജയം"
 fileHash = "ഫയൽ Hash"
 filterByType = "തരം പ്രകാരം ഫിൽറ്റർ ചെയ്യുക"
 filterByUser = "ഉപയോക്താവ് പ്രകാരം ഫിൽറ്റർ ചെയ്യുക"
 ipAddress = "IP വിലാസം"
 noEvents = "ഇവന്റുകളൊന്നും കണ്ടെത്താനായില്ല"
-outcome = "സ്ഥിതി"
-sortAsc = "ഉയരുന്ന ക്രമത്തിൽ ക്രമീകരിക്കുക"
-sortDesc = "ഇറങ്ങുന്ന ക്രമത്തിൽ ക്രമീകരിക്കുക"
 startDate = "ആരംഭ തീയതി"
-success = "വിജയം"
 timestamp = "ടൈംസ്റ്റാമ്പ്"
 title = "ഓഡിറ്റ് ഇവന്റുകൾ"
 type = "തരം"
@@ -1743,9 +1731,7 @@ user = "ഉപയോക്താവ്"
 viewDetails = "വിശദാംശങ്ങൾ കാണുക"
 
 [audit.export]
-clearFilters = "ക്ലിയർ"
 description = "ഓഡിറ്റ് ഇവന്റുകൾ CSV അല്ലെങ്കിൽ JSON ഫോർമാറ്റിലേക്ക് കയറ്റുമതി ചെയ്യുക. കയറ്റുമതി ചെയ്യുന്ന ഡാറ്റ പരിമിതപ്പെടുത്താൻ ഫിൽട്ടറുകൾ ഉപയോഗിക്കുക."
-endDate = "അവസാന തീയതി"
 error = "ഡാറ്റ കയറ്റുമതി ചെയ്യുന്നത് പരാജയപ്പെട്ടു"
 exportButton = "ഡാറ്റ കയറ്റുമതി ചെയ്യുക"
 fieldAuthor = "രചയിതാവ് (PDF-ൽ നിന്ന്)"
@@ -1757,23 +1743,15 @@ fieldOperationResults = "ഓപ്പറേഷൻ ഫലങ്ങൾ"
 fieldOutcome = "ഫലം (Success/Failure)"
 fieldTool = "ടൂൾ"
 fieldUsername = "ഉപയോക്തൃനാമം"
-filterByType = "തരം അനുസരിച്ച് ഫിൽട്ടർ ചെയ്യുക"
-filterByUser = "ഉപയോക്താവിനെ അനുസരിച്ച് ഫിൽട്ടർ ചെയ്യുക"
 filters = "ഫിൽട്ടറുകൾ (ഐച്ഛികം)"
 format = "കയറ്റുമതി ഫോർമാറ്റ്"
 selectFields = "ചേർക്കേണ്ട ഫീൽഡുകൾ തിരഞ്ഞെടുക്കുക"
-startDate = "ആരംഭ തീയതി"
 title = "ഓഡിറ്റ് ഡാറ്റ കയറ്റുമതി ചെയ്യുക"
-verboseRequired = "VERBOSE ഓഡിറ്റ് ലെവൽ ആവശ്യമാണ്"
 
 [audit.filters]
-allOutcomes = "എല്ലാം"
-failureOnly = "പരാജയങ്ങൾ മാത്രം"
 last30Days = "കഴിഞ്ഞ 30 ദിവസം"
 last7Days = "കഴിഞ്ഞ 7 ദിവസം"
-outcomeFilter = "ഫലം"
 quickPresets = "വേഗത്തിലുള്ള ഫിൽട്ടറുകൾ"
-successOnly = "വിജയം മാത്രം"
 thisMonth = "ഈ മാസം"
 today = "ഇന്ന്"
 
@@ -1782,18 +1760,14 @@ activeUsers = "സജീവ ഉപയോക്താക്കൾ"
 attention = "ശ്രദ്ധ ആവശ്യമാണ്"
 avgLatency = "ശരാശരി latency"
 error = "സ്ഥിതിവിവരക്കണക്കുകൾ ലോഡ് ചെയ്യുന്നതിൽ പിശക്"
-errorLoadingStats = "സ്ഥിതിവിവരക്കണക്കുകൾ ലോഡ് ചെയ്യൽ പരാജയപ്പെട്ടു"
 excellent = "അത്യുത്തമം"
 good = "നല്ലത്"
 noData = "N/A"
 successRate = "വിജയ നിരക്ക്"
-title = "സംഗ്രഹം"
 totalEvents = "ആകെ ഇവന്റുകൾ"
 vsLastPeriod = "കഴിഞ്ഞ കാലയളവുമായി താരതമ്യം"
 
 [audit.systemStatus]
-autoRefresh = "സ്വയം പുതുക്കൽ"
-autoRefreshLabel = "ഓരോ 30 സെക്കൻഡിലും സ്വയം പുതുക്കുക"
 captureBySettings = "സജ്ജീകരണങ്ങളിൽ പ്രവർത്തനക്ഷമമാക്കുക"
 capturedFields = "പിടികൂടിയ ഫീൽഡുകൾ"
 date = "തീയതി"
@@ -1810,7 +1784,6 @@ title = "സിസ്റ്റം നില"
 tool = "ടൂൾ"
 totalEvents = "മൊത്തം ഇവന്റുകൾ"
 username = "ഉപയോക്തൃനാമം"
-verboseOnly = "VERBOSE മാത്രം"
 
 [audit.tabs]
 clearData = "ഡാറ്റ മായ്ക്കുക"
@@ -1821,8 +1794,6 @@ export = "എക്സ്പോർട്ട്"
 [auth]
 accessDenied = "ആക്‌സസ് നിരസിച്ചു"
 insufficientPermissions = "ഈ പ്രവർത്തനം നടത്താൻ നിങ്ങൾക്ക് അനുമതിയില്ല."
-pleaseLoginAgain = "ദയവായി വീണ്ടും ലോഗിൻ ചെയ്യുക."
-sessionExpired = "സെഷൻ കാലഹരണപ്പെട്ടു"
 
 [auth.displayName]
 guest = "അതിഥി"
@@ -1830,16 +1801,12 @@ user = "ഉപയോക്താവ്"
 
 [auto-rename]
 description = "നിങ്ങളുടെ PDF ഉള്ളടക്കത്തിൽ നിന്ന് തലക്കെട്ട് സ്വയം കണ്ടെത്തി അത് ഫയൽനാമമായി ഉപയോഗിക്കും."
-header = "PDF സ്വയം പുനർനാമകരണം ചെയ്യുക"
 submit = "സ്വയം പുനർനാമകരണം ചെയ്യുക"
 tags = "സ്വയം-കണ്ടെത്തുക,തലക്കെട്ട്-അടിസ്ഥാനമാക്കിയുള്ള,ക്രമീകരിക്കുക,പുനർലേബൽ ചെയ്യുക"
 title = "സ്വയം പുനർനാമകരണം ചെയ്യുക"
 
 [auto-rename.error]
 failed = "PDF സ്വയമേവ പുനർനാമകരണം ചെയ്യുന്നതിനിടെ പിശക് സംഭവിച്ചു."
-
-[auto-rename.files]
-placeholder = "തുടങ്ങാൻ മെയിൻ വ്യൂവിൽ ഒരു PDF ഫയൽ തിരഞ്ഞെടുക്കുക"
 
 [auto-rename.results]
 title = "സ്വയം പുനർനാമകരണം ഫലങ്ങൾ"
@@ -1857,7 +1824,6 @@ title = "ഓട്ടോ-റിനെയിം എങ്ങനെ പ്രവ�
 bullet1 = "തലക്കെട്ടായോ ഹെഡിംഗായോ തോന്നുന്ന ടെക്സ്റ്റ് അന്വേഷിക്കുന്നു"
 bullet2 = "കണ്ടെത്തിയ തലക്കെട്ടിൽ നിന്ന് വൃത്തിയുള്ള, സാധുവായ ഫയൽനാമം സൃഷ്ടിക്കുന്നു"
 bullet3 = "ചിട്ടയായ തലക്കെട്ട് ഒന്നും കണ്ടെത്താനാകാതെയെങ്കിൽ യഥാർത്ഥ പേര് നിലനിർത്തും"
-text = "നിങ്ങളുടെ PDF ഉള്ളടക്കത്തിൽ നിന്ന് തലക്കെട്ട് സ്വയം കണ്ടെത്തി അത് ഫയൽനാമമായി ഉപയോഗിക്കും."
 title = "സ്മാർട്ട് പുനർനാമകരണം"
 
 [automate]
@@ -1870,12 +1836,12 @@ importPartialSuccess = "മാപ്പ് ചെയ്യാത്ത {{count}}
 importSuccess = "ഇംപോർട്ട് ചെയ്ത ഓട്ടോമേഷൻ: {{name}}"
 invalidStep = "അസാധുവായ ഘട്ടം"
 reviewTitle = "ഓട്ടോമേഷന്‍ ഫലങ്ങൾ"
+tags = "workflow,sequence,automation,automate,batch,batch processing,pipeline,chain,multi-step,recurring,scheduled,automatic,process multiple,bulk operations"
 title = "ഓട്ടോമേഷൻ"
 
 [automate.config]
 cancel = "റദ്ദാക്കുക"
 description = "ഈ ടൂളിന്റെ ക്രമീകരണങ്ങൾ സജ്ജമാക്കുക. ഓട്ടോമേഷൻ പ്രവർത്തിക്കുന്നപ്പോൾ ഈ ക്രമീകരണങ്ങൾ പ്രയോഗിക്കപ്പെടും."
-loading = "ടൂൾ ക്രമീകരണം ലോഡ് ചെയ്യുന്നു..."
 noSettings = "ഈ ടൂളിന് ക്രമീകരിക്കാവുന്ന സെറ്റിംഗുകളൊന്നുമില്ല."
 save = "ക്രമീകരണം സംരക്ഷിക്കുക"
 title = "{{toolName}} ക്രമീകരിക്കുക"
@@ -1916,16 +1882,6 @@ title = "സംരക്ഷിക്കാത്ത മാറ്റങ്ങൾ"
 
 [automate.entryMenu]
 label = "{{title}} നുള്ള മെനു തുറക്കുക"
-
-[automate.files]
-placeholder = "ഈ ഓട്ടോമേഷൻ ഉപയോഗിച്ച് പ്രോസസ് ചെയ്യേണ്ട ഫയലുകൾ തിരഞ്ഞെടുക്കുക"
-
-[automate.folderScanWarning]
-advice = "നിങ്ങൾക്ക് ഇപ്പോഴും ഫയൽ ഡൗൺലോഡ് ചെയ്യാൻ കഴിയും (ഉദാ., പരിശോധിക്കാനോ കൈകൊണ്ട് എഡിറ്റ് ചെയ്യാനോ), പക്ഷേ ബാക്ക്എൻഡ് പ്രവർത്തിക്കാൻ മുമ്പ് പിന്തുണയില്ലാത്ത ഘട്ടങ്ങൾ നീക്കം ചെയ്യണം."
-cancel = "റദ്ദാക്കുക"
-confirm = "എങ്കിലും എക്സ്പോർട്ട് ചെയ്യുക"
-intro = "ഫോൾഡർ സ്കാനിംഗ് ബാക്ക്എൻഡിൽ പ്രവർത്തിക്കുന്നതിനാൽ ബാക്ക്എൻഡ് എൻഡ്പോയിന്റുള്ള ടൂളുകൾ മാത്രമേ ഇത് നിർവഹിക്കാൻ കഴിയൂ. ഈ ഓട്ടമേഷനിലെ താഴെപ്പറയുന്ന ഘട്ടങ്ങൾക്കത് ഇല്ല; പൈപ്പ്‌ലൈൻ പ്രവർത്തിക്കുമ്പോൾ ഇവ പരാജയപ്പെടും:"
-title = "ചില ഘട്ടങ്ങൾ ഫോൾഡർ സ്കാനിംഗിൽ പ്രവർത്തിക്കില്ല"
 
 [automate.importModal]
 cancel = "റദ്ദാക്കുക"
@@ -1979,25 +1935,16 @@ secureWorkflowDesc = "JavaScript, എംബെഡഡ് ഫയലുകൾ പ�
 
 [autoRename]
 description = "ഈ ടൂൾ ഉള്ളടക്കത്തെ അടിസ്ഥാനമാക്കി PDF ഫയലുകൾ സ്വയം പുനർനാമകരണം ചെയ്യും. രേഖയിലെ ടെക്സ്റ്റിൽ നിന്ന് ഏറ്റവും അനുയോജ്യമായ ശീർഷകം കണ്ടെത്താൻ ഇത് വിശകലനം ചെയ്യും."
+tags = "auto-detect,header-based,organize,relabel,auto rename,automatic rename,smart rename,rename by content,filename,file naming,detect title"
 
 [autoSizeSplitPDF]
 tags = "pdf,വിഭജിക്കുക,പ്രമാണം,സംഘടന"
 
 [autoSplitPDF]
-description = "അച്ചടിക്കുക, തിരുകുക, സ്കാൻ ചെയ്യുക, അപ്‌ലോഡ് ചെയ്യുക, നിങ്ങളുടെ പ്രമാണങ്ങൾ ഞങ്ങൾ സ്വയം വേർതിരിക്കട്ടെ. സ്വയം അടുക്കേണ്ട ആവശ്യമില്ല."
 dividerDownload2 = "'ഓട്ടോ സ്പ്ലിറ്റർ ഡിവൈഡർ (നിർദ്ദേശങ്ങളോടുകൂടി).pdf' ഡൗൺലോഡ് ചെയ്യുക"
 duplexMode = "ഡ്യൂപ്ലെക്സ് മോഡ് (മുന്നിലും പിന്നിലും സ്കാനിംഗ്)"
-formPrompt = "സ്റ്റെർലിംഗ്-PDF പേജ് വിഭജനങ്ങൾ അടങ്ങിയ PDF സമർപ്പിക്കുക:"
-header = "PDF സ്വയം വിഭജിക്കുക"
-submit = "സമർപ്പിക്കുക"
 tags = "QR-അടിസ്ഥാനമാക്കിയുള്ള,വേർതിരിക്കുക,സ്കാൻ-സെഗ്മെന്റ്,ക്രമീകരിക്കുക"
 title = "PDF സ്വയം വിഭജിക്കുക"
-
-[autoSplitPDF.selectText]
-1 = "താഴെ നിന്ന് കുറച്ച് വിഭജന ഷീറ്റുകൾ അച്ചടിക്കുക (കറുപ്പും വെളുപ്പും മതി)."
-2 = "അവയ്ക്കിടയിൽ വിഭജന ഷീറ്റ് തിരുകി നിങ്ങളുടെ എല്ലാ പ്രമാണങ്ങളും ഒരേസമയം സ്കാൻ ചെയ്യുക."
-3 = "ഒരൊറ്റ വലിയ സ്കാൻ ചെയ്ത PDF ഫയൽ അപ്‌ലോഡ് ചെയ്യുക, ബാക്കിയുള്ളവ സ്റ്റെർലിംഗ് PDF കൈകാര്യം ചെയ്യട്ടെ."
-4 = "വിഭജന പേജുകൾ സ്വയം കണ്ടെത്തുകയും നീക്കം ചെയ്യുകയും ചെയ്യുന്നു, ഇത് വൃത്തിയുള്ള അന്തിമ പ്രമാണം ഉറപ്പാക്കുന്നു."
 
 [backendHealth]
 checking = "ബാക്ക്എൻഡിന്റെ നില പരിശോധിക്കുന്നു..."
@@ -2035,7 +1982,6 @@ whatHappensNext = "അടുത്തത് എന്താണ്?"
 error = "ബില്ലിംഗ് പോർട്ടൽ തുറക്കൽ പരാജയപ്പെട്ടു"
 
 [bookletImposition]
-header = "ബുക്ക്ലെറ്റ് ഇംപോസിഷൻ"
 paperSizeNote = "പേപ്പർ വലിപ്പം നിങ്ങളുടെ ആദ്യ പേജിൽ നിന്ന് സ്വയമേ നിർണയിക്കുന്നു."
 submit = "ബുക്ക്ലെറ്റ് സൃഷ്ടിക്കുക"
 tags = "booklet,imposition,printing,binding,folding,signature"
@@ -2081,11 +2027,6 @@ title = "മാനുവൽ ഡ്യൂപ്ലെക്സ് മോഡ്"
 [bookletImposition.rtlBinding]
 label = "വലതിൽ നിന്ന് ഇടത്തേക്ക് ബൈൻഡിംഗ്"
 tooltip = "അറബിക്, ഹീബ്രു, അല്ലെങ്കിൽ മറ്റ് RTL ഭാഷകൾക്കായി"
-
-[bookletImposition.spineLocation]
-label = "സ്പൈൻ സ്ഥാനം"
-left = "ഇടത് (സ്റ്റാൻഡേർഡ്)"
-right = "വലത് (RTL)"
 
 [bookletImposition.tooltip.advanced]
 bullet1 = "റൈറ്റ്-ടു-ലെഫ്റ്റ് ബൈൻഡിംഗ്: അറബിക്, ഹീബ്രു, അല്ലെങ്കിൽ RTL ഭാഷകൾക്കായി"
@@ -2226,7 +2167,6 @@ description = "നിങ്ങളുടെ സ്വന്തം PKCS#12 സർ�
 title = "ഇഷ്ടാനുസൃത P12 അപ്‌ലോഡ് ചെയ്യുക"
 
 [certSign]
-allSigned = "എല്ലാ പങ്കാളികളും ഒപ്പുവച്ചു. അന്തിമീകരിക്കാൻ തയ്യാറാണ്."
 awaitingSignatures = "ഒപ്പുകൾ കാത്തിരിക്കുന്നു"
 chooseCertificate = "സർട്ടിഫിക്കറ്റ് ഫയൽ തിരഞ്ഞെടുക്കുക"
 chooseJksFile = "JKS ഫയൽ തിരഞ്ഞെടുക്കുക"
@@ -2235,7 +2175,6 @@ choosePfxFile = "PFX ഫയൽ തിരഞ്ഞെടുക്കുക"
 choosePrivateKey = "പ്രൈവറ്റ് കീ ഫയൽ തിരഞ്ഞെടുക്കുക"
 declined = "നിരസിച്ചു"
 fetchFailed = "സൈൻ ചെയ്യുന്ന ഡാറ്റ ലോഡ് ചെയ്യാൻ കഴിഞ്ഞില്ല"
-filenamePrefix = "ഒപ്പിട്ടത്"
 finalized = "അന്തിമീകരിച്ചു"
 location = "സ്ഥലം"
 logoTitle = "ലോഗോ"
@@ -2243,7 +2182,6 @@ name = "പേര്"
 noLogo = "ലോഗോ ഇല്ല"
 notified = "കാത്തിരിപ്പിൽ"
 pageNumber = "പേജ് നമ്പർ"
-partialNote = "നിലവിലെ ഒപ്പുകളോടെ നേരത്തൊന്തിമീകരിക്കാവുന്നതാണ്. ഒപ്പിടാത്ത പങ്കാളികൾ ഒഴിവാക്കപ്പെടും."
 password = "നിങ്ങളുടെ കീസ്റ്റോർ അല്ലെങ്കിൽ സ്വകാര്യ കീ പാസ്‌വേഡ് നൽകുക (ഉണ്ടെങ്കിൽ):"
 passwordOptional = "പാസ്‌വേഡ് ഇല്ലെങ്കിൽ ഒഴിവാക്കുക"
 pending = "കാത്തിരിപ്പിൽ"
@@ -2311,12 +2249,8 @@ stepTitle = "സർട്ടിഫിക്കറ്റ് ഫോർമാറ്
 
 [certSign.collab.addParticipants]
 add = "{{count}} പങ്കാളികളെ ചേർക്കുക"
-back = "തിരികെ"
-configureSignatures = "ഒപ്പ് ക്രമീകരണങ്ങൾ കോൺഫിഗർ ചെയ്യുക"
-continue = "ഒപ്പ് ക്രമീകരണങ്ങളിലേക്ക് തുടരുക"
 reasonHelp = "ഈ പങ്കാളികൾക്കായി മുൻകൂട്ടി ഒരു ഒപ്പിടൽ കാരണം നിശ്ചയിക്കുക (ഐച്ഛികം, അവർ ഒപ്പിടുമ്പോൾ മാറ്റാം)"
 reasonPlaceholder = "ഉദാ: അംഗീകാരം, പരിശോധന..."
-selectUsers = "ഉപയോക്താക്കളെ തിരഞ്ഞെടുക്കുക"
 
 [certSign.collab.finalize]
 button = "അന്തിമീകരിച്ച് ഒപ്പിട്ട PDF ലോഡ് ചെയ്യുക"
@@ -2335,7 +2269,6 @@ includeSummaryPage = "ഒപ്പ് സംഗ്രഹ പേജ് ഉൾപ�
 includeSummaryPageHelp = "അവസാനത്തിൽ എല്ലാ ഒപ്പ് മെറ്റാഡേറ്റയും ഉൾപ്പെട്ട ഒരു സംഗ്രഹ പേജ് ചേർക്കും. വ്യക്തിഗത പേജുകളിലെ ഡിജിറ്റൽ സർട്ടിഫിക്കറ്റ് ഒപ്പ് ബോക്സുകൾ പ്രദർശിപ്പിക്കില്ല (വെറ്റ് ഒപ്പുകൾ ബാധിക്കില്ല)."
 
 [certSign.collab.sessionDetail]
-addButton = "പങ്കാളികളെ ചേർക്കുക"
 addParticipants = "പങ്കാളികളെ ചേർക്കുക"
 addParticipantsError = "പങ്കാളികളെ ചേർക്കാൻ കഴിഞ്ഞില്ല"
 backToList = "സെഷനുകളിലേക്ക് തിരികെ"
@@ -2348,7 +2281,6 @@ finalizeError = "സെഷൻ അന്തിമീകരിക്കാൻ ക�
 loadPdfError = "ഒപ്പിട്ട PDF ലോഡ് ചെയ്യാൻ കഴിഞ്ഞില്ല"
 loadSignedPdf = "ഒപ്പിട്ട PDF സജീവ ഫയലുകളിലേക്ക് ലോഡ് ചെയ്യുക"
 messageLabel = "സന്ദേശം"
-noAdditionalInfo = "അധിക വിവരങ്ങളൊന്നുമില്ല"
 owner = "ഉടമ"
 participantRemoved = "പങ്കാളിയെ നീക്കി"
 participants = "പങ്കാളികൾ"
@@ -2369,7 +2301,6 @@ title = "ഒപ്പിന്റെ രൂപഭാവം"
 
 [certSign.collab.signRequest]
 addedToFiles = "ഡോക്യുമെന്റ് സജീവ ഫയലുകളിൽ ചേർത്തു"
-addSignature = "നിങ്ങളുടെ ഒപ്പ് ചേർക്കുക"
 addToFiles = "സജീവ ഫയലുകളിലേക്ക് ചേർക്കുക"
 advancedSettings = "അഡ്വാൻസ്ഡ് ക്രമീകരണങ്ങൾ"
 backToList = "ഒപ്പ് അഭ്യർത്ഥനകളിലേക്ക് തിരികെ"
@@ -2382,35 +2313,27 @@ decline = "അഭ്യർത്ഥന നിരസിക്കുക"
 declineButton = "നിരസിക്കുക"
 deleteSelected = "തിരഞ്ഞെടുത്ത ഒപ്പ് ഇല്ലാതാക്കുക"
 drawSignature = "താഴെ നിങ്ങളുടെ ഒപ്പ് വരയ്ക്കുക"
-dueDate = "അവസാന തീയതി"
 fileTooLarge = "ഫയൽ വലുപ്പം 5MB-ൽ കുറവായിരിക്കണം"
 fontFamily = "അക്ഷരശൈലി"
 fontSize = "ഫോണ്ട് വലുപ്പം: {{size}}px"
 fontSizePlaceholder = "വലുപ്പം"
 from = "അയച്ചത്"
-invalidCertFile = "ദയവായി P12 അല്ലെങ്കിൽ PFX സർട്ടിഫിക്കറ്റ് ഫയൽ തിരഞ്ഞെടുക്കുക"
 invalidFileType = "ദയവായി ഒരു ഇമേജ് ഫയൽ തിരഞ്ഞെടുക്കുക"
 location = "സ്ഥാനം (ഐച്ഛികം)"
 locationPlaceholder = "നിങ്ങൾ ഏത് സ്ഥലത്ത് നിന്ന് ഒപ്പിടുന്നു?"
-message = "സന്ദേശം"
 noCertificate = "ദയവായി ഒരു സർട്ടിഫിക്കറ്റ് ഫയൽ തിരഞ്ഞെടുക്കുക"
 noSignatures = "PDF-ൽ കുറഞ്ഞത് ഒരു ഒപ്പെങ്കിലും ഇടുക"
 p12File = "P12/PFX സർട്ടിഫിക്കറ്റ് ഫയൽ"
 password = "സർട്ടിഫിക്കറ്റ് പാസ്‌വേഡ്"
-passwordPlaceholder = "പാസ്‌വേഡ് നൽകുക..."
 penColor = "പെന്നിന്റെ നിറം"
 penSize = "പെന്നിന്റെ വലുപ്പം: {{size}}px"
-placementActive = "PDF-ൽ ക്ലിക്ക് ചെയ്ത് ഇടുക"
-placeSignatureButton = "PDF-ൽ ഒപ്പ് ഇടുക"
 reason = "കാരണം (ഐച്ഛികം)"
 reasonPlaceholder = "ഏത് കാരണത്താലാണ് ഒപ്പിടുന്നത്?"
-removeCertFile = "ഫയൽ നീക്കുക"
 removeImage = "ചിത്രം നീക്കുക"
 savedSignatures = "സംരക്ഷിച്ച ഒപ്പുകൾ"
 selectFile = "ഇമേജ് ഫയൽ തിരഞ്ഞെടുക്കുക"
 selectSignatureTitle = "ഒപ്പ് തിരഞ്ഞെടുക്കുക അല്ലെങ്കിൽ സൃഷ്ടിക്കുക"
 signatureInfo = "ഈ ക്രമീകരണങ്ങൾ ഡോക്യുമെന്റിന്റെ ഉടമ നിർണ്ണയിച്ചവയാണ്"
-signaturePlaced = "പേജിൽ ഒപ്പ് വച്ചു"
 signatureSettings = "ഒപ്പ് ക്രമീകരണങ്ങൾ"
 signatureText = "ഒപ്പ് വാചകം"
 signatureTextPlaceholder = "നിങ്ങളുടെ പേര് നൽകുക..."
@@ -2442,9 +2365,6 @@ description = "നിങ്ങൾ {{count}} ഒപ്പ്(കൾ) വച്ച
 sign = "ഡോക്യുമെന്റ് ഒപ്പിടുക"
 title = "സർട്ടിഫിക്കറ്റ് കോൺഫിഗർ ചെയ്യുക"
 
-[certSign.collab.signRequest.image]
-hint = "നിങ്ങളുടെ ഒപ്പിന്റെ PNG അല്ലെങ്കിൽ JPG ചിത്രം അപ്‌ലോഡ് ചെയ്യുക"
-
 [certSign.collab.signRequest.mode]
 move = "ഒപ്പ് നീക്കുക"
 place = "ഒപ്പ് ഇടുക"
@@ -2454,10 +2374,6 @@ title = "ഒപ്പ് ഇടൽ അല്ലെങ്കിൽ നീക്�
 draw = "വരയ്‌ക്കുക"
 image = "അപ്‌ലോഡ് ചെയ്യുക"
 text = "ടൈപ്പ് ചെയ്യുക"
-
-[certSign.collab.signRequest.placeSignature]
-message = "PDF-ൽ ക്ലിക്ക് ചെയ്ത് നിങ്ങളുടെ ഒപ്പ് ഇടുക"
-title = "ഒപ്പ് ഇടൽ"
 
 [certSign.collab.signRequest.preview]
 imageAlt = "തിരഞ്ഞെടുത്ത ഒപ്പ്"
@@ -2588,24 +2504,20 @@ text = "നിങ്ങൾ ഒപ്പുകൾ പരിശോധിക്ക�
 title = "ഒപ്പുകൾ പരിശോധന"
 
 [changeCreds]
-changePassword = "നിങ്ങൾ സ്ഥിര ലോഗിൻ വിവരങ്ങളാണ് ഉപയോഗിക്കുന്നത്. ദയവായി ഒരു പുതിയ പാസ്‌വേഡ് നൽകുക"
 changeUsername = "നിങ്ങളുടെ യൂസർനെയിം അപ്‌ഡേറ്റ് ചെയ്യുക. അപ്‌ഡേറ്റിന് ശേഷം നിങ്ങൾ ലോഗ് ഔട്ട് ചെയ്യപ്പെടും."
-confirmNewPassword = "പുതിയ പാസ്‌വേഡ് സ്ഥിരീകരിക്കുക"
 credsUpdated = "അക്കൗണ്ട് അപ്‌ഡേറ്റ് ചെയ്തു"
 description = "മാറ്റങ്ങൾ സംരക്ഷിച്ചു. ദയവായി വീണ്ടും ലോഗിൻ ചെയ്യുക."
 error = "യൂസർനെയിം അപ്‌ഡേറ്റ് ചെയ്യാൻ കഴിഞ്ഞില്ല. നിങ്ങളുടെ പാസ്‌വേഡ് ശരിയെന്ന് ഉറപ്പാക്കി വീണ്ടും ശ്രമിക്കുക."
 header = "നിങ്ങളുടെ അക്കൗണ്ട് വിവരങ്ങൾ അപ്‌ഡേറ്റ് ചെയ്യുക"
-newPassword = "പുതിയ പാസ്‌വേഡ്"
 newUsername = "പുതിയ ഉപയോക്തൃനാമം"
 oldPassword = "നിലവിലെ പാസ്‌വേഡ്"
 ssoManaged = "നിങ്ങളുടെ അക്കൗണ്ട് നിങ്ങളുടെ ഐഡന്റിറ്റി പ്രൊവൈഡർ കൈകാര്യം ചെയ്യുന്നു."
-submit = "മാറ്റങ്ങൾ സമർപ്പിക്കുക"
 title = "വിവരങ്ങൾ മാറ്റുക"
 
 [changeMetadata]
 filenamePrefix = "മെറ്റാഡാറ്റ"
-header = "മെറ്റാഡാറ്റ മാറ്റുക"
 submit = "മാറ്റുക"
+tags = "edit,modify,update,metadata,properties,document properties,author,title,subject,keywords,creator,producer,info,document info,file properties"
 
 [changeMetadata.advanced]
 title = "അഡ്വാൻസ്ഡ് ഓപ്ഷനുകൾ"
@@ -2657,9 +2569,6 @@ placeholder = "ഡോക്യുമെന്റ് പ്രൊഡ്യൂസ�
 [changeMetadata.results]
 title = "അപ്ഡേറ്റ് ചെയ്ത PDF-കൾ"
 
-[changeMetadata.settings]
-title = "മെറ്റാഡേറ്റ ക്രമീകരണങ്ങൾ"
-
 [changeMetadata.standardFields]
 title = "സ്റ്റാൻഡേർഡ് ഫീൽഡുകൾ"
 
@@ -2698,16 +2607,6 @@ title = "തീയതി ഫീൽഡുകൾ"
 text = "സ്വകാര്യത ഉറപ്പാക്കാൻ പൂർണ്ണമായ മെറ്റാഡേറ്റ ഇല്ലാതാക്കൽ."
 title = "നിലവിലുള്ള മെറ്റാഡേറ്റ നീക്കംചെയ്യുക"
 
-[changeMetadata.tooltip.header]
-title = "PDF മെറ്റാഡേറ്റ അവലോകനം"
-
-[changeMetadata.tooltip.options]
-bullet1 = "ഇച്ഛാനുസൃത മെറ്റാഡേറ്റ: സ്വന്തം കീ-മൂല്യ ജോഡികൾ ചേർക്കുക"
-bullet2 = "ട്രാപ്പ് ചെയ്ത നില: ഉയർന്ന നിലവാരത്തിലുള്ള പ്രിന്റിംഗിനുള്ള ക്രമീകരണം"
-bullet3 = "എല്ലാം ഇല്ലാതാക്കുക: സ്വകാര്യതയ്ക്കായി എല്ലാ മെറ്റാഡേറ്റയും നീക്കംചെയ്യുക"
-text = "ഇച്ഛാനുസൃത ഫീൽഡുകളും സ്വകാര്യത നിയന്ത്രണങ്ങളും."
-title = "കൂടുതൽ ഓപ്ഷനുകൾ"
-
 [changeMetadata.tooltip.standardFields]
 bullet1 = "ശീർഷകം: ഡോക്യുമെന്റ് പേര് അല്ലെങ്കിൽ തലക്കെട്ട്"
 bullet2 = "രചയിതാവ്: ഡോക്യുമെന്റ് സൃഷ്ടിച്ച വ്യക്തി"
@@ -2724,9 +2623,9 @@ true = "സത്യം"
 unknown = "അജ്ഞാതം"
 
 [changePermissions]
-completed = "അനുമതികൾ മാറ്റി"
 desc = "ഡോക്യുമെന്റിന്റെ നിയന്ത്രണങ്ങളും അനുമതികളും മാറ്റുക."
 submit = "അനുമതികൾ മാറ്റുക"
+tags = "permissions,restrictions,rights,access control,allow,deny,printing,copying,editing,modify permissions,security settings,user rights"
 title = "അനുമതികൾ മാറ്റുക"
 
 [changePermissions.error]
@@ -2768,19 +2667,19 @@ title = "അനുമതികൾ മാറ്റുക"
 [changePermissions.tooltip.warning]
 text = "ഈ അനുമതികൾ മാറ്റാൻ പറ്റാത്തതാക്കാൻ, Add Password ടൂൾ ഉപയോഗിച്ച് ഒരു ഉടമയുടെ പാസ്‌വേഡ് സജ്ജീകരിക്കുക."
 
-[chat]
-resize = "ചാറ്റ് പാനൽ വലിപ്പമാറ്റുക"
-
 [chat.actions]
 copy = "സന്ദേശം പകർത്തുക"
+
+[chat.fab]
+close = "Close chat"
+open = "Open Stirling AI assistant"
 
 [chat.header]
 agentMenu = "Stirling ഏജന്റ് ഓപ്ഷനുകൾ"
 clearChat = "ചാറ്റ് മായ്ക്കുക"
-settings = "ഏജന്റ് ക്രമീകരണങ്ങൾ"
 
 [chat.input]
-attach = "ഫയലുകൾ അറ്റാച്ചുചെയ്യുക"
+disclaimer = "AI can make mistakes. Be sure to verify the output before sharing."
 placeholder = "താങ്കൾക്ക് എന്ത് ചെയ്യണമെന്നുണ്ട്?"
 send = "സന്ദേശം അയക്കുക"
 
@@ -2793,6 +2692,13 @@ executing_tool_single = "{{tool}} പ്രവർത്തിപ്പിക്�
 executing_tool_step = "{{tool}} പ്രവർത്തിപ്പിക്കുന്നു (പടി {{step}} / {{total}})..."
 extracting_content = "നിങ്ങളുടെ ഡോക്യുമെന്റുകളിൽ നിന്ന് ഉള്ളടക്കം എടുക്കുന്നു..."
 processing = "എടുത്ത ഉള്ളടക്കം പ്രോസസ്സ് ചെയ്യുന്നു..."
+ranForMinutes = "Ran for {{count}} minutes"
+ranForMinutes_one = "Ran for 1 minute"
+ranForMinutes_other = "Ran for {{count}} minutes"
+ranForMinutesSeconds = "Ran for {{minutes}} min, {{seconds}} sec"
+ranForSeconds = "Ran for {{count}} seconds"
+ranForSeconds_one = "Ran for 1 second"
+ranForSeconds_other = "Ran for {{count}} seconds"
 thinking = "ചിന്തിക്കുന്നു..."
 whole_doc_compression_round = "കുറിപ്പുകൾ ഏകീകരിക്കുന്നു..."
 whole_doc_read_done = "ഡോക്യുമെന്റ് വായിച്ചു കഴിഞ്ഞു..."
@@ -2805,15 +2711,11 @@ compressMany = "ഈ ഡോക്യുമെന്റുകൾ കമ്പ്�
 compressOne = "ഈ ഡോക്യുമെന്റ് കമ്പ്രസ് ചെയ്യുക"
 convertMany = "ഈ ഡോക്യുമെന്റുകൾ PDF ആക്കി മാറ്റുക"
 convertOne = "ഈ ഡോക്യുമെന്റ് PDF ആക്കി മാറ്റുക"
-fileSummary_one = "വർക്ക്ബെഞ്ചിൽ 1 ഫയൽ ({{types}})"
-fileSummary_other = "വർക്ക്ബെഞ്ചിൽ {{count}} ഫയലുകൾ ({{types}})"
 heading = "തുടങ്ങാം"
 mergeMany = "ഈ {{count}} ഡോക്യുമെന്റുകൾ 1 ആയി സംയോജിപ്പിക്കുക"
 moreFiles = "+{{count}} കൂടി"
 openFromComputer = "കമ്പ്യൂട്ടറിൽ നിന്ന് തുറക്കുക"
 removeFile = "{{name}} നീക്കുക"
-rotateMany = "ഈ ഡോക്യുമെന്റുകൾ തിരിക്കുക"
-rotateOne = "ഈ ഡോക്യുമെന്റ് തിരിക്കുക"
 splitOne = "ഈ ഡോക്യുമെന്റിനെ വിഭജിക്കുക"
 
 [chat.responses]
@@ -2824,11 +2726,10 @@ need_clarification = "ദയവായി അഭ്യർത്ഥന വ്യ�
 not_found = "ആവശ്യപ്പെട്ട വിവരങ്ങൾ കണ്ടെത്താനായില്ല."
 processing = "പ്രോസസ്സ് ചെയ്യുന്നു ({{outcome}})..."
 unsupported_capability = "പിന്തുണയില്ലാത്ത ശേഷി: {{capability}}"
+usage_limit_reached = "You've reached your usage limit. Check your plan options to keep going."
 
 [chat.toolsUsed]
 summary = "{{count}} ടൂളുകൾ പ്രവർത്തിപ്പിച്ചു"
-summary_one = "1 ടൂൾ പ്രവർത്തിപ്പിച്ചു"
-summary_other = "{{count}} ടൂളുകൾ പ്രവർത്തിപ്പിച്ചു"
 unknownTool = "അപരിചിത ടൂൾ"
 
 [cloudBadge]
@@ -2846,65 +2747,45 @@ back = "തിരികെ"
 cancel = "റദ്ദാക്കുക"
 close = "അടയ്ക്കുക"
 collapse = "ചുരുക്കുക"
-collapsed = "ചുരുക്കിയിരിക്കുന്നു"
 continue = "തുടരുക"
 copied = "പകർത്തി!"
 copy = "പകർത്തുക"
 done = "പൂർത്തിയായി"
 error = "പിശക്"
 expand = "വിപുലീകരിക്കുക"
-learnMore = "കൂടുതൽ അറിയുക"
-lines = "വരികൾ"
 loading = "ലോഡുചെയ്യുന്നു..."
 next = "അടുത്തത്"
 operation = "ഈ പ്രവർത്തനം"
 preview = "മുന്‍കാഴ്ച"
 previous = "മുൻപ്"
 refresh = "പുതുക്കുക"
-remaining = "ബാക്കി"
 retry = "വീണ്ടും ശ്രമിക്കുക"
 save = "സംരക്ഷിക്കുക"
 used = "ഉപയോഗിച്ചത്"
 
 [compare]
-addFilesHint = "ഫയൽസ് ഘട്ടത്തിൽ PDF-കൾ ചേർത്ത് തിരഞ്ഞെടുക്കൽ സജീവമാക്കുക."
 clearSelected = "തിരഞ്ഞെടുത്തത് ക്ലിയർ ചെയ്യുക"
 clearSlot = "ഫയൽ നീക്കം ചെയ്യുക"
 cta = "താരതമ്യം ചെയ്യുക"
-header = "PDF-കൾ താരതമ്യം ചെയ്യുക"
 loading = "താരതമ്യം നടത്തുന്നു..."
 newLine = "പുതിയ വരി"
-noFiles = "ഇനിയും PDF-കൾ ലഭ്യമല്ല"
 pages = "പേജുകൾ"
 tags = "വേർതിരിക്കുക,വ്യത്യാസം,മാറ്റങ്ങൾ,വിശകലനം"
 title = "താരതമ്യം ചെയ്യുക"
 
 [compare.actions]
 linkScroll = "സ്ക്രോൾ ബന്ധിപ്പിക്കുക"
-linkScrollPan = "സ്ക്രോൾ, പാൻ ബന്ധിപ്പിക്കുക"
 placeSideBySide = "ഒപ്പത്തിനൊപ്പം വെക്കുക"
 resetView = "കാഴ്ച പുനഃസജ്ജീകരിക്കുക"
 stackVertically = "നിറുകിൽ നിരത്തുക"
 unlinkScroll = "സ്ക്രോൾ വേർപെടുത്തുക"
-unlinkScrollPan = "സ്ക്രോൾ, പാൻ ബന്ധം വേർപെടുത്തുക"
 zoomIn = "വലുതാക്കുക"
 zoomOut = "ചെറുതാക്കുക"
-
-[compare.base]
-label = "ഓറിജിനൽ ഡോക്യുമെന്റ്"
-placeholder = "ഓറിജിനൽ PDF തിരഞ്ഞെടുക്കുക"
 
 [compare.clear]
 confirm = "ക്ലിയർ ചെയ്ത് മടങ്ങുക"
 confirmBody = "ഇത് നിലവിലെ താരതമ്യം അടച്ചു നിങ്ങളെ സജീവ ഫയലുകളിലേക്ക് തിരികെ കൊണ്ടുപോകും."
 confirmTitle = "തിരഞ്ഞെടുത്ത PDF-കൾ ക്ലിയർ ചെയ്യണോ?"
-
-[compare.comparison]
-label = "എഡിറ്റുചെയ്ത ഡോക്യുമെന്റ്"
-placeholder = "എഡിറ്റുചെയ്ത PDF തിരഞ്ഞെടുക്കുക"
-
-[compare.complex]
-message = "നൽകിയിട്ടുള്ള ഒന്നോ രണ്ടോ പ്രമാണങ്ങൾ വലിയ ഫയലുകളാണ്, താരതമ്യത്തിന്റെ കൃത്യത കുറഞ്ഞേക്കാം"
 
 [compare.dropdown]
 additions = "ചേർക്കലുകൾ ({{count}})"
@@ -2937,15 +2818,12 @@ message = "നൽകിയിട്ടുള്ള ഒന്നോ രണ്ട�
 body = "ഈ PDF-ുകളുടെ ആകെ പേജ് എണ്ണം 2,000-നെ കവിയുന്നു. പ്രോസസ്സിംഗിന് ചില മിനിറ്റുകൾ എടുക്കാം."
 title = "വലിയ താരതമ്യം പുരോഗമിക്കുന്നു"
 
-[compare.mode]
-pixel = "പിക്‌സൽ താരതമ്യം"
-text = "ടെക്സ്റ്റ് താരതമ്യം"
-
 [compare.no.text]
 message = "തിരഞ്ഞെടുത്ത ഒന്നോ രണ്ടോ PDF-കളിൽ ടെക്സ്റ്റ് ഉള്ളടക്കമില്ല. താരതമ്യത്തിനായി ടെക്സ്റ്റ് ഉള്ള PDF-കൾ തിരഞ്ഞെടുക്കുക."
 
 [compare.original]
 label = "ഓറിജിനൽ PDF"
+placeholder = "Select the original PDF"
 
 [compare.pixel]
 base = "അസൽ"
@@ -2979,18 +2857,10 @@ pagesRendered = "പേജുകൾ റെൻഡർ ചെയ്തു"
 rendering = "റെൻഡറിംഗ്"
 
 [compare.review]
-actionsHint = "താരതമ്യം അവലോകനം ചെയ്യുക, ഡോക്യുമെന്റ് റോളുകൾ മാറ്റുക, അല്ലെങ്കിൽ സംഗ്രഹം എക്സ്പോർട്ട് ചെയ്യുക."
-exportSummary = "സംഗ്രഹം എക്സ്പോർട്ട് ചെയ്യുക"
-switchOrder = "ക്രമം മാറ്റുക"
 title = "താരതമ്യ ഫലം"
 
 [compare.selection]
 originalEditedTitle = "ഓറിജിനൽ, എഡിറ്റുചെയ്ത PDF-കൾ തിരഞ്ഞെടുക്കുക"
-
-[compare.slowOperation]
-body = "ഈ താരതമ്യം സാധാരണയേക്കാൾ കൂടുതല്‍ സമയം എടുക്കുന്നു. തുടർക്കുകയോ റദ്ദാക്കുകയോ ചെയ്യാം."
-cancel = "താരതമ്യം റദ്ദാക്കുക"
-title = "ഇതുവരെ പ്രവർത്തിച്ചുകൊണ്ടിരിക്കുന്നു…"
 
 [compare.status]
 complete = "താരതമ്യം തയ്യാറായി"
@@ -3017,10 +2887,9 @@ unlinkedTitle = "സ്വതന്ത്ര സ്ക്രോൾ & പാൻ �
 message = "ഈ ഡോക്യുമെന്റുകൾ വളരെ വ്യത്യസ്തമാണ് എന്നാണ് തോന്നുന്നത്. സമയം സംരക്ഷിക്കാൻ താരതമ്യം നിർത്തി."
 
 [compress]
-credit = "ഈ സേവനം PDF കംപ്രസ്/ഒപ്റ്റിമൈസേഷനായി qpdf ഉപയോഗിക്കുന്നു."
 desc = "ഫയൽ വലിപ്പം കുറയ്ക്കാൻ PDFകൾ കംപ്രസ് ചെയ്യുക."
-header = "PDF കംപ്രസ് ചെയ്യുക"
 submit = "കംപ്രസ് ചെയ്യുക"
+tags = "shrink,reduce,optimize,compress,smaller,downsize,file size,reduce size,minimize,make smaller,decrease size,optimize size"
 title = "കംപ്രസ് ചെയ്യുക"
 
 [compress.compressionLevel]
@@ -3052,15 +2921,6 @@ filesize = "ഫയൽ വലിപ്പം"
 quality = "ഗുണനിലവാരം"
 title = "കംപ്രഷൻ രീതി"
 
-[compress.selectText]
-2 = "ഒപ്റ്റിമൈസേഷൻ നില:"
-4 = "ഓട്ടോ മോഡ് - PDF കൃത്യമായ വലുപ്പത്തിൽ ലഭിക്കുന്നതിന് ഗുണനിലവാരം സ്വയം ക്രമീകരിക്കുന്നു"
-5 = "പ്രതീക്ഷിക്കുന്ന PDF വലുപ്പം (ഉദാ. 25MB, 10.8MB, 25KB)"
-
-[compress.selectText.1]
-1 = "1-3 PDF കംപ്രഷൻ,</br> 4-6 ലൈറ്റ് ഇമേജ് കംപ്രഷൻ,</br> 7-9 തീവ്രമായ ഇമേജ് കംപ്രഷൻ ചിത്രത്തിന്റെ ഗുണനിലവാരം ഗണ്യമായി കുറയ്ക്കും"
-_value = "കംപ്രഷൻ ക്രമീകരണങ്ങൾ"
-
 [compress.settings]
 desiredSize = "ആവശ്യമായ ഫയൽ വലുപ്പം"
 desiredSizePlaceholder = "വലുപ്പം നൽകുക"
@@ -3091,6 +2951,7 @@ tags = "ചുരുക്കുക,ചെറുത്,വളരെ ചെറു
 
 [config]
 plan = "പ്ലാൻ"
+team = "Team"
 
 [config.account.overview]
 confirmDelete = "എന്റെ അക്കൗണ്ട് ഇല്ലാതാക്കുക"
@@ -3166,7 +3027,6 @@ publicKeyAriaLabel = "പബ്ലിക് API കീ"
 purchasedCredits = "വാങ്ങിയ ക്രെഡിറ്റുകൾ"
 refreshAriaLabel = "API കീ റിഫ്രെഷ് ചെയ്യുക"
 schemaLink = "API സ്കീമ റഫറൻസ്"
-totalCredits = "മൊത്തം ക്രെഡിറ്റുകൾ"
 usage = "എല്ലാ API അഭ്യർത്ഥനകളോടും X-API-KEY ഹെഡറിൽ ഈ കീ ഉൾപ്പെടുത്തുക."
 
 [config.apiKeys.alert]
@@ -3185,6 +3045,30 @@ impact = "ഇപ്പോൾ ഈ കീകൾ ഉപയോഗിക്കുന�
 title = "API കീകൾ റിഫ്രെഷ് ചെയ്യുക"
 warning = "⚠️ മുന്നറിയിപ്പ്: ഈ പ്രവർത്തനം പുതിയ API കീകൾ സൃഷ്ടിക്കുകയും നിങ്ങളുടെ പഴയ കീകൾ അസാധുവാക്കുകയും ചെയ്യും."
 
+[config.mcp]
+description = "Model Context Protocol (MCP) lets AI assistants like Claude use your Stirling PDF tools directly. Connect a client once and your assistant can convert, edit, secure and process documents on your behalf."
+guestInfo = "Guest users can't connect MCP clients. Create an account to use the MCP server and let your AI assistant run Stirling PDF tools on your behalf."
+navLabel = "MCP Server"
+tip = "Every action your assistant runs is performed as your account and counts toward your usage, just like using Stirling PDF directly."
+title = "MCP Server"
+viewApiKeys = "View API keys"
+
+[config.mcp.copy]
+configLabel = "Config"
+copied = "Copied"
+copy = "Copy"
+endpointLabel = "Endpoint URL"
+tooltip = "Copy {{label}}"
+tooltipCopied = "{{label}} copied"
+
+[config.mcp.endpoint]
+label = "Your MCP endpoint"
+
+[config.mcp.setup]
+addTo = "Add to"
+hint = "Pick your client, paste the snippet into the file shown, then restart it. You'll sign in with your Stirling account on first use - no keys to copy."
+title = "Connect your AI assistant"
+
 [config.overview]
 description = "നിലവിലെ ആപ്ലിക്കേഷൻ ക്രമീകരണങ്ങളും കോൺഫിഗറേഷൻ വിശദാംശങ്ങളും."
 error = "പിശക്"
@@ -3197,14 +3081,6 @@ basic = "ബേസിക് കോൺഫിഗറേഷൻ"
 integration = "ഇന്റഗ്രേഷൻ കോൺഫിഗറേഷൻ"
 security = "സുരക്ഷാ കോൺഫിഗറേഷൻ"
 system = "സിസ്റ്റം കോൺഫിഗറേഷൻ"
-
-[connectionMode.status]
-localOffline = "ഓഫ്ലൈൻ മോഡ് പ്രവർത്തിക്കുന്നു"
-localOnline = "ഓഫ്ലൈൻ മോഡ് പ്രവർത്തിക്കുന്നു"
-saas = "Stirling Cloud-നോട് കണക്റ്റായി"
-selfhostedChecking = "സ്വയം-ഹോസ്റ്റുചെയ്ത സെർവറിലേക്ക് കണക്റ്റുചെയ്തു (പരിശോധിക്കുന്നു...)"
-selfhostedOffline = "സ്വയം-ഹോസ്റ്റുചെയ്ത സെർവറെ എത്തിക്കാനായില്ല"
-selfhostedOnline = "സ്വയം-ഹോസ്റ്റുചെയ്ത സെർവറിലേക്ക് കണക്റ്റായി"
 
 [convert]
 autoRotate = "ഓട്ടോ റോട്ടേറ്റ്"
@@ -3224,64 +3100,39 @@ combineImages = "ഇമേജുകൾ സംയോജിപ്പിക്ക�
 combineImagesDescription = "എല്ലാ ചിത്രങ്ങളും ഒരു PDF ആക്കി സംയോജിപ്പിക്കുകയോ ഓരോ ചിത്രത്തിനുമൊരു പ്രത്യേക PDF സൃഷ്ടിക്കുകയോ ചെയ്യുക"
 combineSvgs = "Combine SVGs into single PDF"
 combineSvgsDescription = "Combine all SVG files into one PDF with multiple pages, or create separate PDFs for each SVG"
-conversionCompleted = "പരിവർത്തനം പൂർത്തിയായി"
 conversionResults = "പരിവർത്തന ഫലങ്ങൾ"
 convertFiles = "ഫയലുകൾ മാറ്റുക"
 convertFrom = "മാറ്റുന്ന ഉറവിടം"
 converting = "മാറ്റുന്നു..."
 convertTo = "മാറ്റുന്ന ലക്ഷ്യം"
-defaultFilename = "മാറ്റിയ_ഫയൽ"
 desc = "വ്യത്യസ്ത ഫോർമാറ്റുകൾക്കിടയിൽ ഫയലുകൾ മാറ്റുക"
-downloadConverted = "മാറ്റിയ ഫയൽ ഡൗൺലോഡ് ചെയ്യുക"
 downloadHtml = "PDFയ്ക്ക് പകരം HTML ഇടനില ഫയൽ ഡൗൺലോഡ് ചെയ്യുക"
 dpi = "DPI"
 ebookToPdf = "eBook → PDF"
 emailOptions = "ഇമെയിൽ ടു PDF ഓപ്ഷനുകൾ"
 emlToPdf = "Email → PDF"
 errorConversion = "ഫയൽ പരിവർത്തനം ചെയ്യുന്നതിനിടെ ഒരു പിശക് സംഭവിച്ചു."
-errorNoFiles = "മാറ്റാൻ കുറഞ്ഞത് ഒരു ഫയൽകൂടി തിരഞ്ഞെടുക്കുക."
-errorNoFormat = "ദയവായി ഉറവിടവും ലക്ഷ്യ ഫോർമാറ്റുകളും തിരഞ്ഞെടുക്കുക."
-errorNotSupported = "{{from}}-ൽ നിന്ന് {{to}}-യിലേക്കുള്ള പരിവർത്തനം പിന്തുണയ്ക്കുന്നില്ല."
-fileFormat = "ഫയൽ ഫോർമാറ്റ്"
-files = "ഫയലുകൾ"
 fileToPdf = "ഓഫീസ്/ഡോക്യുമെന്റ് → PDF"
 fillPage = "പേജ് നിറയ്ക്കുക"
 fitDocumentToPage = "ഡോക്യുമെന്റ് പേജിൽ ഒതുക്കുക"
 fitOption = "ഫിറ്റ് ഓപ്ഷൻ"
 grayscale = "ചാരനിറം"
-greyscale = "ചാരനിറം"
 imageOptions = "ഇമേജ് ഓപ്ഷനുകൾ"
-images = "ഇമേജുകൾ"
-imagesExt = "ഇമേജുകൾ (JPG, PNG, മുതലായവ)"
 includeAllRecipients = "ഹെഡറിൽ CC, BCC സ്വീകരിക്കുന്നവരെയും ഉൾപ്പെടുത്തുക"
 includeAttachments = "ഇമെയിൽ അറ്റാച്ച്മെന്റുകൾ ഉൾപ്പെടുത്തുക"
 maintainAspectRatio = "അസ്പെക്റ്റ് അനുപാതം നിലനിർത്തുക"
-markdown = "Markdown"
 maxAttachmentSize = "പരമാവധി അറ്റാച്ച്മെന്റ് വലുപ്പം (MB)"
 multiple = "പല"
-noFileSelected = "ഒരു ഫയലും തെരഞ്ഞെടുത്തിട്ടില്ല. ഫയൽ പാനൽ ഉപയോഗിച്ച് ഫയലുകൾ ചേർക്കുക."
-odpExt = "ഓപ്പൺഡോക്യുമെന്റ് പ്രസന്റേഷൻ (.odp)"
-odtExt = "ഓപ്പൺഡോക്യുമെന്റ് ടെക്സ്റ്റ് (.odt)"
-officeDocs = "ഓഫീസ് ഡോക്യുമെന്റുകൾ (Word, Excel, PowerPoint)"
 optimizeForEbook = "ഇബുക്ക് റീഡറുകൾക്കായി PDF ഓപ്റ്റിമൈസ് ചെയ്യുക (Ghostscript ഉപയോഗിക്കുന്നു)"
 output = "ഔട്ട്പുട്ട്"
 outputFormat = "ഔട്ട്പുട്ട് ഫോർമാറ്റ്"
-outputOptions = "ഔട്ട്പുട്ട് ഓപ്ഷനുകൾ"
 pdfaDigitalSignatureWarning = "ഈ PDF-ൽ ഡിജിറ്റൽ ഒപ്പ് ഉണ്ട്. ഇത് അടുത്ത ഘട്ടത്തിൽ നീക്കം ചെയ്യപ്പെടും."
-pdfaFormat = "PDF/A ഫോർമാറ്റ്"
 pdfaNote = "PDF/A-1b കൂടുതൽ അനുയോജ്യതയുള്ളത്, PDF/A-2b കൂടുതൽ ഫീച്ചറുകൾ പിന്തുണയ്ക്കുന്നു."
 pdfaOptions = "PDF/A ഓപ്ഷനുകൾ"
 pdfOptions = "PDF ഓപ്ഷനുകൾ"
 pdfToCbr = "PDF → CBR"
 pdfToCbz = "PDF → CBZ"
 pdfToEpub = "PDF → EPUB"
-pdfxDescription = "വിശ്വാസ്യതയുള്ള പ്രിന്റിംഗിനും ഗ്രാഫിക്സ് കൈമാറ്റത്തിനുമായി PDF/X ഒരു ISO സ്റ്റാൻഡേർഡ് PDF ഉപസമുച്ചയമാണ്."
-pdfxDigitalSignatureWarning = "PDF-യിൽ ഡിജിറ്റൽ ഒപ്പ് ഉണ്ട്. ഇത് അടുത്ത ഘട്ടത്തിൽ നീക്കം ചെയ്യും."
-pptExt = "പവർപോയിന്റ് (.pptx)"
-results = "ഫലങ്ങൾ"
-rtfExt = "റിച്ച് ടെക്സ്റ്റ് ഫോർമാറ്റ് (.rtf)"
-selectedFiles = "തിരഞ്ഞെടുത്ത ഫയലുകൾ"
-selectFilesPlaceholder = "തുടങ്ങാൻ പ്രധാന കാഴ്‌ചയിൽ ഫയലുകൾ തിരഞ്ഞെടുക്കുക"
 selectSourceFormatFirst = "ആദ്യം ഒരു ഉറവിട ഫോർമാറ്റ് തിരഞ്ഞെടുക്കുക"
 settings = "ക്രമീകരണങ്ങൾ"
 single = "ഒറ്റ"
@@ -3291,18 +3142,13 @@ strictModeDesc = "Error if conversion is not perfect (uses VeraPDF verification)
 svgPdfOptions = "SVG to PDF Options"
 svgToPdf = "SVG → PDF"
 svgVectorNote = "SVG files are rendered as vector graphics for crisp output at any resolution. Dimensions from the SVG determine the PDF page size."
+tags = "transform,change,convert,PDF to Word,PDF to Excel,PDF to image,Word to PDF,Excel to PDF,PowerPoint to PDF,HTML to PDF,export,import,file conversion,format change,save as"
 targetFormatPlaceholder = "ലക്ഷ്യ ഫോർമാറ്റ്"
-textRtf = "ടെക്സ്റ്റ്/RTF"
 title = "മാറ്റുക"
-txtExt = "പ്ലെയിൻ ടെക്സ്റ്റ് (.txt)"
 webOptions = "വെബ് ടു PDF ഓപ്ഷനുകൾ"
-wordDoc = "വേഡ് ഡോക്യുമെന്റ്"
-wordDocExt = "വേഡ് ഡോക്യുമെന്റ് (.docx)"
 zoomLevel = "സൂം ലെവൽ"
 
 [convert.ebookOptions]
-ebookOptions = "eBook-നെ PDF ആക്കാനുള്ള ഓപ്ഷനുകൾ"
-ebookOptionsDesc = "eBook-കളെ PDF ആക്കുന്നതിനുള്ള ഓപ്ഷനുകൾ"
 embedAllFonts = "എല്ലാ ഫോണ്ടുകളും ഉൾസേർക്കുക"
 embedAllFontsDesc = "eBook ലെയുള്ള എല്ലാ ഫോണ്ടുകളും സൃഷ്ടിക്കുന്ന PDF-ലേക്ക് ഉൾപ്പെടുത്തുക"
 includePageNumbers = "പേജ് നമ്പറുകൾ ഉൾപ്പെടുത്തുക"
@@ -3315,8 +3161,6 @@ optimizeForEbookPdfDesc = "eBook വായനയ്ക്ക് PDF ഒപ്റ
 [convert.epubOptions]
 detectChapters = "അധ്യായങ്ങൾ കണ്ടെത്തുക"
 detectChaptersDesc = "അധ്യായങ്ങളായി തോന്നുന്ന തലക്കെട്ടുകൾ കണ്ടെത്തി EPUB പേജ് ബ്രേക്കുകൾ ചേർക്കുക"
-epubOptions = "PDF-നെ eBook ആക്കാനുള്ള ഓപ്ഷനുകൾ"
-epubOptionsDesc = "PDF-നെ EPUB/AZW3 ആയി മാറ്റുന്നതിനുള്ള ഓപ്ഷനുകൾ"
 kindleEink = "Kindle e-Ink (ടെക്സ്റ്റ് ഒപ്റ്റിമൈസ്ഡ്)"
 outputFormat = "ഔട്ട്പുട്ട് ഫോർമാറ്റ്"
 outputFormatDesc = "eBook-ന്റെ ഔട്ട്പുട്ട് ഫോർമാറ്റ് തിരഞ്ഞെടുക്കുക"
@@ -3386,7 +3230,6 @@ creditsRemaining = "ബാക്കിയായത് {{total}}ൽ {{current}}"
 creditsThisMonth = "മാസിക ക്രെഡിറ്റുകൾ"
 current = "നിലവിലെ പ്ലാൻ"
 customPricing = "കസ്റ്റം"
-customSmartFolders = "കസ്റ്റം Smart Folders"
 dedicatedSupportSlas = "Dedicated support & SLAs"
 enterpriseSubscription = "Enterprise"
 everythingInCredits = "Credits ഉൾപ്പെടുന്നതെല്ലാം, കൂടാതെ:"
@@ -3429,14 +3272,8 @@ unlimitedApiAccess = "പരിധിയില്ലാത്ത API ആക്�
 unlimitedMonthlyCredits = "Site License"
 unlimitedSeats = "പരിധിയില്ലാത്ത സീറ്റുകൾ"
 
-[credits.modal.features]
-everythingInCredits = "Credits ഉൾപ്പെടുന്നതെല്ലാം, കൂടാതെ:"
-everythingInFree = "Freeയിൽ ഉള്ളതെല്ലാം, കൂടാതെ:"
-forRegularWork = "സാധാരണ PDF ജോലികൾക്കായി:"
-
 [crop]
 autoCrop = "ശൂന്യസ്ഥലം സ്വയം ക്രോപ്പ് ചെയ്യുക"
-header = "PDF ക്രോപ്പ് ചെയ്യുക"
 noFileSelected = "ക്രോപ്പ് ആരംഭിക്കാൻ ഒരു PDF ഫയൽ തിരഞ്ഞെടുക്കുക"
 reset = "പൂർണ്ണ PDF ലേക്ക് റീസെറ്റ് ചെയ്യുക"
 submit = "സമർപ്പിക്കുക"
@@ -3487,39 +3324,10 @@ title = "PDFകൾ എങ്ങനെ ക്രോപ്പ് ചെയ്യ�
 
 [database]
 backupCreated = "ഡാറ്റാബേസ് ബാക്കപ്പ് വിജയകരം"
-createBackupFile = "ബാക്കപ്പ് ഫയൽ സൃഷ്ടിക്കുക"
-creationDate = "സൃഷ്ടിച്ച തീയതി"
-deleteBackupFile = "ബാക്കപ്പ് ഫയൽ ഇല്ലാതാക്കുക"
-downloadBackupFile = "ബാക്കപ്പ് ഫയൽ ഡൗൺലോഡ് ചെയ്യുക"
-failedImportFile = "ഇറക്കുമതി ഫയൽ പരാജയപ്പെട്ടു"
 fileName = "ഫയലിന്റെ പേര്"
-fileNotFound = "ഫയൽ കണ്ടെത്തിയില്ല"
-fileNullOrEmpty = "ഫയൽ ശൂന്യമായിരിക്കരുത്"
-fileSize = "ഫയൽ വലുപ്പം"
-header = "ഡാറ്റാബേസ് ഇറക്കുമതി/കയറ്റുമതി"
-importBackupFile = "ബാക്കപ്പ് ഫയൽ ഇറക്കുമതി ചെയ്യുക"
-importIntoDatabaseSuccessed = "ഡാറ്റാബേസിലേക്കുള്ള ഇറക്കുമതി വിജയിച്ചു"
-info_1 = "ഡാറ്റ ഇറക്കുമതി ചെയ്യുമ്പോൾ, ശരിയായ ഘടന ഉറപ്പാക്കേണ്ടത് പ്രധാനമാണ്. നിങ്ങൾ എന്താണ് ചെയ്യുന്നതെന്ന് നിങ്ങൾക്ക് ഉറപ്പില്ലെങ്കിൽ, ഒരു പ്രൊഫഷണലിൽ നിന്ന് ഉപദേശവും പിന്തുണയും തേടുക. ഘടനയിലെ ഒരു പിശക് ആപ്ലിക്കേഷൻ തകരാറുകൾക്ക് കാരണമാകും, ആപ്ലിക്കേഷൻ പ്രവർത്തിപ്പിക്കാൻ കഴിയാത്ത അവസ്ഥ വരെ."
-info_2 = "അപ്‌ലോഡ് ചെയ്യുമ്പോൾ ഫയലിന്റെ പേര് പ്രശ്നമല്ല. സ്ഥിരമായ നാമകരണ കൺവെൻഷൻ ഉറപ്പാക്കുന്നതിന്, backup_user_yyyyMMddHHmm.sql എന്ന ഫോർമാറ്റ് പിന്തുടരാൻ ഇത് പിന്നീട് പുനർനാമകരണം ചെയ്യപ്പെടും."
-notSupported = "നിങ്ങളുടെ ഡാറ്റാബേസ് കണക്ഷനായി ഈ പ്രവർത്തനം ലഭ്യമല്ല."
-submit = "ബാക്കപ്പ് ഇറക്കുമതി ചെയ്യുക"
 title = "ഡാറ്റാബേസ് ഇറക്കുമതി/കയറ്റുമതി"
 
-[decrypt]
-cancelled = "PDF-നായുള്ള പ്രവർത്തനം റദ്ദാക്കി: {0}"
-invalidPassword = "ദയവായി ശരിയായ പാസ്‌വേഡ് ഉപയോഗിച്ച് വീണ്ടും ശ്രമിക്കുക."
-invalidPasswordHeader = "PDF-നായി തെറ്റായ പാസ്‌വേഡ് അല്ലെങ്കിൽ പിന്തുണയ്ക്കാത്ത എൻക്രിപ്ഷൻ: {0}"
-noPassword = "എൻക്രിപ്റ്റ് ചെയ്ത PDF-നായി പാസ്‌വേഡ് നൽകിയിട്ടില്ല: {0}"
-passwordPrompt = "ഈ ഫയൽ പാസ്‌വേഡ് ഉപയോഗിച്ച് സംരക്ഷിച്ചിരിക്കുന്നു. ദയവായി പാസ്‌വേഡ് നൽകുക:"
-serverError = "ഡീക്രിപ്റ്റ് ചെയ്യുമ്പോൾ സെർവർ പിശക്: {0}"
-success = "ഫയൽ വിജയകരമായി ഡീക്രിപ്റ്റ് ചെയ്തു."
-unexpectedError = "ഫയൽ പ്രോസസ്സ് ചെയ്യുന്നതിൽ ഒരു പിശക് സംഭവിച്ചു. ദയവായി വീണ്ടും ശ്രമിക്കുക."
-
 [defaultApp]
-description = "ഇത് പിന്നീട് നിങ്ങളുടെ സിസ്റ്റം സെറ്റിങ്ങുകളിൽ മാറ്റാം."
-dismiss = "നിരസിക്കുക"
-message = "Stirling PDF-നെ നിങ്ങളുടെ സ്വതേയുള്ള PDF എഡിറ്ററായി ക്രമീകരിക്കണോ?"
-notNow = "ഇപ്പോൾ വേണ്ട"
 setDefault = "ഡീഫോൾട്ടായി സജ്ജമാക്കുക"
 title = "സ്വതേയുള്ള PDF ആപ്പായി സജ്ജമാക്കുക"
 
@@ -3529,7 +3337,6 @@ title = "പിശക്"
 
 [defaultApp.prompt]
 message = "PDF ഫയലുകൾ തുറക്കാനുള്ള സ്വതേയുള്ള ആപ്പായി Stirling PDF-നെ നിർണ്ണയിക്കുക."
-title = "സ്വതേയുള്ള PDF എഡിറ്ററായി സജ്ജമാക്കുക"
 
 [defaultApp.settingsOpened]
 message = "ദയവായി നിങ്ങളുടെ സിസ്റ്റം സെറ്റിങ്ങുകളിൽ Stirling PDF തിരഞ്ഞെടുക്കുക"
@@ -3555,6 +3362,18 @@ docsLink = "ഇൻസ്റ്റാളേഷൻ ഡോക്യുമെന്�
 message = "ഈ മെഷീനിൽ Stirling-PDF നെ സ്വയം അപ്ഡേറ്റ് ചെയ്യാൻ അനുമതി ഇല്ല."
 title = "അഡ്മിനിസ്‌ട്രേറ്റർ അനുമതി ആവശ്യമാണ്"
 
+[devAirgapped]
+tags = "air-gapped,offline,isolated,no internet,disconnected,secure,network isolation,standalone"
+
+[devApi]
+tags = "API,development,documentation,developer,REST,integration,endpoints,programmatic,automation,scripting"
+
+[devFolderScanning]
+tags = "automation,folder,scanning,watch folder,hot folder,automatic processing,batch,monitor folder,auto process,folder monitoring"
+
+[devSsoGuide]
+tags = "SSO,single sign-on,authentication,SAML,OAuth,OIDC,login,enterprise,identity provider,IdP"
+
 [dropdownList]
 searchPlaceholder = "തിരയുക..."
 
@@ -3564,6 +3383,7 @@ editSecretValue = "സീക്രട്ട് മൂല്യം തിരു�
 
 [editTableOfContents]
 submit = "വിഷയസൂചിക പ്രയോഗിക്കുക"
+tags = "bookmarks,contents,edit,table of contents,TOC,outline,navigation,chapters,sections,add bookmarks,edit bookmarks,PDF outline"
 
 [editTableOfContents.actions]
 clipboardUnavailable = "ഈ ബ്രൗസറിൽ ക്ലിപ്പ്ബോർഡിലേക്കുള്ള ആക്സസ് ലഭ്യമല്ല."
@@ -3638,12 +3458,9 @@ title = "ബുക്ക്‌മാർക്കുകളും ഔട്ട്�
 
 [editTableOfContents.workbench]
 changeFile = "PDF മാറ്റുക"
-fileLabel = "മാറ്റങ്ങൾ നിലവിലെ തിരഞ്ഞെടുത്ത PDF-ലേക്ക് പ്രയോഗിക്കും."
 filePrompt = "തുടങ്ങാൻ നിങ്ങളുടെ ലൈബ്രറിയിൽ നിന്ന് ഒരു PDF തിരഞ്ഞെടുക്കുക അല്ലെങ്കിൽ പുതിയത് അപ്‌ലോഡ് ചെയ്യുക."
-noFile = "PDF തിരഞ്ഞെടുക്കപ്പെട്ടിട്ടില്ല"
 selectFile = "PDF തിരഞ്ഞെടുക്കുക"
 subtitle = "ബുക്ക്‌മാർക്കുകൾ ഇറക്കുമതി ചെയ്യുക, ഹിയറാർക്കികൾ നിർമ്മിക്കുക, കൂടിച്ചുരുങ്ങിയ സൈഡ് പാനലുകളില്ലാതെ ഔട്ട്‌ലൈൻ പ്രയോഗിക്കുക."
-tabTitle = "ഔട്ട്‌ലൈൻ വർക്ക്സ്പേസ്"
 
 [editTableOfContents.workbench.empty]
 description = "വർക്ക്സ്പേസ് ലോഡ് ചെയ്യാൻ Edit Table of Contents ടൂൾ തിരഞ്ഞെടുക്കുക."
@@ -3676,62 +3493,15 @@ label = "PDF പാസ്‌വേഡ്"
 placeholder = "PDF പാസ്‌വേഡ് നൽകുക"
 
 [endpointStatistics]
-all = "എല്ലാം"
-dataTypeAll = "എല്ലാം"
-dataTypeApi = "API"
-dataTypeLabel = "ഡാറ്റ തരം:"
-dataTypeUi = "UI"
-endpoint = "എൻഡ്‌പോയിന്റ്"
-failedToLoad = "എൻഡ്‌പോയിന്റ് ഡാറ്റ ലോഡ് ചെയ്യുന്നതിൽ പരാജയപ്പെട്ടു. ദയവായി പുതുക്കാൻ ശ്രമിക്കുക."
-header = "എൻഡ്‌പോയിന്റ് സ്ഥിതിവിവരക്കണക്കുകൾ"
-home = "ഹോം"
-loading = "ലോഡ് ചെയ്യുന്നു..."
-login = "ലോഗിൻ"
-numberOfVisits = "സന്ദർശനങ്ങളുടെ എണ്ണം"
-percentage = "ശതമാനം"
-refresh = "പുതുക്കുക"
-retry = "വീണ്ടും ശ്രമിക്കുക"
-selectedVisits = "തിരഞ്ഞെടുത്ത സന്ദർശനങ്ങൾ"
-showing = "കാണിക്കുന്നു"
 title = "എൻഡ്‌പോയിന്റ് സ്ഥിതിവിവരക്കണക്കുകൾ"
-top = "മികച്ച"
-top10 = "മികച്ച 10"
-top20 = "മികച്ച 20"
-totalEndpoints = "ആകെ എൻഡ്‌പോയിന്റുകൾ"
-totalVisits = "ആകെ സന്ദർശനങ്ങൾ"
-visits = "സന്ദർശനങ്ങൾ"
-visitsTooltip = "സന്ദർശനങ്ങൾ: {0} (ആകെയുള്ളതിന്റെ {1}%)"
-
-[enterpriseEdition]
-button = "പ്രോയിലേക്ക് അപ്‌ഗ്രേഡ് ചെയ്യുക"
-ssoAdvert = "കൂടുതൽ ഉപയോക്തൃ മാനേജുമെന്റ് സവിശേഷതകൾക്കായി തിരയുകയാണോ? സ്റ്റെർലിംഗ് PDF പ്രോ പരിശോധിക്കുക"
-warning = "ഈ ഫീച്ചർ പ്രോ ഉപയോക്താക്കൾക്ക് മാത്രമേ ലഭ്യമാകൂ."
-yamlAdvert = "സ്റ്റെർലിംഗ് PDF പ്രോ YAML കോൺഫിഗറേഷൻ ഫയലുകളെയും മറ്റ് SSO സവിശേഷതകളെയും പിന്തുണയ്ക്കുന്നു."
 
 [error]
 _value = "പിശക്"
-contactTip = "നിങ്ങൾക്ക് ഇപ്പോഴും പ്രശ്‌നമുണ്ടെങ്കിൽ, സഹായത്തിനായി ഞങ്ങളെ ബന്ധപ്പെടാൻ മടിക്കരുത്. ഞങ്ങളുടെ GitHub പേജിൽ നിങ്ങൾക്ക് ഒരു ടിക്കറ്റ് സമർപ്പിക്കാം അല്ലെങ്കിൽ Discord വഴി ഞങ്ങളെ ബന്ധപ്പെടാം:"
-copyStack = "സ്റ്റാക്ക് ട്രേസ് പകർത്തുക"
-discordSubmit = "Discord - പിന്തുണാ പോസ്റ്റ് സമർപ്പിക്കുക"
 dismissAllErrors = "എല്ലാ പിശകുകളും ഒഴിവാക്കുക"
-encryptedPdfMustRemovePassword = "ഈ PDF എൻക്രിപ്റ്റ് ചെയ്യപ്പെട്ടതോ പാസ്‌വേഡ് സംരക്ഷിതമോ ആണ്. PDF/Aയിലേക്കു മാറ്റുന്നതിന് മുമ്പ് ദയവായി അൺലോക്ക് ചെയ്യുക."
 generic = "ഒരു പിശക് സംഭവിച്ചു"
-github = "GitHub-ൽ ഒരു ടിക്കറ്റ് സമർപ്പിക്കുക"
-githubSubmit = "GitHub - ഒരു ടിക്കറ്റ് സമർപ്പിക്കുക"
-incorrectPasswordProvided = "PDF പാസ്‌വേഡ് തെറ്റാണ് അല്ലെങ്കിൽ നൽകിയിട്ടില്ല."
-needHelp = "സഹായം വേണോ / ഒരു പ്രശ്നം കണ്ടെത്തിയോ?"
-pdfPassword = "PDF ഡോക്യുമെന്റ് പാസ്‌വേഡ് ഉപയോഗിച്ച് സംരക്ഷിച്ചിരിക്കുന്നു, പാസ്‌വേഡ് നൽകിയിട്ടില്ല അല്ലെങ്കിൽ തെറ്റായിരുന്നു"
-showStack = "സ്റ്റാക്ക് ട്രേസ് കാണിക്കുക"
-sorry = "പ്രശ്നത്തിന് ക്ഷമിക്കുക!"
-
-[error.404]
-1 = "നിങ്ങൾ തിരയുന്ന പേജ് ഞങ്ങൾക്ക് കണ്ടെത്താൻ കഴിയുന്നില്ല."
-2 = "എന്തോ കുഴപ്പം സംഭവിച്ചു"
-head = "404 - പേജ് കണ്ടെത്തിയില്ല | അയ്യോ, ഞങ്ങൾ കോഡിൽ തട്ടി വീണു!"
 
 [extractImages]
 allowDuplicates = "തനിപ്പകർപ്പ് ചിത്രങ്ങൾ സംരക്ഷിക്കുക"
-header = "ചിത്രങ്ങൾ വേർതിരിച്ചെടുക്കുക"
 selectText = "വേർതിരിച്ചെടുത്ത ചിത്രങ്ങൾ പരിവർത്തനം ചെയ്യേണ്ട ഇമേജ് ഫോർമാറ്റ് തിരഞ്ഞെടുക്കുക"
 submit = "വേർതിരിച്ചെടുക്കുക"
 tags = "ചിത്രം,ഫോട്ടോ,സംരക്ഷിക്കുക,ആർക്കൈവ്,സിപ്പ്,പിടിച്ചെടുക്കുക,നേടുക"
@@ -3748,6 +3518,7 @@ tags = "വേർതിരിച്ചെടുക്കുക"
 
 [extractPages]
 submit = "പേജുകൾ എടുക്കുക"
+tags = "pull,select,copy,extract,extract pages,get pages,pull out,save pages,export pages,copy pages,select pages,specific pages"
 title = "പേജുകൾ എടുക്കുക"
 
 [extractPages.error]
@@ -3770,23 +3541,11 @@ description = "തിരഞ്ഞെടുത്ത പേജുകൾ ക്ര
 openInFileEditor = "ഫയൽ എഡിറ്ററിൽ തുറക്കുക"
 viewInViewer = "വ്യൂവറിൽ കാണുക"
 
-[fileChooser]
-click = "ക്ലിക്ക് ചെയ്യുക"
-dragAndDrop = "വലിച്ചിടുക"
-dragAndDropImage = "ചിത്ര ഫയൽ വലിച്ചിടുക"
-dragAndDropPDF = "PDF ഫയൽ വലിച്ചിടുക"
-extractPDF = "വേർതിരിച്ചെടുക്കുന്നു..."
-hoveredDragAndDrop = "ഫയൽ(കൾ) ഇവിടെ വലിച്ചിടുക"
-or = "അല്ലെങ്കിൽ"
-
 [fileDropdownMenu]
 closeFile = "ഫയൽ അടയ്ക്കുക"
 
 [fileEditor]
 addFiles = "ഫയലുകൾ ചേർക്കുക"
-pageCount = "{{count}} പേജുകൾ"
-pageCount_one = "{{count}} പേജ്"
-pageCount_other = "{{count}} പേജുകൾ"
 
 [fileManager]
 active = "സജീവം"
@@ -3794,7 +3553,6 @@ addToUpload = "അപ്‌ലോഡിലേക്ക് ചേർക്കു�
 changesNotUploaded = "മാറ്റങ്ങൾ അപ്‌ലോഡ് ചെയ്തിട്ടില്ല"
 clearAll = "എല്ലാം മായ്ക്കുക"
 clearSelection = "തിരഞ്ഞെടുപ്പ് മായ്ക്കുക"
-clickToUpload = "ഫയലുകൾ അപ്‌ലോഡ് ചെയ്യാൻ ക്ലിക്ക് ചെയ്യുക"
 closeAllFiles = "എല്ലാ ഫയലുകളും അടയ്ക്കുക"
 closeFile = "ഫയൽ അടയ്ക്കുക"
 cloudFile = "ക്ലൗഡ് ഫയൽ"
@@ -3807,10 +3565,7 @@ deselectAll = "എല്ലാം ഒഴിവാക്കുക"
 details = "ഫയൽ വിശദാംശങ്ങൾ"
 download = "ഡൗൺലോഡ്"
 downloadSelected = "തിരഞ്ഞെടുത്തത് ഡൗൺലോഡ് ചെയ്യുക"
-dragDrop = "ഫയലുകൾ ഇവിടെ വലിച്ചിട്ട് ഇടുക"
 dropFilesHere = "ഫയലുകൾ ഇവിടെ ഇടുക"
-failedToLoad = "ഫയൽ ആക്ടീവ് സെറ്റിലേക്ക് ലോഡുചെയ്യാൻ പരാജയപ്പെട്ടു."
-failedToOpen = "ഫയൽ തുറക്കാൻ പരാജയപ്പെട്ടു. സ്റ്റോറേജിൽ നിന്ന് അത് നീക്കം ചെയ്തിരിക്കാം."
 fileFormat = "ഫോർമാറ്റ്"
 fileHistory = "ഫയൽ ചരിത്രം"
 fileName = "പേര്"
@@ -3832,8 +3587,6 @@ leaveShare = "എന്റെ ലിസ്റ്റിൽ നിന്ന് ന
 leaveShareFailed = "പങ്കിട്ട ഫയൽ നീക്കാൻ കഴിഞ്ഞില്ല."
 leaveShareSuccess = "നിങ്ങളുടെ ഷെയർ ചെയ്ത ലിസ്റ്റിൽ നിന്ന് നീക്കി."
 loadingFiles = "ഫയലുകൾ ലോഡുചെയ്യുന്നു..."
-loadingHistory = "ചരിത്രം ലോഡുചെയ്യുന്നു..."
-localFiles = "ലോക്കൽ ഫയലുകൾ"
 localOnly = "പ്രാദേശികം മാത്രം"
 makeCopy = "ഒരു പകർപ്പ് സൃഷ്ടിക്കുക"
 mobileShort = "മൊബൈൽ"
@@ -3841,7 +3594,6 @@ mobileUpload = "മൊബൈൽ അപ്‌ലോഡ്"
 mobileUploadNotAvailable = "മൊബൈൽ അപ്‌ലോഡ് പ്രവർത്തനക്ഷമമാക്കിയിട്ടില്ല"
 myFiles = "എന്റെ ഫയലുകൾ"
 noFiles = "ഫയലുകളൊന്നും ലഭ്യമല്ല"
-noFileSelected = "ഫയലുകളൊന്നും തിരഞ്ഞെടുത്തിട്ടില്ല"
 noFilesFound = "നിങ്ങളുടെ തിരച്ചിലിനൊത്ത ഫയലുകൾ കണ്ടെത്താനായില്ല"
 noRecentFiles = "സമീപകാല ഫയലുകൾ ഒന്നും കണ്ടെത്തിയില്ല"
 openFile = "ഫയൽ തുറക്കുക"
@@ -3851,7 +3603,6 @@ openInPageEditor = "പേജ് എഡിറ്ററിൽ തുറക്ക�
 owner = "ഉടമ"
 ownerUnknown = "അജ്ഞാതം"
 recent = "സമീപകാലം"
-reloadFiles = "ഫയലുകൾ വീണ്ടും ലോഡുചെയ്യുക"
 removeBoth = "രണ്ടിടത്തുനിന്നും നീക്കം ചെയ്യുക"
 removeFilePrompt = "ഈ ഫയൽ ഈ ഉപകരണത്തിലും നിങ്ങളുടെ സെർവറിലും സേവ് ചെയ്തിരിക്കുന്നു. ഏത് ഇടത്ത് നിന്ന് നീക്കണം?"
 removeFileTitle = "ഫയൽ നീക്കുക"
@@ -3868,7 +3619,6 @@ saveSelected = "തിരഞ്ഞെടുത്തത് സേവ് ചെ�
 searchFiles = "ഫയലുകൾ തിരയുക..."
 selectAll = "എല്ലാം തിരഞ്ഞെടുക്കുക"
 selectedCount = "{{count}} തിരഞ്ഞെടുക്കപ്പെട്ടു"
-selectedFiles = "തിരഞ്ഞെടുത്ത ഫയലുകൾ"
 share = "പങ്കിടുക"
 shared = "പങ്കിട്ടത്"
 sharedByYou = "നിങ്ങൾ പങ്കിട്ടത്"
@@ -3884,20 +3634,13 @@ sortByDate = "തീയതി അനുസരിച്ച് ക്രമീക�
 sortByName = "പേര് അനുസരിച്ച് ക്രമീകരിക്കുക"
 sortBySize = "വലുപ്പം അനുസരിച്ച് ക്രമീകരിക്കുക"
 storage = "സ്റ്റോറേജ്"
-storageCleared = "ബ്രൗസർ സ്റ്റോറേജ് മായ്ച്ചു. ഫയലുകൾ നീക്കം ചെയ്‌തിരിക്കുന്നു. ദയവായി വീണ്ടും അപ്‌ലോഡ് ചെയ്യുക."
-storageError = "സ്റ്റോറേജ് പിശക് സംഭവിച്ചു"
-storageLow = "സ്റ്റോറേജ് കുറവാണ്. പഴയ ഫയലുകൾ നീക്കം ചെയ്യാൻ പരിഗണിക്കുക."
 storageState = "സംഭരണം"
-subtitle = "ടൂളുകൾ മുഴുവൻ എളുപ്പത്തിൽ ആക്സസ് ചെയ്യാൻ നിങ്ങളുടെ സ്റ്റോറേജിലേക്ക് ഫയലുകൾ ചേർക്കുക"
-supportMessage = "അപരിമിത ശേഷിക്കായി ബ്രൗസർ ഡാറ്റാബേസ് സ്റ്റോറേജ് ഉപയോഗിക്കുന്നു"
 synced = "സിങ്ക് ചെയ്തു"
 title = "PDF ഫയലുകൾ അപ്‌ലോഡ് ചെയ്യുക"
 toolChain = "പ്രയോഗിച്ച ടൂളുകൾ"
-totalSelected = "ആകെ തിരഞ്ഞെടുത്തത്"
 unsupported = "പിന്തുണയില്ല"
 unzip = "അൺസിപ്പ്"
 updateOnServer = "സെർവറിൽ അപ്‌ഡേറ്റ് ചെയ്യുക"
-uploadError = "ചില ഫയലുകൾ അപ്‌ലോഡ് ചെയ്യാൻ പരാജയപ്പെട്ടു."
 uploadSelected = "തിരഞ്ഞെടുത്തത് അപ്‌ലോഡ് ചെയ്യുക"
 uploadToServer = "സെർവറിലേക്ക് അപ്‌ലോഡ് ചെയ്യുക"
 
@@ -3969,7 +3712,6 @@ cycleBlocked = "ഒരു ഫോൾഡറിനെ അതിന്റെ സ്�
 delete = "ഇല്ലാതാക്കുക"
 deleteFolder = "ഫോൾഡർ ഇല്ലാതാക്കുക"
 deleteFolderBody = "ഫോൾഡർ \"{{name}}\" ഇല്ലാതാക്കണോ?"
-deleteFolderConfirm = "ഫോൾഡർ \"{{name}}\" ഇല്ലാതാക്കണോ? അകത്തുള്ള ഫയലുകൾ All files ലേക്ക് മാറ്റും. {{count}} ഫയൽ(കൾ) ബാധിക്കും."
 deleteFolderContents = "ഫോൾഡറിനുള്ളിലെ {{count}} ഫയൽ(കൾ)യും ഇല്ലാതാക്കുക"
 deleteFolderContentsWarning = "ഫയലുകൾ സ്ഥിരമായി നീക്കം ചെയ്യും; വീണ്ടെടുക്കാൻ കഴിയില്ല."
 deleteFolderError = "ഫോൾഡർ ഇല്ലാതാക്കാൻ കഴിഞ്ഞില്ല. വീണ്ടും ശ്രമിക്കുക."
@@ -3994,18 +3736,14 @@ inWorkspace = "തുറന്നിരിക്കുന്നു"
 inWorkspaceAria = "ഇതിനകം വർക്ക്‌സ്‌പേസിലുണ്ട്"
 loading = "ലോഡിംഗ്…"
 localFoldersUnavailable = "ഫോൾഡറുകൾ ക്ലൗഡിൽ മാത്രം - ക്രമീകരിക്കാൻ ഒരു ഫയൽ ക്ലൗഡിലേക്ക് സംരക്ഷിക്കുക."
-moreActions = "കൂടുതൽ ഫോൾഡർ പ്രവർത്തനങ്ങൾ"
-moveLocalToCloudBlocked = "Local-ൽ മാത്രം ഉള്ള ഫയലുകൾ ക്ലൗഡ് ഫോൾഡറുകളിലേക്ക് മാറ്റാൻ കഴിയില്ല. ആദ്യം അവ ക്ലൗഡിലേക്ക് സംരക്ഷിക്കുക."
 moveSkippedRemote = "{{count}} ഫയൽ(കൾ) സെർവറിൽ മാറ്റാൻ കഴിഞ്ഞില്ല (അനുമതി ഇല്ലെങ്കിൽ അല്ലെങ്കിൽ ഇതിനകം ഇല്ലാതാക്കിയതായിരിക്കാം)."
 moveTo = "ഇതിലേക്ക് മാറ്റുക…"
 myFiles = "എന്റെ ഫയലുകൾ"
 newFolder = "പുതിയ ഫോൾഡർ"
 newFolderStorageDisabled = "സെർവർ ഫോൾഡർ സ്റ്റോറേജ് പ്രവർത്തനക്ഷമമാക്കിയിട്ടില്ല. അഡ്മിനെ അത് ഓൺ ചെയ്യാൻ പറയുക."
 newFolderTabUnavailable = "ഫോൾഡർ സൃഷ്ടിക്കാൻ All അല്ലെങ്കിൽ Cloud ടാബിലേക്ക് മാറുക."
-newRootFolder = "റൂട്ടിൽ പുതിയ ഫോൾഡർ"
 offlineNoFolderEdits = "സെർവർ ഫോൾഡർ സിങ്ക് ലഭ്യമല്ല - ഫോൾഡർ മാറ്റങ്ങൾ പ്രവർത്തനരഹിതമാണ്. സൈൻ-ഇനും സ്റ്റോറേജ് കോൺഫിഗറേഷനും പരിശോധിക്കുക."
 open = "തുറക്കുക"
-openInWorkbench = "വർക്ക്ബെഞ്ചിൽ തുറക്കുക"
 openVersionInWorkspace = "വർക്ക്‌സ്‌പേസിൽ തുറക്കുക"
 originFilter = "ഉറവിടം പ്രകാരം ഫിൽറ്റർ"
 quickView = "ക്വിക്ക് വ്യൂ"
@@ -4028,9 +3766,8 @@ selectFile = "ഫയൽ {{name}} തിരഞ്ഞെടുക്കുക"
 shareDisabledHint = "ഈ സെർവറിൽ ഫയൽ പങ്കിടൽ പ്രവർത്തനക്ഷമമാക്കിയിട്ടില്ല. അത് പ്രവർത്തനക്ഷമമാക്കാൻ അഡ്മിനെ ബന്ധപ്പെടുക."
 shareManage = "ഷെയറിംഗ് നിയന്ത്രിക്കുക"
 showDetails = "വിശദാംശങ്ങൾ കാണിക്കുക"
+signInRequired = "Sign in to use cloud storage."
 summary = "{{count}} ഇനങ്ങൾ"
-syncFailed = "ഫോൾഡർ സിങ്ക് പരാജയപ്പെട്ടു: {{message}}"
-syncPartial = "ഫോൾഡർ സിങ്ക് ഭാഗികം: {{total}} ഫോൾഡറുകളിൽ {{failed}} എണ്ണം ലയിപ്പിക്കാൻ സാധിച്ചില്ല."
 tree = "ഫോൾഡറുകൾ"
 upload = "അപ്‌ലോഡ്"
 uploadedToLocal = "അപ്‌ലോഡ് ചെയ്ത ഫയലുകൾ Local-ൽ ആരംഭിക്കുന്നു. ഫോൾഡറിലാക്കാൻ 'Save to cloud' ഉപയോഗിക്കുക."
@@ -4161,17 +3898,13 @@ sharedByMe = "ഞാൻ പങ്കിട്ടത്"
 [filesPage.tabs]
 all = "എല്ലാം"
 ariaLabel = "ഫയൽ കാഴ്‌ചകൾ"
-cloud = "ക്ലൗഡ്"
-local = "ലോകൽ"
 recent = "സമീപകാല"
 shared = "എന്നോടൊപ്പം പങ്കിട്ടത്"
 sharedByMe = "ഞാൻ പങ്കിട്ടത്"
 
 [filesPage.treeMenu]
 actions = "{{name}} നുള്ള ഫോൾഡർ പ്രവർത്തനങ്ങൾ"
-collapse = "ഫോൾഡർ ചുരുക്കുക"
 delete = "ഫോൾഡർ ഇല്ലാതാക്കുക"
-expand = "ഫോൾഡർ വിപുലീകരിക്കുക"
 newSubfolder = "പുതിയ ഉപഫോൾഡർ"
 rename = "പേര് മാറ്റുക"
 
@@ -4185,39 +3918,20 @@ label = "കാഴ്‌ച രീതി"
 list = "ലിസ്റ്റ് വ്യൂ"
 
 [fileToPDF]
-credit = "ഈ സേവനം ഫയൽ പരിവർത്തനത്തിനായി LibreOffice, Unoconv എന്നിവ ഉപയോഗിക്കുന്നു."
-header = "ഏത് ഫയലും PDF-ലേക്ക് മാറ്റുക"
-submit = "PDF-ലേക്ക് മാറ്റുക"
-supportedFileTypes = "പിന്തുണയ്ക്കുന്ന ഫയൽ തരങ്ങളിൽ താഴെ പറയുന്നവ ഉൾപ്പെടുത്തണം, എന്നിരുന്നാലും പിന്തുണയ്ക്കുന്ന ഫോർമാറ്റുകളുടെ പൂർണ്ണമായ അപ്‌ഡേറ്റ് ചെയ്ത ലിസ്റ്റിനായി, ദയവായി LibreOffice ഡോക്യുമെന്റേഷൻ പരിശോധിക്കുക"
-supportedFileTypesInfo = "പിന്തുണയ്ക്കുന്ന ഫയൽ തരങ്ങൾ"
 tags = "രൂപാന്തരം,ഫോർമാറ്റ്,പ്രമാണം,ചിത്രം,സ്ലൈഡ്,ടെക്സ്റ്റ്,പരിവർത്തനം,ഓഫീസ്,ഡോക്സ്,വേഡ്,എക്സൽ,പവർപോയിന്റ്"
 title = "ഫയൽ PDF-ലേക്ക്"
 
 [fileUpload]
-addFiles = "ഫയലുകൾ ചേർക്കുക"
-backToTools = "ടൂൾസിലേക്ക് മടങ്ങുക"
-chooseFromStorage = "സ്റ്റോറേജിൽ നിന്ന് ഒരു ഫയൽ തിരഞ്ഞെടുക്കുകയോ ഒരു പുതിയ PDF അപ്‌ലോഡ് ചെയ്യുകയോ ചെയ്യുക"
-chooseFromStorageMultiple = "സ്റ്റോറേജിൽ നിന്ന് ഫയലുകൾ തിരഞ്ഞെടുക്കുകയോ പുതിയ PDFകൾ അപ്‌ലോഡ് ചെയ്യുകയോ ചെയ്യുക"
-dragFilesInOrClick = "ഫയലുകൾ വലിച്ചിടുകയോ ബ്രൗസ് ചെയ്യാൻ \"Add Files\" ക്ലിക്ക് ചെയ്യുകയോ ചെയ്യുക"
-dropFileHere = "ഫയൽ ഇവിടെ ഇടുക അല്ലെങ്കിൽ അപ്‌ലോഡ് ചെയ്യാൻ ക്ലിക്ക് ചെയ്യുക"
 dropFilesHere = "ഫയലുകൾ ഇവിടെ ഇടുകയോ അപ്‌ലോഡ് ബട്ടൺ ക്ലിക്ക് ചെയ്യുകയോ ചെയ്യുക"
 dropFilesHereOpen = "ഫയലുകൾ ഇവിടെ ഡ്രോപ്പ് ചെയ്യുക അല്ലെങ്കിൽ Open ബട്ടൺ ക്ലിക്ക് ചെയ്യുക"
 filesAvailable = "ഫയലുകൾ ലഭ്യമാണ്"
 loadFromStorage = "സ്റ്റോറേജിൽ നിന്ന് ലോഡുചെയ്യുക"
-loading = "ലോഡിങ്..."
 noFilesInStorage = "സ്റ്റോറേജിൽ ഫയലുകളൊന്നുമില്ല. ആദ്യം ചില ഫയലുകൾ അപ്‌ലോഡ് ചെയ്യുക."
 noFilesInStorageOpen = "സ്റ്റോറേജിൽ ഫയലുകളില്ല. ആദ്യം ചില ഫയലുകൾ Open ചെയ്യൂ."
 open = "തുറക്കുക"
 openFile = "ഫയൽ തുറക്കുക"
 openFiles = "ഫയലുകൾ തുറക്കുക"
-or = "അഥവാ"
-pdfFilesOnly = "PDF ഫയലുകൾ മാത്രം"
-selectFile = "ഒരു ഫയൽ തിരഞ്ഞെടുക്കുക"
-selectFiles = "ഫയലുകൾ തിരഞ്ഞെടുക്കുക"
 selectFromStorage = "സ്റ്റോറേജിൽ നിന്ന് തിരഞ്ഞെടുക്കുക"
-selectPdfToEdit = "തിരുത്താൻ ഒരു PDF തിരഞ്ഞെടുക്കുക"
-selectPdfToView = "കാണാൻ ഒരു PDF തിരഞ്ഞെടുക്കുക"
-supportedFileTypes = "പിന്തുണയ്ക്കുന്ന ഫയൽ തരങ്ങൾ"
 upload = "അപ്‌ലോഡ്"
 uploadFile = "ഫയൽ അപ്‌ലോഡ് ചെയ്യുക"
 uploadFiles = "ഫയലുകൾ അപ്‌ലോഡ് ചെയ്യുക"
@@ -4243,22 +3957,15 @@ welcomeMessage = "സുരക്ഷാ കാരണങ്ങളാൽ, നി�
 welcomeTitle = "സ്വാഗതം!"
 
 [flatten]
-filenamePrefix = "ഫ്ലാറ്റൻ_ചെയ്തത്"
-flattenOnlyForms = "ഫോമുകൾ മാത്രം പരത്തുക"
-header = "PDF-കൾ പരത്തുക"
 submit = "പരത്തുക"
+tags = "simplify,remove,interactive,flatten,flatten form,remove form fields,make static,finalize form,lock form,disable editing,convert to image,non-editable"
 title = "പരത്തുക"
 
 [flatten.error]
 failed = "PDF ഫ്ലാറ്റൻ ചെയ്യുന്നതിനിടെ ഒരു പിശക് സംഭവിച്ചു."
 
-[flatten.files]
-placeholder = "ആരംഭിക്കാൻ പ്രധാന കാഴ്ചയിൽ ഒരു PDF ഫയൽ തിരഞ്ഞെടുക്കുക"
-
 [flatten.options]
-note = "ഫ്ലാറ്റൻ ചെയ്യുന്നത് PDF-ിൽ നിന്ന് ഇന്ററാക്ടീവ് ഘടകങ്ങൾ നീക്കം ചെയ്ത് അവ എഡിറ്റുചെയ്യാനാവാത്തതാക്കും."
 stepTitle = "ഫ്ലാറ്റൻ ഓപ്ഷനുകൾ"
-title = "ഫ്ലാറ്റൻ ഓപ്ഷനുകൾ"
 
 [flatten.options.flattenOnlyForms]
 desc = "ഫോം ഫീൽഡുകൾ മാത്രം ഫ്ലാറ്റൻ ചെയ്ത്, മറ്റു ഇന്ററാക്ടീവ് ഘടകങ്ങൾ അവികൃതമായി വിടുക"
@@ -4271,9 +3978,6 @@ placeholder = "ഉദാ. 150"
 
 [flatten.results]
 title = "ഫ്ലാറ്റൻ ഫലങ്ങൾ"
-
-[flatten.steps]
-settings = "ക്രമീകരണങ്ങൾ"
 
 [flatten.tooltip.description]
 bullet1 = "ടെക്സ്റ്റ് ബോക്സുകൾ സാധാരണ ടെക്സ്റ്റാകുന്നു (എഡിറ്റുചെയ്യാനാവില്ല)"
@@ -4310,7 +4014,6 @@ close = "സൈഡ്ബാർ അടയ്ക്കുക"
 [getPdfInfo]
 downloadJson = "JSON ഡൗൺലോഡ് ചെയ്യുക"
 downloads = "ഡൗൺലോഡുകൾ"
-header = "PDF-നെക്കുറിച്ചുള്ള വിവരങ്ങൾ നേടുക"
 indexTitle = "സൂചിക"
 noneDetected = "ഒന്നും കണ്ടെത്തിയില്ല"
 noResults = "ഒരു റിപ്പോർട്ട് സൃഷ്ടിക്കാൻ ഉപകരണം പ്രവർത്തിപ്പിക്കുക."
@@ -4321,12 +4024,8 @@ tags = "വിവരം,ഡാറ്റ,സ്ഥിതിവിവരക്ക�
 title = "PDF-നെക്കുറിച്ചുള്ള വിവരങ്ങൾ നേടുക"
 
 [getPdfInfo.compliance]
-compliant = "അനുസൃതമാണ്"
 failed = "പരാജയപ്പെട്ടു"
 failedCount = "പരാജയപ്പെട്ടു"
-nonCompliant = "അനുസൃതമല്ല"
-none = "സ്റ്റാൻഡേർഡുകളൊന്നും കണ്ടെത്തിയില്ല"
-notDetected = "കണ്ടെത്തിയില്ല"
 noVerification = "സ്ഥിരീകരണം നടത്തിയിട്ടില്ല"
 noVerificationDesc = "ഈ ഡോക്യുമെന്റിന് PDF സ്റ്റാൻഡേർഡുകളുടെ അനുസൃതത പരിശോധിച്ചിട്ടില്ല."
 passed = "പാസായി"
@@ -4354,7 +4053,6 @@ size = "വലുപ്പം"
 xobjects = "XObject എണ്ണങ്ങൾ"
 
 [getPdfInfo.report]
-entryLabel = "പൂർണ്ണ വിവര സംഗ്രഹം"
 shortTitle = "PDF വിവരം"
 
 [getPdfInfo.sections]
@@ -4380,7 +4078,6 @@ compliancePassed = "{{standards}} അനുസൃതം"
 created = "സൃഷ്ടിച്ചത്"
 documentInfo = "പ്രമാണ വിവരം"
 fileSize = "ഫയൽ വലുപ്പം"
-hasCompliance = "അനുസരണ മാനദണ്ഡങ്ങൾ ഉണ്ട്"
 language = "ഭാഷ"
 modified = "തിരുത്തിയത്"
 noCompliance = "അനുസരണ മാനദണ്ഡങ്ങളില്ല"
@@ -4490,18 +4187,6 @@ message = "നിങ്ങളുടെ പ്രവർത്തി സംരക�
 signUp = "സൗജന്യമായി സൈൻ അപ്പ് ചെയ്യുക"
 title = "നിങ്ങൾ Stirling PDF അതിഥിയായി ഉപയോഗിക്കുന്നു!"
 
-[home]
-alphabetical = "അക്ഷരമാലാക്രമത്തിൽ"
-desc = "നിങ്ങളുടെ എല്ലാ PDF ആവശ്യങ്ങൾക്കുമുള്ള നിങ്ങളുടെ പ്രാദേശികമായി ഹോസ്റ്റ് ചെയ്ത ഏകജാലക ഷോപ്പ്."
-globalPopularity = "ആഗോള ജനപ്രീതി"
-hideFavorites = "പ്രിയപ്പെട്ടവ മറയ്ക്കുക"
-legacyHomepage = "പഴയ ഹോംപേജ്"
-newHomePage = "ഞങ്ങളുടെ പുതിയ ഹോംപേജ് പരീക്ഷിക്കുക!"
-searchBar = "സവിശേഷതകൾക്കായി തിരയുക..."
-setFavorites = "പ്രിയപ്പെട്ടവ സജ്ജമാക്കുക"
-showFavorites = "പ്രിയപ്പെട്ടവ കാണിക്കുക"
-sortBy = "ഇതനുസരിച്ച് അടുക്കുക:"
-
 [home.addAttachments]
 desc = "ഒരു PDF-ിലേക്ക്/ഇൽ നിന്നും എംബെഡ് ചെയ്ത ഫയലുകൾ (അറ്റാച്ച്മെന്റുകൾ) ചേർക്കുക അല്ലെങ്കിൽ നീക്കം ചെയ്യുക"
 tags = "എംബെഡ്,അറ്റാച്ച്,ഉൾപ്പെടുത്തുക"
@@ -4553,12 +4238,10 @@ tags = "ഓട്ടോ-ഡിറ്റക്ട്,ഹെഡർ-അടിസ്
 title = "PDF ഓട്ടോ റീനെയിം"
 
 [home.autoSizeSplitPDF]
-desc = "ഫയൽ വലുപ്പം അല്ലെങ്കിൽ പേജ് എണ്ണം പ്രകാരം PDF-കൾ സ്വയം വിഭജിക്കുക"
 tags = "ഓട്ടോ,സ്പ്ലിറ്റ്,വലുപ്പം"
 title = "സൈസ്/കൗണ്ട് ഓട്ടോ സ്പ്ലിറ്റ്"
 
 [home.autoSplitPDF]
-desc = "ഭൗതികമായി സ്കാൻ ചെയ്ത പേജ് സ്പ്ലിറ്റർ QR കോഡ് ഉപയോഗിച്ച് സ്കാൻ ചെയ്ത PDF സ്വയം വിഭജിക്കുക"
 tags = "ഓട്ടോ,സ്പ്ലിറ്റ്,QR"
 title = "പേജുകൾ സ്വയം വിഭജിക്കുക"
 
@@ -4652,7 +4335,6 @@ tags = "വിവരം,മെറ്റാഡാറ്റ,വിശദാംശ�
 title = "PDF മുഴുവൻ ഇൻഫോ"
 
 [home.manageCertificates]
-desc = "PDF ഒപ്പിടുന്നതിനായി ഉപയോഗിക്കുന്ന ഡിജിറ്റൽ സർട്ടിഫിക്കറ്റ് ഫയലുകൾ ഇമ്പോർട്ട് ചെയ്‌തു, എക്സ്പോർട്ട് ചെയ്‌തു, അല്ലെങ്കിൽ ഡിലീറ്റ് ചെയ്‌തു നടത്തുക."
 tags = "സർട്ടിഫിക്കറ്റുകൾ,ഇമ്പോർട്ട്,എക്സ്പോർട്ട്"
 title = "സർട്ടിഫിക്കറ്റുകൾ മാനേജ് ചെയ്യുക"
 
@@ -4697,7 +4379,6 @@ tags = "AI,ഏജന്റ്,കമന്റ്,ആനോട്ടേറ്റ�
 title = "AI കമന്റുകൾ ചേർക്കുക"
 
 [home.pdfOrganiser]
-desc = "ഏത് ക്രമത്തിലും പേജുകൾ നീക്കം ചെയ്യുക/പുനഃക്രമീകരിക്കുക"
 tags = "സംഘടിപ്പിക്കുക,പുനഃക്രമീകരിക്കുക,വീണ്ടും ക്രമപ്പെടുത്തുക"
 title = "ക്രമീകരിക്കുക"
 
@@ -4807,17 +4488,14 @@ tags = "വിഭജിക്കുക,പിരിക്കുക,തകർക�
 title = "വിഭജിക്കുക"
 
 [home.splitByChapters]
-desc = "അതിന്റെ അധ്യായ ഘടനയെ അടിസ്ഥാനമാക്കി ഒരു PDF ഒന്നിലധികം ഫയലുകളായി വിഭജിക്കുക."
 tags = "വിഭജിക്കുക,അധ്യായങ്ങൾ,ഘടന"
 title = "അധ്യായംവീതം PDF പിരിക്കുക"
 
 [home.splitBySections]
-desc = "ഒരു PDF-യിലെ ഓരോ പേജും തിരശ്ചീനവും ലംബവുമായ ചെറിയ വിഭാഗങ്ങളായി വിഭജിക്കുക"
 tags = "വിഭജിക്കുക,വിഭാഗങ്ങൾ,പിരിക്കുക"
 title = "വിഭാഗങ്ങളായി PDF വിഭജിക്കുക"
 
 [home.swagger]
-desc = "API ഡോക്യുമെന്റേഷൻ കാണുകയും എൻഡ്പോയിന്റുകൾ ടെസ്റ്റ് ചെയ്യുകയും ചെയ്യുക"
 tags = "API,ഡോക്യുമെന്റേഷൻ,ടെസ്റ്റ്"
 title = "API ഡോക്യുമെന്റേഷൻ"
 
@@ -4837,7 +4515,6 @@ tags = "വാലിഡേറ്റ്,വെരിഫൈ,സർട്ടിഫ�
 title = "PDF ഒപ്പ് സാധൂകരിക്കുക"
 
 [home.viewPdf]
-desc = "കാണുക, വ്യാഖ്യാനിക്കുക, വരയ്ക്കുക, ടെക്സ്റ്റ് അല്ലെങ്കിൽ ചിത്രങ്ങൾ ചേർക്കുക"
 title = "PDF കാണുക/എഡിറ്റ്"
 
 [home.watermark]
@@ -4846,25 +4523,9 @@ tags = "സ്റ്റാമ്പ്,അടയാളം,ഓവർലേ"
 title = "വാട്ടർമാർക്ക് ചേർക്കുക"
 
 [HTMLToPDF]
-credit = "WeasyPrint ഉപയോഗിക്കുന്നു"
-cssMediaType = "പേജിന്റെ CSS മീഡിയ തരം മാറ്റുക."
-defaultHeader = "സ്ഥിരസ്ഥിതി തലക്കെട്ട് പ്രവർത്തനക്ഷമമാക്കുക (പേരും പേജ് നമ്പറും)"
 header = "HTML PDF-ലേക്ക്"
-help = "HTML ഫയലുകളും html/css/ചിത്രങ്ങൾ തുടങ്ങിയവ അടങ്ങിയ ZIP-കളും സ്വീകരിക്കുന്നു"
-marginBottom = "പേജിന്റെ താഴത്തെ മാർജിൻ മില്ലിമീറ്ററിൽ. (സ്ഥിരസ്ഥിതിക്കായി ശൂന്യമാക്കുക)"
-marginLeft = "പേജിന്റെ ഇടത് മാർജിൻ മില്ലിമീറ്ററിൽ. (സ്ഥിരസ്ഥിതിക്കായി ശൂന്യമാക്കുക)"
-marginRight = "പേജിന്റെ വലത് മാർജിൻ മില്ലിമീറ്ററിൽ. (സ്ഥിരസ്ഥിതിക്കായി ശൂന്യമാക്കുക)"
-marginTop = "പേജിന്റെ മുകളിലെ മാർജിൻ മില്ലിമീറ്ററിൽ. (സ്ഥിരസ്ഥിതിക്കായി ശൂന്യമാക്കുക)"
-none = "ഒന്നുമില്ല"
-pageHeight = "പേജിന്റെ ഉയരം സെന്റീമീറ്ററിൽ. (സ്ഥിരസ്ഥിതിക്കായി ശൂന്യമാക്കുക)"
-pageWidth = "പേജിന്റെ വീതി സെന്റീമീറ്ററിൽ. (സ്ഥിരസ്ഥിതിക്കായി ശൂന്യമാക്കുക)"
-print = "അച്ചടിക്കുക"
-printBackground = "വെബ്സൈറ്റുകളുടെ പശ്ചാത്തലം റെൻഡർ ചെയ്യുക."
-screen = "സ്ക്രീൻ"
-submit = "പരിവർത്തനം ചെയ്യുക"
 tags = "മാർക്ക്അപ്പ്,വെബ്-ഉള്ളടക്കം,രൂപാന്തരം,പരിവർത്തനം ചെയ്യുക"
 title = "HTML PDF-ലേക്ക്"
-zoom = "വെബ്സൈറ്റ് പ്രദർശിപ്പിക്കുന്നതിനുള്ള സൂം നില."
 
 [image.upload]
 hint = "PDF-ലിടാൻ PNG, JPG, SVG, അല്ലെങ്കിൽ മറ്റ് ഇമേജ് ഫയൽ അപ്‌ലോഡ് ചെയ്യുക. അനുയോജ്യതക്കായി SVG ഫയലുകൾ PNG ആക്കി മാറ്റും."
@@ -4875,19 +4536,8 @@ placeholder = "ഇമേജ് ഫയൽ തിരഞ്ഞെടുക്കു
 tags = "പരിവർത്തനം,img,jpg,ചിത്രം,ഫോട്ടോ"
 
 [imageToPDF]
-fillPage = "പേജ് നിറയ്ക്കുക"
-fitDocumentToImage = "പേജ് ചിത്രത്തിലേക്ക് ഫിറ്റ് ചെയ്യുക"
 header = "ചിത്രം PDF-ലേക്ക്"
-maintainAspectRatio = "വീക്ഷണാനുപാതം നിലനിർത്തുക"
-selectLabel = "ചിത്രം ഫിറ്റ് ഓപ്ഷനുകൾ"
-submit = "പരിവർത്തനം ചെയ്യുക"
 title = "ചിത്രം PDF-ലേക്ക്"
-
-[imageToPDF.selectText]
-2 = "PDF സ്വയം തിരിക്കുക"
-3 = "മൾട്ടി ഫയൽ ലോജിക് (ഒന്നിലധികം ചിത്രങ്ങളുമായി പ്രവർത്തിക്കുമ്പോൾ മാത്രം പ്രവർത്തനക്ഷമമാകും)"
-4 = "ഒരൊറ്റ PDF-ലേക്ക് ലയിപ്പിക്കുക"
-5 = "വേറിട്ട PDF-കളിലേക്ക് മാറ്റുക"
 
 [infoBanner]
 dismiss = "അടയ്ക്കുക"
@@ -4912,7 +4562,6 @@ linkExpires = "ലിങ്ക് കാലഹരണപ്പെടുന്ന�
 passwordMismatch = "പാസ്‌വേഡുകൾ പൊരുത്തപ്പെടുന്നില്ല"
 passwordPlaceholder = "നിങ്ങളുടെ പാസ്‌വേഡ് നൽകുക"
 passwordRequired = "പാസ്‌വേഡ് ആവശ്യമാണ്"
-passwordTooShort = "പാസ്‌വേഡ് കുറഞ്ഞത് 6 അക്ഷരങ്ങളെങ്കിലും വേണം"
 signIn = "സൈൻ ഇൻ"
 validating = "ക്ഷണം സാധൂകരിക്കുന്നു..."
 validationError = "ക്ഷണ ലിങ്ക് സാധൂകരിക്കൽ പരാജയപ്പെട്ടു"
@@ -4941,20 +4590,10 @@ showCookieBanner = "കുക്കി മുൻഗണനകൾ"
 terms = "നിബന്ധനകളും വ്യവസ്ഥകളും"
 
 [licenses]
-header = "മൂന്നാം കക്ഷി ലൈസൻസുകൾ"
-license = "ലൈസൻസ്"
-module = "ഘടകം"
-nav = "ലൈസൻസുകൾ"
 title = "മൂന്നാം കക്ഷി ലൈസൻസുകൾ"
-version = "പതിപ്പ്"
 
 [localMode]
 toolUnavailable = "ഈ ഉപകരണത്തിന് ഒരു അക്കൗണ്ട് ആവശ്യമാണ്. ഇത് ഉപയോഗിക്കാൻ Stirling Cloud-ലേക്ക് സൈൻ ഇൻ ചെയ്യുകയോ സ്വയം-ഹോസ്റ്റുചെയ്ത സെർവറിലേക്ക് കണക്റ്റുചെയ്യുകയോ ചെയ്യുക."
-
-[localMode.banner]
-message = "എല്ലാ ഉപകരണങ്ങളും അൺലോക്ക് ചെയ്യാൻ സൈൻ ഇൻ ചെയ്യുക."
-signIn = "സൈൻ ഇൻ"
-title = "ലോക്കലായി പ്രവർത്തിക്കുന്നു"
 
 [localMode.toolPicker]
 message = "എല്ലാ ഉപകരണങ്ങളും അൺലോക്ക് ചെയ്യാൻ സൈൻ ഇൻ ചെയ്യുക."
@@ -4962,15 +4601,11 @@ signIn = "സൈൻ ഇൻ"
 
 [login]
 accountCreatedSuccess = "അക്കൗണ്ട് വിജയകരമായി സൃഷ്ടിച്ചു! നിങ്ങൾക്ക് ഇപ്പോൾ സൈൻ ഇൻ ചെയ്യാം."
-alreadyLoggedIn = "നിങ്ങൾ ഇതിനകം ലോഗിൻ ചെയ്തിട്ടുണ്ട്"
-alreadyLoggedIn2 = "ഉപകരണങ്ങളിൽ. ദയവായി ഉപകരണങ്ങളിൽ നിന്ന് ലോഗ് ഔട്ട് ചെയ്ത് വീണ്ടും ശ്രമിക്കുക."
 backToSignIn = "സൈൻ ഇൻ സ്ക്രീനിലേക്ക് മടങ്ങുക"
-cancel = "റദ്ദാക്കുക"
 changePasswordWarning = "ആദ്യമായി ലോഗിൻ ചെയ്തതിന് ശേഷം ദയവായി നിങ്ങളുടെ പാസ്‌വേഡ് മാറ്റുക"
+createAccount = "Create an account"
 credentialsUpdated = "നിങ്ങളുടെ ക്രെഡൻഷ്യലുകൾ അപ്ഡേറ്റ് ചെയ്തു. ദയവായി വീണ്ടും സൈൻ ഇൻ ചെയ്യുക."
-debug = "ഡീബഗ്"
 defaultCredentials = "ഡീഫോൾട്ട് ലോഗിൻ ക്രെഡൻഷ്യലുകൾ"
-dontHaveAccount = "അക്കൗണ്ട് ഇല്ലേ? സൈൻ അപ്പ് ചെയ്യുക"
 email = "ഇമെയിൽ"
 enterEmail = "നിങ്ങളുടെ ഇമെയിൽ നൽകുക"
 enterEmailForMagicLink = "മാജിക് ലിങ്കിനായി നിങ്ങളുടെ ഇമെയിൽ നൽകുക"
@@ -4979,29 +4614,12 @@ enterPassword = "നിങ്ങളുടെ പാസ്‌വേഡ് നൽ�
 enterUsername = "യൂസർനെയിം നൽകുക"
 failedToSignIn = "{{provider}} ഉപയോഗിച്ച് സൈൻ ഇൻ ചെയ്യൽ പരാജയപ്പെട്ടു: {{message}}"
 forgotPassword = "നിങ്ങളുടെ പാസ്‌വേഡ് മറന്നോ?"
-header = "സൈൻ ഇൻ ചെയ്യുക"
-home = "ഹോം"
-invalid = "അസാധുവായ ഉപയോക്തൃനാമം അല്ലെങ്കിൽ പാസ്‌വേഡ്."
-locked = "നിങ്ങളുടെ അക്കൗണ്ട് ലോക്ക് ചെയ്തിരിക്കുന്നു."
 loggingIn = "ലോഗിൻ ചെയ്യുന്നു..."
 logIn = "ലോഗിൻ"
 login = "ലോഗിൻ"
-logoutMessage = "നിങ്ങൾ ലോഗ് ഔട്ട് ചെയ്തു."
 magicLinkSent = "മാജിക് ലിങ്ക് {{email}}-ലേക്ക് അയച്ചു! നിങ്ങളുടെ ഇമെയിൽ പരിശോധിച്ച് സൈൻ ഇൻ ചെയ്യാൻ ലിങ്ക് ക്ലിക്ക് ചെയ്യുക."
-maxUsersReached = "നിലവിലുള്ള ലൈസൻസിലെ പരമാവധി ഉപയോക്താക്കൾ എത്തിച്ചേർന്നു. നിങ്ങളുടെ പ്ലാൻ അപ്‌ഗ്രേഡ് ചെയ്യുകയോ കൂടുതൽ സീറ്റുകൾ ചേർക്കുകയോ ചെയ്യാൻ അഡ്മിനിസ്ട്രേറ്ററുമായി ബന്ധപ്പെടുക."
 mfaCode = "സ്ഥിരീകരണ കോഡ്"
-mfaPromptBody = "തുടരാൻ നിങ്ങളുടെ ഓതന്റിക്കേറ്റർ ആപ്പിൽ നിന്നുള്ള സ്ഥിരീകരണ കോഡ് നൽകുക."
-mfaPromptTitle = "രണ്ടുഘട്ട സ്ഥിരീകരണം"
 mfaRequired = "രണ്ടുഘട്ട കോഡ് ആവശ്യമാണ്"
-oauth2AccessDenied = "പ്രവേശനം നിഷേധിച്ചു"
-oAuth2AdminBlockedUser = "രജിസ്റ്റർ ചെയ്യാത്ത ഉപയോക്താക്കളുടെ രജിസ്ട്രേഷനോ ലോഗിൻ ചെയ്യുന്നതോ നിലവിൽ തടഞ്ഞിരിക്കുന്നു. ദയവായി അഡ്മിനിസ്ട്രേറ്ററുമായി ബന്ധപ്പെടുക."
-oAuth2AutoCreateDisabled = "OAUTH2 ഓട്ടോ-ക്രിയേറ്റ് യൂസർ പ്രവർത്തനരഹിതമാക്കി"
-oauth2InvalidIdToken = "അസാധുവായ ഐഡി ടോക്കൺ"
-oauth2invalidRequest = "അസാധുവായ അഭ്യർത്ഥന"
-oauth2InvalidTokenResponse = "അസാധുവായ ടോക്കൺ പ്രതികരണം"
-oauth2InvalidUserInfoResponse = "അസാധുവായ ഉപയോക്തൃ വിവര പ്രതികരണം"
-oauth2RequestNotFound = "അംഗീകാര അഭ്യർത്ഥന കണ്ടെത്തിയില്ല"
-oAuth2RequiresLicense = "OAuth/SSO ലോഗിനിന് ഒരു പെയ്ഡ് ലൈസൻസ് (Server അല്ലെങ്കിൽ Enterprise) ആവശ്യമാണ്. നിങ്ങളുടെ പ്ലാൻ അപ്‌ഗ്രേഡ് ചെയ്യാൻ അഡ്മിനിസ്ട്രേറ്ററുമായി ബന്ധപ്പെടുക."
 or = "അല്ലെങ്കിൽ"
 password = "പാസ്‌വേഡ്"
 passwordChangedSuccess = "പാസ്‌വേഡ് വിജയകരമായി മാറ്റി! നിങ്ങളുടെ പുതിയ പാസ്‌വേഡുമായ് ദയവായി സൈൻ ഇൻ ചെയ്യുക."
@@ -5009,33 +4627,21 @@ passwordResetSent = "പാസ്‌വേഡ് റീസെറ്റ് ലി
 passwordUpdatedSuccess = "നിങ്ങളുടെ പാസ്‌വേഡ് വിജയകരമായി അപ്‌ഡേറ്റ് ചെയ്തു."
 pleaseEnterBoth = "ദയവായി ഇമെയിലും പാസ്‌വേഡും നൽകുക"
 pleaseEnterEmail = "ദയവായി നിങ്ങളുടെ ഇമെയിൽ വിലാസം നൽകുക"
-relyingPartyRegistrationNotFound = "റിലയിംഗ് പാർട്ടി രജിസ്ട്രേഷൻ കണ്ടെത്തിയില്ല"
-rememberme = "എന്നെ ഓർക്കുക"
 resetHelp = "നിങ്ങളുടെ പാസ്‌വേഡ് റീസെറ്റ് ചെയ്യാൻ സുരക്ഷിതമായ ഒരു ലിങ്ക് ലഭിക്കാൻ നിങ്ങളുടെ ഇമെയിൽ നൽകുക. ലിങ്കിന്റെ കാലാവധി കഴിഞ്ഞാൽ, ദയവായി പുതിയത് അഭ്യർഥിക്കുക."
 resetYourPassword = "നിങ്ങളുടെ പാസ്‌വേഡ് റീസെറ്റ് ചെയ്യുക"
-saml2RequiresLicense = "SAML ലോഗിനിന് ഒരു പെയ്ഡ് ലൈസൻസ് (Server അല്ലെങ്കിൽ Enterprise) ആവശ്യമാണ്. നിങ്ങളുടെ പ്ലാൻ അപ്‌ഗ്രേഡ് ചെയ്യാൻ അഡ്മിനിസ്ട്രേറ്ററുമായി ബന്ധപ്പെടുക."
 sending = "അയക്കുന്നു…"
 sendMagicLink = "മാജിക് ലിങ്ക് അയക്കുക"
 sendResetLink = "റീസെറ്റ് ലിങ്ക് അയയ്ക്കുക"
 sessionExpired = "നിങ്ങളുടെ സെഷൻ കാലഹരണപ്പെട്ടു. ദയവായി വീണ്ടും സൈൻ ഇൻ ചെയ്യുക."
 signin = "സൈൻ ഇൻ ചെയ്യുക"
-signInAnonymously = "അതിഥിയായി സൈൻ അപ്പ് ചെയ്യുക"
 signingIn = "സൈൻ ഇൻ ചെയ്യുന്നു..."
-signinTitle = "ദയവായി സൈൻ ഇൻ ചെയ്യുക"
 signInWith = "ഇത് ഉപയോഗിച്ച് സൈൻ ഇൻ ചെയ്യുക"
-signOut = "സൈൻ ഔട്ട്"
-ssoSignIn = "സിംഗിൾ സൈൻ-ഓൺ വഴി ലോഗിൻ ചെയ്യുക"
-subtitle = "Stirling PDF-ലേക്ക് വീണ്ടും സൈൻ ഇൻ ചെയ്യുക"
 title = "സൈൻ ഇൻ ചെയ്യുക"
-toManySessions = "നിങ്ങൾക്ക് വളരെയധികം സജീവ സെഷനുകൾ ഉണ്ട്"
 unexpectedError = "പ്രതീക്ഷിക്കാത്ത പിശക്: {{message}}"
 updatePassword = "പാസ്‌വേഡ് അപ്‌ഡേറ്റ് ചെയ്യുക"
 useEmailInstead = "ഇമെയിൽ ഉപയോഗിച്ച് ലോഗിൻ"
 useMagicLink = "പകരം മാജിക് ലിങ്ക് ഉപയോഗിക്കുക"
-userIsDisabled = "ഉപയോക്താവ് പ്രവർത്തനരഹിതമാക്കി, ഈ ഉപയോക്തൃനാമം ഉപയോഗിച്ചുള്ള ലോഗിൻ നിലവിൽ തടഞ്ഞിരിക്കുന്നു. ദയവായി അഡ്മിനിസ്ട്രേറ്ററുമായി ബന്ധപ്പെടുക."
 username = "യൂസർനെയിം"
-verifyingMfa = "പരിശോധിക്കുന്നു..."
-verifyMfa = "കോഡ് പരിശോധിക്കുക"
 youAreLoggedIn = "നിങ്ങൾ ലോഗിൻ ചെയ്തിരിക്കുന്നു!"
 
 [login.slides.edit]
@@ -5060,10 +4666,7 @@ small = "ചെറുത്"
 xLarge = "അതി വലുത്"
 
 [MarkdownToPDF]
-credit = "WeasyPrint ഉപയോഗിക്കുന്നു"
 header = "മാർക്ക്ഡൗൺ PDF-ലേക്ക്"
-help = "നിർമ്മാണത്തിലിരിക്കുന്നു"
-submit = "പരിവർത്തനം ചെയ്യുക"
 tags = "മാർക്ക്അപ്പ്,വെബ്-ഉള്ളടക്കം,രൂപാന്തരം,പരിവർത്തനം ചെയ്യുക,md"
 title = "മാർക്ക്ഡൗൺ PDF-ലേക്ക്"
 
@@ -5114,8 +4717,6 @@ capture = "ഫോട്ടോ പകർത്തുക"
 chooseMethod = "അപ്‌ലോഡ് രീതി തിരഞ്ഞെടുക്കുക"
 chooseMethodDescription = "ഡോക്യുമെന്റുകൾ എങ്ങനെ സ്‌കാൻ ചെയ്ത് അപ്‌ലോഡ് ചെയ്യണമെന്ന് തിരഞ്ഞെടുക്കുക"
 clearBatch = "ക്ലിയർ"
-connected = "കണക്റ്റുചെയ്തു"
-connecting = "കണക്റ്റുചെയ്യുന്നു..."
 edgeDetection = "എഡ്ജ് കണ്ടെത്തൽ"
 fileDescription = "നിങ്ങളുടെ ഉപകരണത്തിൽ നിന്ന് നിലവിലുള്ള ഫോട്ടോകൾ അല്ലെങ്കിൽ ഡോക്യുമെന്റുകൾ അപ്‌ലോഡ് ചെയ്യുക"
 fileUpload = "ഫയൽ അപ്‌ലോഡ്"
@@ -5124,7 +4725,6 @@ flashlight = "ഫ്ലാഷ്‌ലൈറ്റ്"
 httpsRequired = "ക്യാമറ ആക്‌സസിന് HTTPS അല്ലെങ്കിൽ localhost ആവശ്യമാണ്. ദയവായി HTTPS ഉപയോഗിക്കുകയോ localhost വഴി പ്രവേശിക്കുകയോ ചെയ്യുക."
 noSession = "അസാധുവായ സെഷൻ"
 noSessionMessage = "ഈ പേജ് ആക്സസ് ചെയ്യാൻ സാധുവായ QR കോഡ് സ്കാൻ ചെയ്യുക."
-preview = "പ്രിവ്യൂ"
 processing = "പ്രോസസ്സിംഗ്..."
 retake = "വീണ്ടും എടുക്കുക"
 selectFilesPrompt = "അപ്‌ലോഡ് ചെയ്യാൻ ഫയലുകൾ തിരഞ്ഞെടുക്കുക"
@@ -5133,7 +4733,6 @@ sessionExpired = "ഈ സെഷന്റെ കാലാവധി കഴിഞ�
 sessionInvalid = "സെഷൻ പിശക്"
 sessionNotFound = "സെഷൻ കണ്ടെത്തിയില്ല. ദയവായി റിഫ്രെഷ് ചെയ്ത് വീണ്ടും ശ്രമിക്കുക."
 sessionValidationError = "സെഷൻ സ്ഥിരീകരിക്കാൻ കഴിഞ്ഞില്ല. ദയവായി വീണ്ടും ശ്രമിക്കുക."
-settings = "സജ്ജീകരണങ്ങൾ"
 title = "മൊബൈൽ സ്‌കാനർ"
 upload = "അപ്‌ലോഡ്"
 uploadAll = "എല്ലാം അപ്‌ലോഡ് ചെയ്യുക"
@@ -5144,7 +4743,6 @@ uploadSuccessMessage = "നിങ്ങളുടെ ചിത്രങ്ങൾ 
 validating = "സെഷൻ ശരിവെയ്ക്കുന്നു..."
 
 [mobileUpload]
-connected = "മൊബൈൽ ഉപകരണം കണക്റ്റുചെയ്തു"
 description = "സ്കാൻ ചെയ്ത് ചിത്രങ്ങൾ അപ്‌ലോഡ് ചെയ്യുക. ചിത്രങ്ങൾ സ്വയമേവ PDF-യായി മാറും."
 descriptionNoConvert = "നിങ്ങളുടെ മൊബൈൽ ഉപകരണത്തിൽ നിന്ന് ചിത്രങ്ങൾ അപ്‌ലോഡ് ചെയ്യാൻ സ്കാൻ ചെയ്യുക."
 error = "കണക്ഷൻ പിശക്"
@@ -5155,55 +4753,14 @@ instructions = "നിങ്ങളുടെ ഫോണിന്റെ ക്യ�
 instructionsNoConvert = "ഫയലുകൾ അപ്‌ലോഡ് ചെയ്യാൻ ഫോണിന്റെ ക്യാമറ ഉപയോഗിച്ച് സ്കാൻ ചെയ്യുക."
 pollingError = "ഫയലുകൾ പരിശോധിക്കുമ്പോൾ പിശക്"
 sessionCreateError = "സെഷൻ സൃഷ്ടിക്കാൻ പരാജയപ്പെട്ടു"
-sessionId = "സെഷൻ ID"
 title = "മൊബൈലിൽ നിന്ന് അപ്‌ലോഡ് ചെയ്യുക"
 
 [multiTool]
-addFile = "ഫയൽ ചേർക്കുക"
-delete = "മായ്ക്കുക"
-deleteSelected = "തിരഞ്ഞെടുത്തവ ഇല്ലാതാക്കുക"
-deselectAll = "എല്ലാം തിരഞ്ഞെടുക്കാതിരിക്കുക"
-downloadAll = "കയറ്റുമതി ചെയ്യുക"
-downloadSelected = "തിരഞ്ഞെടുത്തവ കയറ്റുമതി ചെയ്യുക"
-dragDropMessage = "പേജ്(കൾ) തിരഞ്ഞെടുത്തു"
-header = "PDF മൾട്ടി ടൂൾ"
-insertPageBreak = "പേജ് ബ്രേക്ക് ചേർക്കുക"
-moveLeft = "ഇടത്തേക്ക് നീക്കുക"
-moveRight = "വലത്തേക്ക് നീക്കുക"
-page = "പേജ്"
-redo = "വീണ്ടും ചെയ്യുക"
-rotateLeft = "ഇടത്തേക്ക് തിരിക്കുക"
-rotateRight = "വലത്തേക്ക് തിരിക്കുക"
-selectAll = "എല്ലാം തിരഞ്ഞെടുക്കുക"
-selectedPages = "തിരഞ്ഞെടുത്ത പേജുകൾ"
-selectPages = "പേജ് തിരഞ്ഞെടുക്കുക"
-split = "വിഭജിക്കുക"
 tags = "മൾട്ടി ടൂൾ,മൾട്ടി ഓപ്പറേഷൻ,യുഐ,ക്ലിക്ക് ഡ്രാഗ്,ഫ്രണ്ട് എൻഡ്,ക്ലയിന്റ് സൈഡ്,ഇന്ററാക്ടീവ്,അനങ്ങാത്ത,നീക്കുക,ഇല്ലാതാക്കുക,കൈമാറുക,വിഭജിക്കുക"
 title = "PDF മൾട്ടി ടൂൾ"
-undo = "പഴയപടി ആക്കുക"
-uploadPrompts = "ഫയലിന്റെ പേര്"
-
-[multiTool-advert]
-message = "ഈ സവിശേഷത ഞങ്ങളുടെ <a href=\"{0}\">മൾട്ടി-ടൂൾ പേജിലും</a> ലഭ്യമാണ്. മെച്ചപ്പെടുത്തിയ പേജ്-ബൈ-പേജ് യുഐയ്ക്കും അധിക സവിശേഷതകൾക്കുമായി ഇത് പരിശോധിക്കുക!"
 
 [navbar]
-allTools = "ഉപകരണങ്ങൾ"
-darkmode = "ഡാർക്ക് മോഡ്"
-favorite = "പ്രിയപ്പെട്ടവ"
-language = "ഭാഷകൾ"
-multiTool = "മൾട്ടി ടൂൾ"
-recent = "പുതിയതും അടുത്തിടെ അപ്‌ഡേറ്റ് ചെയ്തതും"
 search = "തിരയുക"
-settings = "ക്രമീകരണങ്ങൾ"
-
-[navbar.sections]
-advance = "വിപുലമായത്"
-convertFrom = "PDF-ൽ നിന്ന് മാറ്റുക"
-convertTo = "PDF-ലേക്ക് മാറ്റുക"
-edit = "കാണുക & തിരുത്തുക"
-organize = "ക്രമീകരിക്കുക"
-popular = "ജനപ്രിയം"
-security = "ഒപ്പും സുരക്ഷയും"
 
 [oauth.error]
 message = "ഓതന്റിക്കേഷൻ വിജയിച്ചില്ല. ഈ വിൻഡോ അടച്ച് വീണ്ടും ശ്രമിക്കാം."
@@ -5213,12 +4770,36 @@ title = "ഓതന്റിക്കേഷൻ പരാജയപ്പെട്�
 message = "ഈ വിൻഡോ അടച്ച് Stirling PDF-ലേക്ക് മടങ്ങാം."
 title = "ഓതന്റിക്കേഷൻ വിജയകരം"
 
+[oauthConsent]
+approve = "Allow access"
+approving = "Allowing..."
+decisionFailed = "Could not submit your decision. Please try again."
+deny = "Deny"
+denying = "Denying..."
+loadFailed = "This authorization request is invalid or has expired. Close this tab and try connecting again from the app."
+loading = "Loading authorization request..."
+missingId = "Missing authorization request. Start the connection from your app and try again."
+redirecting = "Returning you to the app..."
+requesting = "{{app}} wants to access your Stirling PDF account"
+scopesIntro = "This will allow {{app}} to:"
+signedInAs = "Signed in as {{name}}"
+signInButton = "Sign in to continue"
+signInPrompt = "Sign in to your Stirling PDF account to continue connecting the app."
+title = "Authorize access"
+unknownApp = "A third-party application"
+
+[oauthConsent.access]
+actAsYou = "Act as you - everything {{app}} does runs under your account and counts towards your usage"
+tools = "Use your Stirling PDF tools on your behalf - convert, edit, sign, secure and process your documents"
+
+[oauthConsent.scope]
+email = "See your email address"
+openid = "Confirm your identity"
+phone = "See your phone number"
+profile = "See your basic profile information"
+
 [ocr]
-credit = "ഈ സേവനം OCR-നായി qpdf, Tesseract എന്നിവ ഉപയോഗിക്കുന്നു."
 desc = "സ്കാൻ ചെയ്ത പേജുകൾ ശുചിയാക്കി PDF-ലുള്ള ചിത്രങ്ങളിൽ നിന്ന് വാചകം കണ്ടെത്തി അത് വീണ്ടും ടെക്സ്റ്റായി ചേർക്കുന്നു."
-header = "സ്കാനുകൾ വൃത്തിയാക്കുക / OCR (ഒപ്റ്റിക്കൽ ക്യാരക്ടർ റെക്കഗ്നിഷൻ)"
-help = "മറ്റ് ഭാഷകൾക്കായി ഇത് എങ്ങനെ ഉപയോഗിക്കാമെന്നും കൂടാതെ/അല്ലെങ്കിൽ ഡോക്കറിൽ ഉപയോഗിക്കാതിരിക്കുന്നതിനെക്കുറിച്ചും ഈ ഡോക്യുമെന്റേഷൻ വായിക്കുക"
-submit = "OCR ഉപയോഗിച്ച് PDF പ്രോസസ്സ് ചെയ്യുക"
 tags = "തിരിച്ചറിയൽ,ടെക്സ്റ്റ്,ചിത്രം,സ്കാൻ,വായിക്കുക,തിരിച്ചറിയുക,കണ്ടെത്തൽ,തിരുത്താവുന്നത്"
 title = "OCR / സ്കാൻ വൃത്തിയാക്കൽ"
 
@@ -5235,20 +4816,6 @@ submit = "OCR പ്രോസസ്സ് ചെയ്ത് റിവ്യൂ 
 
 [ocr.results]
 title = "OCR ഫലങ്ങൾ"
-
-[ocr.selectText]
-1 = "PDF-നുള്ളിൽ കണ്ടെത്തേണ്ട ഭാഷകൾ തിരഞ്ഞെടുക്കുക (ലിസ്റ്റ് ചെയ്തിട്ടുള്ളവ നിലവിൽ കണ്ടെത്തിയവയാണ്):"
-10 = "OCR മോഡ്"
-11 = "OCR-ന് ശേഷം ചിത്രങ്ങൾ നീക്കം ചെയ്യുക (എല്ലാ ചിത്രങ്ങളും നീക്കംചെയ്യുന്നു, പരിവർത്തന ഘട്ടത്തിന്റെ ഭാഗമാണെങ്കിൽ മാത്രം ഉപയോഗപ്രദം)"
-12 = "റെൻഡർ തരം (വിപുലമായത്)"
-2 = "OCR ചെയ്ത PDF-നോടൊപ്പം OCR ടെക്സ്റ്റ് അടങ്ങിയ ടെക്സ്റ്റ് ഫയൽ നിർമ്മിക്കുക"
-3 = "ചരിഞ്ഞ കോണിൽ സ്കാൻ ചെയ്ത പേജുകൾ തിരികെ സ്ഥാനത്തേക്ക് തിരിച്ച് ശരിയാക്കുക"
-4 = "പേജ് വൃത്തിയാക്കുക, അതുവഴി OCR പശ്ചാത്തല ശബ്ദത്തിൽ ടെക്സ്റ്റ് കണ്ടെത്താനുള്ള സാധ്യത കുറവാണ്. (ഔട്ട്‌പുട്ടിൽ മാറ്റമില്ല)"
-5 = "പേജ് വൃത്തിയാക്കുക, അതുവഴി OCR പശ്ചാത്തല ശബ്ദത്തിൽ ടെക്സ്റ്റ് കണ്ടെത്താനുള്ള സാധ്യത കുറവാണ്, ഔട്ട്‌പുട്ടിൽ വൃത്തിയാക്കൽ നിലനിർത്തുന്നു."
-6 = "ഇന്ററാക്ടീവ് ടെക്സ്റ്റ് ഉള്ള പേജുകൾ അവഗണിക്കുന്നു, ചിത്രങ്ങളായ പേജുകൾ മാത്രം OCR ചെയ്യുന്നു"
-7 = "OCR നിർബന്ധിക്കുക, എല്ലാ യഥാർത്ഥ ടെക്സ്റ്റ് ഘടകങ്ങളും നീക്കം ചെയ്തുകൊണ്ട് എല്ലാ പേജുകളും OCR ചെയ്യും"
-8 = "സാധാരണ (PDF-ൽ ടെക്സ്റ്റ് ഉണ്ടെങ്കിൽ പിശക് സംഭവിക്കും)"
-9 = "അധിക ക്രമീകരണങ്ങൾ"
 
 [ocr.settings]
 title = "ക്രമീകരണങ്ങൾ"
@@ -5327,18 +4894,11 @@ filesButton = "ക്വിക് ആക്സസ് ബാറിലെ <strong>
 fileSources = "ഇവിടെ നിന്ന് നിങ്ങൾക്ക് പുതിയ ഫയലുകൾ അപ്‌ലോഡ് ചെയ്യുകയോ അടുത്തിടെ ഉപയോഗിച്ചതിലേക്കു പ്രവേശിക്കുകയോ ചെയ്യാം. ടൂറിനായി, നാം ഒരു സാമ്പിൾ ഫയൽ ഉപയോഗിക്കും."
 finish = "പൂർത്തിയാക്കുക"
 next = "അടുത്തത്"
-pageEditor = "<strong>പേജ് എഡിറ്റർ</strong> നിങ്ങളുടെ PDFകളിലെ പേജുകളിൽ പുനഃക്രമീകരിക്കൽ, തിരിക്കുക, ഇല്ലാതാക്കൽ പോലുള്ള വിവിധ പ്രവർത്തനങ്ങൾ ചെയ്യാൻ അനുവദിക്കുന്നു."
 pinButton = "ടൂളുകൾ പ്രവർത്തിപ്പിച്ചതിനുശേഷവും നിങ്ങളുടെ ഫയലുകൾ ആക്ടീവായി തുടരണമെങ്കിൽ നിങ്ങൾക്ക് <strong>പിൻ</strong> ബട്ടൺ ഉപയോഗിക്കാം."
-previous = "മുൻപ്"
 results = "ടൂൾ പ്രവർത്തിച്ചു കഴിഞ്ഞാൽ, <strong>റിവ്യൂ</strong> ഘട്ടത്തിൽ ഈ പാനലിൽ ഫലങ്ങളുടെ പ്രിവ്യൂ കാണിക്കുകയും പ്രവർത്തനം റദ്ദാക്കുകയോ ഫയൽ ഡൗൺലോഡ് ചെയ്യുകയോ ചെയ്യാനുമാകും."
 runButton = "ടൂൾ ക്രമീകരിച്ച ശേഷം, തെരഞ്ഞെടുത്ത എല്ലാ PDFകളിലും ടൂൾ പ്രവർത്തിപ്പിക്കാൻ ഈ ബട്ടൺ ഉപയോഗിക്കാം."
-selectControls = "<strong>റൈറ്റ് റെയിൽ</strong> ൽ നിങ്ങളുടെ എല്ലാ ആക്ടീവ് PDFകളെയും ദ്രുതമായി തിരഞ്ഞെടുക്കാൻ/തിരഞ്ഞെടുക്കാതിരിക്കാൻ ബട്ടണുകളും, ആപ്പിന്റെ തീം, ഭാഷ എന്നിവ മാറ്റാൻ ബട്ടണുകളും ഉണ്ട്."
 selectCropTool = "<strong>ക്രോപ്പ്</strong> ടൂൾ എങ്ങനെ ഉപയോഗിക്കാമെന്ന് കാണിക്കാൻ നമുക്ക് അത് തിരഞ്ഞെടുക്കാം."
-startTour = "ടൂർ ആരംഭിക്കുക"
-startTourDescription = "Stirling PDF 的 പ്രധാന സവിശേഷതകളുടെ മാർഗ്ഗനിർദ്ദേശ ടൂർ"
 toolInterface = "ഇതാണ് <strong>ക്രോപ്പ്</strong> ടൂളിന്റെ ഇന്റർഫേസ്. ഇപ്പോഴും പ്രവർത്തിപ്പിക്കാൻ PDF ഫയലുകൾ ചേർത്തിട്ടില്ലാത്തതിനാൽ ഇവിടെ അധികമൊന്നുമില്ലെന്ന് നിങ്ങൾ കാണുന്നു."
-viewer = "<strong>വ്യൂവർ</strong> നിങ്ങളുടെ PDFകൾ വായിക്കാനും ആനോട്ടേറ്റ് ചെയ്യാനുമാണ്."
-viewSwitcher = "നിങ്ങളുടെ PDFകൾ എങ്ങനെ കാണണം എന്ന് തിരഞ്ഞെടുക്കാൻ ഈ നിയന്ത്രണങ്ങൾ ഉപയോഗിക്കുക."
 workbench = "ഇതാണ് <strong>വർക്ക്ബെഞ്ച്</strong> - നിങ്ങളുടെ PDFകൾ കാണുകയും തിരുത്തുകയും ചെയ്യുന്ന പ്രധാന പ്രദേശം."
 wrapUp = "എല്ലാം സജ്ജമാണ്! ആപ്പിന്റെ പ്രധാന പ്രദേശങ്ങളും അവ എങ്ങനെ ഉപയോഗിക്കാമെന്നും നിങ്ങൾ പഠിച്ചു. ഈ ടൂർ വീണ്ടും കാണാൻ ഏതുസമയം വേണമെങ്കിലും <strong>സഹായം</strong> ബട്ടൺ അമർത്തുക."
 
@@ -5355,15 +4915,6 @@ body = "Stirling ഡെസ്ക്ടോപ്പ് ആപ്പായി പ�
 title = "ഡൗൺലോഡ്"
 titleWithOs = "{{osLabel}}-ക്കായി ഡൗൺലോഡ്"
 
-[onboarding.freeTrial]
-afterTrialWithoutPayment = "നിങ്ങളുടെ ട്രയൽ അവസാനിച്ചാൽ, നിങ്ങൾ ഞങ്ങളുടെ സൗജന്യ ടിയറിൽ തുടരും. Pro ആക്സസ് നിലനിർത്താൻ ഒരു പേയ്‌മെന്റ് വിധം ചേർക്കുക."
-afterTrialWithPayment = "ട്രയൽ അവസാനിക്കുമ്പോൾ നിങ്ങളുടെ Pro സബ്സ്ക്രിപ്ഷൻ സ്വയമേവ ആരംഭിക്കും."
-body = "ട്രയൽ സമയത്ത് നിങ്ങൾക്ക് Stirling PDF Pro സവിശേഷതകളിലേക്കുള്ള പൂർണ്ണ ആക്സസ് ലഭിക്കും. അൺലിമിറ്റഡ് കൺവർഷനുകൾ, വലുതായ ഫയൽ വലുപ്പങ്ങൾ, മുൻഗണനാപൂർവമായ പ്രോസസ്സിംഗ് എന്നിവ ആസ്വദിക്കുക."
-daysRemaining = "{{days}} ദിവസം ബാക്കി"
-daysRemainingSingular = "{{days}} ദിവസം ബാക്കി"
-title = "നിങ്ങളുടെ 30-ദിവസ Pro ട്രയൽ"
-trialEnds = "ട്രയൽ അവസാനിക്കുന്നത് {{date}}"
-
 [onboarding.mfa]
 authenticationCode = "അധികൃതീകരണ കോഡ്"
 qrCodeLoading = "നിങ്ങളുടെ QR കോഡ് സൃഷ്ടിക്കുന്നു…"
@@ -5374,6 +4925,22 @@ adminBodyLoginEnabled = "അഡ്മിനെന്ന നിലയിൽ, ന�
 adminTitle = "അഡ്മിൻ അവലോകനം"
 userBody = "ടീംമേറ്റ്‌കളെ ക്ഷണിക്കുക, റോളുകൾ നിയോഗിക്കുക, നിങ്ങളുടെ ഡോക്യുമെന്റുകൾ ഒരു സുരക്ഷിത വർക്ക്സ്പേസിൽ ക്രമീകരിച്ച് സൂക്ഷിക്കുക. സോളോ ഉപയോഗത്തേക്കാൾ വളരാൻ തയ്യാറാകുമ്പോൾ ഏത് സമയത്തും ലോഗിൻ മോഡ് പ്രാപ്തമാക്കുക."
 userTitle = "പ്ലാൻ അവലോകനം"
+
+[onboarding.saas.freeEditor]
+freeLine = "The editor is now <free>completely free</free>."
+premium = "We've added loads of new features, including <strong>Policies</strong> and <strong>Agent Chat</strong>."
+title = "Welcome to Stirling"
+
+[onboarding.saas.team]
+addButton = "Add"
+createBody = "Work on documents together: teammates share files, automations and your plan. Add the first member by email to create your team."
+createTitle = "Create your team"
+inviteBody = "Everyone on your team shares files, automations and your plan. Add teammates by email and they'll get an invite."
+inviteTitle = "Invite members to your team"
+
+[onboarding.saas.usage]
+body = "Automations, AI and API requests draw from your free allowance. Manual editing never counts against it."
+title = "Your free Processor allowance"
 
 [onboarding.securityCheck]
 message = "ആപ്ലിക്കേഷൻ അടുത്തിടെ വലിയ മാറ്റങ്ങൾ കണ്ടിട്ടുണ്ട്. നിങ്ങളുടെ സെർവർ അഡ്മിന്റെ ശ്രദ്ധ ആവശ്യമായേക്കാം. തുടരാൻ നിങ്ങളുടെ റോൾ സ്ഥിരീകരിക്കുക."
@@ -5387,20 +4954,11 @@ freeTitle = "സെർവർ ലൈസൻസ്"
 overLimitBody = "ഞങ്ങളുടെ ലൈസൻസിംഗ് ഓരോ സെർവർക്കും പരമാവധി <strong>{{freeTierLimit}}</strong> ഉപയോക്താക്കളെ സൗജന്യമായി അനുവദിക്കുന്നു. നിങ്ങള്ക്ക് <strong>{{overLimitUserCopy}}</strong> Stirling ഉപയോക്താക്കളുണ്ട്. തടസ്സമില്ലാതെ തുടരാൻ, Stirling Server പ്ലാനിലേക്ക് അപ്‌ഗ്രേഡ് ചെയ്യുക - <strong>unlimited seats</strong>, PDF text editing, പൂർണ്ണ അഡ്മിൻ നിയന്ത്രണം, $99/server/mo."
 overLimitTitle = "സെർവർ ലൈസൻസ് ആവശ്യമാണ്"
 seePlans = "പ്ലാനുകൾ കാണുക →"
-skip = "ഇപ്പോൾ ഒഴിവാക്കുക"
 upgrade = "ഇപ്പോൾ അപ്‌ഗ്രേഡ് ചെയ്യുക →"
 
 [onboarding.tourOverview]
 body = "Stirling PDF V2 ഡസൻകണക്കിന് ഉപകരണങ്ങളും പുതുക്കിയ ലേഔട്ടും ഉൾപ്പെടുത്തി എത്തുന്നു. എന്താണ് മാറിയതെന്നും നിങ്ങൾക്ക് ആവശ്യമായ സവിശേഷതകൾ എവിടെയാണെന്നും വേഗത്തിൽ കാണാം."
 title = "ടൂർ അവലോകനം"
-
-[onboarding.welcomeModal]
-description = "പ്രധാന സവിശേഷതകളും തുടങ്ങുന്നത് എങ്ങനെയെന്നതും അറിയാൻ 1 മിനിട്ടിലെ ഒരു ദ്രുത ടൂർ വേണമോ?"
-dontShowAgain = "ഇനി കാണിക്കരുത്"
-helpHint = "ഇടത് താഴെയുള്ള <strong>സഹായം</strong> ബട്ടണിൽ നിന്ന് നിങ്ങൾക്ക് ഈ ടൂർ പിന്നീട് എപ്പോഴും ആക്സസ് ചെയ്യാം."
-maybeLater = "പിന്നീട്"
-startTour = "ടൂർ ആരംഭിക്കുക"
-title = "Stirling PDFലേക്ക് സ്വാഗതം!"
 
 [onboarding.welcomeSlide]
 body = "Stirling PDF ഇനി എല്ലാ വലുപ്പത്തിലുള്ള ടീമുകൾക്കുമൊത്ത് തയ്യാറായി. ഈ അപ്‌ഡേറ്റിൽ ഒരു പുതിയ ലേഔട്ട്, ശക്തമായ പുതിയ അഡ്മിൻ കഴിവുകൾ, കൂടാതെ ഏറ്റവും ആവശ്യപ്പെട്ട ഫീച്ചർ - <strong>Edit Text</strong> ഉൾപ്പെടുന്നു."
@@ -5417,19 +4975,14 @@ wrapUp = "V2യിലെ പുതുമകൾ ഇത്രയാണ്. ഇത�
 
 [overlay-pdfs]
 desc = "ഒരു PDF മറ്റൊന്നിന് മീതെ ഓവർലെ ചെയ്യുക"
-header = "PDF ഫയലുകൾ ഓവർലേ ചെയ്യുക"
 submit = "സമർപ്പിക്കുക"
 tags = "ഓവർലേ"
 title = "PDFകൾ ഓവർലെ ചെയ്യുക"
-
-[overlay-pdfs.baseFile]
-label = "അടിസ്ഥാന PDF ഫയൽ തിരഞ്ഞെടുക്കുക"
 
 [overlay-pdfs.counts]
 item = "ഓരോ ഫയലിനും എണ്ണം"
 label = "ഓവർലേ എണ്ണം (നിശ്ചിത ആവർത്തന മോഡിനായി)"
 noFiles = "എണ്ണങ്ങൾ ക്രമീകരിക്കാൻ ഓവർലെ ഫയലുകൾ ചേർക്കുക"
-placeholder = "കോമയാൽ വേർതിരിച്ച എണ്ണം നൽകുക (ഉദാ., 2,3,1)"
 
 [overlay-pdfs.error]
 failed = "PDFകൾ ഓവർലെ ചെയ്യുന്നതിനിടെ പിശക് സംഭവിച്ചു."
@@ -5487,23 +5040,7 @@ deselectAll = "ഒന്നും തിരഞ്ഞെടുക്കരുത�
 selectAll = "എല്ലാം തിരഞ്ഞെടുക്കുക"
 
 [pageEditor]
-actualSize = "യഥാർത്ഥ വലിപ്പം"
-addFileNotImplemented = "ഡെമോയിലി‍ൽ ഫയൽ ചേർക്കൽ നടപ്പാക്കിയിട്ടില്ല"
-closePdf = "PDF അടയ്ക്കുക"
-deleted = "ഇല്ലാതാക്കി:"
-fitToWidth = "വീതിക്ക് ഒത്താക്കുക"
-insertedPageBreak = "ഇവിടെ പേജ് ബ്രേക്ക് ചേർത്തു:"
-movedLeft = "ഇടത്തേക്ക് നീക്കി:"
-movedRight = "വലത്തേക്ക് നീക്കി:"
-noPdfLoaded = "PDF ലോഡ് ചെയ്തിട്ടില്ല. എഡിറ്റ് ചെയ്യാൻ ദയവായി ഒരു PDF അപ്‌ലോഡ് ചെയ്യുക."
-reset = "മാറ്റങ്ങൾ റീസെറ്റ് ചെയ്യുക"
-rotatedLeft = "ഇടത്തേക്ക് തിരിച്ചു:"
-rotatedRight = "വലത്തേക്ക് തിരിച്ചു:"
-save = "മാറ്റങ്ങൾ സംരക്ഷിക്കുക"
-splitAt = "ഇവിടെ വിഭജിച്ചു:"
 title = "പേജ് എഡിറ്റർ"
-zoomIn = "സൂം ഇൻ"
-zoomOut = "സൂം ഔട്ട്"
 
 [pageEditor.emptyState]
 body = "പേജുകൾ എഡിറ്റ് ചെയ്യാൻ ഫയലുകൾ ചേർക്കുക"
@@ -5517,9 +5054,6 @@ rotateRight = "തെരഞ്ഞെടുത്തത് വലത്തോട�
 undo = "അൺഡോ"
 
 [pageExtracter]
-header = "പേജുകൾ വേർതിരിച്ചെടുക്കുക"
-placeholder = "(ഉദാ. 1,2,8 അല്ലെങ്കിൽ 4,7,12-16 അല്ലെങ്കിൽ 2n-1)"
-submit = "വേർതിരിച്ചെടുക്കുക"
 title = "പേജുകൾ വേർതിരിച്ചെടുക്കുക"
 
 [pageLayout]
@@ -5528,7 +5062,6 @@ borderWidth = "ബോർഡറിന്റെ കനം"
 bottom = "താഴെയുള്ള മാർജിൻ"
 cols = "നിരകൾ"
 colsPlaceholder = "കോളങ്ങൾ നൽകുക"
-header = "മൾട്ടി പേജ് ലേഔട്ട്"
 innerMargin = "ഉൾ മാർജിൻ"
 left = "ഇടത് മാർജിൻ"
 pagesPerSheet = "ഓരോ ഷീറ്റിലെയും പേജുകൾ:"
@@ -5618,16 +5151,6 @@ label = "വായന ദിശ:"
 ltr = "ഇടതുകൂടെ വലത്തോട്ട്"
 rtl = "വലത്തുകൂടെ ഇടത്തോട്ട്"
 
-[pageLayout.tooltip.addBorder]
-text = "കട്ടിംഗ് ഗൈഡുകൾക്കോ ദൃശ്യ വേർതിരിവിനോ വേണ്ടി ഓരോ പേജ് സെല്ലിനും ചുറ്റും ബോർഡർ വരകൾ വരയ്ക്കുന്നു."
-title = "ബോർഡറുകൾ ചേർക്കുക"
-
-[pageLayout.tooltip.arrangement]
-bullet1 = "വരികളായി: ഓരോ വരിയും (ഇടതു-വലം അല്ലെങ്കിൽ വലം-ഇടം) നിറയ്ക്കുക."
-bullet2 = "നിരകളായി: മുകളിൽ നിന്ന് താഴേക്ക്, ഓരോ നിരയും നിറയ്ക്കുക."
-text = "പേജുകൾ ഗ്രിഡ് നിറയ്ക്കുന്ന ക്രമം നിയന്ത്രിക്കുന്നു:"
-title = "പേജ് ക്രമീകരണം"
-
 [pageLayout.tooltip.header]
 title = "പേജ് ലേഔട്ട് ഗൈഡ്"
 
@@ -5637,12 +5160,6 @@ bullet2 = "കസ്റ്റം: വരികളും നിരകളും �
 text = "ഗ്രിഡ് എങ്ങനെ കോൺഫിഗർ ചെയ്യണമെന്നത് തിരഞ്ഞെടുക്കുക:"
 title = "മോഡ്"
 
-[pageLayout.tooltip.orientation]
-bullet1 = "പോർട്രെയിറ്റ്: വീതിയേക്കാൾ ഉയരം കൂടുതലുള്ളത്."
-bullet2 = "ലാൻഡ്‌സ്‌കേപ്പ്: ഉയരത്തേക്കാൾ വീതി കൂടുതലുള്ളത്."
-text = "ഔട്ട്പുട്ട് ഷീറ്റിന്റെ ഓറിയന്റേഷൻ ക്രമീകരിക്കുന്നു:"
-title = "ഓറിയന്റേഷൻ"
-
 [pageLayout.tooltip.overview]
 text = "ഹാൻഡ്ഔട്ടുകൾക്കായി അല്ലെങ്കിൽ പേപ്പർ ലാഭിക്കുന്നതിന് ഒന്നിലധികം പേജുകൾ ഒരു ഷീറ്റിലാക്കി ഒതുക്കുക."
 title = "പേജ് ലേഔട്ട് എന്നത് എന്താണ്?"
@@ -5651,44 +5168,21 @@ title = "പേജ് ലേഔട്ട് എന്നത് എന്താ�
 text = "ഓരോ ഷീറ്റിലും എത്ര പേജുകൾ വേണമെന്ന് തിരഞ്ഞെടുക്കുക (ഉദാ. 4 → 2×2, 9 → 3×3)."
 title = "ഓരോ ഷീറ്റിലുമുള്ള പേജുകൾ (ഡിഫോൾട്ട് മോഡ്)"
 
-[pageLayout.tooltip.readingDirection]
-bullet1 = "LTR: ഇടതുകൂടെ വലത്തോട്ട്."
-bullet2 = "RTL: വലത്തുകൂടെ ഇടത്തോട്ട്."
-text = "പേജുകളുടെ തിരശ്ചീന ക്രമം നിയന്ത്രിക്കുന്നു:"
-title = "വായന ദിശ"
-
 [pageLayout.tooltip.rowsCols]
 text = "തികച്ചും കൃത്യമായ ഗ്രിഡ് അളവുകൾ സജ്ജമാക്കുക. ഷീറ്റിലെ ആകെ പേജുകൾ = വരികൾ × നിരകൾ."
 title = "വരികളും നിരകളും (കസ്റ്റം മോഡ്)"
 
 [pageRemover]
-header = "PDF പേജ് നീക്കംചെയ്യൽ ഉപകരണം"
-pagesToDelete = "ഇല്ലാതാക്കേണ്ട പേജുകൾ (പേജ് നമ്പറുകളുടെ കോമയാൽ വേർതിരിച്ച ലിസ്റ്റ് നൽകുക) :"
-placeholder = "(ഉദാ. 1,2,6 അല്ലെങ്കിൽ 1-10,15-30)"
-submit = "പേജുകൾ ഇല്ലാതാക്കുക"
 title = "പേജ് നീക്കംചെയ്യൽ ഉപകരണം"
 
 [pageSelection.tooltip]
 description = "ഓപ്പറേഷനായി ഉപയോഗിക്കേണ്ട പേജുകൾ തിരഞ്ഞെടുക്കുക. ഒറ്റ പേജുകൾ, പരിധികൾ, ഫോർമുലകൾ, all കീവേഡ് എന്നിവയെല്ലാം പിന്തുണയ്ക്കുന്നു."
-
-[pageSelection.tooltip.advanced]
-title = "ഉന്നത സവിശേഷതകൾ"
-
-[pageSelection.tooltip.basic]
-bullet1 = "വ്യേക്തിഗത പേജുകൾ: 1,3,5"
-bullet2 = "പേജ് പരിധികൾ: 3-6 അല്ലെങ്കിൽ 10-15"
-bullet3 = "എല്ലാ പേജുകളും: all"
-text = "ലളിതമായ സിന്റാക്സ് ഉപയോഗിച്ച് നിങ്ങളുടെ PDF-ിൽ നിന്ന് നിർദ്ദിഷ്ട പേജുകൾ തിരഞ്ഞെടുക്കുക."
-title = "അടിസ്ഥാന ഉപയോഗം"
 
 [pageSelection.tooltip.complex]
 bullet1 = "<strong>1,3-5,8,2n</strong> → പേജുകൾ 1, 3–5, 8, കൂടാതെ even പേജുകൾ"
 bullet2 = "<strong>10-,2n-1</strong> → പേജ് 10 മുതൽ അവസാനം വരെ + odd പേജുകൾ"
 description = "വിവിധ തരങ്ങൾ ചേർത്തുപയോഗിക്കുക."
 title = "സങ്കീർണ്ണ കൂട്ടിച്ചേർക്കലുകൾ"
-
-[pageSelection.tooltip.examples]
-title = "ഉദാഹരണങ്ങൾ"
 
 [pageSelection.tooltip.header]
 title = "പേജ് തിരഞ്ഞെടുക്കൽ ഗൈഡ്"
@@ -5707,13 +5201,6 @@ bullet4 = "<strong>4n-1</strong> → പേജുകൾ 3, 7, 11, 15…"
 description = "മാതൃകകൾക്കായി ഫോർമുലകളിൽ n ഉപയോഗിക്കുക."
 title = "ഗണിത ഫങ്ഷനുകൾ"
 
-[pageSelection.tooltip.operators]
-and = "AND: & അല്ലെങ്കിൽ \"and\" — രണ്ട് നിബന്ധനകളും ആവശ്യമാണ് (ഉദാ., 1-50 & even)"
-comma = "കോമ: , അല്ലെങ്കിൽ | — തിരഞ്ഞെടുക്കലുകൾ കൂട്ടിച്ചേർക്കുക (ഉദാ., 1-10, 20)"
-not = "NOT: ! അല്ലെങ്കിൽ \"not\" — പേജുകൾ ഒഴിവാക്കുക (ഉദാ., 3n & not 30)"
-text = "AND-ന് കോമയേക്കാൾ ഉയർന്ന മുൻഗണനയുണ്ട്. NOT ഡോക്യുമെന്റ് പരിധിക്കുള്ളിൽ ബാധകമാണ്."
-title = "ഓപ്പറേറ്ററുകൾ"
-
 [pageSelection.tooltip.ranges]
 bullet1 = "<strong>3-6</strong> → പേജുകൾ 3–6 തിരഞ്ഞെടുക്കുന്നു"
 bullet2 = "<strong>10-15</strong> → പേജുകൾ 10–15 തിരഞ്ഞെടുക്കുന്നു"
@@ -5725,53 +5212,230 @@ title = "പേജ് പരിധികൾ"
 bullet1 = "<strong>all</strong> → എല്ലാ പേജുകളും തിരഞ്ഞെടുക്കുന്നു"
 title = "പ്രത്യേക കീവേഡുകൾ"
 
-[pageSelection.tooltip.syntax]
-text = "സംഖ്യകൾ, പരിധികൾ, കീവേഡുകൾ, പുരോഗതികൾ (n 0-ൽ നിന്നും ആരംഭിക്കുന്നു) ഉപയോഗിക്കുക. ബ്രാക്കറ്റുകൾ പിന്തുണയ്ക്കുന്നു."
-title = "സിന്റാക്സ് അടിസ്ഥാനങ്ങൾ"
+[payg.activity]
+docs = "docs"
+empty = "No billable activity yet this period."
+subtitle = "Only AI and automation draw from your budget. Everyday tools are free and aren't listed here."
+title = "Recent billable activity"
 
-[pageSelection.tooltip.syntax.bullets]
-keywords = "കീവേഡുകൾ: odd, even"
-numbers = "സംഖ്യകൾ/പരിധികൾ: 5, 10-20"
-progressions = "പുരോഗതികൾ: 3n, 4n+1"
+[payg.cap]
+amount = "Cap amount"
+custom = "Custom"
+docsEstimate = "≈ {{docs}} processed PDFs / month"
+docsRate = "at {{rate}} / PDF"
+noCapDesc = "Usage is billed without an upper limit. You can re-enable a cap at any time."
+noCapLabel = "No cap"
+noneShort = "No cap"
+perMonth = "/ month"
+save = "Update cap"
+subtitle = "Set your maximum spend. We convert this to PDFs using the current price tier."
+title = "Monthly spending cap"
 
-[pageSelection.tooltip.tips]
-bullet1 = "പേജ് നമ്പറുകൾ 1 മുതൽ ആരംഭിക്കുന്നു (0 അല്ല)"
-bullet2 = "ഇടവിടുകൾ സ്വയമേവ നീക്കം ചെയ്യും"
-bullet3 = "അസാധുവായ പ്രകടനങ്ങൾ അവഗണിക്കും"
-text = "ഈ മാർഗ്ഗനിർദ്ദേശങ്ങൾ മനസ്സിൽ വയ്ക്കുക:"
-title = "ടിപ്പുകൾ"
+[payg.checkout]
+connecting = "Connecting to Stripe…"
+errorTitle = "Stripe error"
+
+[payg.checkout.error]
+startFailed = "Couldn't start checkout session"
+
+[payg.checkout.mock]
+backend = "Backend is in mock mode; no real Stripe session was created."
+continue = "Continue with mock subscription"
+noKey = "VITE_STRIPE_PUBLISHABLE_KEY is unset. Real iframe mounts here once configured."
+title = "Stripe Embedded Checkout (mock mode)"
+
+[payg.confirm]
+body = "Your team can now run automation, AI, and API operations beyond your 500 free PDFs."
+capValue = "{{symbol}}{{amount}} / month"
+noCap = "No cap"
+note = "You can change your cap, cancel, or open the Stripe customer portal any time from this page."
+summaryLabel = "Monthly ceiling"
+title = "Welcome to the Processor plan"
+
+[payg.docHelp]
+billable = "Only automation runs, AI tools, and API calls count. Manual tools in the editor are always free."
+chains = "Running the same file through several steps of one automation counts it once, not once per step."
+perFile = "Each file you process counts as one PDF. Very long or very large files can count as more than one."
+refunds = "If a job fails on its first step, the PDF is credited back automatically."
+toggle = "What counts as a PDF?"
+
+[payg.error]
+body = "We couldn't reach the billing service. Refresh the page to try again."
+title = "Couldn't load your plan"
+
+[payg.free.cta]
+benefit1Body = "chain tools, schedule runs, batch process"
+benefit1Title = "Automation pipelines"
+benefit2Body = "summarize, classify, redact, AI-OCR"
+benefit2Title = "AI tools"
+benefit3Body = "call any Stirling endpoint programmatically"
+benefit3Title = "API access"
+button = "Turn on Processor →"
+reassurance = "No minimum · Set a $0 cap to test · Cancel anytime"
+subtitle = "Keep going past your 500 free PDFs with automation, AI, and the API. Set a monthly ceiling, so you stay in control."
+title = "Turn on the Processor plan"
+
+[payg.free.editor]
+eyebrow = "Editor plan · Always free"
+
+[payg.free.header]
+freeBody = "View, edit, merge, split, sign, watermark, compress, convert and manual OCR — as much as you want, no matter where you trigger it."
+freeTitle = "Unlimited PDF editing"
+
+[payg.free.hero]
+capSuffix = "/ {{limit}} free PDFs"
+metaCategories = "Automation · AI · API requests"
+
+[payg.free.member]
+ownerOnly = "Only your team owner can turn on Processor. Manual tools stay free for you to use as much as you like."
+
+[payg.free.proc]
+eyebrow = "Processor plan · metered"
+
+[payg.free.state]
+approachingLimit = "Approaching limit"
+limitReached = "Limit reached"
+plentyLeft = "Plenty left"
+
+[payg.gates]
+ai = "AI tools (AI Create, suggestions, AI-OCR)"
+automation = "Automations & pipelines"
+client = "Browser-only tools (viewer, page editor, file management)"
+offsite = "Server tools (compress, OCR, convert, watermark…)"
+pauses = "pauses at cap"
+title = "What happens when the cap is reached"
+
+[payg.header]
+eyebrow = "Processor plan · {{start}} – {{end}}"
+freeBody = "View, edit, merge, split, sign, watermark, compress, convert and manual OCR — as much as you want, no matter where you trigger it."
+freeLabel = "Always free"
+freeTitle = "Unlimited PDF editing"
+meterBody = "{{limit}} free PDFs to start, then billed per PDF up to your cap."
+meterLabel = "Metered"
+meterTitle = "Automation · AI · API"
+
+[payg.member]
+askLeader = "Only your team owner can change the cap."
+
+[payg.members]
+docs = "PDFs"
+subtitle = "Billable PDFs each teammate has processed this period."
+title = "Team member usage"
+
+[payg.role]
+leader = "Team owner"
+member = "Member"
+
+[payg.signupRequired]
+body = "Stirling PDF gives every signed-up account 500 free operations, enough to keep most workflows humming without paying a cent. You're currently using Stirling as a guest, which doesn't include billable tools like AI, automations, or hosted processing."
+cancel = "Not now"
+cta = "Sign up free"
+subtext = "Creating an account is free and takes a few seconds. No credit card required."
+title = "Sign up to use {{category}}"
+
+[payg.signupRequired.category]
+ai = "AI features"
+api = "this tool"
+automation = "automations"
+default = "this feature"
+
+[payg.spendCapMeter]
+capSuffix = "/ {{amount}} cap"
+metaCategories = "Automation · AI · API spend"
+resets = "Resets each billing period"
+
+[payg.state]
+degraded = "Cap reached"
+full = "Healthy"
+warned = "Approaching cap"
+
+[payg.stripe]
+open = "Open billing portal"
+subtitle = "Receipts, invoices, payment method, billing currency."
+title = "Manage billing in Stripe"
+
+[payg.stripe.toast.unavailable]
+body = "Billing portal isn't available right now. Try again in a moment."
+title = "Billing portal unavailable"
+
+[payg.upgrade]
+backAria = "Back"
+closeAria = "Close"
+
+[payg.upgrade.button]
+cancel = "Cancel"
+continue = "Continue →"
+finish = "Finish"
+
+[payg.upgrade.cap]
+help = "We'll never charge above this. Set $0 if you want to keep everything free while testing."
+title = "Set your monthly spend ceiling"
+usdNote = "Estimated in USD. You can adjust your cap any time after subscribing, in your own currency."
+
+[payg.upgrade.checkout]
+capValue = "{{symbol}}{{amount}} / month"
+edit = "Edit"
+help = "Stripe handles your card details. Stirling never sees them."
+loading = "Loading checkout…"
+noCap = "No cap"
+title = "Add your payment method"
+
+[payg.upgrade.help]
+aiBody = "summarize, classify, redact, AI-OCR"
+aiTitle = "AI tools"
+apiBody = "programmatic access to any Stirling endpoint"
+apiTitle = "API calls"
+automationBody = "chained tools or scheduled runs that don't need clicks"
+automationTitle = "Automation pipelines"
+footnote = "Manual tools (viewing, editing, merging, splitting, watermarking, compressing, manual OCR) are always free, even past 500. The distinction is the type of work, not where you click."
+title = "What we count toward billing"
+
+[payg.upgrade.promise]
+body = "You only pay for automation pipelines, AI tools, and API calls, the work that goes beyond a single click. Edit, merge, split, sign, compress as much as you want, no charge."
+highlight = "Manual tools stay free, always."
+
+[payg.upgrade.steps]
+cap = "Set monthly ceiling"
+payment = "Add payment method"
+
+[payg.upgrade.title]
+confirm = "You're subscribed"
+default = "Upgrade to Processor plan"
+
+[payg.usage]
+breakdown = "AI {{ai}} • Automation {{automation}} • API {{api}}"
+capLine = "{{cap}}/mo cap"
+estBill = "≈ {{amount}} so far this period"
+firstFree = "First {{free}} free"
+noCap = "No monthly cap"
+ofLimitProcessed = "/ {{limit}} PDFs processed"
+processed = "PDFs processed"
+resetsIn = "Resets in {{days}} days"
+resetsTomorrow = "Resets tomorrow"
+thisPeriod = "This billing period"
 
 [payment]
 autoClose = "ഈ വിൻഡോ സ്വമേധയായി അടയ്ക്കും..."
-billingPeriod = "ബില്ലിംഗ് കാലയളവ്"
 canCloseWindow = "ഇപ്പോൾ ഈ വിൻഡോ അടയ്ക്കാം."
 checkoutInstructions = "ഇപ്പോൾ തുറന്ന ബ്രൗസർ വിൻഡോയിൽ നിങ്ങളുടെ വാങ്ങൽ പൂർത്തിയാക്കുക. പേയ്മെന്റ് പൂർത്തിയായ ശേഷം ഇവിടെ മടങ്ങി വന്ന് താഴെയുള്ള ബട്ടൺ അമർത്തി നിങ്ങളുടെ ബില്ലിംഗ് വിവരങ്ങൾ പുതുക്കുക."
 checkoutOpened = "ബ്രൗസറിൽ Checkout തുറന്നു"
 closeLater = "ഇത് പിന്നീടു ചെയ്യും"
-emailInvalid = "ദയവായി സാധുവായ ഒരു ഇമെയിൽ വിലാസം നൽകുക"
-enterpriseNote = "ചെക്കൗട്ടിൽ സീറ്റുകൾ ക്രമീകരിക്കാം (1-1000)."
 error = "പേയ്മെന്റ് പിഴവ്"
 generatingLicense = "നിങ്ങളുടെ ലൈസൻസ് കീ നിർമ്മിക്കുന്നു..."
-installationId = "ഇൻസ്റ്റാളേഷൻ ID"
 licenseActivated = "ലൈസൻസ് സജീവമായി! നിങ്ങളുടെ ലൈസൻസ് കീ സേവ് ചെയ്തു. രജിസ്റ്റർ ചെയ്ത ഇമെയിലിലേക്ക് സ്ഥിരീകരണ ഇമെയിൽ അയച്ചിട്ടുണ്ട്."
 licenseDelayed = "പേയ്മെന്റ് വിജയകരം! നിങ്ങളുടെ ലൈസൻസ് നിർമ്മിക്കുന്നു. ഉടൻ തന്നെ നിങ്ങളുടെ ലൈസൻസ് കീ ഇമെയിലിലൂടെ ലഭിക്കും. 10 മിനിറ്റിനുള്ളിൽ ലഭിക്കാത്ത പക്ഷം support-നെ ബന്ധപ്പെടുക."
 licenseDelayedMessage = "നിങ്ങളുടെ ലൈസൻസ് കീ നിർമ്മിക്കുന്നു. ദയവായി ഉടൻ നിങ്ങളുടെ ഇമെയിൽ പരിശോധിക്കുക അല്ലെങ്കിൽ support-നെ ബന്ധപ്പെടുക."
 licenseInstructions = "ഇത് നിങ്ങളുടെ ഇൻസ്റ്റലേഷനിൽ ചേർത്തിരിക്കുന്നു. നിങ്ങളുടെ ഇമെയിലിലും ഒരു പകർപ്പ് ലഭിക്കും."
 licenseKey = "നിങ്ങളുടെ ലൈസൻസ് കീ"
-licenseKeyProcessing = "ലൈസൻസ് കീ പ്രോസസ്സ് ചെയ്യുന്നു"
 licensePollingError = "പേയ്മെന്റ് വിജയകരം, പക്ഷേ നിങ്ങളുടെ ലൈസൻസ് കീ സ്വയമേവ തിരികെ നേടാൻ കഴിഞ്ഞില്ല. ദയവായി നിങ്ങളുടെ ഇമെയിൽ പരിശോധിക്കുക അല്ലെങ്കിൽ പേയ്മെന്റ് സ്ഥിരീകരണവുമായി support-നെ ബന്ധപ്പെടുക."
 licenseRetrievalError = "പേയ്മെന്റ് വിജയകരം, പക്ഷേ ലൈസൻസ് തിരികെ കൊണ്ടുവരൽ പരാജയപ്പെട്ടു. നിങ്ങളുടെ ലൈസൻസ് കീ ഇമെയിലിലൂടെ ലഭിക്കും. 10 മിനിറ്റിനുള്ളിൽ ലഭിക്കാത്ത പക്ഷം support-നെ ബന്ധപ്പെടുക."
 licenseSaveError = "ലൈസൻസ് കീ സേവ് ചെയ്യൽ പരാജയപ്പെട്ടു. ആക്റ്റിവേഷൻ പൂർത്തിയാക്കാൻ നിങ്ങളുടെ ലൈസൻസ് കീയുമായി support-നെ ബന്ധപ്പെടുക."
 monthly = "മാസം"
 paymentCanceled = "പേയ്മെന്റ് റദ്ദാക്കി. പണമിടപാട് ഒന്നും നടന്നിട്ടില്ല."
-paymentSuccess = "പേയ്മെന്റ് വിജയകരം! നിങ്ങളുടെ ലൈസൻസ് കീ തിരികെ കൊണ്ടുവരുന്നു..."
 perMonth = "/മാസം"
-perYear = "/വർഷം"
 preparing = "നിങ്ങളുടെ ചെക്ക്ഔട്ട് തയ്യാറാക്കുന്നു..."
 redirecting = "സുരക്ഷിത checkout ലേക്ക് റീഡിറക്ട് ചെയ്യുന്നു..."
 refreshBilling = "പേയ്മെന്റ് പൂർത്തിയായി - ബില്ലിംഗ് പുതുക്കുക"
-stripeNotConfigured = "Stripe കോൺഫിഗർ ചെയ്തിട്ടില്ല"
-stripeNotConfiguredMessage = "Stripe പേയ്മെന്റ് ഇന്റഗ്രേഷൻ കോൺഫിഗർ ചെയ്തിട്ടില്ല. ദയവായി നിങ്ങളുടെ അഡ്മിനിസ്ട്രേറ്ററെ ബന്ധപ്പെടുക."
 success = "പേയ്മെന്റ് വിജയകരം!"
 successMessage = "നിങ്ങളുടെ സബ്‌സ്‌ക്രിപ്ഷൻ വിജയകരമായി സജീവമാക്കിയിരിക്കുന്നു. ഉടൻ തന്നെ നിങ്ങൾക്ക് ഒരു സ്ഥിരീകരണ ഇമെയിൽ ലഭിക്കും."
 syncError = "പേയ്മെന്റ് വിജയകരം, പക്ഷേ ലൈസൻസ് സിങ്ക് പരാജയപ്പെട്ടു. നിങ്ങളുടെ ലൈസൻസ് ഉടൻ അപ്‌ഡേറ്റ് ചെയ്യും. പ്രശ്‌നങ്ങൾ തുടർന്നാൽ support-നെ ബന്ധപ്പെടുക."
@@ -5788,25 +5452,17 @@ description = "നിങ്ങളുടെ ലൈസൻസ് കീയും �
 emailLabel = "ഇമെയിൽ വിലാസം"
 emailPlaceholder = "your@email.com"
 modalTitle = "ആരംഭിക്കുക - {{planName}}"
-title = "നിങ്ങളുടെ ഇമെയിൽ നൽകുക"
 
 [payment.paymentStage]
-backToPlan = "പ്ലാൻ തിരഞ്ഞെടുപ്പിലേക്ക് മടങ്ങുക"
 modalTitle = "പേയ്മെന്റ് പൂർത്തിയാക്കുക - {{planName}}"
-selectedPlan = "തിരഞ്ഞെടുത്ത പ്ലാൻ"
 
 [payment.planStage]
-basePrice = "അടിസ്ഥാന വില"
 billedYearly = "വാർഷികമായി {{currency}}{{amount}} ന് ബിൽ ചെയ്യും"
 modalTitle = "ബില്ലിംഗ് കാലയളവ് തിരഞ്ഞെടുക്കുക - {{planName}}"
 savePercent = "{{percent}}% ലാഭിക്കുക"
 savingsAmount = "നിങ്ങൾ ലാഭിക്കുന്നത് {{amount}}"
-savingsNote = "വാർഷിക ബില്ലിംഗിൽ {{percent}}% ലാഭിക്കാം"
-seatPrice = "സീറ്റ്‌പ്രതി"
 selectMonthly = "മാസികം തിരഞ്ഞെടുക്കുക"
 selectYearly = "വാർഷികം തിരഞ്ഞെടുക്കുക"
-title = "നിങ്ങളുടെ ബില്ലിംഗ് കാലയളവ് തിരഞ്ഞെടുക്കുക"
-totalForSeats = "ആകെ ({{count}} സീറ്റുകൾ)"
 
 [pdfCommentAgent]
 submit = "കമന്റുകൾ സൃഷ്ടിക്കുക"
@@ -5827,24 +5483,9 @@ title = "കമന്റ് ചെയ്ത PDF"
 title = "കമന്റ് നിർദേശങ്ങൾ"
 
 [pdfOrganiser]
-header = "PDF പേജ് ഓർഗനൈസർ"
 placeholder = "(ഉദാ. 1,3,2 അല്ലെങ്കിൽ 4-8,2,10-12 അല്ലെങ്കിൽ 2n-1)"
-submit = "പേജുകൾ പുനഃക്രമീകരിക്കുക"
 tags = "ഡ്യൂപ്ലെക്സ്,ഇരട്ട,ഒറ്റ,അടുക്കുക,നീക്കുക"
 title = "പേജ് ഓർഗനൈസർ"
-
-[pdfOrganiser.desc]
-BOOKLET_SORT = "ബുക്ക്‌ലെറ്റ് പ്രിന്റിംഗിനായി പേജുകൾ ക്രമപ്പെടുത്തുക (അവസാനം, ആദ്യത്തേത്, രണ്ടാമത്ത്, രണ്ടാം അവസാനത്തേത്, …)."
-CUSTOM = "ഇഷ്ടാനുസൃത പേജ് നമ്പറുകളുടെയോ അഭിവ്യക്തികളുടെയോ ഒരു ശ്രേണി ഉപയോഗിച്ച് പുതിയ ക്രമം നിർവചിക്കുക."
-DUPLEX_SORT = "മுன്‍ വശങ്ങളും പിന്നിലെ വശങ്ങളും ഇടകലരുക; ഒരു ഡ്യൂപ്ലെക്സ് സ്കാനർ ആദ്യം മുന്നെല്ലാം, പിന്നെ പിന്നെല്ലാം സ്കാൻ ചെയ്‌തതുപോലെ (1, n, 2, n-1, …)."
-DUPLICATE = "ഇഷ്ടാനുസൃത ഓർഡർ കൗണ്ടിന് അനുസരിച്ച് ഓരോ പേജും നകൽ ചെയ്യുക (ഉദാ., ഓരോ പേജും 4 പ്രാവശ്യം)."
-ODD_EVEN_MERGE = "രണ്ട് PDF-ുകൾ പേജുകൾ മാറിമാറി ലയിപ്പിക്കുക: ആദ്യത്തേതിൽ നിന്ന് ഒറ്റ പേജുകൾ, രണ്ടാമത്തേതിൽ നിന്ന് ജോടി പേജുകൾ."
-ODD_EVEN_SPLIT = "ഡോക്യുമെന്റ് രണ്ട് ഔട്ട്പുട്ടുകളാക്കി വിഭജിക്കുക: എല്ലാ ഒറ്റ പേജുകളും എല്ലാ ജോടി പേജുകളും."
-REMOVE_FIRST = "ഡോക്യുമെന്റിൽ നിന്ന് ആദ്യ പേജ് നീക്കം ചെയ്യുക."
-REMOVE_FIRST_AND_LAST = "ഡോക്യുമെന്റിൽ നിന്ന് ആദ്യവും ഒടുവിലത്തെ പേജും നീക്കം ചെയ്യുക."
-REMOVE_LAST = "ഡോക്യുമെന്റിൽ നിന്ന് ഒടുവിലത്തെ പേജ് നീക്കം ചെയ്യുക."
-REVERSE_ORDER = "ഡോക്യുമെന്റിനെ മറിച്ചു അറ്റു: അവസാന പേജ് ആദ്യം വരും."
-SIDE_STITCH_BOOKLET_SORT = "സൈഡ്-സ്റ്റിച്ച് ബുക്ക്‌ലെറ്റ് പ്രിന്റിംഗിനായി പേജുകൾ ക്രമപ്പെടുത്തുക (വശത്ത് ബൈൻഡിംഗിനായി ഒപ്റ്റിമൈസ്ഡ് ചെയ്തത്)."
 
 [pdfOrganiser.mode]
 1 = "ഇഷ്ടാനുസൃത പേജ് ക്രമം"
@@ -5881,32 +5522,22 @@ imageLabel = "സ്ഥാപിച്ച ചിത്രം"
 noTextOnPage = "ഈ പേജിൽ എഡിറ്റ് ചെയ്യാവുന്ന ടെക്സ്റ്റ് കണ്ടെത്തിയില്ല."
 pagePreviewAlt = "പേജ് പ്രിവ്യൂ"
 pageSummary = "പേജ് {{number}} / {{total}}"
+tags = "edit text,modify text,change text,edit content,update text,rewrite,correct,amend,redline,revise,text editor,content editor"
 title = "PDF JSON എഡിറ്റർ"
 viewLabel = "PDF എഡിറ്റർ"
 
 [pdfTextEditor.actions]
 applyChanges = "മാറ്റങ്ങൾ പ്രയോഗിക്കുക"
 downloadCopy = "കോപ്പി ഡൗൺലോഡ് ചെയ്യുക"
-downloadJson = "JSON ഡൗൺലോഡ് ചെയ്യുക"
-generatePdf = "PDF സൃഷ്ടിക്കുക"
 reset = "മാറ്റങ്ങൾ റീസെറ്റ് ചെയ്യുക"
-saveChanges = "മാറ്റങ്ങൾ സംരക്ഷിക്കുക"
 
 [pdfTextEditor.badges]
 earlyAccess = "Early Access"
 modified = "എഡിറ്റ് ചെയ്തു"
-unsaved = "എഡിറ്റ് ചെയ്തു"
-
-[pdfTextEditor.disclaimer]
-alpha = "ഈ ആൽഫ വീവർ ഇനിയും വികസനത്തിലാണു—ചില ഫോന്റുകൾ, നിറങ്ങൾ, പാർദർശ്യത, ലേഔട്ട് വിശദാംശങ്ങൾ അല്പം മാറാം. പങ്കിടുന്നതിന് മുമ്പ് സൃഷ്ടിച്ച PDF രണ്ടുതവണ പരിശോധിക്കുക."
-heading = "പ്രിവ്യൂ പരിമിതികൾ"
-previewVariance = "ചില വിസ്വൽസ് (ടേബിൾ ബോർഡറുകൾ, ഷേപ്പുകൾ, അല്ലെങ്കിൽ അനോട്ടേഷൻ രൂപം എന്നിവ) പ്രിവ്യൂയിൽ കൃത്യമായി കാണിക്കണമെന്നില്ല. കഴിയുന്നിടത്തോളം എക്സ്പോർട്ട് ചെയ്യുന്ന PDF ഒറിജിനൽ drawing commands നിലനിർത്തും."
-textFocus = "ഈ വർക്ക്സ്പേസ് ടെക്സ്റ്റ് എഡിറ്റ് ചെയ്യുന്നതിനും ഉൾച്ചേർത്ത ചിത്രങ്ങളുടെ സ്ഥാനം മാറ്റുന്നതിനും ശ്രദ്ധിക്കുന്നു. സങ്കീർണ്ണ പേജ് ആർട്വർക്ക്, ഫോം വിഡ്ജറ്റുകൾ, ലെയേർഡ് ഗ്രാഫിക്സ് എന്നിവ എക്സ്പോർട്ടിൽ സംരക്ഷിക്കുമെങ്കിലും ഇവിടെ പൂർണ്ണമായി എഡിറ്റ് ചെയ്യാനാവില്ല."
 
 [pdfTextEditor.empty]
 dropzone = "ഒരു PDF അല്ലെങ്കിൽ JSON ഫയൽ ഇവിടെ വലിച്ചിടുക, അല്ലെങ്കിൽ ബ്രൗസ് ചെയ്യാൻ ക്ലിക്ക് ചെയ്യുക"
 dropzoneWithFiles = "Files ടാബിൽ നിന്ന് ഒരു ഫയൽ തിരഞ്ഞെടുക്കുക, അല്ലെങ്കിൽ ഒരു PDF അല്ലെങ്കിൽ JSON ഫയൽ ഇവിടെ വലിച്ചിടുക, അല്ലെങ്കിൽ ബ്രൗസ് ചെയ്യാൻ ക്ലിക്ക് ചെയ്യുക"
-subtitle = "ടെക്സ്റ്റ് എഡിറ്റ് ആരംഭിക്കാൻ PDF അല്ലെങ്കിൽ JSON ഫയൽ ലോഡ് ചെയ്യുക."
 title = "പ്രമാണം ലോഡ് ചെയ്തിട്ടില്ല"
 
 [pdfTextEditor.errors]
@@ -5968,12 +5599,13 @@ paragraphDescription = "അലൈൻ ചെയ്ത വരികളെ മൾ�
 singleLineDescription = "ഓരോ PDF ടെക്സ്റ്റ് വരിയും വേർതിരിച്ച ടെക്സ്റ്റ് ബോക്‌സായി നിലനിർത്തും."
 title = "ടെക്സ്റ്റ് ഗ്രൂപ്പിംഗ് മോഡ്"
 
-[pdfTextEditor.options.manualGrouping]
-descriptionInline = "ടിപ്പ്: ടെക്സ്റ്റ് ബോക്‌സുകൾ പലതും തിരഞ്ഞെടുക്കാൻ Ctrl (Cmd) അല്ലെങ്കിൽ Shift അമർത്തികൊണ്ടിരിക്കുക. തിരഞ്ഞെടുപ്പിന് മുകളിലേക്ക് ഒരു ഫ്ലോട്ടിംഗ് ടൂൾബാർ പ്രത്യക്ഷപ്പെടും; അവിടെ നിന്ന് ലയിപ്പിക്കൽ, അൺഗ്രൂപ്പ്, അല്ലെങ്കിൽ വീതി ക്രമീകരണം ചെയ്യാം."
-
 [pdfTextEditor.pageType]
 paragraph = "പാരഗ്രാഫ് പേജ്"
 sparse = "തിതറിച്ച ടെക്സ്റ്റ്"
+
+[pdfTextEditor.stages]
+processing = "Processing"
+uploading = "Uploading"
 
 [pdfTextEditor.tooltip.alpha]
 text = "ഈ ആൽഫാ വ്യൂവർ ഇനിയും വികസനത്തിലാണു—ചില ഫോണ്ടുകൾ, നിറങ്ങൾ, പാരദർശ്യത ഇഫക്ടുകൾ, ലേഔട്ട് വിശദാംശങ്ങൾ എന്നിവ നേരിയ മാറ്റങ്ങൾ കാണിക്കാം. പങ്കിടുന്നതിന് മുമ്പ് സൃഷ്ടിച്ച PDF വീണ്ടും പരിശോധിക്കുക."
@@ -6018,164 +5650,78 @@ title = "PDF Text Editor-ലേക്ക് സ്വാഗതം (Early Access)
 
 [PDFToCSV]
 header = "PDF CSV-ലേക്ക്"
-prompt = "പട്ടിക വേർതിരിച്ചെടുക്കാൻ പേജ് തിരഞ്ഞെടുക്കുക"
-submit = "വേർതിരിച്ചെടുക്കുക"
 title = "PDF CSV-ലേക്ക്"
 
 [PDFToHTML]
-credit = "ഈ സേവനം ഫയൽ പരിവർത്തനത്തിനായി pdftohtml ഉപയോഗിക്കുന്നു."
 header = "PDF HTML-ലേക്ക്"
-submit = "പരിവർത്തനം ചെയ്യുക"
 tags = "വെബ് ഉള്ളടക്കം,ബ്രൗസർ സൗഹൃദം"
 title = "PDF HTML-ലേക്ക്"
 
 [pdfToImage]
-blackwhite = "കറുപ്പും വെളുപ്പും (ഡാറ്റ നഷ്ടപ്പെട്ടേക്കാം!)"
-color = "നിറം"
-colorType = "നിറ തരം"
-grey = "ഗ്രേസ്‌കെയിൽ"
-header = "PDF ചിത്രത്തിലേക്ക്"
-info = "പൈത്തൺ ഇൻസ്റ്റാൾ ചെയ്തിട്ടില്ല. WebP പരിവർത്തനത്തിന് ആവശ്യമാണ്."
-multi = "ഒന്നിലധികം ചിത്രങ്ങൾ"
-placeholder = "(ഉദാ. 1,2,8 അല്ലെങ്കിൽ 4,7,12-16 അല്ലെങ്കിൽ 2n-1)"
-selectText = "ചിത്ര ഫോർമാറ്റ്"
-single = "ഒരൊറ്റ വലിയ ചിത്രം"
-singleOrMultiple = "ചിത്ര ഫല തരം"
-submit = "പരിവർത്തനം ചെയ്യുക"
 tags = "പരിവർത്തനം,img,jpg,ചിത്രം,ഫോട്ടോ"
 title = "PDF ചിത്രത്തിലേക്ക്"
 
 [PDFToMarkdown]
 header = "PDF മാർക്ക്ഡൗണിലേക്ക്"
-submit = "പരിവർത്തനം ചെയ്യുക"
 tags = "മാർക്ക്അപ്പ്,വെബ്-ഉള്ളടക്കം,രൂപാന്തരം,പരിവർത്തനം ചെയ്യുക,md"
 title = "PDF മാർക്ക്ഡൗണിലേക്ക്"
 
 [pdfToPDFA]
-credit = "ഈ സേവനം PDF/A പരിവർത്തനത്തിനായി libreoffice ഉപയോഗിക്കുന്നു"
 header = "PDF PDF/A-ലേക്ക്"
-outputFormat = "ഔട്ട്‌പുട്ട് ഫോർമാറ്റ്"
-pdfWithDigitalSignature = "PDF-ൽ ഒരു ഡിജിറ്റൽ ഒപ്പ് അടങ്ങിയിരിക്കുന്നു. അടുത്ത ഘട്ടത്തിൽ ഇത് നീക്കം ചെയ്യപ്പെടും."
-submit = "പരിവർത്തനം ചെയ്യുക"
 tags = "ആർക്കൈവ്,ദീർഘകാല,മാനദണ്ഡം,പരിവർത്തനം,സംഭരണം,സംരക്ഷണം"
-tip = "നിലവിൽ ഒരേസമയം ഒന്നിലധികം ഇൻപുട്ടുകൾക്കായി പ്രവർത്തിക്കുന്നില്ല"
 title = "PDF PDF/A-ലേക്ക്"
 
 [pdfToPDFX]
-credit = "PDF/X കൺവേഴ്ഷനായി ഈ സേവനം Ghostscript ഉപയോഗിക്കുന്നു"
-header = "PDF-നെ PDF/X-ലേക്ക്"
-outputFormat = "ഔട്ട്‌പുട്ട് ഫോർമാറ്റ്"
-pdfWithDigitalSignature = "PDF-യിൽ ഡിജിറ്റൽ ഒപ്പ് ഉണ്ട്. ഇത് അടുത്ത ഘട്ടത്തിൽ നീക്കം ചെയ്യും."
-submit = "മാറ്റുക"
 tags = "പ്രിന്റ്,സ്റ്റാൻഡേർഡ്,കൺവർഷൻ,പ്രൊഡക്ഷൻ,പ്രീപ്രസ്,ആർക്കൈവ്"
-tip = "ഇപ്പോൾ ഒരേസമയം ഒന്നിലധികം ഇൻപുട്ടുകൾക്ക് പ്രവർത്തിക്കില്ല"
 title = "PDF-നെ PDF/X-ലേക്ക്"
 
 [PDFToPresentation]
-credit = "ഈ സേവനം ഫയൽ പരിവർത്തനത്തിനായി LibreOffice ഉപയോഗിക്കുന്നു."
 header = "PDF പ്രസന്റേഷനിലേക്ക്"
-submit = "പരിവർത്തനം ചെയ്യുക"
 tags = "സ്ലൈഡുകൾ,ഷോ,ഓഫീസ്,മൈക്രോസോഫ്റ്റ്"
 title = "PDF പ്രസന്റേഷനിലേക്ക്"
-
-[PDFToPresentation.selectText]
-1 = "ഔട്ട്‌പുട്ട് ഫയൽ ഫോർമാറ്റ്"
 
 [PdfToSinglePage]
 tags = "ഒറ്റ പേജ്"
 
 [pdfToSinglePage]
 description = "ഈ ടൂൾ നിങ്ങളുടെ PDFയിലെ എല്ലാ പേജുകളും ഒരു വലിയ ഒറ്റ പേജായി ലയിപ്പിക്കും. വീതി യഥാതഥ പേജുകളിലേതുപോലെ തുടരും, എന്നാൽ ഉയരം എല്ലാ പേജുകളുടെ ഉയരങ്ങളുടെ മൊത്തം ആയിരിക്കും."
-filenamePrefix = "ഒറ്റ_താൾ"
-header = "PDF ഒരൊറ്റ പേജിലേക്ക്"
 submit = "ഒരൊറ്റ പേജിലേക്ക് മാറ്റുക"
+tags = "combine,merge,single,single page,one page,merge to single,combine all,stitch pages,concatenate vertical,long page,poster"
 title = "PDF ഒരൊറ്റ പേജിലേക്ക്"
 
 [pdfToSinglePage.error]
 failed = "ഒറ്റ പേജായി പരിവർത്തനം ചെയ്യുന്നതിനിടെ പിശക് സംഭവിച്ചു."
 
-[pdfToSinglePage.files]
-placeholder = "തുടങ്ങാൻ മെയിൻ വ്യൂവിൽ ഒരു PDF ഫയൽ തിരഞ്ഞെടുക്കുക"
-
 [pdfToSinglePage.results]
 title = "ഒറ്റ പേജ് ഫലങ്ങൾ"
 
 [PDFToText]
-credit = "ഈ സേവനം ഫയൽ പരിവർത്തനത്തിനായി LibreOffice ഉപയോഗിക്കുന്നു."
 header = "PDF RTF-ലേക്ക് (ടെക്സ്റ്റ്)"
-submit = "പരിവർത്തനം ചെയ്യുക"
 tags = "റിച്ച്ഫോർമാറ്റ്,റിച്ച്‌ടെക്സ്റ്റ്ഫോർമാറ്റ്,റിച്ച് ടെക്സ്റ്റ് ഫോർമാറ്റ്"
 title = "PDF RTF-ലേക്ക് (ടെക്സ്റ്റ്)"
 
-[PDFToText.selectText]
-1 = "ഔട്ട്‌പുട്ട് ഫയൽ ഫോർമാറ്റ്"
-
 [PDFToWord]
-credit = "ഈ സേവനം ഫയൽ പരിവർത്തനത്തിനായി LibreOffice ഉപയോഗിക്കുന്നു."
 header = "PDF വേഡിലേക്ക്"
-submit = "പരിവർത്തനം ചെയ്യുക"
 tags = "doc,docx,odt,വേഡ്,രൂപാന്തരം,ഫോർമാറ്റ്,പരിവർത്തനം,ഓഫീസ്,മൈക്രോസോഫ്റ്റ്,ഡോക്ഫയൽ"
 title = "PDF വേഡിലേക്ക്"
 
-[PDFToWord.selectText]
-1 = "ഔട്ട്‌പുട്ട് ഫയൽ ഫോർമാറ്റ്"
-
 [PDFToXLSX]
 header = "PDF to Excel"
-prompt = "ടേബിളുകൾ എടുക്കേണ്ട പേജുകൾ തിരഞ്ഞെടുക്കുക"
-submit = "മാറ്റുക"
 tags = "spreadsheet,excel,xlsx,table,extract,convert"
 title = "PDF to Excel (XLSX)"
 
 [PDFToXML]
-credit = "ഈ സേവനം ഫയൽ പരിവർത്തനത്തിനായി LibreOffice ഉപയോഗിക്കുന്നു."
 header = "PDF XML-ലേക്ക്"
-submit = "പരിവർത്തനം ചെയ്യുക"
 tags = "ഡാറ്റ-എക്സ്ട്രാക്ഷൻ,ഘടനയുള്ള-ഉള്ളടക്കം,ഇന്ററോപ്പ്,രൂപാന്തരം,പരിവർത്തനം ചെയ്യുക"
 title = "PDF XML-ലേക്ക്"
 
 [permissions]
-header = "അനുമതികൾ മാറ്റുക"
-submit = "മാറ്റുക"
 tags = "വായിക്കുക,എഴുതുക,തിരുത്തുക,അച്ചടിക്കുക"
 title = "അനുമതികൾ മാറ്റുക"
-warning = "മുന്നറിയിപ്പ്: ഈ അനുമതികൾ മാറ്റാൻ കഴിയാത്തതാക്കാൻ, പാസ്‌വേഡ് ചേർക്കുക പേജ് വഴി ഒരു പാസ്‌വേഡ് ഉപയോഗിച്ച് അവ സജ്ജമാക്കാൻ ശുപാർശ ചെയ്യുന്നു"
-
-[permissions.selectText]
-1 = "അനുമതികൾ മാറ്റേണ്ട PDF തിരഞ്ഞെടുക്കുക"
-10 = "വ്യത്യസ്ത ഫോർമാറ്റുകളിൽ അച്ചടിക്കുന്നത് തടയുക"
-2 = "സജ്ജമാക്കേണ്ട അനുമതികൾ"
-3 = "പ്രമാണം കൂട്ടിച്ചേർക്കുന്നത് തടയുക"
-4 = "ഉള്ളടക്കം വേർതിരിച്ചെടുക്കുന്നത് തടയുക"
-5 = "ലഭ്യതയ്ക്കായി വേർതിരിച്ചെടുക്കുന്നത് തടയുക"
-6 = "ഫോം പൂരിപ്പിക്കുന്നത് തടയുക"
-7 = "പരിഷ്ക്കരണം തടയുക"
-8 = "വ്യാഖ്യാന പരിഷ്ക്കരണം തടയുക"
-9 = "അച്ചടി തടയുക"
 
 [pipeline]
-configureButton = "ക്രമീകരിക്കുക"
-defaultOption = "ഇഷ്ടാനുസൃതം"
-deletePrompt = "പൈപ്പ്ലൈൻ ഇല്ലാതാക്കാൻ നിങ്ങൾക്ക് ഉറപ്പാണോ"
-header = "പൈപ്പ്ലൈൻ മെനു (ബീറ്റ)"
-help = "പൈപ്പ്ലൈൻ സഹായം"
-scanHelp = "ഫോൾഡർ സ്കാനിംഗ് സഹായം"
-submitButton = "സമർപ്പിക്കുക"
 tags = "ഓട്ടോമേറ്റ് ചെയ്യുക,ക്രമീകരിക്കുക,സ്ക്രിപ്റ്റ് ചെയ്ത,ബാച്ച്-പ്രോസസ്സ്"
 title = "പൈപ്പ്ലൈൻ"
-uploadButton = "ഇഷ്ടാനുസൃതം അപ്‌ലോഡ് ചെയ്യുക"
-
-[pipelineOptions]
-addOperationButton = "പ്രവർത്തനം ചേർക്കുക"
-header = "പൈപ്പ്ലൈൻ കോൺഫിഗറേഷൻ"
-pipelineHeader = "പൈപ്പ്ലൈൻ:"
-pipelineNameLabel = "പൈപ്പ്ലൈൻ പേര്"
-pipelineNamePrompt = "പൈപ്പ്ലൈൻ പേര് ഇവിടെ നൽകുക"
-saveButton = "ഡൗൺലോഡ് ചെയ്യുക"
-saveForFolderScanning = "ഫോൾഡർ സ്കാനിംഗിനായി സംരക്ഷിക്കുക"
-saveSettings = "പ്രവർത്തന ക്രമീകരണങ്ങൾ സംരക്ഷിക്കുക"
-selectOperation = "പ്രവർത്തനം തിരഞ്ഞെടുക്കുക"
-validateButton = "സ്ഥിരീകരിക്കുക"
 
 [plan]
 contact = "ഞങ്ങളെ സമീപിക്കുക"
@@ -6186,33 +5732,21 @@ featureComparison = "ഫീച്ചർ താരതമ്യം"
 from = "മുതൽ"
 hideComparison = "ഫീച്ചർ താരതമ്യം മറയ്ക്കുക"
 included = "ഉൾപ്പെടുത്തിയിരിക്കുന്നു"
-includedInCurrent = "നിങ്ങളുടെ പ്ലാനിൽ ഉൾപ്പെട്ടിരിക്കുന്നു"
 licensedSeats = "ലൈസൻസുചെയ്തത്: {{count}} സീറ്റുകൾ"
 manage = "മാനേജ്"
 perMonth = "/മാസം"
 perSeat = "/സീറ്റ്"
 popular = "ജനപ്രിയം"
-purchase = "വാങ്ങുക"
-selectCredits = "ക്രെഡിറ്റ് അളവ് തിരഞ്ഞെടുക്കുക"
 selectPlan = "പ്ലാൻ തിരഞ്ഞെടുക്കുക"
 showComparison = "എല്ലാ സവിശേഷതകളും താരതമ്യം ചെയ്യുക"
-totalCost = "ആകെ ചെലവ്"
 upgrade = "അപ്‌ഗ്രേഡ്"
 withServer = "+ സെർവർ പ്ലാൻ"
-
-[plan.activePlan]
-subtitle = "നിങ്ങളുടെ നിലവിലെ സബ്‌സ്‌ക്രിപ്ഷൻ വിശദാംശങ്ങൾ"
-title = "സജീവ പ്ലാൻ"
 
 [plan.api]
 large = "5,000 ക്രെഡിറ്റുകൾ"
 medium = "1,000 ക്രെഡിറ്റുകൾ"
 small = "500 ക്രെഡിറ്റുകൾ"
 xsmall = "100 ക്രെഡിറ്റുകൾ"
-
-[plan.apiPackages]
-subtitle = "നിങ്ങളുടെ ആപ്ലിക്കേഷനുകൾക്കായി API ക്രെഡിറ്റുകൾ വാങ്ങുക"
-title = "API ക്രെഡിറ്റ് പാക്കേജുകൾ"
 
 [plan.availablePlans]
 loadError = "പ്ലാൻ വില ലോഡുചെയ്യാൻ കഴിഞ്ഞില്ല. ഡിഫാൾട്ട് മൂല്യങ്ങൾ ഉപയോഗിക്കുന്നു."
@@ -6265,6 +5799,12 @@ highlight3 = "കമ്മ്യൂണിറ്റി പിന്തുണ"
 included = "ഉൾപ്പെടുത്തി"
 name = "സൗജന്യം"
 
+[plan.freeLimit]
+cta = "View Processor Plan"
+dismiss = "Maybe Later"
+message = "That's your whole free allowance for automation, AI and the API. Seriously impressive! Keep the momentum going for just pennies a day."
+title = "Woah, {{total}} PDFs Processed!"
+
 [plan.highlights]
 advancedIntegrations = "അഡ്വാൻസ്ഡ് ഇന്റഗ്രേഷനുകൾ"
 allBasicFeatures = "എല്ലാ അടിസ്ഥാന ഫീച്ചറുകളും"
@@ -6287,12 +5827,8 @@ cta = "പ്ലാനുകൾ കാണുക"
 overLimit = "{{limit}}-ൽ കൂടുതലായി"
 title = "സൗജന്യ സെൽഫ്-ഹോസ്റ്റഡ് പരിധി എത്തി"
 
-[plan.manageSubscription]
-description = "നിങ്ങളുടെ സബ്സ്ക്രിപ്ഷൻ, ബില്ലിംഗ്, പേയ്മെന്റ് മാർഗങ്ങൾ മാനേജ് ചെയ്യുക"
-
 [plan.period]
 month = "മാസം"
-perUserPerMonth = "/ഉപയോക്താവ്/മാസം"
 
 [plan.pro]
 highlight1 = "പരിമിതിയില്ലാത്ത ടൂൾ ഉപയോഗം"
@@ -6300,18 +5836,18 @@ highlight2 = "അഡ്വാൻസ്ഡ് PDF ടൂളുകൾ"
 highlight3 = "വാട്ടർമാർക്കുകളില്ല"
 name = "Pro"
 
+[plan.spendCap]
+cta = "View Spending Limit"
+dismiss = "Not Now"
+message = "You've made the most of this month's cap. That's a load of automation, AI and API work! Bump it up whenever you like to keep going."
+title = "You're on a Roll!"
+
 [plan.static]
 activateLicense = "നിങ്ങളുടെ ലൈസൻസ് സജീവമാക്കുക"
-checkoutInstructions = "Stripe ടാബിൽ നിങ്ങളുടെ വാങ്ങൽ പൂർത്തിയാക്കുക. പെയ്മെന്റിന് ശേഷം, ലൈസൻസ് സജീവമാക്കാൻ ഇവിടെ തിരിച്ചെത്തി പേജ് റിഫ്രെഷ് ചെയ്യുക. നിങ്ങള്‍ക്ക് ലൈസൻസ് കീ അടങ്ങുന്ന ഒരു ഇമെയിലും ലഭിക്കും."
-checkoutOpened = "ചെക്കൗട്ട് തുറന്നു"
-contactSales = "വിൽപ്പന ടീമിനെ ബന്ധപ്പെടുക"
 contactToUpgrade = "നിങ്ങളുടെ പ്ലാൻ അപ്‌ഗ്രേഡ് ചെയ്യുകയോ ഇഷ്ടാനുസൃതമാക്കുകയോ ചെയ്യാൻ ഞങ്ങളെ ബന്ധപ്പെടുക"
 getLicense = "സർവർ ലൈസൻസ് നേടുക"
-maxUsers = "പരമാവധി ഉപയോക്താക്കൾ"
-message = "ഓൺലൈൻ ബില്ലിംഗ് നിലവിൽ കോൺഫിഗർ ചെയ്തിട്ടില്ല. നിങ്ങളുടെ പ്ലാൻ അപ്‌ഗ്രേഡ് ചെയ്യുകയോ സബ്‌സ്‌ക്രിപ്ഷനുകൾ നിയന്ത്രിക്കുകയോ ചെയ്യാൻ, ദയവായി ഞങ്ങളെ നേരിട്ട് ബന്ധപ്പെടുക."
 monthlyBilling = "പ്രതിമാസ ബില്ലിംഗ്"
 selectPeriod = "ബില്ലിംഗ് കാലയളവ് തിരഞ്ഞെടുക്കുക"
-title = "ബില്ലിംഗ് വിവരം"
 upgradeToEnterprise = "Enterprise-ലേക്ക് അപ്‌ഗ്രേഡ് ചെയ്യുക"
 upTo = "വരെ"
 yearlyBilling = "പ്രതിവർഷ ബില്ലിംഗ്"
@@ -6332,30 +5868,120 @@ successMessage = "നിങ്ങളുടെ ലൈസൻസ് വിജയക
 
 [plan.team]
 name = "Team"
-siteLicense = "Site License"
 
 [plan.trial]
-badge = "ട്രയൽ"
 continueWithFree = "സൗജന്യമായി തുടരുക"
-daysRemaining = "നിങ്ങളുടെ ട്രയൽ {{days}} ദിവസത്തിൽ അവസാനിക്കും"
-endDate = "കാലാവധി: {{date}}"
 expired = "നിങ്ങളുടെ ട്രയൽ അവസാനിച്ചു"
 expiredMessage = "നിങ്ങളുടെ 30-ദിവസ Pro ട്രയലിന്റെ കാലാവധി കഴിഞ്ഞു. പ്രീമിയം സവിശേഷതകൾ തുടർന്നും ഉപയോഗിക്കാൻ Pro സബ്സ്ക്രൈബ് ചെയ്യുക, അല്ലെങ്കിൽ നമ്മുടെ സൗജന്യ ടിയറിൽ തുടരുക."
 freeTierLimitations = "സൗജന്യ ടിയറിൽ ഉപയോഗ പരിധിയോടെ അടിസ്ഥാന PDF ഉപകരണങ്ങൾ ഉൾപ്പെടുന്നു."
-message = ""
 subscribe = "Pro സബ്സ്ക്രൈബ് ചെയ്യുക"
 subscribeToPro = "Pro സബ്സ്ക്രൈബ് ചെയ്യുക"
-subscriptionScheduled = "സബ്സ്ക്രിപ്ഷൻ ഷെഡ്യൂൾ ചെയ്തിരിക്കുന്നു - ആരംഭം {{date}}"
-title = "സൗജന്യ ട്രയൽ സജീവമാണ്"
+
+[policies]
+deleteConfirmBody = "This removes the policy and its workflow. Documents already processed are not affected."
+deleteConfirmTitle = "Delete {{label}} policy?"
+
+[policies.catalog]
+compliance = "Compliance"
+ingestion = "Ingestion"
+retention = "Retention"
+routing = "Routing"
+security = "Security"
+
+[policies.detail]
+editSettings = "Edit Settings"
+enforces = "Enforces"
+managedByOrg = "Managed by your organization. Contact a team leader to change this policy."
+noActivityDescription = "Documents will appear here once this policy runs."
+noActivityTitle = "No activity yet"
+onEveryUpload = "On every upload"
+originalsNote = "Originals stay untouched • Enforced version saved alongside"
+pause = "Pause"
+recentActivity = "Recent Activity"
+resume = "Resume"
+retry = "Retry"
+showLess = "Show less"
+showMore = "Show more"
+statActive = "Active"
+statDataProcessed = "Data processed"
+statDocsEnforced = "Docs enforced"
+statusActive = "Active"
+statusPaused = "Paused"
+
+[policies.fields]
+selectedCount = "{{count}} selected"
+
+[policies.pii]
+fieldLabel = "PII to redact"
+placeholder = "Select PII types"
+
+[policies.sidebar]
+activeCount = "{{count}} active"
+infoAriaLabel = "What is a policy?"
+infoTooltip = "A policy is a fixed set of tools that runs automatically whenever it's triggered — for example when a new document arrives — enforcing rules like redacting PII with no manual steps."
+loading = "Loading…"
+railAriaLabel = "{{label}} policy — {{status}}"
+railSuffixActive = " (Active)"
+railSuffixPaused = " (Paused)"
+setUp = "Set up"
+title = "Policies"
+upgradeToEnterprise = "Upgrade to enterprise"
+
+[policies.status]
+active = "Active"
+paused = "Paused"
+setup = "Set up"
+
+[policies.toolConfig]
+enableAriaLabel = "Enable {{tool}}"
+infoAriaLabel = "What does {{tool}} do?"
+
+[policies.wizard]
+allDocTypesDescription = "Enable the Classification policy to filter by document type."
+allDocTypesTitle = "All document types"
+back = "Back"
+builderDesc = "Build the sequence of tools this policy runs on each document."
+clear = "Clear"
+continue = "Continue"
+docTypesLabel = "Document types"
+edit = "Edit"
+editTitle = "Edit {{label}} Policy"
+enablePolicy = "Enable Policy"
+filenameAutoNumber = "Auto-number"
+filenamePositionAria = "Filename position"
+filenamePrefix = "Prefix"
+filenameSuffix = "Suffix"
+filenameTextAria = "Filename text"
+filenameTextPlaceholder = "Text to add (optional)"
+lockedDescription = "Contact a team leader to change this policy."
+lockedTitle = "Managed by your organization"
+maxRetriesLabel = "Max retries"
+noToolsError = "Add at least one configured tool to the workflow first."
+outputAsLabel = "Output as"
+outputFilenameSubhead = "Output filename"
+outputModeAria = "Output mode"
+outputNewFile = "New file"
+outputNewVersion = "New version"
+outputRetriesLabel = "Output & retries"
+outputSubhead = "Output"
+retryDelayAria = "Retry delay minutes"
+retryDelayLabel = "Retry delay (min)"
+runOnExport = "Export"
+runOnLabel = "Run on"
+runOnSubhead = "Run on"
+runOnUpload = "Upload"
+saveChanges = "Save Changes"
+saveError = "Couldn't save the policy. Please try again."
+setupClassification = "Set up Classification"
+setupTitle = "Set up {{label}} Policy"
+sourcesDesc = "Choose where this policy runs and which document types it applies to."
+sourcesLabel = "Sources"
+stepOf = "Step {{step}} of {{total}}"
+toolChainDesc = "Configure the tools this policy runs on each document."
+typesSelected = "{{count}} types selected"
 
 [printFile]
-header = "പ്രിന്ററിലേക്ക് ഫയൽ അച്ചടിക്കുക"
-submit = "അച്ചടിക്കുക"
 title = "ഫയൽ അച്ചടിക്കുക"
-
-[printFile.selectText]
-1 = "അച്ചടിക്കേണ്ട ഫയൽ തിരഞ്ഞെടുക്കുക"
-2 = "പ്രിന്റർ പേര് നൽകുക"
 
 [provider.googledrive]
 name = "Google Drive"
@@ -6582,12 +6208,9 @@ accessSelectedFile = "തിരഞ്ഞെടുത്ത ഫയൽ"
 accessSendInvite = "ക്ഷണം അയയ്ക്കുക"
 accessTitle = "ഡോക്യുമെന്റ് ആക്സസ്"
 accessYou = "നിങ്ങൾ"
-account = "അക്കൗണ്ട്"
 activeSessions = "സജീവ സെഷനുകൾ"
 activeTab = "സജീവം"
 activity = "ചരിത്രം"
-adminSettings = "അഡ്മിൻ സെറ്റിങ്ങുകൾ"
-allSessions = "എല്ലാ സെഷനുകളും"
 allTools = "All Tools"
 automate = "ഓട്ടോ"
 back = "തിരികെ"
@@ -6596,7 +6219,6 @@ certSign = "സർട്ടിഫിക്കറ്റ് ഒപ്പിടൽ"
 completedSessions = "പൂർത്തിയായ സെഷനുകൾ"
 completedTab = "പൂർത്തിയായി"
 config = "കോൺഫിഗ്"
-createNew = "പുതിയ അഭ്യർത്ഥന സൃഷ്ടിക്കുക"
 createSession = "സൈൻ ചെയ്യൽ അഭ്യർത്ഥന സൃഷ്ടിക്കുക"
 dueDate = "അവസാന തീയതി (ഐച്ഛികം)"
 files = "ഫയലുകൾ"
@@ -6620,7 +6242,6 @@ selectUsers = "ഒപ്പിടാൻ ഉപയോക്താക്കളെ 
 selectUsersPlaceholder = "പങ്കാളികളെ തിരഞ്ഞെടുക്കുക..."
 sendingRequest = "അയക്കുന്നു..."
 settings = "സെറ്റിങ്ങുകൾ"
-showMeAround = "എനിക്ക് കാണിച്ചു തരൂ"
 sign = "ഒപ്പിടുക"
 signatureRequests = "ഒപ്പ് അഭ്യർത്ഥനകൾ"
 signYourself = "നിങ്ങൾ തന്നെ ഒപ്പിടുക"
@@ -6639,6 +6260,9 @@ whatsNewTourDesc = "അപ്ഡേറ്റ് ചെയ്ത ലേഔട്�
 admin = "ഇവിടെ വാക്ക്‌ത്രൂസ് കാണുക: Tools ടൂർ, പുതിയ V2 ലേഔട്ട് ടൂർ, Admin ടൂർ."
 user = "ഇവിടെ വാക്ക്‌ത്രൂസ് കാണുക: Tools ടൂർ, പുതിയ V2 ലേഔട്ട് ടൂർ."
 
+[read]
+tags = "view,open,display,read,viewer,PDF viewer,PDF reader,open PDF,view PDF,display PDF,preview,browse"
+
 [redact]
 submit = "റെഡാക്റ്റ് ചെയ്യുക"
 tags = "റെഡാക്റ്റ്,മറയ്ക്കുക,കറുപ്പിക്കുക,കറുപ്പ്,മാർക്കർ,മറഞ്ഞിരിക്കുന്ന,സ്വയം"
@@ -6648,7 +6272,6 @@ title = "സ്വയം റെഡാക്ഷൻ"
 colorLabel = "ബോക്സ് നിറം"
 convertPDFToImageLabel = "PDF-നെ PDF-Image ആയി മാറ്റുക"
 customPaddingLabel = "കസ്റ്റം അധിക പാഡിംഗ്"
-header = "ഓട്ടോ റിഡാക്റ്റ്"
 useRegexLabel = "Regex ഉപയോഗിക്കുക"
 wholeWordSearchLabel = "പൂർണ്ണ വാക്ക് തിരയൽ"
 
@@ -6666,54 +6289,17 @@ title = "റിഡാക്റ്റ് ചെയ്യേണ്ട വാക്
 failed = "PDF റിഡാക്റ്റ് ചെയ്യുന്നതിനിടെ പിശക് സംഭവിച്ചു."
 
 [redact.manual]
-activate = "റെഡാക്ഷൻ ഉപകരണം സജീവമാക്കുക"
-active = "റെഡാക്ഷൻ മോഡ് സജീവമാണ്"
 apply = "പ്രയോഗിക്കുക"
-applyChanges = "മാറ്റങ്ങൾ പ്രയോഗിക്കുക"
-applyRedactions = "Apply Redactions"
 applyWarning = "⚠️ സ്ഥിരമായി പ്രയോഗിക്കുന്നു; പിന്‍വലിക്കാൻ കഴിയില്ല, അടിഞ്ഞിരിക്കുന്ന ഡാറ്റ ഇല്ലാതാകും"
-boxRedaction = "ബോക്സ് വരച്ച് റിഡാക്റ്റ് ചെയ്യുക"
 colorLabel = "റെഡാക്ഷൻ നിറം"
-colourPicker = "നിറം തിരഞ്ഞെടുക്കൽ"
 controlsTitle = "മാനുവൽ റെഡാക്ഷൻ നിയന്ത്രണങ്ങൾ"
-convertPDFToImageLabel = "PDF-നെ PDF-Image ആയി മാറ്റുക (ബോക്സിന് പിന്നിലെ ടെക്സ്റ്റ് നീക്കാൻ ഉപയോഗിക്കുന്നു)"
-export = "എക്സ്പോർട്ട്"
-findCurrentOutlineItem = "നിലവിലെ ഔട്ട്‌ലൈൻ ഇനം കണ്ടെത്തുക"
-header = "മാനുവൽ റിഡാക്ഷൻ"
 instructions = "റെഡാക്ഷനായി ഉള്ളടക്കം അടയാളപ്പെടുത്താൻ PDF-ൽ ടെക്സ്റ്റ് തിരഞ്ഞെടുക്കുകയോ പ്രദേശങ്ങൾ വരയ്ക്കുകയോ ചെയ്യുക."
-markArea = "ഏരിയ മാർക്ക് ചെയ്യുക"
-markText = "ടെക്സ്റ്റ് മാർക്ക് ചെയ്യുക"
-nextPage = "അടുത്ത പേജ്"
-noMarks = "റെഡാക്ഷൻ മാർക്കുകളൊന്നുമില്ല. മുകളിലുള്ള ഉപകരണങ്ങൾ ഉപയോഗിച്ച് റെഡാക്ഷനായി ഉള്ളടക്കം അടയാളപ്പെടുത്തുക."
-pageBasedRedaction = "പേജ്-അധിഷ്ടിത റിഡാക്ഷൻ"
-pendingLabel = "പെൻഡിംഗ്:"
-previousPage = "മുൻപത്തെ പേജ്"
-showAttachments = "അറ്റാച്ച്മെന്റുകൾ കാണിക്കുക"
-showDocumentOutline = "ഡോക്യുമെന്റ് ഔട്ട്‌ലൈൻ കാണിക്കുക (എല്ലാ ഇനങ്ങളും വിപുലീകരിക്കാൻ/ചുരുക്കാൻ ഡബിൾ-ക്ലിക്ക് ചെയ്യുക)"
-showLayers = "ലെയറുകൾ കാണിക്കുക (എല്ലാ ലെയറുകളും ഡീഫോൾട്ട് നിലയിലേക്ക് റീസെറ്റ് ചെയ്യാൻ ഡബിൾ-ക്ലിക്ക് ചെയ്യുക)"
-showThumbnails = "തമ്പ്‌നെയിലുകൾ കാണിക്കുക"
-textBasedRedaction = "ടെക്സ്റ്റ്-അധിഷ്ടിത റിഡാക്ഷൻ"
 title = "റെഡാക്ഷൻ ഉപകരണങ്ങൾ"
-toggleSidebar = "സൈഡ്ബാർ മാറ്റുക"
-upload = "അപ്‌ലോഡ്"
-zoom = "സൂം"
-zoomIn = "സൂം ഇൻ"
-zoomOut = "സൂം ഔട്ട്"
-
-[redact.manual.pageRedactionNumbers]
-placeholder = "(ഉദാ. 1,2,8 അല്ലെങ്കിൽ 4,7,12-16 അല്ലെങ്കിൽ 2n-1)"
-title = "പേജുകൾ"
-
-[redact.manual.redactionColor]
-title = "റിഡാക്ഷൻ നിറം"
 
 [redact.modeSelector]
 automatic = "ഓട്ടോമാറ്റിക്"
-automaticDesc = "തിരച്ചിൽ പദങ്ങളുടെ അടിസ്ഥാനത്തിൽ ടെക്സ്റ്റ് റിഡാക്റ്റ് ചെയ്യുക"
 automaticDisabledTooltip = "ഒരുമിച്ചു ഒന്നിലധികം ഫയലുകൾ റെഡാക്റ്റ് ചെയ്യാൻ ഫയൽ മാനേജറിൽ ഫയലുകൾ തിരഞ്ഞെടുക്കുക"
 manual = "മാനുവൽ"
-manualComingSoon = "മാനുവൽ റിഡാക്ഷൻ ഉടൻ വരുന്നു"
-manualDesc = "നിശ്ചിത മേഖലകൾ റിഡാക്റ്റ് ചെയ്യാൻ ക്ലിക്ക് ചെയ്ത് ഡ്രാഗ് ചെയ്യുക"
 mode = "മോഡ്"
 title = "റിഡാക്ഷൻ രീതി"
 
@@ -6784,16 +6370,9 @@ title = "സാധാരണ ഉദാഹരണങ്ങൾ"
 title = "റിഡാക്റ്റ് ചെയ്യേണ്ട വാക്കുകൾ"
 
 [releases]
-footer = "റിലീസുകൾ"
-header = "റിലീസ് കുറിപ്പുകൾ"
-note = "റിലീസ് കുറിപ്പുകൾ ഇംഗ്ലീഷിൽ മാത്രമേ ലഭ്യമാകൂ"
 title = "റിലീസ് കുറിപ്പുകൾ"
 
-[releases.current]
-version = "നിലവിലെ റിലീസ്"
-
 [removeAnnotations]
-header = "വ്യാഖ്യാനങ്ങൾ നീക്കം ചെയ്യുക"
 submit = "നീക്കം ചെയ്യുക"
 tags = "അഭിപ്രായങ്ങൾ,ഹൈലൈറ്റ്,കുറിപ്പുകൾ,മാർക്ക്അപ്പ്,നീക്കം ചെയ്യുക"
 title = "വ്യാഖ്യാനങ്ങൾ നീക്കം ചെയ്യുക"
@@ -6803,7 +6382,6 @@ failed = "PDF-ിൽ നിന്ന് അനോട്ടേഷനുകൾ ന
 
 [removeAnnotations.info]
 description = "ഈ ടൂൾ നിങ്ങളുടെ PDF ഡോക്യുമെന്റുകളിൽ നിന്ന് എല്ലാ അനോട്ടേഷനുകളും (കമന്റുകൾ, ഹൈലൈറ്റുകൾ, കുറിപ്പുകൾ മുതലായവ) നീക്കംചെയ്യും."
-title = "അനോട്ടേഷനുകൾ നീക്കംചെയ്യൽ കുറിച്ച്"
 
 [removeAnnotations.settings]
 title = "ക്രമീകരണങ്ങൾ"
@@ -6815,8 +6393,8 @@ title = "ഇത് എന്താണ് ചെയ്യുന്നത്"
 title = "Remove Annotations കുറിച്ച്"
 
 [removeBlanks]
-header = "ശൂന്യമായ പേജുകൾ നീക്കം ചെയ്യുക"
 submit = "ശൂന്യമായവ നീക്കം ചെയ്യുക"
+tags = "delete,clean,empty,remove blank,delete blank pages,empty pages,white pages,remove empty,clean up,cleanup blank"
 title = "ശൂന്യമായവ നീക്കം ചെയ്യുക"
 
 [removeBlanks.error]
@@ -6860,13 +6438,9 @@ title = "വെളുപ്പ് ശതമാനം പരിധി"
 
 [removeBlanks.whitePercent]
 label = "വെളുപ്പ് ശതമാനം പരിധി"
-unit = "%"
 
 [removeCertSign]
 description = "ഈ ടൂൾ നിങ്ങളുടെ PDF പ്രമാണത്തിൽ നിന്ന് ഡിജിറ്റൽ സർട്ടിഫിക്കറ്റ് ഒപ്പുകൾ നീക്കും."
-filenamePrefix = "ഒപ്പിടാത്തത്"
-header = "PDF-ൽ നിന്ന് ഡിജിറ്റൽ സർട്ടിഫിക്കറ്റ് നീക്കം ചെയ്യുക"
-selectPDF = "ഒരു PDF ഫയൽ തിരഞ്ഞെടുക്കുക:"
 submit = "ഒപ്പ് നീക്കം ചെയ്യുക"
 tags = "സ്ഥിരീകരിക്കുക,PEM,P12,ഔദ്യോഗികം,ഡീക്രിപ്റ്റ് ചെയ്യുക"
 title = "സർട്ടിഫിക്കറ്റ് ഒപ്പ് നീക്കം ചെയ്യുക"
@@ -6874,16 +6448,12 @@ title = "സർട്ടിഫിക്കറ്റ് ഒപ്പ് നീക
 [removeCertSign.error]
 failed = "സർട്ടിഫിക്കറ്റ് ഒപ്പുകൾ നീക്കുന്നതിനിടെ പിശക് സംഭവിച്ചു."
 
-[removeCertSign.files]
-placeholder = "തുടങ്ങാൻ മെയിൻ വ്യൂവിൽ ഒരു PDF ഫയൽ തിരഞ്ഞെടുക്കുക"
-
 [removeCertSign.results]
 title = "സർട്ടിഫിക്കറ്റ് നീക്കം ചെയ്തതിന്റെ ഫലങ്ങൾ"
 
 [removeImage]
-header = "ചിത്രം നീക്കം ചെയ്യുക"
-removeImage = "ചിത്രം നീക്കം ചെയ്യുക"
 submit = "ചിത്രം നീക്കം ചെയ്യുക"
+tags = "remove,delete,clean,remove image,delete image,strip images,remove pictures,delete photos,clean images,reduce size,remove graphics"
 title = "ചിത്രം നീക്കം ചെയ്യുക"
 
 [removeImage.error]
@@ -6895,20 +6465,13 @@ title = "ഇമേജുകൾ നീക്കം ചെയ്തത് — ഫ�
 [removeImagePdf]
 tags = "ചിത്രം നീക്കം ചെയ്യുക,പേജ് പ്രവർത്തനങ്ങൾ,ബാക്ക് എൻഡ്,സെർവർ സൈഡ്"
 
-[removeMetadata]
-submit = "മെറ്റാഡേറ്റ നീക്കം ചെയ്യുക"
-
 [removePages]
-filenamePrefix = "താളുകൾ_നീക്കി"
 submit = "പേജുകൾ നീക്കംചെയ്യുക"
 tags = "പേജുകൾ നീക്കം ചെയ്യുക,പേജുകൾ ഇല്ലാതാക്കുക"
 title = "പേജുകൾ നീക്കം ചെയ്യുക"
 
 [removePages.error]
 failed = "പേജുകൾ നീക്കം ചെയ്യുന്നതിനിടെ ഒരു പിശക് സംഭവിച്ചു."
-
-[removePages.files]
-placeholder = "ആരംഭിക്കാൻ പ്രധാന കാഴ്ചയിൽ ഒരു PDF ഫയൽ തിരഞ്ഞെടുക്കുക"
 
 [removePages.pageNumbers]
 error = "അസാധുവായ പേജ് നമ്പർ ഫോർമാറ്റ്. സംഖ്യകൾ, പരിധികൾ (1-5), അല്ലെങ്കിൽ ഗണിത രീതി (2n+1) ഉപയോഗിക്കുക"
@@ -6940,17 +6503,8 @@ bullet4 = "തുറന്ന പരിധികൾ: 5- (പേജ് 5 മു�
 text = "നിങ്ങളുടെ PDF-ൽ നിന്ന് ഏത് പേജുകൾ നീക്കംചെയ്യണമെന്ന് വ്യക്തമാക്കുക. ഒറ്റപ്പെട്ട പേജുകൾ, പരിധികൾ, അല്ലെങ്കിൽ ഗണിത പ്രകടനങ്ങൾ ഉപയോഗിക്കാം."
 title = "പേജ് തിരഞ്ഞെടുക്കൽ"
 
-[removePages.tooltip.safety]
-bullet1 = "പ്രോസസ്സിംഗ് മുമ്പ് എപ്പോഴും നിങ്ങളുടെ തിരഞ്ഞെടുപ്പ് പ്രിവ്യൂ ചെയ്യുക"
-bullet2 = "അസൽ ഫയലിന്റെ ഒരു ബാക്കപ്പ് സൂക്ഷിക്കുക"
-bullet3 = "പേജ് നമ്പറുകൾ 1 മുതൽ ആരംഭിക്കുന്നു, 0 മുതൽ അല്ല"
-bullet4 = "അസാധുവായ പേജ് നമ്പറുകൾ അവഗണിക്കും"
-text = "പേജുകൾ നീക്കം ചെയ്യുമ്പോൾ ശ്രദ്ധിക്കേണ്ട കാര്യങ്ങൾ:"
-title = "സുരക്ഷാ നിർദ്ദേശങ്ങൾ"
-
 [removePassword]
 desc = "നിങ്ങളുടെ PDF ഡോക്യുമെന്റിൽ നിന്ന് പാസ്‌വേഡ് സംരക്ഷണം നീക്കംചെയ്യുക."
-filenamePrefix = "ഡീക്രിപ്റ്റ്_ചെയ്തത്"
 submit = "നീക്കം ചെയ്യുക"
 tags = "സുരക്ഷിതം,ഡീക്രിപ്റ്റ്,സുരക്ഷ,പാസ്‌വേഡ് ഇല്ലാതാക്കുക,പാസ്‌വേഡ് നീക്കം ചെയ്യുക"
 title = "പാസ്‌വേഡ് നീക്കം ചെയ്യുക"
@@ -6959,7 +6513,6 @@ title = "പാസ്‌വേഡ് നീക്കം ചെയ്യുക"
 failed = "PDF-യിൽ നിന്ന് പാസ്‌വേഡ് നീക്കം ചെയ്യുന്നതിനിടെ പിശക് സംഭവിച്ചു."
 
 [removePassword.password]
-completed = "പാസ്‌വേഡ് ക്രമീകരിച്ചു"
 label = "നിലവിലെ പാസ്‌വേഡ്"
 placeholder = "നിലവിലെ പാസ്‌വേഡ് നൽകുക"
 stepTitle = "പാസ്‌വേഡ് നീക്കംചെയ്യുക"
@@ -6972,6 +6525,7 @@ description = "പാസ്‌വേഡ് സംരക്ഷണം നീക്
 
 [reorganizePages]
 submit = "പേജുകൾ പുനഃസംഘടിപ്പിക്കുക"
+tags = "rearrange,reorder,organize,reorganize,move pages,page order,sort pages,arrange pages,shuffle,resequence"
 
 [reorganizePages.error]
 failed = "പേജുകൾ പുനഃസംഘടിപ്പിക്കാൻ പരാജയപ്പെട്ടു"
@@ -6984,8 +6538,6 @@ title = "ക്രമീകരണങ്ങൾ"
 
 [repair]
 description = "ഈ ടൂൾ കേടായ അല്ലെങ്കിൽ ദോഷപ്പെട്ട PDF ഫയലുകൾ ശരിയാക്കാൻ ശ്രമിക്കും. കൂടുതൽ ക്രമീകരണങ്ങൾ ആവശ്യമില്ല."
-filenamePrefix = "അറ്റകുറ്റം_ചെയ്തത്"
-header = "PDF-കൾ നന്നാക്കുക"
 submit = "നന്നാക്കുക"
 tags = "പരിഹരിക്കുക,പുനഃസ്ഥാപിക്കുക,തിരുത്തൽ,വീണ്ടെടുക്കുക"
 title = "നന്നാക്കുക"
@@ -6993,32 +6545,17 @@ title = "നന്നാക്കുക"
 [repair.error]
 failed = "PDF റിപ്പയർ ചെയ്യുന്നതിനിടെ ഒരു പിശക് സംഭവിച്ചു."
 
-[repair.files]
-placeholder = "ആരംഭിക്കാൻ പ്രധാന കാഴ്ചയിൽ ഒരു PDF ഫയൽ തിരഞ്ഞെടുക്കുക"
-
 [repair.results]
 title = "റിപ്പയർ ഫലങ്ങൾ"
 
 [replace-color]
-previewOverlayOpacity = "പ്രിവ്യൂ ഓവർലേ അപാരദർശ്യത"
-previewOverlayTransparency = "പ്രിവ്യൂ ഓവർലേ പാരദർശ്യത"
-previewOverlayVisibility = "പ്രിവ്യൂ ഓവർലേ കാണിക്കുക"
 submit = "മാറ്റുക"
 title = "നിറം-മാറ്റുക-വിപരീതമാക്കുക"
-
-[replace-color.options]
-fill = "ഫിൽ നിറം"
-gradient = "ഗ്രേഡിയന്റ്"
 
 [replace-color.selectText]
 1 = "നിറം മാറ്റുന്നതിനോ വിപരീതമാക്കുന്നതിനോ ഉള്ള ഓപ്ഷനുകൾ"
 10 = "ടെക്സ്റ്റ് നിറം തിരഞ്ഞെടുക്കുക"
 11 = "പശ്ചാത്തല നിറം തിരഞ്ഞെടുക്കുക"
-12 = "ആരംഭ നിറം തിരഞ്ഞെടുക്കുക"
-13 = "അവസാന നിറം തിരഞ്ഞെടുക്കുക"
-2 = "സ്ഥിരസ്ഥിതി (സ്ഥിരസ്ഥിതി ഉയർന്ന കോൺട്രാസ്റ്റ് നിറങ്ങൾ)"
-3 = "ഇഷ്ടാനുസൃതം (ഇഷ്ടാനുസൃതമാക്കിയ നിറങ്ങൾ)"
-4 = "പൂർണ്ണ-വിപരീതം (എല്ലാ നിറങ്ങളും വിപരീതമാക്കുക)"
 5 = "ഉയർന്ന കോൺട്രാസ്റ്റ് വർണ്ണ ഓപ്ഷനുകൾ"
 6 = "കറുത്ത പശ്ചാത്തലത്തിൽ വെളുത്ത ടെക്സ്റ്റ്"
 7 = "വെളുത്ത പശ്ചാത്തലത്തിൽ കറുത്ത ടെക്സ്റ്റ്"
@@ -7075,6 +6612,7 @@ rotateLeft = "ആന്റി-ക്ലോക്ക്വൈസ് തിരി�
 rotateRight = "ക്ലോക്ക്വൈസ് തിരിക്കുക"
 selectRotation = "റോട്ടേഷൻ ആംഗിൾ തിരഞ്ഞെടുക്കുക (ക്ലോക്ക്വൈസ്)"
 submit = "തിരിക്കുക"
+tags = "turn,flip,orient,rotate,orientation,landscape,portrait,90 degrees,180 degrees,clockwise,counterclockwise,counter-clockwise,fix orientation"
 title = "PDF തിരിക്കുക"
 
 [rotate.error]
@@ -7094,19 +6632,14 @@ text = "നിങ്ങളുടെ PDF പേജുകൾ 90-ഡിഗ്രി
 title = "റോട്ടേഷൻ ക്രമീകരണങ്ങളുടെ അവലോകനം"
 
 [sanitize]
-completed = "സാനിറ്റൈസേഷൻ വിജയകരമായി പൂർത്തിയായി"
 desc = "PDF ഫയലുകളിൽ നിന്ന് സാധ്യതയുള്ള ഹാനികരമായ ഘടകങ്ങൾ നീക്കംചെയ്യുക."
-filenamePrefix = "ശുദ്ധീകരിച്ചത്"
 sanitizationResults = "സാനിറ്റൈസേഷൻ ഫലങ്ങൾ"
 submit = "PDF സാനിറ്റൈസ് ചെയ്യുക"
+tags = "clean,purge,remove,sanitize,remove scripts,remove javascript,remove metadata,strip metadata,security,clean document,remove hidden data,privacy"
 title = "സാനിറ്റൈസ്"
 
 [sanitize.error]
 failed = "PDF സാനിറ്റൈസ് ചെയ്യുന്നതിനിടെ പിശക് സംഭവിച്ചു."
-generic = "സാനിറ്റൈസേഷൻ പരാജയപ്പെട്ടു"
-
-[sanitize.files]
-placeholder = "ആരംഭിക്കാൻ പ്രധാന കാഴ്ചയിൽ ഒരു PDF ഫയൽ തിരഞ്ഞെടുക്കുക"
 
 [sanitize.options]
 note = "PDF-യിൽ നിന്ന് നീക്കം ചെയ്യാൻ ആഗ്രഹിക്കുന്ന ഘടകങ്ങൾ തിരഞ്ഞെടുക്കുക. കുറഞ്ഞത് ഒരു ഓപ്‌ഷൻ എങ്കിലും തിരഞ്ഞെടുക്കണം."
@@ -7137,37 +6670,20 @@ desc = "PDF-ിൽ നിന്ന് XMP മെറ്റാഡാറ്റ ന�
 label = "XMP മെറ്റാഡാറ്റ നീക്കംചെയ്യുക"
 
 [sanitize.steps]
-files = "ഫയലുകൾ"
-results = "ഫലങ്ങൾ"
 settings = "സജ്ജീകരണങ്ങൾ"
 
 [sanitizePdf]
 tags = "വൃത്തിയാക്കുക,സുരക്ഷിതമാക്കുക,സുരക്ഷിതം,ഭീഷണികൾ-നീക്കം ചെയ്യുക"
 
 [sanitizePDF]
-header = "ഒരു PDF ഫയൽ ശുദ്ധീകരിക്കുക"
-submit = "PDF ശുദ്ധീകരിക്കുക"
 title = "PDF ശുദ്ധീകരിക്കുക"
 
-[sanitizePDF.selectText]
-1 = "ജാവാസ്ക്രിപ്റ്റ് പ്രവർത്തനങ്ങൾ നീക്കം ചെയ്യുക"
-2 = "ഉൾച്ചേർത്ത ഫയലുകൾ നീക്കം ചെയ്യുക"
-3 = "XMP മെറ്റാഡാറ്റ നീക്കം ചെയ്യുക"
-4 = "ലിങ്കുകൾ നീക്കം ചെയ്യുക"
-5 = "അക്ഷരങ്ങൾ നീക്കം ചെയ്യുക"
-6 = "പ്രമാണ വിവര മെറ്റാഡാറ്റ നീക്കം ചെയ്യുക"
-
 [scalePages]
-header = "പേജ്-സ്കെയിൽ ക്രമീകരിക്കുക"
-keepPageSize = "യഥാർത്ഥ വലുപ്പം"
-pageSize = "പ്രമാണത്തിലെ ഒരു പേജിന്റെ വലുപ്പം."
-scaleFactor = "ഒരു പേജിന്റെ സൂം നില (ക്രോപ്പ്)."
-submit = "സമർപ്പിക്കുക"
+tags = "resize,adjust,scale,page size,resize page,scale page,change size,adjust size,enlarge,shrink page,fit to page,A4,letter size"
 title = "പേജ്-സ്കെയിൽ ക്രമീകരിക്കുക"
 
-[ScannerImageSplit]
-info = "പൈത്തൺ ഇൻസ്റ്റാൾ ചെയ്തിട്ടില്ല. ഇത് പ്രവർത്തിപ്പിക്കാൻ ആവശ്യമാണ്."
-tags = "വേർതിരിക്കുക,സ്വയം-കണ്ടെത്തുക,സ്കാനുകൾ,മൾട്ടി-ഫോട്ടോ,ക്രമീകരിക്കുക"
+[scannerEffect]
+tags = "scan,simulate,create,fake scan,look scanned,scanner effect,make look scanned,photocopy effect,simulate scanner,realistic scan"
 
 [ScannerImageSplit.selectText]
 1 = "കോൺ പരിധി:"
@@ -7183,6 +6699,7 @@ tags = "വേർതിരിക്കുക,സ്വയം-കണ്ടെത�
 
 [scannerImageSplit]
 submit = "ചിത്ര സ്കാൻസ് എടുക്കുക"
+tags = "separate,auto-detect,scans,multi-photo,organize"
 title = "എടുത്ത ചിത്രങ്ങൾ"
 
 [scannerImageSplit.error]
@@ -7227,7 +6744,6 @@ toolNotAvailableLocally = "നിങ്ങളുടെ Stirling-PDF സെർവ
 
 [session]
 expired = "നിങ്ങളുടെ സെഷൻ കാലഹരണപ്പെട്ടു. ദയവായി പേജ് പുതുക്കി വീണ്ടും ശ്രമിക്കുക."
-refreshPage = "പേജ് പുതുക്കുക"
 
 [sessionManagement.tooltip]
 header = "സൈൻ ചെയ്യുന്ന സെഷനുകളുടെ മാനേജ്മെന്റ്"
@@ -7269,6 +6785,7 @@ advanced = "അഡ്വാൻസ്ഡ്"
 database = "ഡാറ്റാബേസ്"
 endpoints = "എൻഡ്പോയിന്റുകൾ"
 features = "ഫീച്ചറുകൾ"
+mcp = "MCP Server"
 storageSharing = "ഫയൽ സംഭരണവും പങ്കിടലും"
 systemSettings = "സിസ്റ്റം ക്രമീകരണങ്ങൾ"
 title = "കോൺഫിഗറേഷൻ"
@@ -7406,6 +6923,18 @@ title = "കീബോർഡ് ഷോർട്ട്‌കട്ടുകൾ"
 mac = "നിങ്ങളുടെ ഷോർട്ട്‌കട്ടിൽ ⌘ (Command), ⌥ (Option) അല്ലെങ്കിൽ മറ്റൊരു മൊഡിഫയർ ഉൾപ്പെടുത്തുക."
 windows = "നിങ്ങളുടെ ഷോർട്ട്‌കട്ടിൽ Ctrl, Alt അല്ലെങ്കിൽ മറ്റൊരു മൊഡിഫയർ ഉൾപ്പെടുത്തുക."
 
+[settings.legal]
+label = "Legal"
+title = "Legal"
+
+[settings.legal.cookiePreferences]
+description = "Review or change your cookie consent choices."
+manage = "Manage"
+
+[settings.legal.documents]
+description = "Policies and legal information for this service."
+title = "Legal Documents"
+
 [settings.licensingAnalytics]
 audit = "ഓഡിറ്റ്"
 plan = "പ്ലാൻ"
@@ -7524,31 +7053,13 @@ people = "അംഗങ്ങൾ"
 teams = "ടീമുകൾ"
 title = "വർക്ക്‌സ്പേസ്"
 
-[setup]
-description = "Stirling PDF നിങ്ങൾ എങ്ങനെ ഉപയോഗിക്കണമെന്നത് തിരഞ്ഞെടുക്കുക"
-welcome = "Stirling PDF-ലേക്ക് സ്വാഗതം"
-
 [setup.login]
 connectingTo = "കണക്റ്റ് ചെയ്യുന്നു:"
-hideInstructions = "നിർദ്ദേശങ്ങൾ മറയ്ക്കുക"
-instructions = "നിങ്ങളുടെ Stirling PDF സെർവറിൽ ലോഗിൻ പ്രവർത്തനക്ഷമമാക്കാൻ:"
-instructionsEnvVar = "Environment variable സജ്ജമാക്കുക:"
-instructionsOrYml = "അല്ലെങ്കിൽ settings.yml-ൽ:"
-instructionsRestart = "തുടർന്ന് മാറ്റങ്ങൾ പ്രാബല്യത്തിൽ വരാൻ നിങ്ങളുടെ സെർവർ റീസ്റ്റാർട്ട് ചെയ്യുക."
 oauthPending = "ഓതന്റിക്കേഷനായി ബ്രൗസർ തുറക്കുന്നു..."
 orContinueWith = "അല്ലെങ്കിൽ ഇമെയിലോടെ തുടരുക"
-serverRequirement = "ശ്രദ്ധിക്കുക: സെർവറിൽ ലോഗിൻ പ്രവർത്തനക്ഷമമാക്കിയിരിക്കണം."
-showInstructions = "എങ്ങനെ പ്രവർത്തനക്ഷമമാക്കാം?"
-signInWith = "ഇതുപയോഗിച്ച് സൈൻ ഇൻ ചെയ്യുക"
 skipSignIn = "സൈൻ ഇൻ ചെയ്യാതെ തുടരുക"
 sso = "Single Sign-On"
 submit = "ലോഗിൻ"
-subtitle = "തുടരാൻ നിങ്ങളുടെ ക്രെഡൻഷ്യലുകൾ നൽകുക"
-title = "സൈൻ ഇൻ"
-
-[setup.login.email]
-label = "ഇമെയിൽ"
-placeholder = "നിങ്ങളുടെ ഇമെയിൽ നൽകുക"
 
 [setup.login.error]
 emptyEmail = "ദയവായി നിങ്ങളുടെ ഇമെയിൽ നൽകുക"
@@ -7556,24 +7067,7 @@ emptyPassword = "ദയവായി നിങ്ങളുടെ പാസ്‌�
 emptyUsername = "ദയവായി നിങ്ങളുടെ യൂസർനെയിം നൽകുക"
 oauthFailed = "OAuth ലോഗിൻ പരാജയപ്പെട്ടു. ദയവായി വീണ്ടും ശ്രമിക്കുക."
 
-[setup.login.password]
-label = "പാസ്‌വേഡ്"
-placeholder = "നിങ്ങളുടെ പാസ്‌വേഡ് നൽകുക"
-
-[setup.login.username]
-label = "യൂസർനെയിം"
-placeholder = "നിങ്ങളുടെ യൂസർനെയിം നൽകുക"
-
-[setup.mode.saas]
-description = "നിങ്ങളുടെ Stirling അക്കൗണ്ടിലൂടെ സൈൻ ഇൻ ചെയ്യുക"
-title = "Stirling Cloud"
-
-[setup.mode.selfhosted]
-description = "നിങ്ങളുടെ സ്വന്തം Stirling PDF സെർവറുമായി കണക്റ്റുചെയ്യുക"
-title = "സ്വയം ഹോസ്റ്റ് ചെയ്യുന്ന സെർവർ"
-
 [setup.saas]
-subtitle = "നിങ്ങളുടെ Stirling അക്കൗണ്ടിലൂടെ സൈൻ ഇൻ ചെയ്യുക"
 title = "Stirling-യിൽ സൈൻ ഇൻ ചെയ്യുക"
 
 [setup.selfhosted]
@@ -7585,7 +7079,6 @@ title = "സെർവറിൽ സൈൻ ഇൻ ചെയ്യുക"
 
 [setup.selfhosted.unreachable]
 changeServer = "മറ്റൊരു സെർവറിലേക്ക് കണക്റ്റ് ചെയ്യുക"
-changeServerLocked = "നിങ്ങളുടെ സ്ഥാപനo ഈ ആപ്പ് ഒരു പ്രത്യേക സെർവറിലേക്ക് പരിമിതപ്പെടുത്തിയിരിക്കുന്നു"
 continueOffline = "പകരം ലോക്കൽ ഉപകരണങ്ങൾ ഉപയോഗിക്കുക"
 message = "{{url}} എത്തിച്ചേരാൻ കഴിഞ്ഞില്ല. സെർവർ പ്രവർത്തിക്കുകയാണോ ആക്‌സസ് ചെയ്യാനാകുന്നുവോയെന്ന് പരിശോധിക്കുക."
 retry = "വീണ്ടും ശ്രമിക്കുക"
@@ -7612,42 +7105,20 @@ step2 = "അല്ലെങ്കിൽ settings.yml ൽ security.enableLogin=tr
 step3 = "സർവർ പുനരാരംഭിക്കുക"
 title = "ലോഗിൻ സജീവമാക്കിയിട്ടില്ല"
 
-[setup.server.type]
-saas = "Stirling PDF SaaS"
-selfhosted = "സെൽഫ്-ഹോസ്റ്റഡ് സെർവർ"
-
 [setup.server.url]
 description = "നിങ്ങളുടെ സെൽഫ്-ഹോസ്റ്റഡ് Stirling PDF സെർവർയുടെ പൂർണ്ണ URL നൽകുക"
 label = "സെർവർ URL"
 
-[setup.step1]
-description = "ഓഫ്‌ലൈൻ അല്ലെങ്കിൽ സെർവർ"
-label = "മോഡ് തിരഞ്ഞെടുക്കുക"
-
-[setup.step2]
-description = "സെൽഫ്-ഹോസ്റ്റഡ് സെർവർ"
-label = "സെർവർ തിരഞ്ഞെടുക്കുക"
-
-[setup.step3]
-description = "ക്രെഡൻഷ്യലുകൾ നൽകുക"
-label = "ലോഗിൻ"
-
 [showJS]
 done = "JavaScript എക്സ്ട്രാക്റ്റ് ചെയ്തു"
-downloadJS = "ജാവാസ്ക്രിപ്റ്റ് ഡൗൺലോഡ് ചെയ്യുക"
-header = "ജാവാസ്ക്രിപ്റ്റ് കാണിക്കുക"
 processing = "JavaScript എക്സ്ട്രാക്റ്റ് ചെയ്യുന്നു..."
 results = "ഫലം"
-singleFileWarning = "ഈ ടൂൾ ഒരേസമയം ഒരു ഫയൽ മാത്രമേ പിന്തുണയ്ക്കൂ. ദയവായി ഒറ്റ ഫയൽ തിരഞ്ഞെടുക്കുക."
 submit = "കാണിക്കുക"
 tags = "JS"
 title = "ജാവാസ്ക്രിപ്റ്റ് കാണിക്കുക"
 
 [showJS.view]
 title = "എക്സ്ട്രാക്റ്റ് ചെയ്ത JavaScript"
-
-[sidebar]
-toggle = "സൈഡ്ബാർ മാറ്റുക"
 
 [sign]
 activate = "ഒപ്പ് സ്ഥാപിക്കൽ സജീവമാക്കുക"
@@ -7669,6 +7140,7 @@ redo = "വീണ്ടും ചെയ്യുക"
 save = "ഒപ്പ് സംരക്ഷിക്കുക"
 sharedSigs = "പങ്കിട്ട ഒപ്പുകൾ"
 submit = "ഡോക്യുമെന്റിൽ ഒപ്പിടുക"
+tags = "signature,autograph,e-sign,electronic signature,digital signature,sign document,approval,signoff,authorize,endorse,ink signature,handwriting"
 title = "ഒപ്പിടുക"
 undo = "പഴയപടി ആക്കുക"
 updateAndPlace = "അപ്‌ഡേറ്റ് ചെയ്ത് സ്ഥാപിക്കുക"
@@ -7843,10 +7315,11 @@ passwordsDoNotMatch = "പാസ്‌വേഡുകൾ പൊരുത്ത�
 passwordTooShort = "പാസ്‌വേഡിന് കുറഞ്ഞത് 6 അക്ഷരങ്ങളെങ്കിലും വേണം"
 pleaseFillAllFields = "ദയവായി എല്ലാ ഫീൽഡുകളും പൂരിപ്പിക്കുക"
 signUp = "സൈൻ അപ്പ് ചെയ്യുക"
+signUpWith = "Sign up with"
+skip = "Skip"
 subtitle = "തുടങ്ങാൻ Stirling PDF-ൽ ചേരുക"
 title = "ഒരു അക്കൗണ്ട് സൃഷ്ടിക്കുക"
 unexpectedError = "പ്രതീക്ഷിക്കാത്ത പിശക്: {{message}}"
-useEmailInstead = "പകരം ഇമെയിൽ ഉപയോഗിക്കുക"
 
 [sizes]
 large = "വലുത്"
@@ -7855,67 +7328,45 @@ small = "ചെറുത്"
 x-large = "കൂടുതൽ വലുത്"
 
 [split]
-header = "PDF വിഭജിക്കുക"
 resultsTitle = "സ്പ്ലിറ്റ് ഫലങ്ങൾ"
 selectMethod = "ഒരു സ്പ്ലിറ്റ് രീതി തിരഞ്ഞെടുക്കുക"
 splitPages = "വിഭജിക്കേണ്ട പേജുകൾ നൽകുക:"
 submit = "വിഭജിക്കുക"
+tags = "divide,separate,break,split,extract pages,separate pages,divide document,break apart,separate files,unbind,split by page,divide by chapter"
 title = "PDF വിഭജിക്കുക"
-
-[split.desc]
-1 = "നിങ്ങൾ തിരഞ്ഞെടുക്കുന്ന നമ്പറുകൾ വിഭജിക്കാൻ ആഗ്രഹിക്കുന്ന പേജ് നമ്പറാണ്"
-2 = "അതുപോലെ 1,3,7-9 തിരഞ്ഞെടുക്കുന്നത് 10 പേജുള്ള ഒരു പ്രമാണത്തെ 6 വ്യത്യസ്ത PDF-കളായി വിഭജിക്കും:"
-3 = "പ്രമാണം #1: പേജ് 1"
-4 = "പ്രമാണം #2: പേജ് 2, 3"
-5 = "പ്രമാണം #3: പേജ് 4, 5, 6, 7"
-6 = "പ്രമാണം #4: പേജ് 8"
-7 = "പ്രമാണം #5: പേജ് 9"
-8 = "പ്രമാണം #6: പേജ് 10"
 
 [split.error]
 failed = "PDF വിഭജിക്കുന്നതിനിടെ ഒരു പിശക് സംഭവിച്ചു."
 
-[split.method]
-label = "സ്പ്ലിറ്റ് രീതി തിരഞ്ഞെടുക്കുക"
-placeholder = "PDF എങ്ങനെ വിഭജിക്കണമെന്ന് തിരഞ്ഞെടുക്കുക"
-
 [split.methods.byChapters]
-desc = "ബുക്ക്മാർക്ക് അതിർത്തികളിൽ വിഭജിക്കുക"
 name = "അധ്യായങ്ങൾ"
 tooltip = "സ്പ്ലിറ്റ് പോയിന്റുകൾ നിർണയിക്കാൻ PDF ബുക്ക്മാർക്കുകൾ ഉപയോഗിക്കുന്നു"
 
 [split.methods.byDocCount]
-desc = "നിശ്ചിത എണ്ണം ഫയലുകൾ സൃഷ്ടിക്കുക"
 name = "ഡോക്യുമെന്റ് എണ്ണം"
 tooltip = "നിങ്ങൾക്ക് എത്ര ഫയലുകൾ സൃഷ്ടിക്കണമെന്ന് നൽകുക"
 
 [split.methods.byPageCount]
-desc = "ഓരോ ഫയലിൽ നിശ്ചിത പേജുകൾ"
 name = "പേജ് എണ്ണം"
 tooltip = "ഓരോ സ്പ്ലിറ്റ് ഫയലിനുള്ള പേജുകളുടെ എണ്ണം നൽകുക"
 
 [split.methods.byPageDivider]
-desc = "ഡിവൈഡർ ഷീറ്റുകളുമായി ഓട്ടോ-സ്പ്ലിറ്റ്"
 name = "പേജ് ഡിവൈഡർ"
 tooltip = "സ്കാൻ ചെയ്യുമ്പോൾ ഡോക്യുമെന്റുകൾക്കിടയിൽ QR കോഡ് ഡിവൈഡർ ഷീറ്റുകൾ ഉപയോഗിക്കുക"
 
 [split.methods.byPages]
-desc = "പ്രത്യേക പേജുകൾ എടുക്കുക (1,3,5-10)"
 name = "പേജ് നമ്പറുകൾ"
 tooltip = "പേജ് നമ്പറുകൾ കോമകളാൽ വേർതിരിച്ച് നൽകുക, റേഞ്ചുകൾ ഹൈഫണുകൾ കൊണ്ട് നൽകുക"
 
 [split.methods.byPoster]
-desc = "വലിയ പേജുകൾ പ്രിന്റ് ചെയ്യാവുന്ന വലിപ്പങ്ങളായി വിഭജിക്കുക"
 name = "പ്രിന്റ് ചെയ്യാവുന്ന ഭാഗങ്ങൾ"
 tooltip = "വലിയ പേജുകൾ സ്റ്റാൻഡേർഡ് പേപ്പറിൽ (A4, Letter, മുതലായവ) പ്രിന്റ് ചെയ്യാൻ അനുയോജ്യമായ ചെറിയ ഭാഗങ്ങളാക്കുക"
 
 [split.methods.bySections]
-desc = "പേജുകൾ ഗ്രിഡ് വിഭാഗങ്ങളായി വിഭജിക്കുക"
 name = "വിഭാഗങ്ങൾ"
 tooltip = "ഓരോ പേജും തിരശ്ചീനവും ലംബവുമായ വിഭാഗങ്ങളായി വിഭജിക്കുക"
 
 [split.methods.bySize]
-desc = "പരമാവധി ഫയൽ വലുപ്പം പരിധിയിടുക"
 name = "ഫയൽ വലുപ്പം"
 tooltip = "പരമാവധി ഫയൽ വലുപ്പം വ്യക്തമാക്കുക (ഉദാ. 10MB, 500KB)"
 
@@ -7963,13 +7414,6 @@ bullet2 = "മെറ്റാഡാറ്റ ഉൾപ്പെടുത്ത�
 bullet3 = "ഡ്യൂപ്ലിക്കേറ്റുകൾ അനുവദിക്കുക: ആവർത്തിക്കുന്ന ബുക്ക്മാർക്ക് നാമങ്ങൾ കൈകാര്യം ചെയ്യുക"
 text = "ചാപ്റ്റർ അതിർത്തികളിൽ ഓട്ടോമാറ്റിക്കായി വിഭജിക്കാൻ PDF ബുക്ക്മാർക്കുകൾ ഉപയോഗിക്കുക. ബുക്ക്മാർക്ക് ഘടനയുള്ള PDF ആവശ്യമാണ്."
 title = "അധ്യായങ്ങൾ പ്രകാരം വിഭജിക്കുക"
-
-[split.tooltip.byCount]
-bullet1 = "പേജ് എണ്ണം: ഓരോ ഫയലിലും നിശ്ചിത പേജുകൾ"
-bullet2 = "ഡോക്യുമെന്റ് എണ്ണം: നിശ്ചിത ഔട്ട്പുട്ട് ഫയലുകളുടെ എണ്ണം"
-bullet3 = "ബാച്ച് പ്രോസസ്സിംഗ് വർക്‌ഫ്ലോകൾക്ക് ഉപകാരപ്രദം"
-text = "ഓരോന്നിലും നിശ്ചിത പേജുകളോ ഡോക്യുമെന്റുകളോ ഉള്ള ഒന്നിലധികം PDF-കൾ സൃഷ്ടിക്കുക."
-title = "എണ്ണം പ്രകാരം വിഭജിക്കുക"
 
 [split.tooltip.byDocCount]
 bullet1 = "നിങ്ങൾക്ക് വേണ്ട ഔട്ട്പുട്ട് ഫയലുകളുടെ എണ്ണം നൽകുക"
@@ -8023,9 +7467,6 @@ bullet3 = "സിസ്റ്റം പേജ് അതിർത്തികള�
 text = "വിശദീകരിച്ച ഫയൽ വലുപ്പം കവിയാത്ത ഒന്നിലധികം PDF-കൾ സൃഷ്ടിക്കുക. ഫയൽ വലുപ്പ പരിധികളും ഇമെയിൽ അറ്റാച്ച്മെന്റുകളും ഉള്ള സാഹചര്യങ്ങളിൽ അനുയോജ്യം."
 title = "ഫയൽ വലുപ്പം പ്രകാരം വിഭജിക്കുക"
 
-[split.tooltip.header]
-title = "സ്പ്ലിറ്റ് രീതികളുടെ അവലോകനം"
-
 [split.value.docCount]
 label = "ഫയലുകളുടെ എണ്ണം"
 placeholder = "ഉദാ. 3, 5"
@@ -8039,9 +7480,7 @@ label = "ഓരോ ഫയലിലെ പേജുകൾ"
 placeholder = "ഉദാ. 5, 10"
 
 [split-by-sections]
-header = "PDF വിഭാഗങ്ങളായി വിഭജിക്കുക"
 merge = "ഒരൊറ്റ PDF-ലേക്ക് ലയിപ്പിക്കുക"
-submit = "PDF വിഭജിക്കുക"
 tags = "വിഭാഗം വിഭജനം, വിഭജിക്കുക, ഇഷ്ടാനുസൃതമാക്കുക"
 title = "വിഭാഗങ്ങൾ അനുസരിച്ച് PDF വിഭജിക്കുക"
 
@@ -8067,15 +7506,7 @@ label = "ലംബ വിഭജനങ്ങൾ"
 placeholder = "ലംബ വിഭജനങ്ങളുടെ എണ്ണം നൽകുക"
 
 [split-by-size-or-count]
-header = "വലുപ്പം അല്ലെങ്കിൽ എണ്ണം അനുസരിച്ച് PDF വിഭജിക്കുക"
-submit = "സമർപ്പിക്കുക"
 title = "വലുപ്പം അല്ലെങ്കിൽ എണ്ണം അനുസരിച്ച് PDF വിഭജിക്കുക"
-
-[split-by-size-or-count.type]
-docCount = "പ്രമാണങ്ങളുടെ എണ്ണം അനുസരിച്ച്"
-label = "വിഭജന തരം തിരഞ്ഞെടുക്കുക"
-pageCount = "പേജ് എണ്ണം അനുസരിച്ച്"
-size = "വലുപ്പം അനുസരിച്ച്"
 
 [split-by-size-or-count.value]
 label = "മൂല്യം നൽകുക"
@@ -8084,28 +7515,11 @@ placeholder = "വലുപ്പം (ഉദാ., 2MB അല്ലെങ്ക�
 [splitByChapters]
 allowDuplicates = "തനിപ്പകർപ്പുകൾ അനുവദിക്കുക"
 bookmarkLevel = "ബുക്ക്മാർക്ക് നില"
-header = "അധ്യായങ്ങൾ അനുസരിച്ച് PDF വിഭജിക്കുക"
 includeMetadata = "മെറ്റാഡാറ്റ ഉൾപ്പെടുത്തുക"
-submit = "PDF വിഭജിക്കുക"
 title = "അധ്യായങ്ങൾ അനുസരിച്ച് PDF വിഭജിക്കുക"
-
-[splitByChapters.desc]
-1 = "ഈ ഉപകരണം ഒരു PDF ഫയലിനെ അതിന്റെ അധ്യായ ഘടനയെ അടിസ്ഥാനമാക്കി ഒന്നിലധികം PDF-കളായി വിഭജിക്കുന്നു."
-2 = "ബുക്ക്മാർക്ക് നില: വിഭജനത്തിനായി ഉപയോഗിക്കേണ്ട ബുക്ക്മാർക്കുകളുടെ നില തിരഞ്ഞെടുക്കുക (ഉന്നത നിലയ്ക്ക് 0, രണ്ടാം നിലയ്ക്ക് 1, മുതലായവ)."
-3 = "മെറ്റാഡാറ്റ ഉൾപ്പെടുത്തുക: ചെക്ക് ചെയ്താൽ, യഥാർത്ഥ PDF-ന്റെ മെറ്റാഡാറ്റ ഓരോ വിഭജിച്ച PDF-ലും ഉൾപ്പെടുത്തും."
-4 = "തനിപ്പകർപ്പുകൾ അനുവദിക്കുക: ചെക്ക് ചെയ്താൽ, ഒരേ പേജിലെ ഒന്നിലധികം ബുക്ക്മാർക്കുകൾക്ക് പ്രത്യേക PDF-കൾ സൃഷ്ടിക്കാൻ അനുവദിക്കുന്നു."
 
 [splitPdfByChapters]
 tags = "വിഭജിക്കുക,അധ്യായങ്ങൾ,ബുക്ക്മാർക്കുകൾ,ക്രമീകരിക്കുക"
-
-[storage]
-approximateSize = "ഏകദേശ വലുപ്പം"
-fileTooLarge = "ഫയൽ വളരെ വലുതാണ്. ഓരോ ഫയലിനും അനുവദനീയമായ പരമാവധി വലുപ്പം"
-storageFull = "സ്റ്റോറേജ് ഏകദേശം നിറഞ്ഞിരിക്കുന്നു. ചില ഫയലുകൾ നീക്കം ചെയ്യാൻ പരിഗണിക്കുക."
-storageLimit = "സ്റ്റോറേജ് പരിധി"
-storageQuotaExceeded = "സ്റ്റോറേജ് ക്വോട്ട കവിഞ്ഞിരിക്കുന്നു. കൂടുതൽ അപ്‌ലോഡ് ചെയ്യുന്നതിന് മുമ്പ് ചില ഫയലുകൾ നീക്കം ചെയ്യുക."
-storageUsed = "ഉപയോഗിച്ച താൽക്കാലിക സ്റ്റോറേജ്"
-temporaryNotice = "ഫയലുകൾ താൽക്കാലികമായി നിങ്ങളുടെ ബ്രൗസറിൽ സംഭരിക്കപ്പെടുന്നു; സ്വയമേ മായ്ച്ചുകളയപ്പെടാൻ സാധ്യതയുണ്ട്"
 
 [storageShare]
 accessDenied = "ഈ ഷെയർ ചെയ്ത ഫയലിലേക്ക് നിങ്ങൾക്ക് ആക്‌സസ് ഇല്ല. ഉടമയോട് ഇത് നിങ്ങളുമായി പങ്കിടാൻ ആവശ്യപ്പെടുക."
@@ -8208,43 +7622,10 @@ title = "സെർവറിലേക്ക് അപ്‌ലോഡ് ചെയ
 updateButton = "സെർവറിൽ അപ്‌ഡേറ്റ് ചെയ്യുക"
 uploadButton = "സെർവറിലേക്ക് അപ്‌ലോഡ് ചെയ്യുക"
 
-[subscription]
-cancelsOn = "{{date}} ന് റദ്ദാക്കും"
-renewsOn = "{{date}} ന് പുതുക്കും"
-
-[subscription.status]
-active = "സജീവം"
-canceled = "റദ്ദാക്കി"
-incomplete = "അപൂർണ്ണം"
-none = "സബ്‌സ്‌ക്രിപ്ഷൻ ഇല്ല"
-pastDue = "കാലാവധി കഴിഞ്ഞത്"
-trialing = "ട്രയൽ"
-
 [survey]
-button = "സർവേ എടുക്കുക"
-changes = "അവസാന സർവേയ്ക്ക് ശേഷം സ്റ്റെർലിംഗ്-PDF മാറിയിരിക്കുന്നു! കൂടുതൽ വിവരങ്ങൾക്കായി ദയവായി ഞങ്ങളുടെ ബ്ലോഗ് പോസ്റ്റ് ഇവിടെ പരിശോധിക്കുക:"
-changes2 = "ഈ മാറ്റങ്ങളോടെ ഞങ്ങൾക്ക് പണമടച്ചുള്ള ബിസിനസ് പിന്തുണയും ഫണ്ടിംഗും ലഭിക്കുന്നു"
-description = "സ്റ്റെർലിംഗ്-PDF-ന് ട്രാക്കിംഗ് ഇല്ല, അതിനാൽ സ്റ്റെർലിംഗ്-PDF മെച്ചപ്പെടുത്തുന്നതിന് ഞങ്ങളുടെ ഉപയോക്താക്കളിൽ നിന്ന് കേൾക്കാൻ ഞങ്ങൾ ആഗ്രഹിക്കുന്നു!"
-disabled = "(സർവേ പോപ്പ്അപ്പ് തുടർന്നുള്ള അപ്‌ഡേറ്റുകളിൽ പ്രവർത്തനരഹിതമാക്കും, എന്നാൽ പേജിന്റെ താഴെ ലഭ്യമാകും)"
-dontShowAgain = "വീണ്ടും കാണിക്കരുത്"
-nav = "സർവേ"
-please = "ദയവായി ഞങ്ങളുടെ സർവേ എടുക്കുന്നത് പരിഗണിക്കുക!"
 title = "സ്റ്റെർലിംഗ്-PDF സർവേ"
 
-[survey.meeting]
-1 = "നിങ്ങൾ ജോലിസ്ഥലത്ത് സ്റ്റെർലിംഗ് PDF ഉപയോഗിക്കുകയാണെങ്കിൽ, നിങ്ങളുമായി സംസാരിക്കാൻ ഞങ്ങൾ ആഗ്രഹിക്കുന്നു. 15 മിനിറ്റ് ഉപയോക്തൃ കണ്ടെത്തൽ സെഷന് പകരമായി ഞങ്ങൾ സാങ്കേതിക പിന്തുണാ സെഷനുകൾ വാഗ്ദാനം ചെയ്യുന്നു."
-2 = "ഇതൊരു അവസരമാണ്:"
-3 = "വിന്യാസം, സംയോജനം, അല്ലെങ്കിൽ ട്രബിൾഷൂട്ടിംഗ് എന്നിവയിൽ സഹായം നേടുക"
-4 = "പ്രകടനം, എഡ്ജ് കേസുകൾ, ഫീച്ചർ വിടവുകൾ എന്നിവയെക്കുറിച്ച് നേരിട്ടുള്ള ഫീഡ്‌ബാക്ക് നൽകുക"
-5 = "യഥാർത്ഥ ലോക എന്റർപ്രൈസ് ഉപയോഗത്തിനായി സ്റ്റെർലിംഗ് PDF പരിഷ്കരിക്കാൻ ഞങ്ങളെ സഹായിക്കുക"
-6 = "നിങ്ങൾക്ക് താൽപ്പര്യമുണ്ടെങ്കിൽ, ഞങ്ങളുടെ ടീമുമായി നേരിട്ട് സമയം ബുക്ക് ചെയ്യാം. (ഇംഗ്ലീഷ് സംസാരിക്കുന്നവർ മാത്രം)"
-7 = "നിങ്ങളുടെ ഉപയോഗ കേസുകളിലേക്ക് ആഴത്തിൽ ഇറങ്ങിച്ചെല്ലാനും സ്റ്റെർലിംഗ് PDF കൂടുതൽ മികച്ചതാക്കാനും ഞങ്ങൾ ആകാംക്ഷയോടെ കാത്തിരിക്കുന്നു!"
-button = "മീറ്റിംഗ് ബുക്ക് ചെയ്യുക"
-notInterested = "ഒരു ബിസിനസ്സ് അല്ല കൂടാതെ/അല്ലെങ്കിൽ ഒരു മീറ്റിംഗിൽ താൽപ്പര്യമില്ലേ?"
-
 [swagger]
-desc = "Stirling PDF API എൻഡ്പോയിന്റുകൾ കാണുകയും പരിശോധിക്കുകയും ചെയ്യുക"
-header = "API ഡോക്യുമെന്റേഷൻ"
 tags = "api,documentation,swagger,endpoints,development"
 title = "API ഡോക്യുമെന്റേഷൻ"
 
@@ -8274,28 +7655,6 @@ removeError = "അംഗത്തെ നീക്കൽ പരാജയപ്പ
 renameError = "ടീം പുനർനാമകരണം പരാജയപ്പെട്ടു"
 renameSuccess = "ടീം വിജയകരമായി പുനർനാമകരണം ചെയ്തു"
 
-[team.features]
-badge = "Team സവിശേഷതകൾ"
-subtitle = "നിങ്ങളുടെ ടീമിനൊപ്പം സഹകരിക്കൂ"
-title = "Team സഹകരണം"
-viewPlans = "പ്ലാനുകൾ കാണുക"
-
-[team.features.billing]
-description = "ബില്ലിംഗും സബ്സ്ക്രിപ്ഷനും മാനേജ് ചെയ്യുക"
-title = "ബില്ലിംഗ് മാനേജ്മെന്റ്"
-
-[team.features.credits]
-description = "എല്ലാ അംഗങ്ങൾക്കും സംയുക്തമായ ക്രെഡിതി പൂൾ"
-title = "പങ്കിട്ട ക്രെഡിറ്റുകൾ"
-
-[team.features.dashboard]
-description = "ടീം പ്രവർത്തനവും ഉപയോഗവും കാണുക"
-title = "Team ഡാഷ്ബോർഡ്"
-
-[team.features.invite]
-description = "നിങ്ങളുടെ ടീമിലേക്ക് അംഗങ്ങളെ ചേർക്കുക"
-title = "അംഗങ്ങളെ ക്ഷണിക്കുക"
-
 [team.invitationBanner]
 acceptButton = "സ്വീകരിക്കുക"
 message = "ചേരാൻ നിങ്ങളെ ക്ഷണിച്ചിട്ടുണ്ട്"
@@ -8317,11 +7676,6 @@ remove = "നീക്കം ചെയ്യുക"
 roleColumn = "പദവി"
 title = "ടീം അംഗങ്ങൾ"
 
-[team.upgrade]
-button = "Team-ലേക്ക് അപ്‌ഗ്രേഡ് ചെയ്യുക"
-description = "ടീം സഹകരണ സവിശേഷതകൾ അൺലോക്ക് ചെയ്യുക"
-title = "Team പ്ലാനിലേക്ക് അപ്‌ഗ്രേഡ് ചെയ്യുക"
-
 [textAlign]
 center = "മധ്യം"
 left = "ഇടത്"
@@ -8330,9 +7684,6 @@ right = "വലത്"
 [textInput]
 clear = "ഇൻപുട്ട് മായ്ക്കുക"
 
-[theme]
-toggle = "തീം മാറ്റുക"
-
 [time.relative]
 daysAgo = "{{count}}d മുമ്പ്"
 hoursAgo = "{{count}}h മുമ്പ്"
@@ -8340,19 +7691,14 @@ justNow = "ഇപ്പോഴെ"
 minutesAgo = "{{count}}m മുമ്പ്"
 
 [timestampPdf]
-completed = "PDF-ന് ടൈംസ്റ്റാംപ് വിജയകരമായി നൽകി"
 desc = "വിശ്വസനീയമായ Time Stamp Authority (TSA) സെർവർ ഉപയോഗിച്ച് നിങ്ങളുടെ PDF-ലേക്ക് RFC 3161 ഡോക്യുമെന്റ് ടൈംസ്റ്റാംപ് ചേർക്കുക."
-filenamePrefix = "timestamped"
 results = "ടൈംസ്റ്റാംപ് ഫലങ്ങൾ"
 submit = "ടൈംസ്റ്റാംപ് പ്രയോഗിക്കുക"
+tags = "timestamp,RFC 3161,TSA,time stamp authority,document timestamp,proof of existence,timestamp token,trusted timestamp,sign timestamp,notarize"
 title = "ടൈംസ്റ്റാംപ് PDF"
 
 [timestampPdf.error]
 failed = "PDF-ന് ടൈംസ്റ്റാംപ് നൽകുന്നതിനിടെ ഒരു പിശക് സംഭവിച്ചു."
-generic = "ടൈംസ്റ്റാംപിംഗ് പരാജയപ്പെട്ടു"
-
-[timestampPdf.files]
-placeholder = "ആരംഭിക്കാൻ മെയിൻ കാഴ്ചയിൽ ഒരു PDF ഫയൽ തിരഞ്ഞെടുക്കുക"
 
 [timestampPdf.options]
 note = "നിങ്ങളുടെ ഡോക്യുമെന്റിലെ SHA-256 ഹാഷ് മാത്രമേ TSA സെർവറിലേക്ക് അയക്കൂ; PDF ഫയൽ തന്നെ TSA സെർവറിലേക്ക് ഒരിക്കലും അയക്കില്ല."
@@ -8383,18 +7729,13 @@ singleFileScope = "ഇത് ബാധകമാകുന്നത് {{fileName}
 viewerMode = "ഒന്നിലധികം ഫയലുകൾ തിരഞ്ഞെടുക്കാൻ ഫയൽ എഡിറ്ററിലേക്ക് മാറുക."
 
 [toolPanel]
-allTools = "എല്ലാ ടൂളുകളും"
 alpha = "Alpha"
 backToAllTools = "എല്ലാ ടൂളുകളിലേക്കും തിരികെ"
-backToDefault = "മടങ്ങുക"
-backToTools = "ടൂളുകളിലേക്ക് മടങ്ങുക"
 collapse = "പാനൽ ചുരുക്കുക"
-comingSoon = "വരുന്നു:"
 expand = "പാനൽ വിപുലീകരിക്കുക"
 goBack = "തിരികെ പോകുക"
 placeholder = "തുടങ്ങാൻ ഒരു ടൂൾ തിരഞ്ഞെടുക്കുക"
 premiumFeature = "പ്രീമിയം ഫീച്ചർ:"
-search = "ടൂളുകൾ തിരയുക"
 toolsHeader = "ടൂളുകൾ"
 viewAllTools = "എല്ലാ ടൂളുകളും കാണുക"
 
@@ -8422,10 +7763,6 @@ recommended = "ശുപാർശ ചെയ്തത്"
 sidebarDescription = "വേഗത്തിൽ സ്വിച്ച് ചെയ്യാൻ പ്രവർത്തനസ്ഥലത്തോടൊപ്പം ടൂളുകൾ സൂക്ഷിക്കുക."
 sidebarTitle = "സൈഡ്ബാർ മോഡ്"
 title = "ടൂളുകൾ എങ്ങനെ ബ്രൗസ് ചെയ്യണമെന്ന് തിരഞ്ഞെടുക്കുക"
-
-[toolPanel.toggle]
-fullscreen = "ഫുൾസ്ക്രീൻ മോഡിലേക്കു മാറ്റുക"
-sidebar = "സൈഡ്ബാർ മോഡിലേക്കു മാറ്റുക"
 
 [toolPicker]
 allTools = "എല്ലാ ടൂളുകളും"
@@ -8460,8 +7797,6 @@ close = "ടൂൾടിപ്പ് അടയ്ക്കുക"
 
 [unlockPDFForms]
 description = "ഈ ടൂൾ PDF ഫോമിലെ read-only നിയന്ത്രണങ്ങൾ നീക്കം ചെയ്ത് അവ എഡിറ്റുചെയ്യാവുന്നതും പൂരിപ്പിക്കാവുന്നതുമാക്കും."
-filenamePrefix = "അൺലോക്ക്_ചെയ്ത_ഫോമുകൾ"
-header = "PDF ഫോമുകൾ അൺലോക്ക് ചെയ്യുക"
 submit = "നീക്കം ചെയ്യുക"
 tags = "നീക്കം ചെയ്യുക,ഇല്ലാതാക്കുക,ഫോം,ഫീൽഡ്,റീഡ്-ഒൺലി"
 title = "ഫോം ഫീൽഡുകളിൽ നിന്ന് റീഡ്-ഒൺലി നീക്കം ചെയ്യുക"
@@ -8469,15 +7804,11 @@ title = "ഫോം ഫീൽഡുകളിൽ നിന്ന് റീഡ്-�
 [unlockPDFForms.error]
 failed = "PDF ഫോമുകൾ അൺലോക്ക് ചെയ്യുന്നതിനിടെ ഒരു പിശക് സംഭവിച്ചു."
 
-[unlockPDFForms.files]
-placeholder = "ആരംഭിക്കാൻ പ്രധാന കാഴ്ചയിൽ ഒരു PDF ഫയൽ തിരഞ്ഞെടുക്കുക"
-
 [unlockPDFForms.results]
 title = "അൺലോക്ക് ചെയ്ത ഫോമുകളുടെ ഫലം"
 
 [update]
 allReleases = "എല്ലാ റിലീസുകളും"
-availableUpdates = "ലഭ്യമായ അപ്‌ഡേറ്റുകൾ"
 breaking = "ബ്രേക്കിംഗ്"
 breakingChanges = "ബ്രേക്കിംഗ് മാറ്റങ്ങൾ"
 breakingChangesDefault = "ഈ പതിപ്പിൽ Breaking Changes ഉണ്ട്."
@@ -8490,7 +7821,6 @@ defaultRecommendation = "ഈ അപ്ഡേറ്റിൽ പ്രധാന�
 downloadLatest = "പുതിയത് ഡൗൺലോഡ് ചെയ്യുക"
 later = "പിന്നീട്"
 latest = "പുതിയ പതിപ്പ്"
-latestStable = "പുതിയ സ്റ്റേബിൾ"
 loadingDetailedInfo = "വിശദമായ വിവരങ്ങൾ ലോഡുചെയ്യുന്നു..."
 migrationGuide = "മൈഗ്രേഷൻ ഗൈഡ്"
 migrationGuides = "മൈഗ്രേഷൻ ഗൈഡുകൾ"
@@ -8498,18 +7828,14 @@ migrationGuidesDesc = "അപ്‌ഡേറ്റ് ചെയ്യുന്�
 modalSubtitle = "Stirling PDF-യുടെ ഒരു പുതിയ വേർഷൻ ഇൻസ്റ്റാൾ ചെയ്യാൻ തയ്യാറാണ്."
 modalTitle = "അപ്‌ഡേറ്റ് ലഭ്യമാണ്"
 notes = "കുറിപ്പുകൾ"
-priorityLabel = "പ്രാധാന്യം"
-recommendedAction = "ശുപാർശ ചെയ്ത നടപടി"
 releaseNotes = "റിലീസ് നോട്ടുകൾ"
 showLess = "കുറച്ച് വേർഷനുകൾ കാണിക്കുക"
 showMore = "എല്ലാ {{count}} വേർഷനുകളും കാണിക്കുക"
 stable = "STABLE"
-unableToLoadDetails = "വിശദാംശങ്ങൾ ലോഡുചെയ്യാൻ കഴിഞ്ഞില്ല."
 updateAvailable = "അപ്‌ഡേറ്റ് ലഭ്യമാണ്"
 urgentUpdateAvailable = "ത്വരിത അപ്‌ഡേറ്റ്"
 version = "പതിപ്പ്"
 versionHistory = "വേർഷൻ ചരിത്രം"
-viewAllReleases = "എല്ലാ റിലീസുകളും കാണുക"
 viewGuide = "ഗൈഡ് കാണുക"
 whatsNewIn = "ഇതിലെ പുതുമകൾ"
 
@@ -8523,16 +7849,12 @@ urgent = "ത്വരിതം"
 attentionBody = "കൂടുതൽ വിവരങ്ങൾ കാണാൻ നിങ്ങളുടെ അഡ്മിൻ സൈൻ ഇൻ ചെയ്യണം. ദയവായി ഉടൻ അവരെ ബന്ധപ്പെടുക."
 attentionBodyAdmin = "ഈ സെർവർ പാടുപെടാതെ തുടരാൻ ലൈസൻസ് ആവശ്യകതകൾ പരിശോധിക്കുക."
 attentionTitle = "ഈ സെർവർക്ക് അഡ്മിൻ ശ്രദ്ധ ആവശ്യമാണ്"
-dismiss = "ബാനർ ഒഴിവാക്കുക"
 message = "അൺലിമിറ്റഡ് ഉപയോക്താക്കളും അഡ്വാൻസ്ഡ് ഫീച്ചറുകളും കൊണ്ട് Stirling PDF-ൽ നിന്ന് കൂടുതൽ പ്രയോജനം നേടുക"
 seeInfo = "വിവരം കാണുക"
 title = "Server പ്ലാനിലേക്ക് അപ്‌ഗ്രേഡ് ചെയ്യുക"
 upgradeButton = "ഇപ്പോൾ അപ്‌ഗ്രേഡ് ചെയ്യുക"
 
 [URLToPDF]
-credit = "WeasyPrint ഉപയോഗിക്കുന്നു"
-header = "URL PDF-ലേക്ക്"
-submit = "പരിവർത്തനം ചെയ്യുക"
 tags = "വെബ്-ക്യാപ്ചർ,പേജ്-സംരക്ഷിക്കുക,വെബ്-ടു-ഡോക്,ആർക്കൈവ്"
 title = "URL PDF-ലേക്ക്"
 
@@ -8585,7 +7907,6 @@ downloadCsv = "CSV ഡൗൺലോഡ് ചെയ്യുക"
 downloadJson = "JSON ഡൗൺലോഡ് ചെയ്യുക"
 downloadPdf = "PDF റിപ്പോർട്ട് ഡൗൺലോഡ് ചെയ്യുക"
 finalizing = "ഡൗൺലോഡുകൾ തയ്യാറാക്കുന്നു..."
-header = "ഡിജിറ്റൽ ഒപ്പുകൾ സാധൂകരിക്കുക"
 location = "സ്ഥലം"
 noResults = "റിപ്പോർട്ട് സൃഷ്ടിക്കാൻ സ്ഥിരീകരണം പ്രവർത്തിപ്പിക്കുക."
 noSignatures = "ഈ പ്രമാണത്തിൽ ഡിജിറ്റൽ ഒപ്പുകളൊന്നും കണ്ടെത്തിയില്ല"
@@ -8594,7 +7915,6 @@ processing = "ഒപ്പുകൾ പരിശോധിക്കുന്ന�
 reason = "കാരണം"
 results = "സാധൂകരണ ഫലങ്ങൾ"
 selectCustomCert = "ഇഷ്ടാനുസൃത സർട്ടിഫിക്കറ്റ് ഫയൽ X.509 (ഓപ്ഷണൽ)"
-selectPDF = "ഒപ്പിട്ട PDF ഫയൽ തിരഞ്ഞെടുക്കുക"
 signatureDate = "ഒപ്പ് തീയതി"
 signer = "ഒപ്പിട്ടയാൾ"
 submit = "ഒപ്പുകൾ സാധൂകരിക്കുക"
@@ -8606,21 +7926,15 @@ totalSignatures = "ആകെ ഒപ്പുകൾ"
 algorithm = "അൽഗോരിതം"
 bits = "ബിറ്റുകൾ"
 details = "സർട്ടിഫിക്കറ്റ് വിശദാംശങ്ങൾ"
-expired = "സർട്ടിഫിക്കറ്റ് കാലഹരണപ്പെട്ടു"
-info = "സർട്ടിഫിക്കറ്റ് വിശദാംശങ്ങൾ"
 issuer = "നൽകിയയാൾ"
 keySize = "കീ വലുപ്പം"
 keyUsage = "കീ ഉപയോഗം"
-revoked = "സർട്ടിഫിക്കറ്റ് റദ്ദാക്കിയിരിക്കുന്നു"
 selfSigned = "സ്വയം ഒപ്പിട്ടത്"
 serialNumber = "സീരിയൽ നമ്പർ"
 subject = "വിഷയം"
 validFrom = "മുതൽ സാധുവാണ്"
 validUntil = "വരെ സാധുവാണ്"
 version = "പതിപ്പ്"
-
-[validateSignature.chain]
-invalid = "സർട്ടിഫിക്കറ്റ് ശൃംഖല സാധൂകരണം പരാജയപ്പെട്ടു - ഒപ്പിട്ടയാളുടെ ഐഡന്റിറ്റി പരിശോധിക്കാൻ കഴിയില്ല"
 
 [validateSignature.downloadType]
 csv = "CSV"
@@ -8668,22 +7982,11 @@ title = "സ്ഥിരീകരണ സെറ്റിങ്ങുകൾ"
 
 [validateSignature.signature]
 _value = "ഒപ്പ്"
-info = "ഒപ്പ് വിവരങ്ങൾ"
-mathValid = "ഒപ്പ് ഗണിതശാസ്ത്രപരമായി സാധുവാണ് പക്ഷേ:"
 
 [validateSignature.status]
-_value = "സ്ഥിതി"
 complete = "സ്ഥിരീകരണം പൂർത്തിയായി"
 invalid = "അസാധുവാണ്"
 valid = "സാധുവാണ്"
-
-[validateSignature.trust]
-invalid = "സർട്ടിഫിക്കറ്റ് ട്രസ്റ്റ് സ്റ്റോറിൽ ഇല്ല - ഉറവിടം പരിശോധിക്കാൻ കഴിയില്ല"
-
-[view]
-fileManager = "ഫയൽ മാനേജർ"
-pageEditor = "പേജ് എഡിറ്റർ"
-viewer = "വ്യൂവർ"
 
 [viewer]
 cannotPreviewFile = "ഫയൽ പ്രിവ്യൂ ചെയ്യാൻ കഴിയില്ല"
@@ -8730,10 +8033,8 @@ moreActions = "കൂടുതൽ പ്രവർത്തികൾ"
 nComments = "{{count}} കമന്റുകൾ"
 oneComment = "1 കമന്റ്"
 pageLabel = "പേജ് {{page}}"
-placeholder = "നിങ്ങളുടെ കമന്റ് ടൈപ്പ് ചെയ്യുക..."
 removeCommentOnly = "കമന്റ് മാത്രം നീക്കുക"
 saveReply = "മറുപടി സംരക്ഷിക്കുക"
-send = "അയയ്ക്കുക"
 title = "കമന്റുകൾ"
 typeComment = "കമന്റ്"
 typeInsertText = "ടെക്സ്റ്റ് ചേർക്കുക"
@@ -8760,7 +8061,6 @@ columnDefault = "നിര {{index}}"
 convertToPdf = "PDF ആയി മാറിക്കുക"
 csvStats = "{{rows}} വരികൾ · {{columns}} നിരകൾ · {{size}}"
 emptyFile = "ശൂന്യ ഫയൽ"
-fileTypeBadge = "{{type}} ഫയൽ"
 htmlPreview = "HTML പ്രിവ്യൂ"
 htmlPreviewWarning = "HTML പ്രിവ്യൂ — ബാഹ്യ വിഭവങ്ങൾ ലോഡ് ചെയ്യാതിരിക്കാം · {{size}}"
 invalidJson = "അസാധുവായ JSON — അസംസ്കൃത ഉള്ളടക്കം കാണിക്കുന്നു"
@@ -8784,27 +8084,180 @@ resultsOf = "ആകെ {{total}}യിൽ"
 delete = "കൈയൊപ്പ് ഇല്ലാതാക്കുക"
 
 [viewPdf]
-header = "PDF കാണുക"
 tags = "കാണുക,വായിക്കുക,വ്യാഖ്യാനിക്കുക,ടെക്സ്റ്റ്,ചിത്രം,ഹൈലൈറ്റ്,തിരുത്തുക"
 title = "PDF കാണുക/തിരുത്തുക"
 
 [warning]
 tooltipTitle = "മുന്നറിയിപ്പ്"
 
-[watermark]
-completed = "വാട്ടർമാർക്ക് ചേർത്തു"
-desc = "PDF ഫയലുകളിൽ ടെക്സ്റ്റ് അല്ലെങ്കിൽ ഇമേജ് വാട്ടർമാർക്കുകൾ ചേർക്കുക"
-filenamePrefix = "വാട്ടർമാർക്ക്_ചെയ്തത്"
-submit = "വാട്ടർമാർക്ക് ചേർക്കുക"
-title = "വാട്ടർമാർക്ക് ചേർക്കുക"
+[watchedFolders]
+alreadyInFolder = "Already in this folder"
+defaultFolderWarning = "This is a default folder and will be recreated on next reload."
+deleteConfirmBody = "This will remove the folder and its run history. Files already downloaded are not affected."
+deleteConfirmTitle = "Delete folder?"
+folderNotFound = "Folder not found"
+newFolder = "New folder"
+noFolders = "No watched folders yet"
+sidebarTitle = "Watched Folders"
+title = "Watched Folders"
 
-[watermark.alphabet]
-arabic = "അറബിക്"
-chinese = "ചൈനീസ്"
-japanese = "ജാപ്പനീസ്"
-korean = "കൊറിയൻ"
-roman = "റോമൻ/ലാറ്റിൻ"
-thai = "തായ്"
+[watchedFolders.actions]
+back = "Back"
+collapse = "Collapse"
+dismiss = "Dismiss"
+download = "Download"
+downloadInput = "Download input"
+downloadOutput = "Download output"
+expand = "Expand"
+retry = "Retry"
+
+[watchedFolders.card]
+delete = "Delete folder"
+edit = "Edit folder"
+
+[watchedFolders.home]
+addAnother = "Add another Watched Folder"
+addAnotherDesc = "Automatically process files with a new pipeline"
+create = "Create your first Watched Folder"
+deleteFolder = "Delete folder"
+editFolder = "Edit folder"
+empty = "No watched folders yet"
+emptyDesc = "Set up a Watched Folder once. Drop PDFs in and they're automatically compressed, OCR'd, split, merged — whatever your pipeline does."
+emptyTitle = "Automate your PDF workflows"
+file = "file"
+files = "files"
+pause = "Pause"
+resume = "Resume"
+
+[watchedFolders.howItWorks]
+step1Desc = "Drag PDFs onto any Watched Folder card — or send them from your file list"
+step1Title = "Drop files"
+step2Desc = "Your configured tools process each file automatically"
+step2Title = "Pipeline runs"
+step3Desc = "Download processed files from inside the folder"
+step3Title = "Output ready"
+title = "How Watched Folders work"
+
+[watchedFolders.modal]
+advanced = "Advanced"
+automation = "Automation"
+automationNameFallback = "Watched Folder automation"
+automationRequired = "Add at least one configured step before saving."
+autoNumber = "Auto-number"
+autoNumberExample = "e.g. document.pdf → document (1).pdf"
+autoScanHelp = "New PDF files in this folder are processed automatically every 10 seconds."
+changeFolder = "Change"
+chooseFolder = "Choose"
+clearFolder = "Clear"
+color = "Accent color"
+createFolder = "Create Folder"
+createTitle = "New Watched Folder"
+editTitle = "Edit Watched Folder"
+inputFolder = "Input folder"
+inputFolderNotChosen = "No folder chosen — required for auto-scan"
+inputSource = "Input source"
+inputSourceBrowser = "Browser — drop files here"
+inputSourceLocal = "Local folder (auto-scan)"
+inputSourceLocalUnsupported = "Local folder (auto-scan) — Chrome/Edge only"
+localOutputFolder = "Local output folder"
+maxRetries = "Max retries"
+name = "Folder name"
+namePlaceholder = "My Watched Folder"
+nameRequired = "Folder name is required"
+nameTooLong = "Folder name must be 50 characters or less"
+outputFolderNotSet = "Not set — outputs stay in app"
+outputFolderUnsupported = "Not supported in this browser"
+outputModeNewDesc = "Output is saved as a new separate file"
+outputModeVersion = "Replace original?"
+outputModeVersionDesc = "Output becomes a new version of the input file rather than a separate file"
+outputName = "Output filename prefix"
+outputNamePrefix = "Filename prefix"
+outputNameSuffix = "Suffix"
+positionPrefix = "Prefix"
+positionSuffix = "Suffix"
+replaceOriginal = "Replace original file"
+retryDelay = "Delay (minutes)"
+saveChanges = "Save Changes"
+saveFailed = "Failed to save folder. Please try again."
+sectionFolder = "Folder"
+sectionSourceOutput = "Source & Output"
+sectionSteps = "Steps"
+
+[watchedFolders.status]
+active = "Active"
+done = "Done"
+paused = "Paused"
+processing = "Processing"
+
+[watchedFolders.time]
+daysAgo = "{{count}}d ago"
+hoursAgo = "{{count}}h ago"
+justNow = "just now"
+minutesAgo = "{{count}}m ago"
+
+[watchedFolders.workbench]
+activity = "Activity"
+addFiles = "Add files"
+allTime = "All time"
+cancel = "Cancel"
+chartTooltipComplete = "{{count}} complete"
+chartTooltipFailed = "{{count}} failed"
+clearSelection = "Clear selection"
+countProcessing = "{{count}} processing"
+countQueued = "{{count}} queued"
+countSelected = "{{count}} selected"
+dataSaved = "Saved"
+dayRunning = "day running"
+daysRunning = "days running"
+delete = "Delete"
+deleteConfirmBody = "Remove notifications only clears the activity log. Delete outputs also removes the processed files from storage. Your original input files are never touched."
+deleteOutputs = "Delete outputs"
+directionIn = "in"
+directionOut = "out"
+dropToProcess = "Drop to process"
+export = "Export"
+exportSeparately = "Export separately"
+exportZip = "Export zip"
+failed = "Failed"
+filesProcessedOverTime = "Files processed over time"
+filterAll = "All"
+filterPending = "Pending"
+inputs = "Inputs"
+inputSize = "Input size"
+legendComplete = "Complete"
+noActivity = "No activity yet — drop a PDF to start"
+noActivityMatch = "No matching activity"
+noInputFolder = "No input folder — edit to configure"
+outputs = "Outputs"
+pause = "Pause"
+preview = "Preview"
+previewInput = "Preview input"
+previewLoadFailed = "Could not load file preview."
+previewOutput = "Preview output"
+queued = "Queued"
+queuedWaiting = "Queued — waiting to run"
+removeEntries = "Remove {{count}} entries"
+removeEntry = "Remove entry"
+removeNotificationsOnly = "Remove notifications only"
+resume = "Resume"
+retryAll = "Retry all"
+retryIn = "retry in {{count}}m"
+retryingSoon = "retrying…"
+retryMixedConfirm = "Some selected files have already completed and will be skipped. Only failed files will be retried. Continue?"
+running = "Running"
+search = "Search…"
+selectAll = "Select all {{count}}"
+sortNameAsc = "A → Z"
+sortNameDesc = "Z → A"
+sortNewest = "Newest"
+sortOldest = "Oldest"
+watching = "Watching: {{name}}"
+
+[watermark]
+desc = "PDF ഫയലുകളിൽ ടെക്സ്റ്റ് അല്ലെങ്കിൽ ഇമേജ് വാട്ടർമാർക്കുകൾ ചേർക്കുക"
+submit = "വാട്ടർമാർക്ക് ചേർക്കുക"
+tags = "stamp,mark,overlay,watermark,branding,logo,confidential,draft,copyright,trademark,text overlay,image overlay,background text"
+title = "വാട്ടർമാർക്ക് ചേർക്കുക"
 
 [watermark.error]
 failed = "PDF-ൽ വാട്ടർമാർക്ക് ചേർക്കുന്നതിനിടെ ഒരു പിശക് സംഭവിച്ചു."
@@ -8816,16 +8269,12 @@ title = "വാട്ടർമാർക്ക് ഫലങ്ങൾ"
 alphabet = "ഫോണ്ട്/ഭാഷ"
 color = "വാട്ടർമാർക്ക് നിറം"
 convertToImage = "PDF പേജുകൾ ഇമേജുകളാക്കി ഫ്ലാറ്റൻ ചെയ്യുക"
-fontSize = "ഫോണ്ട് വലുപ്പം"
 opacity = "ഓപാസിറ്റി (%)"
 rotation = "റോട്ടേഷൻ (ഡിഗ്രികൾ)"
 size = "വലുപ്പം"
-type = "വാട്ടർമാർക്ക് തരം"
 
 [watermark.settings.image]
 choose = "ഇമേജ് തിരഞ്ഞെടുക്കുക"
-label = "വാട്ടർമാർക്ക് ഇമേജ്"
-selected = "തിരഞ്ഞെടുത്തത്: {{filename}}"
 
 [watermark.settings.spacing]
 height = "ഉയരം സ്പേസിംഗ്"
@@ -8834,7 +8283,6 @@ vertical = "ലംബ സ്പേസിംഗ്"
 width = "വീതി സ്പേഷിംഗ്"
 
 [watermark.settings.text]
-label = "വാട്ടർമാർക്ക് ടെക്സ്റ്റ്"
 placeholder = "വാട്ടർമാർക്ക് ടെക്സ്റ്റ് നൽകുക"
 
 [watermark.steps]
@@ -8868,13 +8316,6 @@ bullet3 = "ഉയർന്ന റെസല്യൂഷൻ ചിത്രങ്�
 text = "നിങ്ങളുടെ വാട്ടർമാർക്കായി ഉപയോഗിക്കാൻ ഒരു ഇമേജ് ഫയൽ അപ്‌ലോഡ് ചെയ്യുക."
 title = "ചിത്രം തിരഞ്ഞെടുക്കൽ"
 
-[watermark.tooltip.formatting.appearance]
-bullet1 = "ഭ്രമണം: കോണിലുള്ള വാട്ടർമാർക്കുകൾക്കായി -360° മുതൽ 360° വരെ"
-bullet2 = "അപാകത: പാരദർശിത്വ നിയന്ത്രണത്തിനായി 0-100%"
-bullet3 = "കുറഞ്ഞ അപാകത സൂക്ഷ്മമായ വാട്ടർമാർക്കുകൾ സൃഷ്ടിക്കും"
-text = "വാട്ടർമാർക്കിന്റെ ലുക്ക് എങ്ങനെയെന്ന്‌, ഡോക്യുമെന്റുമായി എങ്ങനെ ലയിക്കണമെന്ന് നിയന്ത്രിക്കുക."
-title = "ദൃശ്യരൂപ ക്രമീകരണങ്ങൾ"
-
 [watermark.tooltip.formatting.header]
 title = "ഫോർമാറ്റിംഗ് & ലേഔട്ട്"
 
@@ -8890,13 +8331,6 @@ title = "സുരക്ഷാ ഓപ്ഷൻ"
 bullet1 = "വലിയ വലുപ്പങ്ങൾ കൂടുതൽ ശ്രദ്ധേയമായ വാട്ടർമാർക്കുകൾ സൃഷ്ടിക്കും"
 text = "നിങ്ങളുടെ വാട്ടർമാർക്കിന്റെ (വാചകം അല്ലെങ്കിൽ ചിത്രം) വലുപ്പം ക്രമീകരിക്കുക."
 title = "വലുപ്പ നിയന്ത്രണം"
-
-[watermark.tooltip.formatting.spacing]
-bullet1 = "തിരശ്ചീന സ്പേസിംഗ്: ഇടത്-വലത് വാട്ടർമാർക്കുകൾക്കിടയിലെ ദൂരം"
-bullet2 = "ലംബ സ്പേസിംഗ്: മുകൾ-താഴ് വാട്ടർമാർക്കുകൾക്കിടയിലെ ദൂരം"
-bullet3 = "ഉയർന്ന മൂല്യങ്ങൾ കൂടുതൽ വിരിച്ചു കാണുന്ന പാറ്റേണുകൾ സൃഷ്ടിക്കും"
-text = "പേജിലുടനീളം ആവർത്തിക്കുന്ന വാട്ടർമാർക്കുകൾക്കിടയിലെ ഇടവിട്ട് ക്രമീകരിക്കുക."
-title = "സ്പേസിംഗ് നിയന്ത്രണം"
 
 [watermark.tooltip.language]
 text = "താങ്കളുടെ ടെക്സ്റ്റിൻറെ ശരിയായ ഫോണ്ട് റെൻഡറിംഗ് ഉറപ്പാക്കാൻ അനുയോജ്യമായ ഭാഷ സെറ്റിംഗ് തിരഞ്ഞെടുക്കുക."
@@ -8918,10 +8352,6 @@ title = "നിറം തിരഞ്ഞെടുക്കൽ"
 
 [watermark.tooltip.textStyle.header]
 title = "വാചക ശൈലി"
-
-[watermark.tooltip.textStyle.language]
-text = "ശരിയായ ഫോണ്ട് റെൻഡറിംഗിനായി അനുയോജ്യമായ ഭാഷ ക്രമീകരണം തിരഞ്ഞെടുക്കുക."
-title = "ഭാഷ പിന്തുണ"
 
 [watermark.tooltip.type.description]
 text = "താങ്കളുടെ ആവശ്യാനുസരണം ടെക്സ്റ്റ് അല്ലെങ്കിൽ ഇമേജ് വാട്ടർമാർക്കുകളിൽ ഒന്നിനെ തിരഞ്ഞെടുക്കുക."
@@ -8992,17 +8422,13 @@ annotations = "അനോട്ടേഷനുകൾ"
 applyRedactionsFirst = "ആദ്യം റെഡാക്ഷനുകൾ പ്രയോഗിക്കുക"
 closeAll = "എല്ലാ ഫയലുകളും അടയ്ക്കുക"
 closePdf = "PDF അടയ്ക്കുക"
-closeSelected = "തിരഞ്ഞെടുത്ത ഫയലുകൾ അടയ്ക്കുക"
 deleteSelected = "തിരഞ്ഞെടുത്ത പേജുകൾ ഇല്ലാതാക്കുക"
 deselectAll = "എല്ലാം തിരഞ്ഞെടുക്കൽ ഒഴിവാക്കുക"
 downloadAll = "എല്ലാം ഡൗൺലോഡ് ചെയ്യുക"
-downloadSelected = "തിരഞ്ഞെടുത്ത ഫയലുകൾ ഡൗൺലോഡ് ചെയ്യുക"
-draw = "വരയ്ക്കുക"
 exitRedaction = "റെഡാക്ഷൻ മോഡിൽ നിന്ന് പുറത്തിറങ്ങുക"
 exportAll = "PDF എക്സ്പോർട്ട് ചെയ്യുക"
 exportSelected = "തിരഞ്ഞെടുത്ത പേജുകൾ എക്സ്പോർട്ട് ചെയ്യുക"
 formFill = "ഫോം പൂരിപ്പിക്കുക"
-language = "ഭാഷ"
 multiTool = "മൾട്ടി-ടൂൾ"
 panMode = "പാൻ മോഡ്"
 print = "PDF അച്ചടിക്കുക"
@@ -9021,14 +8447,12 @@ search = "PDF തിരയുക"
 selectAll = "എല്ലാം തിരഞ്ഞെടുക്കുക"
 selectByNumber = "പേജ് നമ്പർ പ്രകാരം തിരഞ്ഞെടുക്കുക"
 selectLanguage = "ഭാഷ തിരഞ്ഞെടുക്കുക"
-share = "പങ്കിടുക"
 toggleAnnotations = "അനോട്ടേഷനുകളുടെ ദൃശ്യത ടോഗിൾ ചെയ്യുക"
 toggleAttachments = "അറ്റാച്ച്മെന്റുകൾ ടോഗിൾ ചെയ്യുക"
 toggleBookmarks = "ബുക്ക്മാർക്കുകൾ ടോഗിൾ ചെയ്യുക"
 toggleComments = "കമന്റുകൾ"
 toggleLayers = "ലെയറുകൾ ടോഗിൾ ചെയ്യുക"
 toggleSidebar = "സൈഡ്ബാർ ടോഗിൾ ചെയ്യുക"
-toggleTheme = "തീം ടോഗിൾ ചെയ്യുക"
 viewer = "വ്യൂവർ"
 
 [workflow.participant]
@@ -9088,7 +8512,6 @@ member = "അംഗം"
 noMembersFound = "അംഗങ്ങളെ കണ്ടെത്താനായില്ല"
 role = "റോൾ"
 searchMembers = "അംഗങ്ങളെ തിരയുക..."
-status = "സ്ഥിതി"
 team = "ടീം"
 title = "മനുഷ്യർ"
 unlockAccount = "അക്കൗണ്ട് അൺലോക്ക് ചെയ്യുക"
@@ -9097,25 +8520,21 @@ unlockUserSuccess = "ഉപയോക്തൃ അക്കൗണ്ട് വി
 user = "ഉപയോക്താവ്"
 
 [workspace.people.actions]
-label = "നടപടികൾ"
 upgrade = "അപ്‌ഗ്രേഡ്"
 
 [workspace.people.addMember]
 authType = "പ്രാമാണീകരണ തരം"
-cancel = "റദ്ദാക്കുക"
 error = "ഉപയോക്താവിനെ സൃഷ്ടിക്കൽ പരാജയപ്പെട്ടു"
 forceMFA = "അടുത്ത ലോഗിനിൽ MFA ക്രമീകരണം നിർബന്ധിതമാക്കുക"
 forcePasswordChange = "ആദ്യ ലോഗിനിൽ പാസ്‌വേഡ് മാറ്റം നിർബന്ധമാക്കുക"
 password = "പാസ്‌വേഡ്"
 passwordPlaceholder = "പാസ്‌വേഡ് നൽകുക"
 passwordRequired = "പാസ്‌വേഡ് ആവശ്യമാണ്"
-passwordTooShort = "പാസ്‌വേഡ് കുറഞ്ഞത് 6 അക്ഷരങ്ങളെങ്കിലും വേണം"
 role = "റോൾ"
 submit = "അംഗത്തെ ചേർക്കുക"
 success = "ഉപയോക്താവ് വിജയകരമായി സൃഷ്ടിച്ചു"
 team = "ടീം (ഐച്ഛികം)"
 teamPlaceholder = "ഒരു ടീം തിരഞ്ഞെടുക്കുക"
-title = "അംഗത്തെ ചേർക്കുക"
 username = "യൂസർനെയിം (ഇമെയിൽ)"
 usernamePlaceholder = "user@example.com"
 usernameRequired = "യൂസർനെയിമും പാസ്‌വേഡും ആവശ്യമാണ്"
@@ -9151,15 +8570,7 @@ subtitle = "ഇതിനായുള്ള പാസ്‌വേഡ് പുത
 success = "പാസ്‌വേഡ് വിജയകരമായി പുതുക്കി"
 title = "പാസ്‌വേഡ് മാറ്റുക"
 
-[workspace.people.delete]
-error = "ഉപയോക്താവിനെ ഇല്ലാതാക്കൽ പരാജയപ്പെട്ടു"
-success = "ഉപയോക്താവിനെ വിജയകരമായി ഇല്ലാതാക്കി"
-
-[workspace.people.directInvite]
-tab = "പ്രത്യക്ഷ സൃഷ്ടിക്കൽ"
-
 [workspace.people.editMember]
-cancel = "റദ്ദാക്കുക"
 editing = "എഡിറ്റ് ചെയ്യുന്നു:"
 error = "ഉപയോക്താവിനെ അപ്‌ഡേറ്റ് ചെയ്യൽ പരാജയപ്പെട്ടു"
 role = "റോൾ"
@@ -9171,7 +8582,6 @@ title = "അംഗത്തെ എഡിറ്റ് ചെയ്യുക"
 
 [workspace.people.emailInvite]
 allFailed = "ഉപയോക്താക്കളെ ക്ഷണിക്കൽ പരാജയപ്പെട്ടു"
-description = "താഴെ ഇമെയിലുകൾ കോമ ഉപയോഗിച്ച് വേർതിരിച്ച് ടൈപ്പ് ചെയ്യുകയോ പതിക്കുകയോ ചെയ്യുക. ഉപയോക്താക്കൾക്ക് ലോഗിൻ വിവരങ്ങൾ ഇമെയിലിലൂടെ ലഭിക്കും."
 emails = "ഇമെയിൽ വിലാസങ്ങൾ"
 emailsPlaceholder = "user1@example.com, user2@example.com"
 emailsRequired = "കുറഞ്ഞത് ഒരു ഇമെയിൽ വിലാസമെങ്കിലും ആവശ്യമാണ്"
@@ -9179,34 +8589,20 @@ error = "ക്ഷണങ്ങൾ അയയ്ക്കൽ പരാജയപ്
 partialFailure = "ചില ക്ഷണങ്ങൾ പരാജയപ്പെട്ടു"
 submit = "ക്ഷണങ്ങൾ അയയ്ക്കുക"
 success = "ഉപയോക്താക്കളെ വിജയകരമായി ക്ഷണിച്ചു"
-tab = "ഇമെയിൽ ക്ഷണം"
 
 [workspace.people.inviteLink]
 copied = "ലിങ്ക് ക്ലിപ്പ്ബോർഡിലേക്ക് പകർത്തി"
-description = "ഉപയോക്താവിന് സ്വന്തം പാസ്‌വേഡ് സജ്ജമാക്കാൻ കഴിയുന്ന സുരക്ഷിത ലിങ്ക് സൃഷ്ടിക്കുക"
 email = "ഇമെയിൽ വിലാസം"
 emailDescription = "ഐച്ഛികം - ആരും ഉപയോഗിക്കാവുന്ന പൊതുവായ ക്ഷണ ലിങ്കിനായി ശൂന്യമായി വിടുക"
-emailFailed = "ക്ഷണ ലിങ്ക് സൃഷ്ടിച്ചു, എന്നാൽ ഇമെയിൽ പരാജയപ്പെട്ടു"
-emailFailedDetails = "Error: {0}. ദയവായി ക്ഷണ ലിങ്ക് മാനുവലായി പങ്കിടുക."
-emailOptional = "ഐച്ഛികം - പൊതുവായ ക്ഷണ ലിങ്കിനായി ശൂന്യമായി വിടുക"
 emailPlaceholder = "user@example.com (ഐച്ഛികം)"
-emailRequired = "ഇമെയിൽ വിലാസം ആവശ്യമാണ്"
-emailRequiredForSend = "ഇമെയിൽ അറിയിപ്പ് അയയ്ക്കാൻ ഇമെയിൽ വിലാസം ആവശ്യമാണ്"
 emailSent = "ക്ഷണ ലിങ്ക് സൃഷ്ടിച്ച് ഇമെയിൽ വഴി അയച്ചു"
 error = "ക്ഷണ ലിങ്ക് സൃഷ്ടിക്കൽ പരാജയപ്പെട്ടു"
-expiryDescription = "ലിങ്ക് കാലഹരണപ്പെടാൻ എത്ര മണിക്കൂറുകൾ"
 expiryHours = "കാലഹരണ മണിക്കൂറുകൾ"
 generate = "ലിങ്ക് സൃഷ്ടിക്കുക"
 generated = "ക്ഷണ ലിങ്ക് സൃഷ്ടിച്ചു"
 sendEmail = "ക്ഷണ ലിങ്ക് ഇമെയിൽ വഴി അയയ്ക്കുക"
 sendEmailDescription = "പ്രവർത്തനക്ഷമമാക്കിയാൽ, ക്ഷണ ലിങ്ക് നൽകിയ ഇമെയിൽ വിലാസത്തിലേക്ക് അയയ്ക്കും"
-smtpRequired = "SMTP ക്രമീകരിച്ചിട്ടില്ല"
 submit = "ക്ഷണ ലിങ്ക് സൃഷ്ടിക്കുക"
-success = "ക്ഷണ ലിങ്ക് വിജയകരമായി സൃഷ്ടിച്ചു"
-successWithEmail = "ക്ഷണ ലിങ്ക് സൃഷ്ടിച്ച് ഇമെയിൽ വഴി അയച്ചു"
-
-[workspace.people.inviteLinkTab]
-tab = "ക്ഷണ ലിങ്ക്"
 
 [workspace.people.inviteMembers]
 label = "അംഗങ്ങളെ ക്ഷണിക്കുക"
@@ -9219,7 +8615,6 @@ link = "ലിങ്ക്"
 username = "യൂസർനെയിം"
 
 [workspace.people.license]
-availableSlots = "ലഭ്യമായ സ്ലോട്ടുകൾ"
 currentUsage = "ഇപ്പോൾ {{max}} ൽ {{current}} ഉപയോക്തൃ ലൈസൻസുകൾ ഉപയോഗിക്കുന്നു"
 fromLicense = "ലൈസൻസിൽ നിന്ന്"
 grandfathered = "ഗ്രാൻഡ്‌ഫാദേഡ്"
@@ -9243,12 +8638,10 @@ error = "ഉപയോക്താവിന്റെ നില അപ്‌ഡേ
 success = "ഉപയോക്താവിന്റെ നില വിജയകരമായി അപ്‌ഡേറ്റ് ചെയ്തു"
 
 [workspace.teams]
-actions = "നടപടികൾ"
 addMember = "അംഗത്തെ ചേർക്കുക"
 backToTeams = "ടീങ്ങളിലേക്ക് മടങ്ങുക"
 cannotAddToInternal = "Internal ടീമിലേക്ക് അംഗങ്ങളെ ചേർക്കാൻ കഴിയില്ല"
 cannotDeleteInternal = "Internal ടീമിനെ ഇല്ലാതാക്കാൻ കഴിയില്ല"
-cannotRemoveFromSystemTeam = "സിസ്റ്റം ടീമിൽ നിന്ന് നീക്കം ചെയ്യാൻ കഴിയില്ല"
 cannotRenameInternal = "Internal ടീമിന്റെ പേര് മാറ്റാൻ കഴിയില്ല"
 confirmDelete = "ഈ ടീമിനെ ഇല്ലാതാക്കണോ? ഇല്ലാതാക്കാൻ ടീം ശൂന്യമാകണം."
 confirmRemove = "ഈ ടീമിൽ നിന്ന് ഉപയോക്താവിനെ നീക്കംചെയ്യണോ?"
@@ -9274,7 +8667,6 @@ viewTeam = "ടീം കാണുക"
 
 [workspace.teams.addMemberToTeam]
 addingTo = "ചേർക്കുന്നത്"
-cancel = "റദ്ദാക്കുക"
 currentlyIn = "ഇപ്പോൾ ഉള്ളത്"
 error = "അംഗത്തെ ടീമിലേക്ക് ചേർക്കൽ പരാജയപ്പെട്ടു"
 selectUser = "ഉപയോക്താവിനെ തിരഞ്ഞെടുക്കുക"
@@ -9298,7 +8690,6 @@ success = "ടീം വിജയകരമായി മാറ്റി"
 title = "ടീം മാറ്റുക"
 
 [workspace.teams.createTeam]
-cancel = "റദ്ദാക്കുക"
 error = "ടീം സൃഷ്ടിക്കൽ പരാജയപ്പെട്ടു"
 nameRequired = "ടീം പേര് ആവശ്യമാണ്"
 submit = "ടീം സൃഷ്ടിക്കുക"
@@ -9310,10 +8701,8 @@ title = "പുതിയ ടീം സൃഷ്ടിക്കുക"
 [workspace.teams.deleteTeam]
 error = "ടീം ഇല്ലാതാക്കൽ പരാജയപ്പെട്ടു. ടീം ശൂന്യമാണെന്ന് ഉറപ്പാക്കുക."
 success = "ടീം വിജയകരമായി ഇല്ലാതാക്കി"
-teamMustBeEmpty = "ഇല്ലാതാക്കുന്നതിനുമുമ്പ് ടീം ശൂന്യമാകണം"
 
 [workspace.teams.renameTeam]
-cancel = "റദ്ദാക്കുക"
 error = "ടീം പുനർനാമകരണം പരാജയപ്പെട്ടു"
 nameRequired = "ടീം പേര് ആവശ്യമാണ്"
 newTeamName = "പുതിയ ടീം പേര്"

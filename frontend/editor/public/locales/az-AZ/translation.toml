@@ -1,5 +1,4 @@
 accessInvite = "Dəvət et"
-addToDoc = "Sənədə Əlavə Et"
 alphabet = "Əlifba"
 apply = "Tətbiq et"
 applyAndContinue = "Saxla və çıx"
@@ -7,9 +6,7 @@ areYouSure = "Çıxmaq istədiyinizə əminsiniz?"
 back = "Geri"
 black = "Qara"
 blue = "Mavi"
-bored = "Gözləməkdən Sıxıldınız?"
 cancel = "Ləğv et"
-changedCredsMessage = "Etibarnamələr dəyişdirildi!"
 chooseFile = "Fayl seç"
 close = "Bağla"
 comingSoon = "Tezliklə"
@@ -24,22 +21,13 @@ confirmCloseSaveFailed = "Xətalarla yadda saxlanılıb. {{count}} fayl{{plural}
 confirmCloseSaveFailedTitle = "Yadda saxlanma uğursuz oldu"
 confirmCloseUnsaved = "Bu faylda yadda saxlanılmamış dəyişikliklər var."
 confirmCloseUnsavedList = "Sizdə yadda saxlanılmamış dəyişiklikləri olan {{count}} fayl{{plural}} var.\n\n{{fileList}}"
-confirmPasswordErrorMessage = "Yeni Şifr və Yeni Şifri Doğrula uyğun olmalıdır."
 custom = "Xüsusi..."
 customPosition = "Xüsusi mövqe"
 customTextTooltip = "Səhifə nömrələri üçün ixtiyari format. Nömrə üçün {n} yer tutucusundan istifadə edin. Nümunə: \"Səhifə {n}\" \"Səhifə 1\", \"Səhifə 2\" və s. göstərəcək."
 delete = "Sil"
-deleteCurrentUserMessage = "Hazırda daxil olmuş istifadəçini silmək mümkün deyil."
-deleteUsernameExistsMessage = "İstifadəçi adı mövcud deyildir və silinə bilməz."
 details = "Təfərrüatlar"
-disabledCurrentUserMessage = "Cari istifadəçi deaktivləşdirilə bilməz"
 discardChanges = "Ləğv et və çıx"
-discardRedactions = "İmtina et və çıx"
-donate = "İanə Ver"
-downgradeCurrentUserLongMessage = "Cari istifadəçinin rolunu aşağı salmaq mümkün deyil. Deməli, cari istifadəçi göstərilməyəcək."
-downgradeCurrentUserMessage = "Cari istifadəçinin rolunu aşağı salmaq mümkün deyil"
 download = "Endir"
-downloadComplete = "Yükləmə Tamamlandı"
 downloadPdf = "PDF Yüklə"
 downloadUnavailable = "Bu element üçün endirmə mövcud deyil"
 edit = "Redaktə et"
@@ -57,36 +45,24 @@ font = "Şrift"
 fontSizeTooltip = "Səhifə nömrəsi mətninin ölçüsü (pt). Daha böyük rəqəmlər daha böyük mətn yaradır."
 fontTypeTooltip = "Səhifə nömrələri üçün şrift ailəsi. Sənəd üslubunuza uyğun seçin."
 genericSubmit = "Təsdiq Et"
-goHomepage = "Ana səhifəyə get"
-goToPage = "Get"
 green = "Yaşıl"
 help = "Yardım"
 imgPrompt = "Şəkil(lər)i Seç"
 incorrectPasswordMessage = "Cari şifr yanlışdır."
 info = "Məlumat"
-insufficientCredits = "Kreditlər kifayət deyil. Tələb olunur: {{requiredCredits}}, Mövcud: {{currentBalance}}, Çatışmır: {{shortfall}}"
-invalidPasswordMessage = "Şifr boş olmamalıdır, başlanğıc və sonunda boşluqdan istifadə edilməməlidir."
 invalidUndoData = "Geri alma mümkün deyil: etibarsız əməliyyat məlumatı"
-invalidUsernameMessage = "Yanlış istifadəçi adı, istifadəçi adı sadəcə hərflərdən, rəqəmlərdən və @._+- xüsusi simvollarından ibarət ola bilər və ya düzgün email ünvanı olmalıdır."
-joinDiscord = "Discord serverimizə qatıl"
 keepWorking = "İşə davam et"
 loading = "Yüklənir..."
-loadingCredits = "Kreditlər yoxlanılır..."
-loadingProStatus = "Abunəlik statusu yoxlanılır..."
 logOut = "Hesabdan çıx"
 marginTooltip = "Səhifə nömrəsi ilə səhifənin kənarı arasındakı məsafə."
 moreOptions = "Daha çox seçim"
-multiPdfDropPrompt = "Ehtiyacınız olan bütün PDFləri seçin (və ya sürükləyib buraxın)"
 multiPdfPrompt = "PDFləri Seç (2+)"
 never = "Heç vaxt"
 no = "Xeyr"
-noFavourites = "Sevimlilər əlavə edilmədi"
 noFileSelected = "Fayl seçilməyib. Zəhmət olmasa bir fayl yükləyin."
 noFilesToUndo = "Geri alma mümkün deyil: son əməliyyatda heç bir fayl emal edilməyib"
 noOperationToUndo = "Geri alınacaq əməliyyat yoxdur"
-notAuthenticatedMessage = "İstifadəçinin kimliyi təsdiqlənməyib."
 nothingToUndo = "Geri alınacaq heç nə yoxdur"
-noticeTopUpOrPlan = "Kreditlər kifayət deyil, xahiş edirik balansı artırın və ya planı yüksəldin"
 noValidFiles = "Emal üçün etibarlı fayl yoxdur"
 oops = "Bağışlayın!"
 openInNewWindow = "Yeni pəncərədə aç"
@@ -99,26 +75,18 @@ pages = "Səhifələr"
 pageSelectionPrompt = "Xüsusi Səhifə Seçimi (1, 5, 6 tərzində vergüllə ayrılmış səhifə nömrələri listini və ya 2n+1 tərzində Funksiyalar daxil edin) :"
 password = "Şifr"
 pdfPrompt = "PDF(lər)i Seç"
-pendingRedactions = "Tətbiq olunmamış məxfiləşdirmələriniz var; onlar itiriləcək."
-pendingRedactionsTitle = "Tətbiq olunmamış məxfiləşdirmələr"
 pin = "Faylı bərkid (alət icrasından sonra aktiv saxla)"
-poweredBy = "Təchiz edilmişdir"
 pro = "Pro"
 processingComplete = "Faylınız hazırdır."
 processingCompleteMultiple = "{{count}} fayl hazırdır."
-processTimeWarning = "Xəbərdarlıq: Bu proses fayl ölçüsündən asılı olaraq bir dəqiqəyə qədər vaxt ala bilər"
 property = "Xüsusiyyət"
 quickPosition = "Sürətli mövqe"
 red = "Qırmızı"
 reset = "Sıfırla"
 review = "Gözdən geçir"
 save = "Saxla"
-saveToBrowser = "Brauzerdə Saxla"
 saveUnavailable = "Bu element üçün saxlama mövcud deyil"
-seeDockerHub = "Docker Hub-a bax"
-selectFillter = "-- Seç --"
 size = "Ölçü"
-sponsor = "Sponsor"
 startingNumberTooltip = "Göstəriləcək ilk nömrə. Sonrakı səhifələr bu rəqəmdən artırılacaq."
 submit = "Göndər"
 success = "Uğurlu"
@@ -137,18 +105,9 @@ unpin = "Faylın bərkidilməsini ləğv et (alət icrasından sonra əvəzlə)"
 unsavedChanges = "PDF-də saxlanmamış dəyişiklikləriniz var."
 unsavedChangesTitle = "Saxlanmamış dəyişikliklər"
 unsupported = "Dəstəklənmir"
-uploadLimit = "Maksimum fayl ölçüsü:"
-uploadLimitExceededPlural = "həddən artıq böyükdür. İcazə verilən maksimum ölçü"
-uploadLimitExceededSingular = "həddən artıq böyükdür. İcazə verilən maksimum ölçü"
-userAlreadyExistsOAuthMessage = "İstifadəçi OAuth2 istifadəçisi olaraq mövcuddur."
-userAlreadyExistsWebMessage = "İstifadəçi veb istifadəçisi olaraq mövcuddur."
 username = "İstifadəçi Adı"
-usernameExistsMessage = "İstifadəçi adı mövcuddur."
-userNotFoundMessage = "İstifadəçi tapılmadı."
-visitGithub = "Github Repository-ə Baş Çək"
 welcome = "Xoş gəldiniz"
 white = "Ağ"
-WorkInProgess = "İş davam edir, İşləməyə bilər və ya xətalarla üzləşə bilərsiniz, Zəhmət olmasa problemləri bildirin!"
 yes = "Bəli"
 
 [account]
@@ -205,6 +164,9 @@ signedInAs = "Daxil olmusunuz: {{email}}"
 [add-page-numbers]
 tags = "nömrələ,taq,səliqələ,indeks"
 
+[addAttachments]
+tags = "embed,attach,include,attachments,attach files,embed files,include files,add files,file attachment,associated files,supplementary files"
+
 [addAttachments.error]
 failed = "PDF-ə qoşmalar əlavə edilərkən xəta baş verdi."
 
@@ -214,7 +176,6 @@ attachments = "Qoşmaları seçin"
 info = "PDF-inizə əlavə etmək üçün faylları seçin. Bu fayllar daxil ediləcək və PDF-in qoşmalar panelindən əlçatan olacaq."
 placeholder = "Faylları seçin..."
 selectedFiles = "Seçilmiş Fayllar"
-selectFiles = "Qoşmaq üçün faylları seçin"
 submit = "Qoşmaları əlavə et"
 
 [AddAttachmentsRequest.error]
@@ -237,6 +198,9 @@ applySignatures = "Şəkilləri tətbiq et"
 header = "Şəkli PDF-ə Əlavə Et"
 tags = "şəkil,jpg,fotoşəkil,foto"
 title = "Şəkli Əlavə Et"
+
+[addImage.canvas]
+colorPickerTitle = "Choose stroke color"
 
 [addImage.error]
 failed = "Şəkli PDF-ə əlavə edərkən xəta baş verdi."
@@ -264,8 +228,26 @@ resume = "Yerləşdirməni davam etdir"
 title = "Şəkil əlavə etmə nəticələri"
 
 [addImage.saved]
+defaultCanvasLabel = "Drawing signature"
 defaultImageLabel = "Yüklənmiş şəkil"
 defaultLabel = "Şəkil"
+defaultTextLabel = "Typed signature"
+delete = "Remove"
+emptyTitle = "No saved signatures yet"
+heading = "Saved signatures"
+label = "Label"
+limitTitle = "Limit reached"
+next = "Next"
+personalHeading = "Personal Signatures"
+prev = "Previous"
+savePersonal = "Save Personal"
+saveShared = "Save Shared"
+sharedHeading = "Shared Signatures"
+
+[addImage.saved.type]
+canvas = "Drawing"
+image = "Upload"
+text = "Text"
 
 [addImage.step]
 createDesc = "Əlavə etmək istədiyiniz şəkli yükləyin"
@@ -275,20 +257,31 @@ placeDesc = "Şəkli əlavə etmək üçün PDF üzərinə klikləyin"
 [addImage.steps]
 configure = "Şəkili tənzimlə"
 
+[addImage.text]
+colorLabel = "Text color"
+fontLabel = "Font"
+fontSizeLabel = "Font size"
+name = "Text"
+placeholder = "Enter text"
+
+[addImage.type]
+canvas = "Canvas"
+image = "Image"
+saved = "Saved"
+text = "Text"
+
 [addPageNumbers]
-configuration = "Konfiqurasiya"
 customize = "Görünüşü fərdiləşdirin"
 customNumberDesc = "Defolt olaraq {n}, və ya 'Page {n} of {total}', 'Text-{n}', '{filename}-{n}"
-customTextDesc = "Fərdi Mətn"
 fontName = "Şrift Adı"
 fontSize = "Şrift Ölçüsü"
-header = "Səhifə Nömrələri əlavə edin"
 numberPagesDesc = "Hansı səhifələrin nömrələnəcəyini seçin, default 'all', və ya 1-5, 2,5,9 kimi yazılış qəbul olunur"
 pagesAndStarting = "Səhifələr və başlanğıc nömrəsi"
 positionAndPages = "Mövqe və səhifələr"
 preview = "Mövqe seçimi"
 previewDisclaimer = "Önizləmə təxmindir. Son çıxış PDF şrift metriklərinə görə dəyişə bilər."
 submit = "Səhifə Nömrələri əlavə edin"
+tags = "number,pagination,count,add page numbers,page numbering,page numbers,footer,header,number pages,sequential,pagination tool"
 title = "Səhifə Nömrələri əlavə edin"
 zeroPad = "Zero‑pad Width (Bates Stamping)"
 zeroPadTooltip = "Zero‑pad (Bates Stamp) page numbers to this width (e.g., 3 ⇒ 001). Set 0 to disable."
@@ -300,18 +293,15 @@ failed = "Səhifə nömrələri əlavə etmə əməliyyatı alınmadı"
 title = "Səhifə nömrəsi nəticələri"
 
 [addPageNumbers.selectText]
-1 = "PDF faylını seçin:"
 2 = "Margin Ölçüsü"
-3 = "Mövqe"
 4 = "Başlanğıc nömrəsi"
 5 = "Səhifələrə nömrə əlavə edin"
 6 = "Fərdi Mətn"
 
 [addPassword]
-completed = "Parol mühafizəsi tətbiq olundu"
 desc = "PDF sənədinizi parolla şifrələyin."
-filenamePrefix = "şifrələnmiş"
 submit = "Şifrlə"
+tags = "encrypt,password,lock,secure,protect,security,encryption,safeguard,confidential,private,restrict access"
 title = "Şifr Əlavə Et"
 
 [addPassword.encryption.keyLength]
@@ -324,7 +314,6 @@ label = "Şifrələmə Açarının Uzunluğu"
 failed = "PDF-i şifrələyərkən xəta baş verdi."
 
 [addPassword.passwords]
-completed = "Parollar təyin edildi"
 stepTitle = "Parollar və Şifrələmə"
 
 [addPassword.passwords.owner]
@@ -358,12 +347,14 @@ title = "Parol Növləri"
 text = "Bu icazələr istifadəçilərin PDF ilə nə edə biləcəyini idarə edir. Ən təsirli hal sahib parolu ilə birlikdə istifadə olanda olur."
 title = "İcazələri Dəyişdir"
 
+[addStamp]
+tags = "stamp,mark,seal,approved,rejected,confidential,stamp tool,rubber stamp,date stamp,approval stamp,received,void,copy,original"
+
 [AddStampRequest]
 alphabet = "Əlifba"
 clickToExpand = "Click to expand"
 customColor = "Fərdi Mətn Rəngi"
 customDateDesc = "Custom format"
-customMargin = "Fərdi Boşluq Ölçüsü"
 customPosition = "Möhürü önbaxış pəncərəsində istədiyiniz yerə sürüşdürün."
 dateDesc = "Current date"
 datetimeDesc = "Date and time combined"
@@ -374,7 +365,6 @@ filenameDesc = "Filename without extension"
 filenameFullDesc = "Filename with extension"
 fileVars = "File Information"
 fontSize = "Font/Şəkil Ölçüsü"
-header = "PDF-i Möhürlə"
 imageSize = "Şəkil ölçüsü"
 margin = "Kənar boşluğu"
 metadataDesc = "From PDF document properties"
@@ -383,8 +373,6 @@ multiLine = "multi-line"
 noStampSelected = "Möhür seçilməyib. 1-ci addıma qayıdın."
 opacity = "Şəffaflıq"
 otherVars = "Other"
-overrideX = "X Koordinatının Üstünə Yaz"
-overrideY = "Y Koordinatının Üstünə Yaz"
 pageNumberDesc = "Current page number"
 pageVars = "Page Information"
 position = "Yerləşmə"
@@ -393,7 +381,6 @@ preview = "Preview:"
 quickPosition = "Möhürü yerləşdirmək üçün səhifədə bir mövqe seçin."
 rotation = "İstiqamət"
 selectTemplate = "Select a template..."
-stampImage = "Möhür Fotosu"
 stampSetup = "Möhür qurulumu"
 stampText = "Möhür Yazısı"
 stampTextDescription = "Use dynamic variables below. Use @@ for literal @. Use \\n for new lines."
@@ -433,6 +420,9 @@ header = "PDF-lərə mətn əlavə edin"
 tags = "mətn,annotasiya,etiket"
 title = "Mətn əlavə et"
 
+[addText.canvas]
+colorPickerTitle = "Choose stroke color"
+
 [addText.error]
 failed = "PDF-ə mətn əlavə edilərkən xəta baş verdi."
 
@@ -452,6 +442,28 @@ resume = "Yerləşdirməni davam etdir"
 [addText.results]
 title = "Mətn əlavə etmə nəticələri"
 
+[addText.saved]
+defaultCanvasLabel = "Drawing signature"
+defaultImageLabel = "Uploaded signature"
+defaultLabel = "Signature"
+defaultTextLabel = "Typed signature"
+delete = "Remove"
+emptyTitle = "No saved signatures yet"
+heading = "Saved signatures"
+label = "Label"
+limitTitle = "Limit reached"
+next = "Next"
+personalHeading = "Personal Signatures"
+prev = "Previous"
+savePersonal = "Save Personal"
+saveShared = "Save Shared"
+sharedHeading = "Shared Signatures"
+
+[addText.saved.type]
+canvas = "Drawing"
+image = "Upload"
+text = "Text"
+
 [addText.step]
 createDesc = "Əlavə etmək istədiyiniz mətni daxil edin"
 place = "Mətni yerləşdir"
@@ -468,6 +480,12 @@ fontSizePlaceholder = "Şrift ölçüsünü yazın və ya seçin (8-200)"
 name = "Mətn məzmunu"
 placeholder = "Əlavə etmək istədiyiniz mətni daxil edin"
 
+[addText.type]
+canvas = "Canvas"
+image = "Image"
+saved = "Saved"
+text = "Text"
+
 [adjust-contrast]
 tags = "rəng-tənzimləmə,köklə,modifikasiya et,yaxşılaşdır"
 
@@ -478,12 +496,11 @@ blue = "Mavi"
 brightness = "Parlaqlıq:"
 confirm = "Təsdiqlə"
 contrast = "Kontrast:"
-download = "Yüklə"
 green = "Yaşıl"
-header = "Kontrastı tənzimləyin"
 noPreview = "Önbaxış üçün PDF seçin"
 red = "Qırmızı"
 saturation = "Doyma:"
+tags = "contrast,brightness,saturation,adjust colors,color correction,enhance,lighten,darken,improve quality,color balance,hue,vibrance"
 title = "Kontrastı tənzimləyin"
 
 [adjustContrast.error]
@@ -493,7 +510,6 @@ failed = "Rəng/kontrastı tənzimləmək alınmadı"
 title = "Tənzimlənmiş PDF"
 
 [adjustPageScale]
-header = "Səhifə miqyasını tənzimlə"
 submit = "Səhifə miqyasını tənzimlə"
 tags = "ölçünü dəyiş,modifikasiya,ölçü,uyğunlaşdır"
 title = "Səhifə miqyasını tənzimlə"
@@ -537,7 +553,6 @@ title = "Miqyas əmsalı"
 close = "Bağla"
 error = "Xəta"
 expand = "Genişləndir"
-success = "Uğur"
 
 [admin.settings]
 discard = "Ləğv et"
@@ -1110,6 +1125,70 @@ label = "SMTP Portu"
 description = "SMTP autentifikasiyası üçün istifadəçi adı"
 label = "SMTP İstifadəçi adı"
 
+[admin.settings.mcp]
+apikeyNote = "Clients send a Stirling API key in the X-API-KEY header (or Authorization: Bearer <key>). The key maps to its owning Stirling user - only provisioned accounts get in, and actions are audited as that user. Manage keys under Account > API Keys."
+description = "Expose Stirling's PDF tools and AI agents to MCP clients over an OAuth-protected endpoint."
+title = "MCP Server"
+
+[admin.settings.mcp.acceptedAudiences]
+description = "Extra token audience values accepted besides the Resource ID (comma or space separated). Leave blank for strict RFC 8707. Needed for IdPs that cannot mint resource audiences - e.g. Supabase's OAuth server always issues aud=authenticated."
+label = "Additional accepted audiences (optional)"
+
+[admin.settings.mcp.allowedOps]
+description = "If set, ONLY these operation ids are exposed (an allow-list; comma or space separated). Leave blank to expose all enabled tools except any blocked below."
+label = "Allowed tools"
+
+[admin.settings.mcp.blockedOps]
+description = "Operation ids to hide from MCP (comma or space separated), e.g. add-password remove-password. Leave blank to expose all enabled tools."
+label = "Blocked tools"
+
+[admin.settings.mcp.enabled]
+description = "When off (default), no /mcp endpoint, metadata, or MCP beans are loaded."
+label = "Enable MCP Server"
+
+[admin.settings.mcp.guide]
+step1 = "Enter your OAuth issuer + resource ID above, Save, and restart."
+step1ApiKey = "Create an API key under Account > API Keys (each user uses their own)."
+step2 = "In your MCP client add a"
+step2b = "server pointing at:"
+step3 = "The client auto-discovers OAuth from:"
+step3ApiKey = "Send the key in an"
+step3ApiKeyb = "header (or Authorization: Bearer <key>). No OAuth or metadata discovery is used."
+step4 = "Approve the sign-in; the client retries with a token. Tools appear grouped: convert, pages, misc, security, ai."
+step4ApiKey = "Tools appear grouped: convert, pages, misc, security, ai - and every call is audited as the key's owner."
+tip = "Tip: register the resource ID as an allowed audience in your IdP. Tested with MCP Inspector and Claude Desktop."
+tipApiKey = "Tip: API-key mode needs no external IdP - simplest for self-host. The key maps to its owning Stirling user."
+title = "Connect an MCP client"
+
+[admin.settings.mcp.issuerUri]
+description = "Your OAuth2 authorization server (must publish /.well-known/openid-configuration). Required when enabled."
+label = "OAuth Issuer URL"
+
+[admin.settings.mcp.jwksUri]
+description = "Leave blank to discover it from the issuer. Set only if your IdP serves keys at a non-standard URL."
+label = "JWKS URL (optional)"
+placeholder = "Auto-discovered from issuer"
+
+[admin.settings.mcp.mode]
+description = "OAuth needs an external IdP. API key uses a Stirling per-user API key (X-API-KEY) - simplest for self-host."
+label = "Authentication mode"
+
+[admin.settings.mcp.requireAccount]
+description = "Only let tokens through if their subject maps to a provisioned, enabled Stirling user."
+label = "Require an existing Stirling account"
+
+[admin.settings.mcp.resourceId]
+description = "This server's public /mcp URL. Tokens must list it in their audience (RFC 8707) or they are rejected."
+label = "Resource ID"
+
+[admin.settings.mcp.scopes]
+description = "Require mcp.tools.read for read ops and mcp.tools.write for write/AI ops."
+label = "Enforce OAuth scopes"
+
+[admin.settings.mcp.usernameClaim]
+description = "JWT claim matched against a Stirling username (e.g. sub, email, preferred_username)."
+label = "Username claim"
+
 [admin.settings.plan.noData]
 message = "Plan məlumatları hazırda əlçatan deyil."
 title = "Məlumat yoxdur"
@@ -1492,10 +1571,6 @@ hint = "Yadda saxlanmamış dəyişiklikləriniz var"
 message = "Yadda saxlanmamış dəyişiklikləriniz var. Ləğv etmək istəyirsiniz?"
 title = "Yadda saxlanmamış dəyişikliklər"
 
-[admin.status]
-active = "Aktiv"
-inactive = "Qeyri-aktiv"
-
 [adminOnboarding]
 adminTools = "Nəhayət, sistem fəaliyyətini izləmək üçün <strong>Audit</strong> və istifadəçilərinizin platformadan necə yararlandığını izləmək üçün <strong>İstifadə Analitikası</strong> kimi qabaqcıl inzibati alətlər var."
 configButton = "Bütün sistem ayarlarına və inzibati idarəetmələrə çıxış üçün <strong>Konfiqurasiya</strong> düyməsini klikləyin."
@@ -1508,76 +1583,23 @@ welcome = "<strong>Admin Turuna</strong> xoş gəlmisiniz! Gəlin, sistem admini
 wrapUp = "Admin turu bu qədər! Stirling PDF-i təşkilatlar üçün güclü və fərdiləşdirilə bilən həll edən müəssisə funksiyalarını gördünüz. Bu tura istənilən vaxt <strong>Kömək</strong> menyusundan daxil olun."
 
 [adminUserSettings]
-actions = "Fəaliyyətlər"
-activeUsers = "Aktiv İstifadəçilər:"
-addUser = "Yeni İstifadəçi Əlavə Et"
 admin = "Admin"
-apiUser = "Məhdudlaşdırılmış API İstifadəçisi"
-authenticated = "Doğrulanmış"
-changeUserRole = "İstifadəçinin rolunu dəyişdir"
-confirmChangeUserStatus = "İstifadəçi aktivləşdirilməli/deaktivləşdirilməlidirmi?"
-confirmDeleteUser = "İstifadəçi silinməlidirmi?"
-deleteUser = "İstifadəçi Sil"
-demoUser = "Demo İstifadəçisi (Fərdi parametrlər yoxdur)"
-disabledUser = "deaktivləşdirilmiş istifadəçi"
-disabledUsers = "Deaktiv İstifadəçilər:"
-editOwnProfil = "Öz profilini redaktə et"
-enabledUser = "aktivləşdirilmiş istifadəçi"
-extraApiUser = "Əlavə Məhdudlaşdırılmış API İstifadəçisi"
-forceChange = "İstifadəçini giriş zamanı parolu dəyişməyə məcbur et"
-header = "Admin İstifadəçi Nəzarəti Parametrləri"
-internalApiUser = "Daxili API İstifadəçisi"
-lastRequest = "Son sorğu"
-role = "Rol"
-roles = "Rollar"
-submit = "İstifadəçini Saxla"
 title = "İstifadəçi İdarəetmə Parametrləri"
-totalUsers = "Ümumi İstifadəçilər:"
-usage = "İstifadəyə bax"
-user = "İstifadəçi"
-usernameInfo = "İstifadəçi adı sadəcə hərflərdən, rəqəmlərdən və @._+- xüsusi simvollarından ibarət ola bilər və ya düzgün email ünvanı olmalıdır."
-webOnlyUser = "Yalnız Veb İstifadəçisi"
 
 [agents]
-auto_redaction_description = "PII-ni avtomatik gizlət"
-auto_redaction_name = "Avtomatik gizlətmə"
-back_to_tools = "Alətlərə qayıt"
-coming_soon = "Tezliklə"
-compliance_description = "Sənədləri uyğunluğa görə yoxla"
-compliance_name = "Uyğunluq yoxlaması"
-data_extraction_description = "Cədvəlləri və strukturlu məlumatları çıxart"
-data_extraction_name = "Məlumat çıxarma"
-doc_summary_description = "Uzun sənədləri xülasə et"
-doc_summary_name = "Xülasəçi"
-form_filler_description = "PDF formalarını ağıllı şəkildə doldur"
-form_filler_name = "Forma doldurucu"
-fullscreen_title = "Stirling Agentləri"
-pdf_to_markdown_description = "PDF-ləri təmiz Markdown-a çevir"
-pdf_to_markdown_name = "PDF-dən Markdown-a"
-section_title = "Agentlər"
-show_less = "Daha az göstər"
-start_chat = "Söhbətə başla"
-stirling_description = "Sizin ümumi məqsədli PDF köməkçiniz"
-stirling_full_name = "Stirling Ümumi Agent"
-stirling_long_description = "Alətləri işə sala, PDF yarada və sənədlərinizdən məlumat çıxara bilən ümumi məqsədli PDF köməkçisi."
 stirling_name = "Stirling"
-stirling_running = "İşləyir..."
-stirling_tooltip = "Stirling agenti"
-view_all = "Bütün agentlərə bax"
 
 [analytics]
-disable = "Analitikanı deaktivləşdir"
-enable = "Analitikanı aktivləşdir"
 learnMore = "Daha ətraflı öyrənin"
 paragraph1 = "Stirling PDF bizə məhsulu inkişaf etdirməyə kömək etmək üçün analitikaya üstünlük verib. Biz heç bir şəxsi məlumatı və ya fayl məzmununu izləmirik."
 paragraph2 = "Zəhmət olmasa, Stringling-PDF-ə inkişaf etməkdə və istifadəçilərimizi daha yaxşı anlamaqda yardım etmək üçün analitikanı aktivləşdirməyi nəzərə alın."
-privacyAssurance = "Heç bir şəxsi məlumatınızı və ya fayllarınızın məzmununu izləmirik."
-settings = "Analitikanın parametrlərini config/settings.yml faylından dəyişə bilərsiniz."
 title = "Stirling PDF-i daha yaxşı etmək istəyirsinizmi?"
+
+[annotate]
+tags = "annotate,highlight,draw,markup,comment,notes,review,redline,feedback,markup tools,sticky notes,shapes,arrows,text box,freehand"
 
 [annotation]
 annotationStyle = "Annotasiya üslubu"
-applyChanges = "Dəyişiklikləri tətbiq et"
 backgroundColor = "Arxa fon rəngi"
 borderOff = "Kənarlıq: Bağlı"
 borderOn = "Kənarlıq: Açıq"
@@ -1590,36 +1612,20 @@ comment = "Şərh"
 comments = "Şərhlər"
 contents = "Mətn"
 delete = "Sil"
-desc = "Vurğulama, qələm, mətn və qeydlərdən istifadə edin. Dəyişikliklər canlı qalır — düzləndirməyə ehtiyac yoxdur."
 drawing = "Rəsm"
-duplicate = "Kopyasını çıxar"
-editCircle = "Dairəni redaktə et"
-editInk = "Qələmi redaktə et"
-editLine = "Xətti redaktə et"
-editNote = "Qeydi redaktə et"
-editPolygon = "Çoxbucaqlını redaktə et"
 editSelectDescription = "Mövcud annotasiyanın rəngini, şəffaflığını, mətnini və ya ölçüsünü redaktə etmək üçün onu klikləyin."
-editSelected = "Annotasiyanı redaktə et"
-editSquare = "Kvadratı redaktə et"
-editStampHint = "Şəkli dəyişmək üçün bu möhürü silin və yenisini əlavə edin."
-editSwitchToSelect = "Bu annotasiyanı redaktə etmək üçün Seç və Redaktə et rejiminə keçin."
 editText = "Mətn qutusunu redaktə et"
-editTextMarkup = "Mətn işarələməni redaktə et"
-ellipse = "Ellips"
-exit = "Annotasiya rejimindən çıx"
 fillColor = "Doldurma rəngi"
 fillOpacity = "Doldurma şəffaflığı"
 fontSize = "Şrift ölçüsü"
 freehandHighlighter = "Sərbəst vurğulayıcı"
 highlight = "Vurğula"
 imagePreview = "Ön baxış"
-inkHighlighter = "Sərbəst vurğulayıcı"
 insertText = "Mətn əlavə et"
 line = "Xətt"
 lineArrow = "Ox"
 noBackground = "Arxa fon yoxdur"
 note = "Qeyd"
-noteIcon = "Qeyd ikonu"
 notesStamps = "Qeydlər və möhürlər"
 opacity = "Şəffaflıq"
 pen = "Qələm"
@@ -1627,12 +1633,8 @@ polygon = "Çoxbucaqlı"
 polyline = "Poli xətt"
 properties = "Xüsusiyyətlər"
 rectangle = "Düzbucaqlı"
-redo = "Yenidən et"
 replaceText = "Mətni əvəz et"
 saveChanges = "Dəyişiklikləri yadda saxla"
-saveFailed = "Nüsxəni saxlamaq mümkün olmadı"
-saveReady = "Endirmə hazırdır"
-savingCopy = "Endirmə hazırlanır..."
 select = "Seç"
 selectAndMove = "Seç və redaktə et"
 settings = "Ayarlar"
@@ -1650,24 +1652,17 @@ textAlignment = "Mətnin hizalanması"
 textMarkup = "Mətn işarələmə"
 title = "Annotasiya"
 underline = "Altını cız"
-undo = "Geri al"
-unsupportedType = "Bu annotasiya növü redaktə üçün tam dəstəklənmir."
 width = "Genişlik"
 
 [app]
 description = "Pulsuz Adobe Acrobat alternativi (10M+ yükləmə)"
 
 [attachments]
-add = "Əlavə et"
 convertToPdfA3b = "PDF/A-3b-ə çevir"
 convertToPdfA3bDescription = "Daxil edilmiş qoşmalarla arxivləmə üçün PDF yaradır"
 convertToPdfA3bTooltip = "PDF/A-3b uzunmüddətli saxlanmanı təmin edən arxiv formatıdır. Qoşma kimi istənilən fayl formatlarının əlavə edilməsinə imkan verir. Çevirmə üçün Ghostscript tələb olunur və böyük fayllar üçün daha uzun çəkə bilər."
 convertToPdfA3bTooltipHeader = "PDF/A-3b çevirməsi haqqında"
 convertToPdfA3bTooltipTitle = "Nə edir"
-embed = "Əlavəni yerləşdir"
-header = "Add attachments"
-remove = "Əlavəni sil"
-submit = "Add attachments"
 tags = "embed,attach,file,attachment,attachments"
 title = "Add attachments"
 
@@ -1683,12 +1678,10 @@ notAvailable = "Audit sistemi əlçatan deyil"
 notAvailableMessage = "Audit sistemi konfiqurasiya edilməyib və ya əlçatan deyil."
 
 [audit.charts]
-byTool = "Ən çox istifadə olunan alətlər"
 byType = "Növ üzrə hadisələr"
 byUser = "İstifadəçiyə görə hadisələr"
 day = "Gün"
 error = "Qrafiklər yüklənərkən xəta"
-hourlyActivity = "Saatlıq aktivlik"
 month = "Ay"
 noData = "Bu dövr üçün məlumat yoxdur"
 overTime = "Zamana görə hadisələr"
@@ -1725,17 +1718,12 @@ documentName = "Sənəd"
 endDate = "Bitmə tarixi"
 error = "Hadisələr yüklənərkən xəta"
 eventDetails = "Hadisə təfərrüatları"
-failure = "Uğursuzluq"
 fileHash = "Fayl Hash"
 filterByType = "Növə görə filtrlə"
 filterByUser = "İstifadəçiyə görə filtrlə"
 ipAddress = "IP ünvanı"
 noEvents = "Hadisə tapılmadı"
-outcome = "Status"
-sortAsc = "Artan sıralama"
-sortDesc = "Azalan sıralama"
 startDate = "Başlanğıc tarixi"
-success = "Uğur"
 timestamp = "Vaxt damğası"
 title = "Audit hadisələri"
 type = "Növ"
@@ -1743,9 +1731,7 @@ user = "İstifadəçi"
 viewDetails = "Təfərrüatlara baxın"
 
 [audit.export]
-clearFilters = "Təmizlə"
 description = "Audit hadisələrini CSV və ya JSON formatına ixrac edin. İxrac olunan məlumatı məhdudlaşdırmaq üçün filtrlərdən istifadə edin."
-endDate = "Bitmə tarixi"
 error = "Məlumatın ixracı alınmadı"
 exportButton = "Məlumatı ixrac et"
 fieldAuthor = "Müəllif (PDF-dən)"
@@ -1757,23 +1743,15 @@ fieldOperationResults = "Əməliyyat nəticələri"
 fieldOutcome = "Nəticə (Uğur/Uğursuzluq)"
 fieldTool = "Alət"
 fieldUsername = "İstifadəçi adı"
-filterByType = "Növə görə filtrlə"
-filterByUser = "İstifadəçiyə görə filtrlə"
 filters = "Filtrlər (istəyə bağlı)"
 format = "İxrac formatı"
 selectFields = "Daxil ediləcək sahələri seçin"
-startDate = "Başlanğıc tarixi"
 title = "Audit məlumatlarının ixracı"
-verboseRequired = "VERBOSE audit səviyyəsi tələb olunur"
 
 [audit.filters]
-allOutcomes = "Hamısı"
-failureOnly = "Yalnız uğursuzluqlar"
 last30Days = "Son 30 gün"
 last7Days = "Son 7 gün"
-outcomeFilter = "Nəticə"
 quickPresets = "Sürətli filtrlər"
-successOnly = "Yalnız uğurlar"
 thisMonth = "Bu ay"
 today = "Bu gün"
 
@@ -1782,18 +1760,14 @@ activeUsers = "Aktiv istifadəçilər"
 attention = "Diqqət tələb olunur"
 avgLatency = "Orta gecikmə"
 error = "Statistikanı yükləmə xətası"
-errorLoadingStats = "Statistikanı yükləmək mümkün olmadı"
 excellent = "Əla"
 good = "Yaxşı"
 noData = "Yoxdur"
 successRate = "Uğur dərəcəsi"
-title = "Xülasə"
 totalEvents = "Ümumi hadisələr"
 vsLastPeriod = "son dövrlə müqayisədə"
 
 [audit.systemStatus]
-autoRefresh = "Avto-yeniləmə"
-autoRefreshLabel = "Hər 30 saniyədən bir avto-yenilə"
 captureBySettings = "Ayarlar vasitəsilə aktiv edin"
 capturedFields = "Qeyd olunan sahələr"
 date = "Tarix"
@@ -1810,7 +1784,6 @@ title = "Sistem statusu"
 tool = "Alət"
 totalEvents = "Cəmi hadisələr"
 username = "İstifadəçi adı"
-verboseOnly = "Yalnız VERBOSE"
 
 [audit.tabs]
 clearData = "Məlumatları sil"
@@ -1821,8 +1794,6 @@ export = "İxrac"
 [auth]
 accessDenied = "Giriş rədd edildi"
 insufficientPermissions = "Bu əməliyyatı yerinə yetirmək üçün icazəniz yoxdur."
-pleaseLoginAgain = "Zəhmət olmasa yenidən daxil olun."
-sessionExpired = "Sessiya başa çatdı"
 
 [auth.displayName]
 guest = "Qonaq"
@@ -1830,16 +1801,12 @@ user = "İstifadəçi"
 
 [auto-rename]
 description = "PDF məzmunundan başlığı avtomatik tapır və onu fayl adı kimi istifadə edir."
-header = "Pdf-in Adını Avtomatik Yenidən Adlandır"
 submit = "Avtomatik Yenidən Adlandır"
 tags = "avtodetektə,başlıq-əsaslı,səliqələ,yenidən adlandır"
 title = "Avtomatik Yenidən Adlandır"
 
 [auto-rename.error]
 failed = "PDF avtomatik adlandırılarkən xəta baş verdi."
-
-[auto-rename.files]
-placeholder = "Başlamaq üçün əsas görünüşdə bir PDF faylı seçin"
 
 [auto-rename.results]
 title = "Avto-adlandırma nəticələri"
@@ -1857,7 +1824,6 @@ title = "Avto-adlandırma necə işləyir"
 bullet1 = "Başlıq və ya başlıq kimi görünən mətni axtarır"
 bullet2 = "Aşkarlanmış başlıqdan təmiz və düzgün fayl adı yaradır"
 bullet3 = "Uyğun başlıq tapılmazsa orijinal adı saxlayır"
-text = "PDF məzmunundan başlığı avtomatik tapır və onu fayl adı kimi istifadə edir."
 title = "Ağıllı adlandırma"
 
 [automate]
@@ -1870,12 +1836,12 @@ importPartialSuccess = "{{count}} xəritələnməmiş əməliyyatla idxal edildi
 importSuccess = "İdxal edilmiş avtomatlaşdırma: {{name}}"
 invalidStep = "Yanlış addım"
 reviewTitle = "Avtomatlaşdırma Nəticələri"
+tags = "workflow,sequence,automation,automate,batch,batch processing,pipeline,chain,multi-step,recurring,scheduled,automatic,process multiple,bulk operations"
 title = "Avtomatlaşdırma"
 
 [automate.config]
 cancel = "Ləğv et"
 description = "Bu alət üçün ayarları tənzimləyin. Bu ayarlar avtomatlaşdırma işlədikdə tətbiq olunacaq."
-loading = "Alət tənzimləmələri yüklənir..."
 noSettings = "Bu alətin tənzimlənə bilən ayarları yoxdur."
 save = "Tənzimləmələri yadda saxla"
 title = "{{toolName}} tənzimləyin"
@@ -1916,16 +1882,6 @@ title = "Yadda saxlanmayan dəyişikliklər"
 
 [automate.entryMenu]
 label = "{{title}} üçün menyunu aç"
-
-[automate.files]
-placeholder = "Bu avtomatlaşdırma ilə emal etmək üçün faylları seçin"
-
-[automate.folderScanWarning]
-advice = "Faylı yenə də endirə bilərsiniz (məs., baxmaq və ya əl ilə redaktə etmək üçün), lakin dəstəklənməyən addımlar arxa ucun işləməsi üçün çıxarılmalıdır."
-cancel = "Ləğv et"
-confirm = "Yenə də ixrac et"
-intro = "Qovluq skan edilməsi arxa planda işləyir, buna görə yalnız arxa uca endpoint-i olan alətləri icra edə bilir. Bu avtomatlaşdırmadakı aşağıdakı addım(lar) buna malik deyil və boru xətti işləyəndə uğursuz olacaq:"
-title = "Bəzi addımlar qovluq skanı zamanı işləyə bilmir"
 
 [automate.importModal]
 cancel = "Ləğv et"
@@ -1979,25 +1935,16 @@ secureWorkflowDesc = "PDF sənədlərini JavaScript və daxil edilmiş fayllar k
 
 [autoRename]
 description = "Bu alət məzmununa əsasən PDF fayllarını avtomatik olaraq yenidən adlandırır. Sənədi analiz edərək mətndən ən uyğun başlığı tapır."
+tags = "auto-detect,header-based,organize,relabel,auto rename,automatic rename,smart rename,rename by content,filename,file naming,detect title"
 
 [autoSizeSplitPDF]
 tags = "pdf,ayır,sənəd,nizamla"
 
 [autoSplitPDF]
-description = "Sənədlərinizi çap edin, daxil edin, skan edin, yükləyin və bizə icazə verin. Əl işinin çeşidlənməsinə ehtiyac yoxdur."
 dividerDownload2 = "'Auto Splitter Divider (with instructions).pdf'-ı yükləyin"
 duplexMode = "Dupleks rejimi (Ön və arxa skanlama)"
-formPrompt = "Stirling-PDF ə Səhifə bölücüləri olan PDF-i təqdim edin:"
-header = "PDF-i avtomatik bölmə"
-submit = "Təsdiq edin"
 tags = "QR-əsaslı,ayrı,skan-seqment,nizamla"
 title = "PDF-i avtomatik bölmə"
-
-[autoSplitPDF.selectText]
-1 = "Aşağıdan bəzi ayırıcı vərəqləri çap edin (qara və ağ yaxşıdır)."
-2 = "Aralarına ayırıcı vərəq daxil edərək bütün sənədlərinizi bir anda skan edin."
-3 = "Tək böyük skan edilmiş PDF faylını yükləyin və Stirling PDF-in qalanını idarə etməsinə icazə verin."
-4 = "Ayırıcı səhifələr avtomatik aşkarlanır və silinir, səliqəli yekun sənədə zəmanət verir."
 
 [backendHealth]
 checking = "Backend vəziyyəti yoxlanılır..."
@@ -2035,7 +1982,6 @@ whatHappensNext = "Sonra nə olacaq?"
 error = "Ödəniş portalını açmaq alınmadı"
 
 [bookletImposition]
-header = "Buklet impozisiyası"
 paperSizeNote = "Kağız ölçüsü avtomatik olaraq birinci səhifənizdən götürülür."
 submit = "Buklet yarat"
 tags = "buklet,impozisiya,çap,cildləmə,bükmə,imza"
@@ -2081,11 +2027,6 @@ title = "Əl ilə dupleks rejimi"
 [bookletImposition.rtlBinding]
 label = "Sağdan-sola cildləmə"
 tooltip = "Ərəb, İvrit və ya digər sağdan-sola dillər üçün"
-
-[bookletImposition.spineLocation]
-label = "Onurğa yerləşimi"
-left = "Sol (Standart)"
-right = "Sağ (RTL)"
 
 [bookletImposition.tooltip.advanced]
 bullet1 = "Sağdan-sola cildləmə: Ərəb, İvrit və ya RTL dilləri üçün"
@@ -2226,7 +2167,6 @@ description = "Öz PKCS#12 sertifikat faylınızdan istifadə edin. Sertifikat x
 title = "Fərdi P12 yüklə"
 
 [certSign]
-allSigned = "Bütün iştirakçılar imzalayıb. Yekunlaşdırmağa hazırdır."
 awaitingSignatures = "İmzalar gözlənir"
 chooseCertificate = "Sertifikat faylını seçin"
 chooseJksFile = "JKS faylını seçin"
@@ -2235,7 +2175,6 @@ choosePfxFile = "PFX faylını seçin"
 choosePrivateKey = "Məxfi açar faylını seçin"
 declined = "İmtina edildi"
 fetchFailed = "İmzalama məlumatlarını yükləmək mümkün olmadı"
-filenamePrefix = "imzalanmış"
 finalized = "Yekunlaşdırılıb"
 location = "Məkan"
 logoTitle = "Loqo"
@@ -2243,7 +2182,6 @@ name = "Ad"
 noLogo = "Loqo yoxdur"
 notified = "Gözləmədə"
 pageNumber = "Səhifə nömrəsi"
-partialNote = "Mövcud imzalarla erkən yekunlaşdıra bilərsiniz. İmzalamayan iştirakçılar çıxarılacaq."
 password = "Keystore və ya Şəxsi Açar daxil edin (Əgər varsa):"
 passwordOptional = "Parol yoxdursa boş buraxın"
 pending = "Gözləmədə"
@@ -2311,12 +2249,8 @@ stepTitle = "Sertifikat formatı"
 
 [certSign.collab.addParticipants]
 add = "{{count}} iştirakçı əlavə et"
-back = "Geri"
-configureSignatures = "İmza tənzimləmələrini tənzimlə"
-continue = "İmza tənzimləmələrinə davam et"
 reasonHelp = "Bu iştirakçılar üçün imzalama səbəbini əvvəlcədən təyin edin (seçim üzrə, imzalayarkən dəyişə bilərlər)"
 reasonPlaceholder = "məs., Təsdiq, İcmal..."
-selectUsers = "İstifadəçiləri seçin"
 
 [certSign.collab.finalize]
 button = "Yekunlaşdır və İmzalanmış PDF-i Yüklə"
@@ -2335,7 +2269,6 @@ includeSummaryPage = "İmza xülasə səhifəsini daxil et"
 includeSummaryPageHelp = "Sonda bütün imza metadata-sı ilə xülasə səhifəsi əlavə olunacaq. Ayrı-ayrı səhifələrdəki rəqəmsal sertifikat imza çərçivələri gizlədiləcək (əl ilə imzalar təsirlənmir)."
 
 [certSign.collab.sessionDetail]
-addButton = "İştirakçı əlavə et"
 addParticipants = "İştirakçı əlavə et"
 addParticipantsError = "İştirakçıları əlavə etmək mümkün olmadı"
 backToList = "Sessiyalara qayıt"
@@ -2348,7 +2281,6 @@ finalizeError = "Sessiyanı yekunlaşdırmaq mümkün olmadı"
 loadPdfError = "İmzalanmış PDF-i yükləmək mümkün olmadı"
 loadSignedPdf = "İmzalanmış PDF-i Aktiv Fayllara Yüklə"
 messageLabel = "Mesaj"
-noAdditionalInfo = "Əlavə məlumat yoxdur"
 owner = "Sahib"
 participantRemoved = "İştirakçı silindi"
 participants = "İştirakçılar"
@@ -2369,7 +2301,6 @@ title = "İmzanın görünüşü"
 
 [certSign.collab.signRequest]
 addedToFiles = "Sənəd aktiv fayllara əlavə olundu"
-addSignature = "İmzanızı əlavə edin"
 addToFiles = "Aktiv Fayllara Əlavə et"
 advancedSettings = "Ətraflı tənzimləmələr"
 backToList = "İmza Sorğularına qayıt"
@@ -2382,35 +2313,27 @@ decline = "Sorğudan imtina et"
 declineButton = "İmtina et"
 deleteSelected = "Seçilmiş imzanı sil"
 drawSignature = "Aşağıda imzanızı çəkin"
-dueDate = "Son tarix"
 fileTooLarge = "Fayl ölçüsü 5MB-dan az olmalıdır"
 fontFamily = "Şrift ailəsi"
 fontSize = "Şrift ölçüsü: {{size}}px"
 fontSizePlaceholder = "Ölçü"
 from = "Kimdən"
-invalidCertFile = "Zəhmət olmasa P12 və ya PFX sertifikat faylı seçin"
 invalidFileType = "Zəhmət olmasa şəkil faylı seçin"
 location = "Məkan (Seçim üzrə)"
 locationPlaceholder = "Haradan imzalayırsınız?"
-message = "Mesaj"
 noCertificate = "Zəhmət olmasa sertifikat faylı seçin"
 noSignatures = "Zəhmət olmasa PDF üzərinə ən azı bir imza yerləşdirin"
 p12File = "P12/PFX Sertifikat Faylı"
 password = "Sertifikat şifrəsi"
-passwordPlaceholder = "Şifrəni daxil edin..."
 penColor = "Qələm rəngi"
 penSize = "Qələm ölçüsü: {{size}}px"
-placementActive = "Yerləşdirmək üçün PDF-ə klikləyin"
-placeSignatureButton = "İmzanı PDF üzərinə yerləşdir"
 reason = "Səbəb (Seçim üzrə)"
 reasonPlaceholder = "Niyə imzalayırsınız?"
-removeCertFile = "Faylı sil"
 removeImage = "Şəkli sil"
 savedSignatures = "Yadda saxlanılan imzalar"
 selectFile = "Şəkil faylı seçin"
 selectSignatureTitle = "İmza seçin və ya yaradın"
 signatureInfo = "Bu tənzimləmələr sənəd sahibi tərəfindən qurulub"
-signaturePlaced = "İmza səhifəyə yerləşdirildi"
 signatureSettings = "İmza tənzimləmələri"
 signatureText = "İmza mətni"
 signatureTextPlaceholder = "Adınızı daxil edin..."
@@ -2442,9 +2365,6 @@ description = "{{count}} imza yerləşdirmisiniz. İmzalamayı tamamlamak üçü
 sign = "Sənədi imzala"
 title = "Sertifikatı tənzimlə"
 
-[certSign.collab.signRequest.image]
-hint = "İmzanızın PNG və ya JPG şəklini yükləyin"
-
 [certSign.collab.signRequest.mode]
 move = "İmzanı hərəkət etdir"
 place = "İmzanı yerləşdir"
@@ -2454,10 +2374,6 @@ title = "İmzalama və ya hərəkət etdirmə rejimi"
 draw = "Çək"
 image = "Yüklə"
 text = "Yaz"
-
-[certSign.collab.signRequest.placeSignature]
-message = "İmzanızı yerləşdirmək üçün PDF-ə klikləyin"
-title = "İmzanı yerləşdir"
 
 [certSign.collab.signRequest.preview]
 imageAlt = "Seçilmiş imza"
@@ -2588,24 +2504,20 @@ text = "İmzaları yoxladıqda alət onların etibarlı olub-olmadığını, sə
 title = "İmzaların yoxlanması"
 
 [changeCreds]
-changePassword = "Siz standart giriş məlumatlarından istifadə edirsiniz. Zəhmət olmasa, yeni şifr daxil edin"
 changeUsername = "İstifadəçi adınızı yeniləyin. Yenilədikdən sonra çıxış ediləcəksiniz."
-confirmNewPassword = "Yeni Şifri Təsdiqləyin"
 credsUpdated = "Hesab yeniləndi"
 description = "Dəyişikliklər yadda saxlanıldı. Zəhmət olmasa yenidən daxil olun."
 error = "İstifadəçi adını yeniləmək mümkün olmadı. Zəhmət olmasa parolunuzu yoxlayın və yenidən cəhd edin."
 header = "Hesab Məlumatlarınızı Yeniləyin"
-newPassword = "Yeni Şifr"
 newUsername = "Yeni İstifadəçi Adı"
 oldPassword = "Cari Şifr"
 ssoManaged = "Hesabınız kimlik təminatçınız tərəfindən idarə olunur."
-submit = "Dəyişiklikləri Təsdiqlə"
 title = "Məlumatları dəyişdirin"
 
 [changeMetadata]
 filenamePrefix = "metaməlumat"
-header = "Metadata-nı Dəyiş"
 submit = "Dəyiş"
+tags = "edit,modify,update,metadata,properties,document properties,author,title,subject,keywords,creator,producer,info,document info,file properties"
 
 [changeMetadata.advanced]
 title = "Qabaqcıl seçimlər"
@@ -2657,9 +2569,6 @@ placeholder = "Sənədin istehsalçısı"
 [changeMetadata.results]
 title = "Yenilənmiş PDF-lər"
 
-[changeMetadata.settings]
-title = "Metadata ayarları"
-
 [changeMetadata.standardFields]
 title = "Standart sahələr"
 
@@ -2698,16 +2607,6 @@ title = "Tarix sahələri"
 text = "Məxfilik üçün metadatanın tam silinməsi."
 title = "Mövcud metadatanı sil"
 
-[changeMetadata.tooltip.header]
-title = "PDF metadata icmalı"
-
-[changeMetadata.tooltip.options]
-bullet1 = "Fərdi metadata: Açar-dəyər cütlərinizi əlavə edin"
-bullet2 = "Trapping vəziyyəti: Yüksək keyfiyyətli çap ayarı"
-bullet3 = "Hamısını sil: Məxfilik üçün bütün metadatanı silin"
-text = "Xüsusi sahələr və məxfilik nəzarəti."
-title = "Əlavə seçimlər"
-
 [changeMetadata.tooltip.standardFields]
 bullet1 = "Başlıq: Sənədin adı və ya başlığı"
 bullet2 = "Müəllif: Sənədi yaradan şəxs"
@@ -2724,9 +2623,9 @@ true = "Doğru"
 unknown = "Naməlum"
 
 [changePermissions]
-completed = "İcazələr dəyişdirildi"
 desc = "Sənəd məhdudiyyətlərini və icazələrini dəyişdirin."
 submit = "İcazələri Dəyişdir"
+tags = "permissions,restrictions,rights,access control,allow,deny,printing,copying,editing,modify permissions,security settings,user rights"
 title = "İcazələri Dəyişdir"
 
 [changePermissions.error]
@@ -2768,19 +2667,19 @@ title = "İcazələri Dəyişdir"
 [changePermissions.tooltip.warning]
 text = "Bu icazələri dəyişdirilməz etmək üçün, Parol əlavə etmə alətindən istifadə edərək sahib parolu təyin edin."
 
-[chat]
-resize = "Söhbət panelinin ölçüsünü dəyiş"
-
 [chat.actions]
 copy = "Mesajı kopyala"
+
+[chat.fab]
+close = "Close chat"
+open = "Open Stirling AI assistant"
 
 [chat.header]
 agentMenu = "Stirling agent seçimləri"
 clearChat = "Söhbəti təmizlə"
-settings = "Agent parametrləri"
 
 [chat.input]
-attach = "Fayllar əlavə et"
+disclaimer = "AI can make mistakes. Be sure to verify the output before sharing."
 placeholder = "Nə etmək istəyirsiniz?"
 send = "Mesaj göndər"
 
@@ -2793,6 +2692,13 @@ executing_tool_single = "{{tool}} işə salınır..."
 executing_tool_step = "{{tool}} işə salınır ({{step}}/{{total}} addım)..."
 extracting_content = "Sənədlərinizdən məzmun çıxarılır..."
 processing = "Çıxarılan məzmun emal olunur..."
+ranForMinutes = "Ran for {{count}} minutes"
+ranForMinutes_one = "Ran for 1 minute"
+ranForMinutes_other = "Ran for {{count}} minutes"
+ranForMinutesSeconds = "Ran for {{minutes}} min, {{seconds}} sec"
+ranForSeconds = "Ran for {{count}} seconds"
+ranForSeconds_one = "Ran for 1 second"
+ranForSeconds_other = "Ran for {{count}} seconds"
 thinking = "Düşünür..."
 whole_doc_compression_round = "Qeydlər birləşdirilir..."
 whole_doc_read_done = "Sənədin oxunması tamamlandı..."
@@ -2805,15 +2711,11 @@ compressMany = "Bu sənədləri sıxışdır"
 compressOne = "Bu sənədi sıxışdır"
 convertMany = "Bu sənədləri PDF-ə çevir"
 convertOne = "Bu sənədi PDF-ə çevir"
-fileSummary_one = "İş sahəsində 1 fayl ({{types}})"
-fileSummary_other = "İş sahəsində {{count}} fayl ({{types}})"
 heading = "Başla"
 mergeMany = "Bu {{count}} sənədi 1-də birləşdir"
 moreFiles = "+{{count}} daha"
 openFromComputer = "Kompüterdən aç"
 removeFile = "{{name}} faylını sil"
-rotateMany = "Bu sənədləri fırlat"
-rotateOne = "Bu sənədi fırlat"
 splitOne = "Bu sənədi böl"
 
 [chat.responses]
@@ -2824,11 +2726,10 @@ need_clarification = "Xahiş edirik, istəyinizi dəqiqləşdirin."
 not_found = "Tələb olunan məlumatı tapa bilmədim."
 processing = "Emal edilir ({{outcome}})..."
 unsupported_capability = "Dəstəklənməyən imkan: {{capability}}"
+usage_limit_reached = "You've reached your usage limit. Check your plan options to keep going."
 
 [chat.toolsUsed]
 summary = "{{count}} alət işə salındı"
-summary_one = "1 alət işə salındı"
-summary_other = "{{count}} alət işə salındı"
 unknownTool = "Naməlum alət"
 
 [cloudBadge]
@@ -2846,65 +2747,45 @@ back = "Geri"
 cancel = "Ləğv et"
 close = "Bağla"
 collapse = "Yığ"
-collapsed = "yığılmış"
 continue = "Davam et"
 copied = "Kopyalandı!"
 copy = "Kopyala"
 done = "Bitdi"
 error = "Xəta"
 expand = "Genişləndir"
-learnMore = "Daha çox öyrən"
-lines = "sətir"
 loading = "Yüklənir..."
 next = "Növbəti"
 operation = "bu əməliyyat"
 preview = "Önizləmə"
 previous = "Əvvəlki"
 refresh = "Yenilə"
-remaining = "qalıb"
 retry = "Yenidən cəhd et"
 save = "Yadda saxla"
 used = "istifadə edilib"
 
 [compare]
-addFilesHint = "Seçimi aktivləşdirmək üçün Fayllar addımında PDF-lər əlavə edin."
 clearSelected = "Seçilənləri təmizlə"
 clearSlot = "Faylı çıxar"
 cta = "Müqayisə et"
-header = "PDF-ləri Müqayisə Et"
 loading = "Müqayisə edilir..."
 newLine = "yeni-sətir"
-noFiles = "Hələ PDF yoxdur"
 pages = "Səhifələr"
 tags = "fərqləndir,təzad yarat,dəyişikliklər,analiz"
 title = "Müqayisə Et"
 
 [compare.actions]
 linkScroll = "Sürüşdürməni bağla"
-linkScrollPan = "Sürüşdürmə və hərəkəti bağla"
 placeSideBySide = "Yan-yana yerləşdir"
 resetView = "Görünüşü sıfırla"
 stackVertically = "Şaquli yığ"
 unlinkScroll = "Sürüşdürməni ayır"
-unlinkScrollPan = "Sürüşdürmə və hərəkəti ayır"
 zoomIn = "Yaxınlaşdır"
 zoomOut = "Uzaqlaşdır"
-
-[compare.base]
-label = "Orijinal sənəd"
-placeholder = "Orijinal PDF-i seçin"
 
 [compare.clear]
 confirm = "Təmizlə və qayıt"
 confirmBody = "Bu, cari müqayisəni bağlayacaq və sizi Aktiv fayllara qaytaracaq."
 confirmTitle = "Seçilmiş PDF-lər təmizlənsin?"
-
-[compare.comparison]
-label = "Redaktə edilmiş sənəd"
-placeholder = "Redaktə edilmiş PDF-i seçin"
-
-[compare.complex]
-message = "Fayllardan biri və ya ikisi də böyük fayldır. Müqayisə effektivliyi azala bilər."
 
 [compare.dropdown]
 additions = "Əlavələr ({{count}})"
@@ -2937,15 +2818,12 @@ message = "Fayllardan biri və ya ikisi də işləmək üçün çox böyükdür.
 body = "Bu PDF-lərin birlikdə səhifə sayı 2,000-dən çoxdur. Emal bir neçə dəqiqə çəkə bilər."
 title = "Böyük müqayisə davam edir"
 
-[compare.mode]
-pixel = "Piksel müqayisəsi"
-text = "Mətn müqayisəsi"
-
 [compare.no.text]
 message = "Fayllardan birində və ya ikisində də mətn məzmunu yoxdur. Zəhmət olmasa, müqayisə üçün mətn məzmunlu PDF seçin."
 
 [compare.original]
 label = "Orijinal PDF"
+placeholder = "Select the original PDF"
 
 [compare.pixel]
 base = "Orijinal"
@@ -2979,18 +2857,10 @@ pagesRendered = "səhifə render olundu"
 rendering = "renderləmə"
 
 [compare.review]
-actionsHint = "Müqayisəni nəzərdən keçirin, sənəd rollarını dəyişin və ya xülasəni ixrac edin."
-exportSummary = "Xülasəni ixrac et"
-switchOrder = "Sifarişi dəyiş"
 title = "Müqayisə nəticəsi"
 
 [compare.selection]
 originalEditedTitle = "Orijinal və Redaktə edilmiş PDF-ləri seçin"
-
-[compare.slowOperation]
-body = "Bu müqayisə adətənkindən daha uzun çəkir. Davam etməsinə icazə verə və ya ləğv edə bilərsiniz."
-cancel = "Müqayisəni ləğv et"
-title = "Hələ işləyirik…"
 
 [compare.status]
 complete = "Müqayisə hazırdır"
@@ -3017,10 +2887,9 @@ unlinkedTitle = "Müstəqil sürüşdürmə və hərəkət aktivdir"
 message = "Bu sənədlər çox fərqli görünür. Vaxta qənaət üçün müqayisə dayandırıldı."
 
 [compress]
-credit = "Bu servis PDF sıxışdırılması/Optimizasiyası üçün Ghostscript istifadə edir."
 desc = "PDF-lərin həcmini azaltmaq üçün sıxın."
-header = "PDF-i Sıxışdır"
 submit = "Sıxışdır"
+tags = "shrink,reduce,optimize,compress,smaller,downsize,file size,reduce size,minimize,make smaller,decrease size,optimize size"
 title = "Sıxışdır"
 
 [compress.compressionLevel]
@@ -3052,15 +2921,6 @@ filesize = "Fayl Ölçüsü"
 quality = "Keyfiyyət"
 title = "Sıxma metodu"
 
-[compress.selectText]
-2 = "Optimizasiya səviyyəsi:"
-4 = "Avto mod - PDF-in dəqiq ölçüsünü əldə etmək üçün keyfiyyəti avtomatik tənzimləyir"
-5 = "Gözlənilən PDF Ölçüsü (məsələn, 25MB, 10.8MB, 25KB)"
-
-[compress.selectText.1]
-1 = "1-3 PDF sıxılması,</br> 4-6 yüngül şəkil sıxması,</br> 7-9 güclü şəkil sıxması Şəkil keyfiyyətini əhəmiyyətli dərəcədə azaldacaq"
-_value = "Sıxma ayarları"
-
 [compress.settings]
 desiredSize = "İstənilən fayl ölçüsü"
 desiredSizePlaceholder = "Ölçünü daxil edin"
@@ -3091,6 +2951,7 @@ tags = "sıx,balaca,kiçik"
 
 [config]
 plan = "Plan"
+team = "Team"
 
 [config.account.overview]
 confirmDelete = "Hesabımı sil"
@@ -3166,7 +3027,6 @@ publicKeyAriaLabel = "Açıq API açarı"
 purchasedCredits = "Alınmış kreditlər"
 refreshAriaLabel = "API açarını yenilə"
 schemaLink = "API Sxem Arayışı"
-totalCredits = "Cəmi kreditlər"
 usage = "Bu açarı bütün API sorğularında X-API-KEY başlığında daxil edin."
 
 [config.apiKeys.alert]
@@ -3185,6 +3045,30 @@ impact = "Hazırda bu açarlardan istifadə edən bütün tətbiqlər və xidmə
 title = "API Açarlarını Yenilə"
 warning = "⚠️ Xəbərdarlıq: Bu əməliyyat yeni API açarları yaradacaq və əvvəlki açarları etibarsız edəcək."
 
+[config.mcp]
+description = "Model Context Protocol (MCP) lets AI assistants like Claude use your Stirling PDF tools directly. Connect a client once and your assistant can convert, edit, secure and process documents on your behalf."
+guestInfo = "Guest users can't connect MCP clients. Create an account to use the MCP server and let your AI assistant run Stirling PDF tools on your behalf."
+navLabel = "MCP Server"
+tip = "Every action your assistant runs is performed as your account and counts toward your usage, just like using Stirling PDF directly."
+title = "MCP Server"
+viewApiKeys = "View API keys"
+
+[config.mcp.copy]
+configLabel = "Config"
+copied = "Copied"
+copy = "Copy"
+endpointLabel = "Endpoint URL"
+tooltip = "Copy {{label}}"
+tooltipCopied = "{{label}} copied"
+
+[config.mcp.endpoint]
+label = "Your MCP endpoint"
+
+[config.mcp.setup]
+addTo = "Add to"
+hint = "Pick your client, paste the snippet into the file shown, then restart it. You'll sign in with your Stirling account on first use - no keys to copy."
+title = "Connect your AI assistant"
+
 [config.overview]
 description = "Cari tətbiq ayarları və konfiqurasiya detalları."
 error = "Xəta"
@@ -3197,14 +3081,6 @@ basic = "Əsas konfiqurasiya"
 integration = "Inteqrasiya konfiqurasiyası"
 security = "Təhlükəsizlik konfiqurasiyası"
 system = "Sistem konfiqurasiyası"
-
-[connectionMode.status]
-localOffline = "Oflayn rejim işləyir"
-localOnline = "Oflayn rejim işləyir"
-saas = "Stirling Cloud-a qoşuldu"
-selfhostedChecking = "Öz serverinizə qoşuldu (yoxlanılır...)"
-selfhostedOffline = "Öz serveriniz əlçatmazdır"
-selfhostedOnline = "Öz serverinizə qoşuldu"
 
 [convert]
 autoRotate = "Avtomatik döndür"
@@ -3224,64 +3100,39 @@ combineImages = "Şəkilləri birləşdir"
 combineImagesDescription = "Bütün şəkilləri bir PDF-ə birləşdirin və ya hər bir şəkil üçün ayrıca PDF yaradın"
 combineSvgs = "Combine SVGs into single PDF"
 combineSvgsDescription = "Combine all SVG files into one PDF with multiple pages, or create separate PDFs for each SVG"
-conversionCompleted = "Çevirma tamamlandı"
 conversionResults = "Konvertasiya nəticələri"
 convertFiles = "Faylları çevir"
 convertFrom = "Bundan çevir"
 converting = "Çevrilir..."
 convertTo = "Buna çevir"
-defaultFilename = "çevrilmiş_fayl"
 desc = "Faylları müxtəlif formatlar arasında çevirin"
-downloadConverted = "Çevrilmiş faylı endir"
 downloadHtml = "PDF əvəzinə ara HTML faylını endir"
 dpi = "DPI"
 ebookToPdf = "eBook → PDF"
 emailOptions = "E-poçtdan PDF-ə seçimlər"
 emlToPdf = "E-poçt → PDF"
 errorConversion = "Faylı çevirərkən xəta baş verdi."
-errorNoFiles = "Zəhmət olmasa çevirmək üçün ən azı bir fayl seçin."
-errorNoFormat = "Zəhmət olmasa həm mənbə, həm də hədəf formatını seçin."
-errorNotSupported = "{{from}} formatından {{to}} formatına çevirmə dəstəklənmir."
-fileFormat = "Fayl formatı"
-files = "Fayllar"
 fileToPdf = "Office/Sənəd → PDF"
 fillPage = "Səhifəni Doldur"
 fitDocumentToPage = "Sənədi səhifəyə sığdır"
 fitOption = "Sığdırma seçimi"
 grayscale = "Boz Tonlama"
-greyscale = "Boz Tonlama"
 imageOptions = "Şəkil seçimləri"
-images = "Şəkillər"
-imagesExt = "Şəkillər (JPG, PNG və s.)"
 includeAllRecipients = "Başlıqda CC və BCC alıcılarını daxil et"
 includeAttachments = "E-poçt əlavələrini daxil et"
 maintainAspectRatio = "Nisbəti qoruyun"
-markdown = "Markdown"
 maxAttachmentSize = "Maksimum əlavə ölçüsü (MB)"
 multiple = "Çoxlu"
-noFileSelected = "Fayl seçilməyib. Faylları əlavə etmək üçün fayl panelindən istifadə edin."
-odpExt = "OpenDocument Təqdimat (.odp)"
-odtExt = "OpenDocument Mətn (.odt)"
-officeDocs = "Ofis sənədləri (Word, Excel, PowerPoint)"
 optimizeForEbook = "PDF-i e-oxuyucular üçün optimallaşdır (Ghostscript istifadə olunur)"
 output = "Çıxış"
 outputFormat = "Çıxış formatı"
-outputOptions = "Çıxış seçimləri"
 pdfaDigitalSignatureWarning = "PDF Rəqəmsal İmza Ehtiva Edir.Bu, növbəti addımda silinəcək."
-pdfaFormat = "PDF/A formatı"
 pdfaNote = "PDF/A-1b daha uyğundur, PDF/A-2b daha çox funksiyanı dəstəkləyir."
 pdfaOptions = "PDF/A seçimləri"
 pdfOptions = "PDF seçimləri"
 pdfToCbr = "PDF → CBR"
 pdfToCbz = "PDF → CBZ"
 pdfToEpub = "PDF → EPUB"
-pdfxDescription = "PDF/X etibarlı çap və qrafika mübadiləsi üçün ISO standartlı PDF alt dəstidir."
-pdfxDigitalSignatureWarning = "PDF rəqəmsal imza ehtiva edir. Bu imza növbəti addımda silinəcək."
-pptExt = "PowerPoint (.pptx)"
-results = "Nəticələr"
-rtfExt = "Zəngin Mətn Formatı (.rtf)"
-selectedFiles = "Seçilmiş fayllar"
-selectFilesPlaceholder = "Başlamaq üçün əsas görünüşdə faylları seçin"
 selectSourceFormatFirst = "Əvvəlcə mənbə formatını seçin"
 settings = "Parametrlər"
 single = "Tək"
@@ -3291,18 +3142,13 @@ strictModeDesc = "Error if conversion is not perfect (uses VeraPDF verification)
 svgPdfOptions = "SVG to PDF Options"
 svgToPdf = "SVG → PDF"
 svgVectorNote = "SVG files are rendered as vector graphics for crisp output at any resolution. Dimensions from the SVG determine the PDF page size."
+tags = "transform,change,convert,PDF to Word,PDF to Excel,PDF to image,Word to PDF,Excel to PDF,PowerPoint to PDF,HTML to PDF,export,import,file conversion,format change,save as"
 targetFormatPlaceholder = "Hədəf formatı"
-textRtf = "Mətn/RTF"
 title = "Çevir"
-txtExt = "Sadə mətn (.txt)"
 webOptions = "Web to PDF seçimləri"
-wordDoc = "Word sənədi"
-wordDocExt = "Word sənədi (.docx)"
 zoomLevel = "Miqyas səviyyəsi"
 
 [convert.ebookOptions]
-ebookOptions = "eBook-dan PDF-ə seçimlər"
-ebookOptionsDesc = "eBook-ları PDF-ə çevirmə üçün seçimlər"
 embedAllFonts = "Bütün şriftləri daxil et"
 embedAllFontsDesc = "eBook-dakı bütün şriftləri yaradılan PDF-ə daxil et"
 includePageNumbers = "Səhifə nömrələrini daxil et"
@@ -3315,8 +3161,6 @@ optimizeForEbookPdfDesc = "PDF-i eBook oxuma üçün optimallaşdır (kiçik fay
 [convert.epubOptions]
 detectChapters = "Fəsilləri aşkar et"
 detectChaptersDesc = "Fəsilə bənzər başlıqları aşkar edib EPUB səhifə qırılmaları əlavə et"
-epubOptions = "PDF-dən eBook-a seçimlər"
-epubOptionsDesc = "PDF-i EPUB/AZW3-ə çevirmə üçün seçimlər"
 kindleEink = "Kindle e-Ink (mətn üçün optimallaşdırılıb)"
 outputFormat = "Çıxış formatı"
 outputFormatDesc = "eBook üçün çıxış formatını seçin"
@@ -3386,7 +3230,6 @@ creditsRemaining = "{{total}}-dən {{current}} qalıb"
 creditsThisMonth = "Aylıq kreditlər"
 current = "Cari plan"
 customPricing = "Fərdi"
-customSmartFolders = "Fərdi Smart Qovluqlar"
 dedicatedSupportSlas = "Ayrı-ayrı dəstək və SLA-lar"
 enterpriseSubscription = "Enterprise"
 everythingInCredits = "Kreditlərdə olan hər şey və əlavə olaraq:"
@@ -3429,14 +3272,8 @@ unlimitedApiAccess = "Limitsiz API girişi"
 unlimitedMonthlyCredits = "Sayt lisenziyası"
 unlimitedSeats = "Limitsiz istifadəçi yerləri"
 
-[credits.modal.features]
-everythingInCredits = "Kreditlərdə olan hər şey və əlavə olaraq:"
-everythingInFree = "Pulsuz plandakı hər şey və əlavə olaraq:"
-forRegularWork = "Müntəzəm PDF işi üçün:"
-
 [crop]
 autoCrop = "Boşluqları avtomatik qırp"
-header = "Pdf-ləri Kəs"
 noFileSelected = "Kəsməyə başlamaq üçün bir PDF faylı seçin"
 reset = "Tam PDF-ə sıfırla"
 submit = "Təsdiq Et"
@@ -3487,39 +3324,10 @@ title = "PDF-ləri necə kəsmək olar"
 
 [database]
 backupCreated = "Verilənlər bazasının ehtiyat nüsxəsi uğurla yaradıldı"
-createBackupFile = "Ehtiyat nüsxə faylı yarat"
-creationDate = "Yaradılma tarixi"
-deleteBackupFile = "Yedək Faylını Sil"
-downloadBackupFile = "Yedək Faylını Yüklə"
-failedImportFile = "Faylı daxil etmək alınmadı"
 fileName = "Fayl Adı"
-fileNotFound = "Fayl Tapılmadı"
-fileNullOrEmpty = "Fayl boş və ya \"null\" olmamalıdır"
-fileSize = "Fayl Ölçüsü"
-header = "Verilənlər bazasını Daxil/Xaric Et"
-importBackupFile = "Yedək Faylını Daxil Et"
-importIntoDatabaseSuccessed = "Verilənlər bazasına daxil etmə uğurla nəticələndi"
-info_1 = "Məlumatı daxil edərkən doğru strukturun mövcudluğundan əmin olmaq vacibdir. Əgər nə etdiyinizdən əmin deyilsinizsə, professional birindən məsləhət və yardım alın. Strukturdakı xəta proqramdakı nasazlıqlardan proqramı çalışdırma qabiliyyətinin tamamilə aradan qalxmasına qədər bir sıra problemlərə səbəb ola bilər."
-info_2 = "Faylın adı fayl yüklənərkən önəmli deyildir. Faylın adı sonradan sabit adlandırmanın varlığından əmin olmaq məqsədilə backup_user_yyyyMMddHHmm.sql tərzində formata dəyişdiriləcəkdir."
-notSupported = "Bu funksiya sizin verilənlər bazası bağlantınız üçün mövcud deyil."
-submit = "Yedəkləməni Daxil Et"
 title = "Verilənlər bazasını Daxil/Xaric Et"
 
-[decrypt]
-cancelled = "PDF üçün əməliyyat ləğv edildi: {0}"
-invalidPassword = "Zəhmət olmasa düzgün parolla yenidən cəhd edin."
-invalidPasswordHeader = "PDF üçün yanlış parol və ya dəstəklənməyən şifrələmə: {0}"
-noPassword = "Şifrələnmiş PDF üçün parol verilməyib: {0}"
-passwordPrompt = "Bu fayl parol ilə qorunub. Zəhmət olmasa parolu daxil edin:"
-serverError = "Şifrəni açarkən server xətası: {0}"
-success = "Fayl uğurla şifrədən çıxarıldı."
-unexpectedError = "Fayl emal edilərkən xəta baş verdi. Zəhmət olmasa yenidən cəhd edin."
-
 [defaultApp]
-description = "Bunu sonra sistem ayarlarında dəyişə bilərsiniz."
-dismiss = "Gözardı et"
-message = "Stirling PDF-i standart PDF redaktorunuz kimi təyin etmək istəyirsiniz?"
-notNow = "İndi yox"
 setDefault = "Standart et"
 title = "Standart PDF tətbiqi kimi təyin et"
 
@@ -3529,7 +3337,6 @@ title = "Xəta"
 
 [defaultApp.prompt]
 message = "PDF fayllarını açmaq üçün Stirling PDF-i standart tətbiqiniz edin."
-title = "Standart PDF redaktoru kimi təyin et"
 
 [defaultApp.settingsOpened]
 message = "Zəhmət olmasa sistem ayarlarında Stirling PDF-i seçin"
@@ -3555,6 +3362,18 @@ docsLink = "Quraşdırma sənədlərinə bax"
 message = "Stirling-PDF bu kompüterdə özünü yeniləmək üçün icazəyə malik deyil."
 title = "Administrator icazələri tələb olunur"
 
+[devAirgapped]
+tags = "air-gapped,offline,isolated,no internet,disconnected,secure,network isolation,standalone"
+
+[devApi]
+tags = "API,development,documentation,developer,REST,integration,endpoints,programmatic,automation,scripting"
+
+[devFolderScanning]
+tags = "automation,folder,scanning,watch folder,hot folder,automatic processing,batch,monitor folder,auto process,folder monitoring"
+
+[devSsoGuide]
+tags = "SSO,single sign-on,authentication,SAML,OAuth,OIDC,login,enterprise,identity provider,IdP"
+
 [dropdownList]
 searchPlaceholder = "Axtar..."
 
@@ -3564,6 +3383,7 @@ editSecretValue = "Gizli dəyəri redaktə et"
 
 [editTableOfContents]
 submit = "Mündəricatı tətbiq et"
+tags = "bookmarks,contents,edit,table of contents,TOC,outline,navigation,chapters,sections,add bookmarks,edit bookmarks,PDF outline"
 
 [editTableOfContents.actions]
 clipboardUnavailable = "Bu brauzerdə mübadilə buferinə çıxış mövcud deyil."
@@ -3638,12 +3458,9 @@ title = "Əlfəcinlər və mündəricat"
 
 [editTableOfContents.workbench]
 changeFile = "PDF-i dəyiş"
-fileLabel = "Dəyişikliklər hazırda seçilmiş PDF-ə tətbiq olunacaq."
 filePrompt = "Başlamaq üçün kitabxanadan PDF seçin və ya yenisini yükləyin."
-noFile = "PDF seçilməyib"
 selectFile = "PDF seç"
 subtitle = "Əlfəcinləri idxal edin, iyerarxiya qurun və dar yan panellər olmadan mündəricatı tətbiq edin."
-tabTitle = "Mündəricat iş sahəsi"
 
 [editTableOfContents.workbench.empty]
 description = "İş sahəsini yükləmək üçün Mündəricatı Redaktə et alətini seçin."
@@ -3676,62 +3493,15 @@ label = "PDF parolu"
 placeholder = "PDF parolunu daxil edin"
 
 [endpointStatistics]
-all = "Hamısı"
-dataTypeAll = "Hamısı"
-dataTypeApi = "API"
-dataTypeLabel = "Məlumat növü:"
-dataTypeUi = "UI"
-endpoint = "Endpoint"
-failedToLoad = "Endpoint məlumatı yüklənmədi. Zəhmət olmasa yeniləyin."
-header = "Endpoint Statistikası"
-home = "Ana səhifə"
-loading = "Yüklənir..."
-login = "Giriş"
-numberOfVisits = "Müraciətlərin sayı"
-percentage = "Faiz"
-refresh = "Yenilə"
-retry = "Təkrar cəhd et"
-selectedVisits = "Seçilmiş müraciətlər"
-showing = "Göstərilir"
 title = "Endpoint Statistikası"
-top = "Yuxarı"
-top10 = "Top 10"
-top20 = "Top 20"
-totalEndpoints = "Cəmi Endpoint sayı"
-totalVisits = "Cəmi müraciətlər"
-visits = "Müraciətlər"
-visitsTooltip = "Müraciətlər: {0} (ümuminin {1}%‑i)"
-
-[enterpriseEdition]
-button = "Pro versiyaya keç"
-ssoAdvert = "Daha çox istifadəçi-idarəetmə xüsusiyyətləri axtarırsınız? Stirling PDF Pro-nu nəzərdən keçirin"
-warning = "Bu xüsusiyyət yalnız pro istifadəçilər üçün əlçatandır."
-yamlAdvert = "Stirling PDF Pro YAML konfiqurasiya fayllarını və digər SSO xüsusiyyətlərini dəstəkləyir."
 
 [error]
 _value = "Xəta"
-contactTip = "Əgər hələ də problem yaşayırsınızsa, kömək üçün bizə müraciət etməkdən çəkinməyin. GitHub səhifəmizdə bilet təqdim edə və ya Discord vasitəsilə bizimlə əlaqə saxlaya bilərsiniz:"
-copyStack = "Stack Trace-i kopyalayın"
-discordSubmit = "Discord - Dəstək postunu göndərin"
 dismissAllErrors = "Bütün xətaları bağla"
-encryptedPdfMustRemovePassword = "Bu PDF şifrələnib və ya parol ilə qorunub. Zəhmət olmasa PDF/A-ya çevirməzdən əvvəl kilidi açın."
 generic = "Xəta baş verdi"
-github = "GitHub-da bilet təqdim edin"
-githubSubmit = "GitHub - Bilet təqdim edin"
-incorrectPasswordProvided = "PDF parolu səhvdir və ya daxil edilməyib."
-needHelp = "Kömək lazımdır / Problem tapdınız?"
-pdfPassword = "PDF sənədi şifrlənmişdir və şifr təmin edilməmişdir və ya yanlışdır."
-showStack = "Yığın İzini göstərin"
-sorry = "Problem üçün üzr istəyirik!"
-
-[error.404]
-1 = "Axtardığınız səhifəni tapa bilmirik."
-2 = "Xəta baş verdi"
-head = "404 - Səhifə tapılmadı | Ups, kodu səhv saldıq!"
 
 [extractImages]
 allowDuplicates = "Dublikat şəkilləri yadda saxlayın"
-header = "Şəkilləri çıxarın"
 selectText = "Çıxarılan şəkilləri çevirmək üçün şəkil formatını seçin"
 submit = "Çıxarış"
 tags = "şəkil,foto,saxla,arxiv,zip,çək,götür"
@@ -3748,6 +3518,7 @@ tags = "çıxar"
 
 [extractPages]
 submit = "Səhifələri çıxar"
+tags = "pull,select,copy,extract,extract pages,get pages,pull out,save pages,export pages,copy pages,select pages,specific pages"
 title = "Səhifələri çıxar"
 
 [extractPages.error]
@@ -3770,23 +3541,11 @@ description = "Seçilmiş səhifələri ardıcıllığı qoruyaraq yeni PDF-ə �
 openInFileEditor = "Fayl Redaktorunda aç"
 viewInViewer = "Görüntüləyicidə bax"
 
-[fileChooser]
-click = "Klikləyin"
-dragAndDrop = "Sürüklə və burax"
-dragAndDropImage = "Şəkil faylını sürüklə və burax"
-dragAndDropPDF = "PDF faylını sürüklə və burax"
-extractPDF = "Çıxarılır..."
-hoveredDragAndDrop = "Fayl(lar)ı bura sürükləyin və buraxın"
-or = "və ya"
-
 [fileDropdownMenu]
 closeFile = "Faylı bağla"
 
 [fileEditor]
 addFiles = "Fayllar əlavə et"
-pageCount = "{{count}} səhifə"
-pageCount_one = "{{count}} səhifə"
-pageCount_other = "{{count}} səhifə"
 
 [fileManager]
 active = "Aktiv"
@@ -3794,7 +3553,6 @@ addToUpload = "Yükləməyə əlavə et"
 changesNotUploaded = "Dəyişikliklər yüklənməyib"
 clearAll = "Hamısını təmizlə"
 clearSelection = "Seçimi təmizlə"
-clickToUpload = "Faylları yükləmək üçün klikləyin"
 closeAllFiles = "Bütün faylları bağla"
 closeFile = "Faylı bağla"
 cloudFile = "Bulud faylı"
@@ -3807,10 +3565,7 @@ deselectAll = "Hamısını Seçməni Ləğv Et"
 details = "Fayl təfərrüatları"
 download = "Endir"
 downloadSelected = "Seçilmişləri yüklə"
-dragDrop = "Faylları bura sürükləyib buraxın"
 dropFilesHere = "Faylları bura atın"
-failedToLoad = "Faylı aktiv dəstəyə yükləmək alınmadı."
-failedToOpen = "Faylı açmaq alınmadı. Saxlamadan silinmiş ola bilər."
 fileFormat = "Format"
 fileHistory = "Fayl tarixçəsi"
 fileName = "Ad"
@@ -3832,8 +3587,6 @@ leaveShare = "Siyahımdan çıxar"
 leaveShareFailed = "Paylaşılan faylı siyahıdan çıxarmaq mümkün olmadı."
 leaveShareSuccess = "Paylaşılan siyahınızdan çıxarıldı."
 loadingFiles = "Fayllar yüklənir..."
-loadingHistory = "Tarixçə yüklənir..."
-localFiles = "Yerli Fayllar"
 localOnly = "Yalnız lokal"
 makeCopy = "Surət yarat"
 mobileShort = "Mobil"
@@ -3841,7 +3594,6 @@ mobileUpload = "Mobil yükləmə"
 mobileUploadNotAvailable = "Mobil yükləmə aktiv deyil"
 myFiles = "Fayllarım"
 noFiles = "Fayl mövcud deyil"
-noFileSelected = "Fayl seçilməyib"
 noFilesFound = "Axtarışınıza uyğun fayl tapılmadı"
 noRecentFiles = "Son fayl tapılmadı"
 openFile = "Faylı aç"
@@ -3851,7 +3603,6 @@ openInPageEditor = "Səhifə Redaktorunda aç"
 owner = "Sahib"
 ownerUnknown = "Naməlum"
 recent = "Son"
-reloadFiles = "Faylları yenidən yüklə"
 removeBoth = "Hər ikisindən sil"
 removeFilePrompt = "Bu fayl bu cihazda və serverinizdə saxlanılır. Hansından silmək istəyirsiniz?"
 removeFileTitle = "Faylı sil"
@@ -3868,7 +3619,6 @@ saveSelected = "Seçilənləri saxla"
 searchFiles = "Fayllarda axtar..."
 selectAll = "Hamısını Seç"
 selectedCount = "{{count}} seçildi"
-selectedFiles = "Seçilmiş fayllar"
 share = "Paylaş"
 shared = "Paylaşılan"
 sharedByYou = "Sizin paylaşdıqlarınız"
@@ -3884,20 +3634,13 @@ sortByDate = "Tarixə görə sırala"
 sortByName = "Ada görə sırala"
 sortBySize = "Ölçüyə görə sırala"
 storage = "Saxlama"
-storageCleared = "Brauzer saxlamanı təmizlədi. Fayllar silindi. Zəhmət olmasa yenidən yükləyin."
-storageError = "Saxlama xətası baş verdi"
-storageLow = "Saxlama sahəsi azalır. Köhnə faylları silməyi düşünün."
 storageState = "Saxlama"
-subtitle = "Alətlər arasında asan çıxış üçün faylları saxlamanıza əlavə edin"
-supportMessage = "Limitsiz tutum üçün brauzer verilənlər bazası saxlaması ilə təmin edilir"
 synced = "Sinxronlaşdırılıb"
 title = "PDF Fayllarını Yüklə"
 toolChain = "Tətbiq olunan alətlər"
-totalSelected = "Cəmi seçilib"
 unsupported = "Dəstəklənmir"
 unzip = "Arxivdən çıxar"
 updateOnServer = "Serverdə yenilə"
-uploadError = "Bəzi faylları yükləmək alınmadı."
 uploadSelected = "Seçilənləri yüklə"
 uploadToServer = "Serverə yüklə"
 
@@ -3969,7 +3712,6 @@ cycleBlocked = "Qovluğu öz alt qovluqlarından birinə köçürmək mümkün d
 delete = "Sil"
 deleteFolder = "Qovluğu sil"
 deleteFolderBody = "\"{{name}}\" qovluğu silinsin?"
-deleteFolderConfirm = "\"{{name}}\" qovluğu silinsin? Daxildəki fayllar Bütün fayllara köçürüləcək. {{count}} fayl təsirlənəcək."
 deleteFolderContents = "Qovluqdakı {{count}} faylı da sil"
 deleteFolderContentsWarning = "Fayllar qalıcı olaraq silinəcək və bərpa edilə bilməyəcək."
 deleteFolderError = "Qovluğu silmək mümkün olmadı. Yenidən cəhd edin."
@@ -3994,18 +3736,14 @@ inWorkspace = "Aç"
 inWorkspaceAria = "Artıq iş sahəsindədir"
 loading = "Yüklənir…"
 localFoldersUnavailable = "Qovluqlar yalnız buluddadır - təşkil etmək üçün faylı buluda saxlayın."
-moreActions = "Daha çox qovluq əməliyyatı"
-moveLocalToCloudBlocked = "Yalnız lokal fayllar bulud qovluqlarına köçürülə bilməz. Əvvəlcə onları buluda saxlayın."
 moveSkippedRemote = "Serverdə {{count}} fayl köçürülə bilmədi (icazə yoxdur və ya artıq silinib)."
 moveTo = "Köçür…"
 myFiles = "Mənim Fayllarım"
 newFolder = "Yeni qovluq"
 newFolderStorageDisabled = "Serverdə qovluq saxlama aktiv deyil. Administratorunuzdan bunu aktivləşdirməsini xahiş edin."
 newFolderTabUnavailable = "Qovluq yaratmaq üçün Bütün və ya Bulud vərəqəsinə keçin."
-newRootFolder = "Kökdə yeni qovluq"
 offlineNoFolderEdits = "Server qovluq sinxronu əlçatan deyil - qovluq dəyişiklikləri söndürülüb. Daxilolmanı və saxlama konfiqurasiyasını yoxlayın."
 open = "Aç"
-openInWorkbench = "İş sahəsində aç"
 openVersionInWorkspace = "İş sahəsində aç"
 originFilter = "Mənbəyə görə filtr"
 quickView = "Sürətli baxış"
@@ -4028,9 +3766,8 @@ selectFile = "{{name}} faylını seç"
 shareDisabledHint = "Bu serverdə fayl paylaşımı aktiv deyil. Administratorunuzdan bunu aktivləşdirməsini xahiş edin."
 shareManage = "Paylaşımı idarə et"
 showDetails = "Təfərrüatları göstər"
+signInRequired = "Sign in to use cloud storage."
 summary = "{{count}} element"
-syncFailed = "Qovluq sinxronu uğursuz oldu: {{message}}"
-syncPartial = "Qismən qovluq sinxronu: {{total}} qovluqdan {{failed}}-i birləşdirilə bilmədi."
 tree = "Qovluqlar"
 upload = "Yüklə"
 uploadedToLocal = "Yüklənmiş fayllar əvvəlcə Lokal bölmədə olur. Onları qovluğa yerləşdirmək üçün 'Buluda saxla'dan istifadə edin."
@@ -4161,17 +3898,13 @@ sharedByMe = "Mənim tərəfimdən paylaşılıb"
 [filesPage.tabs]
 all = "Hamısı"
 ariaLabel = "Fayl görünüşləri"
-cloud = "Bulud"
-local = "Lokal"
 recent = "Son"
 shared = "Mənimlə paylaşılıb"
 sharedByMe = "Mənim tərəfimdən paylaşılıb"
 
 [filesPage.treeMenu]
 actions = "{{name}} üçün qovluq əməliyyatları"
-collapse = "Qovluğu yığ"
 delete = "Qovluğu sil"
-expand = "Qovluğu genişləndir"
 newSubfolder = "Yeni alt qovluq"
 rename = "Yenidən adlandır"
 
@@ -4185,39 +3918,20 @@ label = "Görünüş rejimi"
 list = "Siyahı görünüşü"
 
 [fileToPDF]
-credit = "Bu Servis Fayl Çevirmək Üçün LibreOffice və Unoconv İşlədir"
-header = "Hər Hansı Bir Faylı PDF-ə Çevir"
-submit = "PDF-ə Çevir"
-supportedFileTypes = "Dəstəklənən Fayl Tipləri Aşagıdakıları Təşkil Etməlidir,ancaq Dəstəklənmiş Faylların Hamısının Yenilənmiş Siyahısı Üçün LibreOffice Sənədlərinə Baş Çəkin"
-supportedFileTypesInfo = "Dəstəklənən Fayl Tipləri"
 tags = "çevirmə,format,sənəd,şəkil,slayd,mətn,çevirmə,ofis,docs,word,excel,powerpoint"
 title = "Faylı PDF-ə"
 
 [fileUpload]
-addFiles = "Fayllar əlavə et"
-backToTools = "Alətlərə qayıt"
-chooseFromStorage = "Saxlama sahəsindən fayl seçin və ya yeni PDF yükləyin"
-chooseFromStorageMultiple = "Saxlama sahəsindən fayllar seçin və ya yeni PDF-lər yükləyin"
-dragFilesInOrClick = "Faylları içinə sürükləyin və ya baxmaq üçün \"Fayllar əlavə et\" düyməsinə klikləyin"
-dropFileHere = "Faylı bura atın və ya yükləmək üçün klikləyin"
 dropFilesHere = "Faylları bura atın və ya yükləmə düyməsinə klikləyin"
 dropFilesHereOpen = "Faylları bura atın və ya aç düyməsini klikləyin"
 filesAvailable = "mövcud fayllar"
 loadFromStorage = "Saxlamadan yüklə"
-loading = "Yüklənir..."
 noFilesInStorage = "Saxlamada mövcud fayl yoxdur. Öncə bəzi fayllar yükləyin."
 noFilesInStorageOpen = "Yaddaşda fayl yoxdur. Əvvəlcə bəzi faylları açın."
 open = "Aç"
 openFile = "Faylı aç"
 openFiles = "Faylları aç"
-or = "və ya"
-pdfFilesOnly = "Yalnız PDF faylları"
-selectFile = "Fayl seç"
-selectFiles = "Faylları seç"
 selectFromStorage = "Saxlamadan seç"
-selectPdfToEdit = "Redaktə etmək üçün PDF seç"
-selectPdfToView = "Baxmaq üçün PDF seç"
-supportedFileTypes = "Dəstəklənən fayl növləri"
 upload = "Yüklə"
 uploadFile = "Fayl yüklə"
 uploadFiles = "Faylları yüklə"
@@ -4243,22 +3957,15 @@ welcomeMessage = "Təhlükəsizlik səbəblərinə görə ilk girişinizdə paro
 welcomeTitle = "Xoş gəldiniz!"
 
 [flatten]
-filenamePrefix = "yastılanmış"
-flattenOnlyForms = "Yalnız formaları düzəldin"
-header = "PDF-i düzləşdirin"
 submit = "Düzləşdirin"
+tags = "simplify,remove,interactive,flatten,flatten form,remove form fields,make static,finalize form,lock form,disable editing,convert to image,non-editable"
 title = "Düzləşdirin"
 
 [flatten.error]
 failed = "PDF yastılaşdırılarkən xəta baş verdi."
 
-[flatten.files]
-placeholder = "Başlamaq üçün əsas görünüşdə bir PDF faylı seçin"
-
 [flatten.options]
-note = "Yastılaşdırma PDF-dəki interaktiv elementləri silir və onları redaktəolunmaz edir."
 stepTitle = "Yastılaşdırma seçimləri"
-title = "Yastılaşdırma seçimləri"
 
 [flatten.options.flattenOnlyForms]
 desc = "Yalnız forma sahələrini yastılaşdırın, digər interaktiv elementlər toxunulmaz qalsın"
@@ -4271,9 +3978,6 @@ placeholder = "məs. 150"
 
 [flatten.results]
 title = "Yastılaşdırma nəticələri"
-
-[flatten.steps]
-settings = "Parametrlər"
 
 [flatten.tooltip.description]
 bullet1 = "Mətn qutuları adi mətnə çevrilir (redaktə edilə bilməz)"
@@ -4310,7 +4014,6 @@ close = "Yan paneli bağla"
 [getPdfInfo]
 downloadJson = "JSON yüklə"
 downloads = "Yükləmələr"
-header = "PDF Barəsində Məlumat Əldə Et"
 indexTitle = "İndeks"
 noneDetected = "Heç nə aşkar edilmədi"
 noResults = "Hesabat yaratmaq üçün aləti işə salın."
@@ -4321,12 +4024,8 @@ tags = "informasiy,data,məlumatlar,statistika"
 title = "PDF Barəsində Məlumat Əldə Et"
 
 [getPdfInfo.compliance]
-compliant = "Uyğun"
 failed = "Keçmədi"
 failedCount = "keçmədi"
-nonCompliant = "Uyğun deyil"
-none = "Heç bir standart aşkarlanmadı"
-notDetected = "Aşkarlanmadı"
 noVerification = "Yoxlama aparılmadı"
 noVerificationDesc = "Bu sənəd üçün PDF standartlarına uyğunluq yoxlanılmadı."
 passed = "Keçdi"
@@ -4354,7 +4053,6 @@ size = "Ölçü"
 xobjects = "XObject sayları"
 
 [getPdfInfo.report]
-entryLabel = "Tam məlumat xülasəsi"
 shortTitle = "PDF Məlumatı"
 
 [getPdfInfo.sections]
@@ -4380,7 +4078,6 @@ compliancePassed = "{{standards}} uyğundur"
 created = "Yaradılıb"
 documentInfo = "Sənəd Məlumatı"
 fileSize = "Fayl Ölçüsü"
-hasCompliance = "Uyğunluq standartları mövcuddur"
 language = "Dil"
 modified = "Dəyişdirilib"
 noCompliance = "Uyğunluq standartları yoxdur"
@@ -4490,18 +4187,6 @@ message = "İşinizi saxlamaq, daha çox funksiyaya çıxış əldə etmək və 
 signUp = "Pulsuz qeydiyyatdan keç"
 title = "Siz Stirling PDF-i qonaq kimi istifadə edirsiniz!"
 
-[home]
-alphabetical = "Əlifba sırası"
-desc = "Bütün PDF ehtiyaclarınız üçün lokal-host edilən biraddımlıq həll."
-globalPopularity = "Qlobal populyarlıq"
-hideFavorites = "Seçilmişləri gizlət"
-legacyHomepage = "Köhnə ana səhifə"
-newHomePage = "Yeni ana səhifəmizi sınayın!"
-searchBar = "Xüsusiyyətləri axtar..."
-setFavorites = "Seçilmişləri təyin et"
-showFavorites = "Seçilmişləri göstər"
-sortBy = "Sıralama:"
-
 [home.addAttachments]
 desc = "PDF-ə daxil edilmiş faylları (əlavələri) əlavə et və ya sil"
 tags = "göm, əlavə et, daxil et"
@@ -4553,12 +4238,10 @@ tags = "avto-aşkarlama,başlığa əsasən,təşkil et,yenidən adlandır"
 title = "PDF faylını avtomatik adlandır"
 
 [home.autoSizeSplitPDF]
-desc = "PDF-i ölçüyə, səhifə sayına və ya sənəd sayına əsasən bir neçə PDF-ə ayır."
 tags = "avto,böl,ölçü"
 title = "Say/Ölçüyə Əsasən Avtomatik Ayır"
 
 [home.autoSplitPDF]
-desc = "Fiziki skan olunmuş səhifələri QR koda əsasən ayır"
 tags = "avto,böl,QR"
 title = "Səhifələri Avtomatik Ayır"
 
@@ -4652,7 +4335,6 @@ tags = "məlumat,metadatanı,bilgilər"
 title = "PDF-in Bütün Məlumatları"
 
 [home.manageCertificates]
-desc = "PDF-ləri imzalamaqda istifadə olunan rəqəmsal sertifikat fayllarını idxal et, ixrac et və ya sil."
 tags = "sertifikatlar,idxal,ixrac"
 title = "Sertifikatları idarə et"
 
@@ -4697,7 +4379,6 @@ tags = "AI,agent,şərh,annotasiya,yapışqan qeyd,baxış,rəylər,qeydlər"
 title = "AI şərhləri əlavə et"
 
 [home.pdfOrganiser]
-desc = "Səhifələri Sil/Sırasını Dəyiş"
 tags = "təşkil et,yenidən düz,yer dəyişdir"
 title = "Səhifələri Sırala"
 
@@ -4807,17 +4488,14 @@ tags = "böl,ayır,parçala"
 title = "Böl"
 
 [home.splitByChapters]
-desc = "Fəsil strukturuna əsasən PDF-i bir neçə fayla böl."
 tags = "böl,fəsillər,struktur"
 title = "PDF-i Fəsillərə Əsasən Böl"
 
 [home.splitBySections]
-desc = "PDF-in hər səhifəsini üfüqi və şaquli kiçik bölmələrə ayırın"
 tags = "böl,bölmələr,ayır"
 title = "PDF-i bölmələrə görə böl"
 
 [home.swagger]
-desc = "API sənədləşməsinə baxın və endpoint-ləri test edin"
 tags = "API,sənədləşmə,test"
 title = "API sənədləşməsi"
 
@@ -4837,7 +4515,6 @@ tags = "təsdiqlə,yoxla,sertifikat"
 title = "PDF imzasını təsdiqlə"
 
 [home.viewPdf]
-desc = "Bax, sitat götür, mətn və ya şəkil əlavə et"
 title = "PDF-ə bax/redaktə et"
 
 [home.watermark]
@@ -4846,25 +4523,9 @@ tags = "möhür,nişan,örtük"
 title = "Watermark əlavə et"
 
 [HTMLToPDF]
-credit = "WeasyPrint İstifadə Edir"
-cssMediaType = "Səhifənin CSS media növünü dəyişdir."
-defaultHeader = "Standart Başlığı Aktivləşdir (Ad və səhifə nömrəsi)"
 header = "HTML-dən PDF-ə"
-help = "HTML fayllarını və tərkibində mütləq html/css/images və s. olan ZIP fayllarını qəbul edir"
-marginBottom = "Səhifənin alt kənarının millimetrlə ölçüsü. (Standart üçün boş buraxın)"
-marginLeft = "Səhifənin sol kənarının millimetrlə ölçüsü. (Standart üçün boş buraxın)"
-marginRight = "Səhifənin sağ kənarının millimetrlə ölçüsü. (Standart üçün boş buraxın)"
-marginTop = "Səhifənin yuxarı kənarının millimetrlə ölçüsü. (Standart üçün boş buraxın)"
-none = "Heç biri"
-pageHeight = "Səhifənin hündürlüyünün santimetrlərlə ölçüsü. (Standart üçün boş buraxın)"
-pageWidth = "Səhifənin eninin santimetrlərlə ölçüsü. (Standart üçün boş buraxın)"
-print = "Çap et"
-printBackground = "Vebsaytların arxa fonunu renderlə."
-screen = "Ekran"
-submit = "Çevir"
 tags = "işarələmə,veb-məzmun,çevirmə,dəyişmə"
 title = "HTML-dən PDF-ə"
-zoom = "Vebsaytı göstərmək üçün yaxınlaşdırma dərəcəsi."
 
 [image.upload]
 hint = "PDF üzərinə yerləşdirmək üçün PNG, JPG, SVG və ya başqa şəkil faylını yükləyin. Uyğunluq üçün SVG faylları PNG-yə çevriləcək."
@@ -4875,19 +4536,8 @@ placeholder = "Şəkil faylını seç"
 tags = "çevirmə,şəkil,jpg,fotoşəkil,foto"
 
 [imageToPDF]
-fillPage = "Səhifəni Doldur"
-fitDocumentToImage = "Şəklə Uyğun Səhifə"
 header = "Şəkli PDF-ə"
-maintainAspectRatio = "Aspekt Nisbətlərini Qoruyun"
-selectLabel = "Şəkil Uyğunluğu Seçimləri"
-submit = "Çevir"
 title = "Şəkli PDF-ə"
-
-[imageToPDF.selectText]
-2 = "PDF-i Avtomatik Fırlat"
-3 = "Çoxsaylı Fayl Məntiqi (Yalnız Birdən Çox Şəkil İlə İşləyərkən Aktivdir)"
-4 = "Tək Bir PDF-ə Birləşdir"
-5 = "Ayrı PDF-lərə Çevirin"
 
 [infoBanner]
 dismiss = "Bağla"
@@ -4912,7 +4562,6 @@ linkExpires = "Keçidin müddəti bitir"
 passwordMismatch = "Parollar üst-üstə düşmür"
 passwordPlaceholder = "Parolunuzu daxil edin"
 passwordRequired = "Parol tələb olunur"
-passwordTooShort = "Parol ən azı 6 simvoldan ibarət olmalıdır"
 signIn = "Daxil olun"
 validating = "Dəvət yoxlanılır..."
 validationError = "Dəvət keçidinin doğrulanması alınmadı"
@@ -4941,20 +4590,10 @@ showCookieBanner = "Kuki parametrləri"
 terms = "Qaydalar və Şərtlər"
 
 [licenses]
-header = "3-cü Tərəf Lisenziyalar"
-license = "Lisenziya"
-module = "Modul"
-nav = "Lisenziya"
 title = "3-cü Tərəf Lisenziyalar"
-version = "Versiya"
 
 [localMode]
 toolUnavailable = "Bu alət hesab tələb edir. İstifadə etmək üçün Stirling Cloud-a daxil olun və ya öz serverinizə qoşulun."
-
-[localMode.banner]
-message = "Bütün alətləri açmaq üçün daxil olun."
-signIn = "Daxil ol"
-title = "Yerli rejimdə işləyir"
 
 [localMode.toolPicker]
 message = "Bütün alətləri açmaq üçün daxil olun."
@@ -4962,15 +4601,11 @@ signIn = "Daxil ol"
 
 [login]
 accountCreatedSuccess = "Hesab uğurla yaradıldı! İndi daxil ola bilərsiniz."
-alreadyLoggedIn = "Siz artıq daxil olmusunuz"
-alreadyLoggedIn2 = "cihazlar. Zəhmət olmasa, cihazlardan çıxış edin və yenidən cəhd edin."
 backToSignIn = "Girişə qayıt"
-cancel = "Ləğv et"
 changePasswordWarning = "İlk dəfə daxil olduqdan sonra şifrənizi dəyişin"
+createAccount = "Create an account"
 credentialsUpdated = "Giriş məlumatlarınız yeniləndi. Zəhmət olmasa yenidən daxil olun."
-debug = "Debug"
 defaultCredentials = "Standart giriş məlumatları"
-dontHaveAccount = "Hesabınız yoxdur? Qeydiyyatdan keçin"
 email = "E-poçt"
 enterEmail = "E-poçtunuzu daxil edin"
 enterEmailForMagicLink = "Sehrli link üçün e-poçtunuzu daxil edin"
@@ -4979,29 +4614,12 @@ enterPassword = "Parolunuzu daxil edin"
 enterUsername = "İstifadəçi adını daxil edin"
 failedToSignIn = "{{provider}} ilə daxil olmaq alınmadı: {{message}}"
 forgotPassword = "Parolunuzu unutmusunuz?"
-header = "Daxil olun"
-home = "Ana səhifə"
-invalid = "Etibarsız istifadəçi adı və ya şifr."
-locked = "Sizin hesabınız kilidlənmişdir."
 loggingIn = "Daxil olunur..."
 logIn = "Daxil ol"
 login = "Daxil ol"
-logoutMessage = "Hesabdan çıxış etdiniz."
 magicLinkSent = "Sehrli link {{email}} ünvanına göndərildi! Zəhmət olmasa e-poçtunuzu yoxlayın və daxil olmaq üçün linkə klikləyin."
-maxUsersReached = "Mövcud lisenziyanız üçün maksimum istifadəçi sayına çatılıb. Planınızı yüksəltmək və ya əlavə yerlər əlavə etmək üçün administratorla əlaqə saxlayın."
 mfaCode = "Doğrulama kodu"
-mfaPromptBody = "Davam etmək üçün doğrulama tətbiqinizdən doğrulama kodunu daxil edin."
-mfaPromptTitle = "İki faktorlu doğrulama"
 mfaRequired = "İki faktorlu doğrulama kodu tələb olunur"
-oauth2AccessDenied = "Giriş rədd edildi"
-oAuth2AdminBlockedUser = "Qeydiyyatdan keçməmiş istifadəçilərin qeydiyyatı və daxil olması hal-hazırda bloklanmışdır. Zəhmət olmasa, administratorla əlaqə saxlayın."
-oAuth2AutoCreateDisabled = "OAUTH2 Auto-Create İstifadəçisi Deaktivləşdirilmişdir"
-oauth2InvalidIdToken = "Etibarsız Id Token"
-oauth2invalidRequest = "Etibarsız Sorğu"
-oauth2InvalidTokenResponse = "Etibarsız Token Cavabı"
-oauth2InvalidUserInfoResponse = "Yanlış İstifadəçi Məlumatı Cavabı"
-oauth2RequestNotFound = "Təsdiqlənmə sorğusu tapılmadı"
-oAuth2RequiresLicense = "OAuth/SSO ilə giriş üçün ödənişli lisenziya (Server və ya Enterprise) tələb olunur. Planınızı yüksəltmək üçün administratorla əlaqə saxlayın."
 or = "Və ya"
 password = "Parol"
 passwordChangedSuccess = "Parol uğurla dəyişdirildi! Zəhmət olmasa yeni parolunuzla daxil olun."
@@ -5009,33 +4627,21 @@ passwordResetSent = "Parol sıfırlama linki {{email}} ünvanına göndərildi! 
 passwordUpdatedSuccess = "Şifrəniz uğurla yeniləndi."
 pleaseEnterBoth = "Zəhmət olmasa həm e-poçt, həm də parolu daxil edin"
 pleaseEnterEmail = "Zəhmət olmasa e-poçt ünvanınızı daxil edin"
-relyingPartyRegistrationNotFound = "Heç bir relying party qeydiyyatı tapılmadı"
-rememberme = "Məni xatırla"
 resetHelp = "Şifrənizi sıfırlamaq üçün təhlükəsiz keçid almaq məqsədilə e-poçtunuzu daxil edin. Keçidin vaxtı bitibsə, yenisini istəyin."
 resetYourPassword = "Şifrəni sıfırla"
-saml2RequiresLicense = "SAML ilə giriş üçün ödənişli lisenziya (Server və ya Enterprise) tələb olunur. Planınızı yüksəltmək üçün administratorla əlaqə saxlayın."
 sending = "Göndərilir…"
 sendMagicLink = "Sehrli link göndər"
 sendResetLink = "Sıfırlama keçidini göndər"
 sessionExpired = "Sessiyanızın müddəti bitdi. Zəhmət olmasa yenidən daxil olun."
 signin = "Daxil olun"
-signInAnonymously = "Qonaq kimi qeydiyyatdan keçin"
 signingIn = "Daxil olunur..."
-signinTitle = "Zəhmət olmasa, daxil olun"
 signInWith = "Bununla daxil ol"
-signOut = "Hesabdan çıx"
-ssoSignIn = "Single Sign-on vasitəsilə daxil olun"
-subtitle = "Stirling PDF-ə yenidən daxil olun"
 title = "Daxil olun"
-toManySessions = "Həddindən artıq aktiv sessiyanız var"
 unexpectedError = "Gözlənilməz xəta: {{message}}"
 updatePassword = "Şifrəni yenilə"
 useEmailInstead = "E-poçt ilə daxil olun"
 useMagicLink = "Sehrli linkdən istifadə et"
-userIsDisabled = "İstifadəçi deaktivləşdirilmişdir, bu istifadəçi adı ilə giriş hal-hazırda bloklanmışdır. Zəhmət olmasa, administratorla əlaqə saxlayın."
 username = "İstifadəçi adı"
-verifyingMfa = "Yoxlanılır..."
-verifyMfa = "Kodu doğrula"
 youAreLoggedIn = "Daxil oldunuz!"
 
 [login.slides.edit]
@@ -5060,10 +4666,7 @@ small = "Kiçik"
 xLarge = "Çox böyük"
 
 [MarkdownToPDF]
-credit = "WeasyPrint İstifadə Edir"
 header = "Markdown-dan PDF-ə"
-help = "İş davam edir"
-submit = "Çevir"
 tags = "işarələmə,web-məzmun,dəyişmə,çevirmə"
 title = "Markdown-dan PDF-ə"
 
@@ -5114,8 +4717,6 @@ capture = "Foto çəkin"
 chooseMethod = "Yükləmə üsulunu seçin"
 chooseMethodDescription = "Sənədləri necə skan edib yükləmək istədiyinizi seçin"
 clearBatch = "Təmizlə"
-connected = "Qoşuldu"
-connecting = "Qoşulur..."
 edgeDetection = "Kənar aşkarlanması"
 fileDescription = "Cihazınızdan mövcud fotoları və ya sənədləri yükləyin"
 fileUpload = "Fayl yükləmə"
@@ -5124,7 +4725,6 @@ flashlight = "Fənər"
 httpsRequired = "Kameraya çıxış üçün HTTPS və ya localhost tələb olunur. Zəhmət olmasa HTTPS istifadə edin və ya localhost vasitəsilə daxil olun."
 noSession = "Yalnış sessiya"
 noSessionMessage = "Bu səhifəyə daxil olmaq üçün etibarlı QR kodunu skan edin."
-preview = "Ön baxış"
 processing = "Emal olunur..."
 retake = "Yenidən çəkin"
 selectFilesPrompt = "Yükləmək üçün faylları seçin"
@@ -5133,7 +4733,6 @@ sessionExpired = "Bu sessiyanın vaxtı bitib. Yeniləyib yenidən cəhd edin."
 sessionInvalid = "Sessiya xətası"
 sessionNotFound = "Sessiya tapılmadı. Yeniləyib yenidən cəhd edin."
 sessionValidationError = "Sessiyanı doğrulamaq mümkün olmadı. Yenidən cəhd edin."
-settings = "Ayarlar"
 title = "Mobil skaner"
 upload = "Yüklə"
 uploadAll = "Hamısını yüklə"
@@ -5144,7 +4743,6 @@ uploadSuccessMessage = "Şəkilləriniz köçürüldü."
 validating = "Sessiya yoxlanılır..."
 
 [mobileUpload]
-connected = "Mobil cihaz qoşuldu"
 description = "Skan edib fotoları yükləyin. Şəkillər avtomatik olaraq PDF-ə çevrilir."
 descriptionNoConvert = "Mobil cihazınızdan fotoları yükləmək üçün skan edin."
 error = "Bağlantı xətası"
@@ -5155,55 +4753,14 @@ instructions = "Telefon kameranızla skan edin. Şəkillər avtomatik olaraq PDF
 instructionsNoConvert = "Fayl yükləmək üçün telefon kameranızla skan edin."
 pollingError = "Faylları yoxlayarkən xəta"
 sessionCreateError = "Sessiya yaratmaq alınmadı"
-sessionId = "Sessiya ID-si"
 title = "Mobil cihazdan yüklə"
 
 [multiTool]
-addFile = "Fayl əlavə et"
-delete = "Sil"
-deleteSelected = "Seçilmişi Sil"
-deselectAll = "Hamısını Seçməni Ləğv Et"
-downloadAll = "İxrac Et"
-downloadSelected = "Seçilmişi İxrac Et"
-dragDropMessage = "Seçilmiş Səhifə(lər)"
-header = "PDF Multi-Alət"
-insertPageBreak = "Səhifə fasiləsi əlavə et"
-moveLeft = "Sola hərəkət et"
-moveRight = "Sağa hərəkət et"
-page = "Səhifə"
-redo = "Redo"
-rotateLeft = "Sola döndür"
-rotateRight = "Sağa döndür"
-selectAll = "Hamısını Seç"
-selectedPages = "Seçilmiş Səhifələr"
-selectPages = "Səhifə Seçimi"
-split = "Böl"
 tags = "Multi-alət,Çoxlu əməliyyat,UI,tut-sürüşdür,front end,istifadəçi-tərəf,interaktiv,qarşılıqlı,yerini dəyiş,sil,köçür,böl"
 title = "PDF Multi-Alət"
-undo = "Undo"
-uploadPrompts = "Fayl Adı"
-
-[multiTool-advert]
-message = "Bu xüsusiyyət bizim <a href=\"{0}\">multi-alət səhifə</a>mizdə də mövcuddur. Əlavə xüsusiyyətlər və səhifə-səhifə interfeys üçün sınaqdan keçirin!"
 
 [navbar]
-allTools = "Alətlər"
-darkmode = "Qaranlıq Tema"
-favorite = "Sevimlilər"
-language = "Dillər"
-multiTool = "Multi-Alət"
-recent = "Yeni və yaxınlarda yenilənən"
 search = "Axtar"
-settings = "Parametrlər"
-
-[navbar.sections]
-advance = "Qabaqcıl"
-convertFrom = "PDF-dən Çevir"
-convertTo = "PDF-ə Çevir"
-edit = "Bax & Redaktə et"
-organize = "Təşkil et"
-popular = "Populyar"
-security = "İmza & Təhlükəsizlik"
 
 [oauth.error]
 message = "Təsdiqləmə uğurlu olmadı. Bu pəncərəni bağlayıb yenidən cəhd edə bilərsiniz."
@@ -5213,12 +4770,36 @@ title = "Təsdiqləmə uğursuz oldu"
 message = "Bu pəncərəni bağlayıb Stirling PDF-ə qayıda bilərsiniz."
 title = "Təsdiqləmə uğurlu oldu"
 
+[oauthConsent]
+approve = "Allow access"
+approving = "Allowing..."
+decisionFailed = "Could not submit your decision. Please try again."
+deny = "Deny"
+denying = "Denying..."
+loadFailed = "This authorization request is invalid or has expired. Close this tab and try connecting again from the app."
+loading = "Loading authorization request..."
+missingId = "Missing authorization request. Start the connection from your app and try again."
+redirecting = "Returning you to the app..."
+requesting = "{{app}} wants to access your Stirling PDF account"
+scopesIntro = "This will allow {{app}} to:"
+signedInAs = "Signed in as {{name}}"
+signInButton = "Sign in to continue"
+signInPrompt = "Sign in to your Stirling PDF account to continue connecting the app."
+title = "Authorize access"
+unknownApp = "A third-party application"
+
+[oauthConsent.access]
+actAsYou = "Act as you - everything {{app}} does runs under your account and counts towards your usage"
+tools = "Use your Stirling PDF tools on your behalf - convert, edit, sign, secure and process your documents"
+
+[oauthConsent.scope]
+email = "See your email address"
+openid = "Confirm your identity"
+phone = "See your phone number"
+profile = "See your basic profile information"
+
 [ocr]
-credit = "Bu servis OST (OCR) üçün \"OCRmyPDF\" və \"Tesseract\" istifadə edir."
 desc = "Skanları təmizləyir və PDF-in içərisindəki şəkillərdəki yazını tapıb mətn olaraq əlavə edir."
-header = "Skanları Təmizlə / OST (Optik Simvol Tanınması)"
-help = "Bunu digər dillər üçün necə istifadə etmək və/və ya docker-də istifadə etməmək üçün bu dokumentasiyanı oxuyun"
-submit = "PDF-i OST ilə işlə"
 tags = "tanıma,mətn,şəkil,skan,oxu,tanı,təyin et,redaktəediləbilən"
 title = "OST (OCR) / Skan Təmizləmə"
 
@@ -5235,20 +4816,6 @@ submit = "OCR-u emal et və nəzərdən keçirt"
 
 [ocr.results]
 title = "OCR nəticələri"
-
-[ocr.selectText]
-1 = "PDF-də aşkar olunacaq dilləri seçin (Göstərilmiş dillər hazırda aşkar olunmuşlardır):"
-10 = "OST (OCR) Rejimi"
-11 = "OST-dən sonra şəkilləri sil (BÜTÜN şəkilləri silir, ancaq çevirmə prosesinin bir hissəsi olduqda işə yarayır)"
-12 = "Render Tipi (Qabaqcıl)"
-2 = "OST-lənmiş PDF ilə yanaşı daxilində OST edilmiş mətn olan PDF yaradın"
-3 = "Əyri skan olunmuş səhifələri yerinə fırladaraq düzəldin"
-4 = "OST-in arxaplandakı artıq mətni aşkar etməsinin qarşısını almaq üçün səhifəni təmizləyin. (Çıxış dəyişmir)"
-5 = "OST-in arxaplandakı artıq mətni aşkar etməsinin qarşısını almaq üçün səhifəni təmizləyin, təmizləməni çıxışa verilən faylda saxlayır."
-6 = "Üzərində interaktiv yazı olan səhifələri nəzərə almır, yalnız şəkil olan səhifələri OST edir."
-7 = "OST-ə məcbur et, bütün orijinal mətn elementlərini silərək hər səhifəni OST edir"
-8 = "Normal (PDF-də mətn varsa, xəta verəcək)"
-9 = "Əlavə Parametrlər"
 
 [ocr.settings]
 title = "Parametrlər"
@@ -5327,18 +4894,11 @@ filesButton = "Sürətli Giriş panelindəki <strong>Fayllar</strong> düyməsi 
 fileSources = "Buradan yeni fayllar yükləyə və ya son fayllara daxil ola bilərsiniz. Tur üçün nümunə fayldan istifadə edəcəyik."
 finish = "Bitir"
 next = "Növbəti"
-pageEditor = "<strong>Səhifə Redaktoru</strong> PDF-lərinizdəki səhifələr üzərində müxtəlif əməliyyatlar etməyə, məsələn, yenidən sıralamağa, çevirməyə və silməyə imkan verir."
 pinButton = "Alətlər işləndikdən sonra fayllarınızın aktiv qalmasını istəyirsinizsə, <strong>Sancaqlama</strong> düyməsindən istifadə edə bilərsiniz."
-previous = "Əvvəlki"
 results = "Alət işləməyi bitirdikdən sonra, <strong>Baxış</strong> addımı nəticələrin önizləməsini bu paneldə göstərəcək və əməliyyatı geri almağa və ya faylı endirməyə imkan verəcək."
 runButton = "Alət tənzimləndikdən sonra, bu düymə seçilmiş bütün PDF-lərdə aləti işə salmağa imkan verir."
-selectControls = "<strong>Sağ Panel</strong> aktiv PDF-lərinizi tez seçmək/seçimi ləğv etmək üçün düymələr, eləcə də tətbiqin mövzusunu və dilini dəyişmək üçün düymələr ehtiva edir."
 selectCropTool = "Gəlin, <strong>Kəsmə</strong> alətini seçərək alətlərdən birinin istifadəsini nümayiş etdirək."
-startTour = "Tura başla"
-startTourDescription = "Stirling PDF-in əsas xüsusiyyətləri üzrə bələdçili tura başlayın"
 toolInterface = "Bu, <strong>Kəsmə</strong> alətinin interfeysidir. Gördüyünüz kimi, hələ işləmək üçün PDF faylı əlavə etmədiyimiz üçün burada çox şey yoxdur."
-viewer = "<strong>Görüntüləyici</strong> PDF-lərinizi oxumağa və şərh etməyə imkan verir."
-viewSwitcher = "PDF-lərinizi necə görüntüləmək istədiyinizi seçmək üçün bu idarəetmələrdən istifadə edin."
 workbench = "Bu, <strong>İş Masası</strong>dır - PDF-lərinizi gördüyünüz və redaktə etdiyiniz əsas sahə."
 wrapUp = "Hər şey hazırdır! Tətbiqin əsas sahələri və onlardan necə istifadə etməyi öyrəndiniz. Bu turu yenidən görmək istədiyiniz zaman <strong>Kömək</strong> düyməsini klikləyin."
 
@@ -5355,15 +4915,6 @@ body = "Stirling masaüstü tətbiq kimi ən yaxşı işləyir. Onu oflayn istif
 title = "Yüklə"
 titleWithOs = "{{osLabel}} üçün yüklə"
 
-[onboarding.freeTrial]
-afterTrialWithoutPayment = "Sınaq müddətiniz bitdikdən sonra pulsuz səviyyə ilə davam edəcəksiniz. Pro girişini saxlamaq üçün ödəniş üsulu əlavə edin."
-afterTrialWithPayment = "Sınaq bitdikdə Pro abunəliyiniz avtomatik başlayacaq."
-body = "Sınaq müddətində Stirling PDF Pro funksiyalarına tam girişiniz var. Limitsiz çevirmələrdən, daha böyük fayl ölçülərindən və prioritet emaldan yararlanın."
-daysRemaining = "{{days}} gün qalıb"
-daysRemainingSingular = "{{days}} gün qalıb"
-title = "30 günlük Pro sınağınız"
-trialEnds = "Sınaq bitir: {{date}}"
-
 [onboarding.mfa]
 authenticationCode = "Təsdiqləmə kodu"
 qrCodeLoading = "QR kodunuz yaradılır…"
@@ -5374,6 +4925,22 @@ adminBodyLoginEnabled = "Admin kimi istifadəçiləri idarə edə, ayarları kon
 adminTitle = "Admin icmalı"
 userBody = "Komanda yoldaşlarını dəvət edin, rollar təyin edin və sənədlərinizi bir təhlükəsiz iş mühitində səliqəli saxlayın. Tək istifadədən böyüməyə hazır olduqda giriş rejimini aktivləşdirin."
 userTitle = "Plan icmalı"
+
+[onboarding.saas.freeEditor]
+freeLine = "The editor is now <free>completely free</free>."
+premium = "We've added loads of new features, including <strong>Policies</strong> and <strong>Agent Chat</strong>."
+title = "Welcome to Stirling"
+
+[onboarding.saas.team]
+addButton = "Add"
+createBody = "Work on documents together: teammates share files, automations and your plan. Add the first member by email to create your team."
+createTitle = "Create your team"
+inviteBody = "Everyone on your team shares files, automations and your plan. Add teammates by email and they'll get an invite."
+inviteTitle = "Invite members to your team"
+
+[onboarding.saas.usage]
+body = "Automations, AI and API requests draw from your free allowance. Manual editing never counts against it."
+title = "Your free Processor allowance"
 
 [onboarding.securityCheck]
 message = "Tətbiq son vaxtlar əhəmiyyətli dəyişikliklərdən keçib. Server administratorunun müdaxiləsi tələb oluna bilər. Davam etmək üçün rolunuzu təsdiqləyin."
@@ -5387,20 +4954,11 @@ freeTitle = "Server lisenziyası"
 overLimitBody = "Lisenziyalaşmamız hər server üçün pulsuz olaraq maksimum <strong>{{freeTierLimit}}</strong> istifadəçiyə icazə verir. Sizdə <strong>{{overLimitUserCopy}}</strong> Stirling istifadəçisi var. Fasiləsiz davam etmək üçün Stirling Server planına yüksəldin - <strong>limitsiz yerlər</strong>, PDF mətn redaktəsi və tam admin nəzarəti cəmi $99/server/ay."
 overLimitTitle = "Server lisenziyası tələb olunur"
 seePlans = "Planlara baxın →"
-skip = "Hələlik ötür"
 upgrade = "İndi yüksəlt →"
 
 [onboarding.tourOverview]
 body = "Stirling PDF V2 onlarca alət və yenilənmiş tərtibatla gəlir. Sürətli turla nələrin dəyişdiyini və lazım olan funksiyaları harada tapacağınızı görün."
 title = "Tur icmalı"
-
-[onboarding.welcomeModal]
-description = "Əsas xüsusiyyətləri və necə başlamağı öyrənmək üçün 1 dəqiqəlik qısa tura baxmaq istəyirsiniz?"
-dontShowAgain = "Bir də göstərmə"
-helpHint = "Bu tura istənilən vaxt sol altdakı <strong>Kömək</strong> düyməsindən daxil ola bilərsiniz."
-maybeLater = "Bəlkə sonra"
-startTour = "Tura başla"
-title = "Stirling PDF-ə xoş gəlmisiniz!"
 
 [onboarding.welcomeSlide]
 body = "Stirling PDF artıq hər ölçüdə komanda üçün hazırdır. Bu yeniləmə yeni düzən, güclü admin imkanları və ən çox tələb olunan xüsusiyyətimizi ehtiva edir - <strong>Mətni redaktə et</strong>."
@@ -5417,19 +4975,14 @@ wrapUp = "V2-də yeniliklər bunlardır. <strong>Turlar</strong> menyusunu istə
 
 [overlay-pdfs]
 desc = "Bir PDF-i digərinin üstünə qoyun"
-header = "Overlay PDF faylları"
 submit = "Təsdiq et"
 tags = "üst-üstə"
 title = "PDF-ləri üst-üstə qoy"
-
-[overlay-pdfs.baseFile]
-label = "Əsas PDF faylını seçin"
 
 [overlay-pdfs.counts]
 item = "Fayl üçün say"
 label = "Overlay Sayları (Sabit Təkrar Rejimi üçün)"
 noFiles = "Sayları tənzimləmək üçün örtük faylları əlavə edin"
-placeholder = "Sayları vergüllə ayrılmış şəkildə daxil edin (məsələn, 2,3,1)"
 
 [overlay-pdfs.error]
 failed = "PDF-lər örtüşdürülərkən xəta baş verdi."
@@ -5487,23 +5040,7 @@ deselectAll = "Heç birini seçmə"
 selectAll = "Hamısını seç"
 
 [pageEditor]
-actualSize = "Həqiqi ölçü"
-addFileNotImplemented = "Demo versiyada fayl əlavə etmə həyata keçirilməyib"
-closePdf = "PDF-i bağla"
-deleted = "Silindi:"
-fitToWidth = "Eninə sığdır"
-insertedPageBreak = "Səhifə fasiləsi əlavə edildi:"
-movedLeft = "Sola hərəkət etdirildi:"
-movedRight = "Sağa hərəkət etdirildi:"
-noPdfLoaded = "PDF yüklənməyib. Zəhmət olmasa redaktə etmək üçün PDF yükləyin."
-reset = "Dəyişiklikləri sıfırla"
-rotatedLeft = "Sola döndürüldü:"
-rotatedRight = "Sağa döndürüldü:"
-save = "Dəyişiklikləri yadda saxla"
-splitAt = "Burada bölündü:"
 title = "Səhifə Redaktoru"
-zoomIn = "Böyüt"
-zoomOut = "Kiçilt"
 
 [pageEditor.emptyState]
 body = "Səhifələrin redaktəsinə başlamaq üçün fayllar əlavə edin"
@@ -5517,9 +5054,6 @@ rotateRight = "Seçilənləri sağa fırlat"
 undo = "Geri al"
 
 [pageExtracter]
-header = "Səhifələri çıxar"
-placeholder = "(məsələn, 1,2,8 və ya 4,7,12-16 və ya 2n-1)"
-submit = "Çıxar"
 title = "Səhifələri çıxar"
 
 [pageLayout]
@@ -5528,7 +5062,6 @@ borderWidth = "Çərçivə qalınlığı"
 bottom = "Alt kənar boşluğu"
 cols = "Sütunlar"
 colsPlaceholder = "Sütun sayını daxil edin"
-header = "Çoxsəhifəli Tərtibat"
 innerMargin = "Daxili kənar boşluğu"
 left = "Sol kənar boşluğu"
 pagesPerSheet = "Vərəqdəki Səhifə Sayı:"
@@ -5618,16 +5151,6 @@ label = "Oxuma istiqaməti:"
 ltr = "Soldan sağa"
 rtl = "Sağdan sola"
 
-[pageLayout.tooltip.addBorder]
-text = "Kəsmə bələdçiləri və ya vizual ayırma üçün hər səhifə xanəsinin ətrafında çərçivə xətləri çəkir."
-title = "Çərçivə əlavə et"
-
-[pageLayout.tooltip.arrangement]
-bullet1 = "Sətirlərə görə: Sətir-sətir doldurur (soldan sağa və ya sağdan sola)."
-bullet2 = "Sütunlara görə: Yuxarıdan aşağıya, sütun-sütun doldurur."
-text = "Səhifələrin şəbəkəni hansı qaydada dolduracağını idarə edir:"
-title = "Səhifə düzümü"
-
 [pageLayout.tooltip.header]
 title = "Səhifə düzümü bələdçisi"
 
@@ -5637,12 +5160,6 @@ bullet2 = "Fərdi: Sətir və sütunları əl ilə təyin edin."
 text = "Şəbəkənin necə qurulacağını seçin:"
 title = "Rejim"
 
-[pageLayout.tooltip.orientation]
-bullet1 = "Şaquli: Enindən hündür."
-bullet2 = "Üfüqi: Hündürlüyündən enli."
-text = "Çıxış vərəqinin orientasiyasını təyin edir:"
-title = "Orientasiya"
-
 [pageLayout.tooltip.overview]
 text = "Birdən çox səhifəni bir vərəqə yerləşdirin – paylama materialları üçün və ya kağıza qənaət üçün."
 title = "Səhifə düzümü nədir?"
@@ -5651,44 +5168,21 @@ title = "Səhifə düzümü nədir?"
 text = "Hər vərəqdə neçə səhifə olacağını seçin (məs.: 4 → 2×2, 9 → 3×3)."
 title = "Vərəqdə səhifə sayı (Standart rejim)"
 
-[pageLayout.tooltip.readingDirection]
-bullet1 = "LTR: Soldan sağa."
-bullet2 = "RTL: Sağdan sola."
-text = "Səhifələrin üfüqi sırasını idarə edir:"
-title = "Oxuma istiqaməti"
-
 [pageLayout.tooltip.rowsCols]
 text = "Şəbəkənin dəqiq ölçülərini təyin edin. Vərəqdə ümumi səhifə sayı = sətirlər × sütunlar."
 title = "Sətirlər və Sütunlar (Fərdi rejim)"
 
 [pageRemover]
-header = "PDF səhifə silici"
-pagesToDelete = "Silinəcək səhifələr (Səhifə nömrələrinin vergüllə ayrılmış siyahısını daxil edin):"
-placeholder = "(məsələn, 1,2,6 və ya 1-10,15-30)"
-submit = "Səhifələri Sil"
 title = "Səhifə Silici"
 
 [pageSelection.tooltip]
 description = "Əməliyyat üçün hansı səhifələrdən istifadə ediləcəyini seçin. Tək səhifələr, aralıqlar, formulalar və all açar sözü dəstəklənir."
-
-[pageSelection.tooltip.advanced]
-title = "Qabaqcıl xüsusiyyətlər"
-
-[pageSelection.tooltip.basic]
-bullet1 = "Fərdi səhifələr: 1,3,5"
-bullet2 = "Səhifə aralıqları: 3-6 və ya 10-15"
-bullet3 = "Bütün səhifələr: all"
-text = "Sadə sintaksisdən istifadə edərək PDF sənədinizdən xüsusi səhifələr seçin."
-title = "Əsas istifadə"
 
 [pageSelection.tooltip.complex]
 bullet1 = "<strong>1,3-5,8,2n</strong> → 1, 3–5, 8-ci səhifələr və üstəlik cüt səhifələr"
 bullet2 = "<strong>10-,2n-1</strong> → 10-cu səhifədən sona qədər + tək səhifələr"
 description = "Fərqli tipləri qarışdırın."
 title = "Mürəkkəb kombinasiyalar"
-
-[pageSelection.tooltip.examples]
-title = "Nümunələr"
 
 [pageSelection.tooltip.header]
 title = "Səhifə seçimi bələdçisi"
@@ -5707,13 +5201,6 @@ bullet4 = "<strong>4n-1</strong> → 3, 7, 11, 15-ci səhifələr…"
 description = "Nümunələr üçün formullarda n istifadə edin."
 title = "Riyazi funksiyalar"
 
-[pageSelection.tooltip.operators]
-and = "AND: & və ya \"and\" — hər iki şərti tələb edir (məs., 1-50 & even)"
-comma = "Vergül: , və ya | — seçimləri birləşdirir (məs., 1-10, 20)"
-not = "NOT: ! və ya \"not\" — səhifələri istisna edir (məs., 3n & not 30)"
-text = "AND vergüldən daha yüksək üstünlüyə malikdir. NOT sənədin diapazonu daxilində tətbiq olunur."
-title = "Operatorlar"
-
 [pageSelection.tooltip.ranges]
 bullet1 = "<strong>3-6</strong> → 3–6-cı səhifələri seçir"
 bullet2 = "<strong>10-15</strong> → 10–15-ci səhifələri seçir"
@@ -5725,53 +5212,230 @@ title = "Səhifə aralıqları"
 bullet1 = "<strong>all</strong> → bütün səhifələri seçir"
 title = "Xüsusi açar sözlər"
 
-[pageSelection.tooltip.syntax]
-text = "Sayılar, aralıqlar, açar sözlər və proqressiyalardan istifadə edin (n 0-dan başlayır). Mötərizələr dəstəklənir."
-title = "Sintaksisin əsasları"
+[payg.activity]
+docs = "docs"
+empty = "No billable activity yet this period."
+subtitle = "Only AI and automation draw from your budget. Everyday tools are free and aren't listed here."
+title = "Recent billable activity"
 
-[pageSelection.tooltip.syntax.bullets]
-keywords = "Açar sözlər: odd, even"
-numbers = "Nömrələr/aralıqlar: 5, 10-20"
-progressions = "Proqressiyalar: 3n, 4n+1"
+[payg.cap]
+amount = "Cap amount"
+custom = "Custom"
+docsEstimate = "≈ {{docs}} processed PDFs / month"
+docsRate = "at {{rate}} / PDF"
+noCapDesc = "Usage is billed without an upper limit. You can re-enable a cap at any time."
+noCapLabel = "No cap"
+noneShort = "No cap"
+perMonth = "/ month"
+save = "Update cap"
+subtitle = "Set your maximum spend. We convert this to PDFs using the current price tier."
+title = "Monthly spending cap"
 
-[pageSelection.tooltip.tips]
-bullet1 = "Səhifə nömrələri 1-dən başlayır (0-dan deyil)"
-bullet2 = "Boşluqlar avtomatik silinir"
-bullet3 = "Yanlış ifadələr nəzərə alınmır"
-text = "Bu qaydaları yadda saxlayın:"
-title = "Məsləhətlər"
+[payg.checkout]
+connecting = "Connecting to Stripe…"
+errorTitle = "Stripe error"
+
+[payg.checkout.error]
+startFailed = "Couldn't start checkout session"
+
+[payg.checkout.mock]
+backend = "Backend is in mock mode; no real Stripe session was created."
+continue = "Continue with mock subscription"
+noKey = "VITE_STRIPE_PUBLISHABLE_KEY is unset. Real iframe mounts here once configured."
+title = "Stripe Embedded Checkout (mock mode)"
+
+[payg.confirm]
+body = "Your team can now run automation, AI, and API operations beyond your 500 free PDFs."
+capValue = "{{symbol}}{{amount}} / month"
+noCap = "No cap"
+note = "You can change your cap, cancel, or open the Stripe customer portal any time from this page."
+summaryLabel = "Monthly ceiling"
+title = "Welcome to the Processor plan"
+
+[payg.docHelp]
+billable = "Only automation runs, AI tools, and API calls count. Manual tools in the editor are always free."
+chains = "Running the same file through several steps of one automation counts it once, not once per step."
+perFile = "Each file you process counts as one PDF. Very long or very large files can count as more than one."
+refunds = "If a job fails on its first step, the PDF is credited back automatically."
+toggle = "What counts as a PDF?"
+
+[payg.error]
+body = "We couldn't reach the billing service. Refresh the page to try again."
+title = "Couldn't load your plan"
+
+[payg.free.cta]
+benefit1Body = "chain tools, schedule runs, batch process"
+benefit1Title = "Automation pipelines"
+benefit2Body = "summarize, classify, redact, AI-OCR"
+benefit2Title = "AI tools"
+benefit3Body = "call any Stirling endpoint programmatically"
+benefit3Title = "API access"
+button = "Turn on Processor →"
+reassurance = "No minimum · Set a $0 cap to test · Cancel anytime"
+subtitle = "Keep going past your 500 free PDFs with automation, AI, and the API. Set a monthly ceiling, so you stay in control."
+title = "Turn on the Processor plan"
+
+[payg.free.editor]
+eyebrow = "Editor plan · Always free"
+
+[payg.free.header]
+freeBody = "View, edit, merge, split, sign, watermark, compress, convert and manual OCR — as much as you want, no matter where you trigger it."
+freeTitle = "Unlimited PDF editing"
+
+[payg.free.hero]
+capSuffix = "/ {{limit}} free PDFs"
+metaCategories = "Automation · AI · API requests"
+
+[payg.free.member]
+ownerOnly = "Only your team owner can turn on Processor. Manual tools stay free for you to use as much as you like."
+
+[payg.free.proc]
+eyebrow = "Processor plan · metered"
+
+[payg.free.state]
+approachingLimit = "Approaching limit"
+limitReached = "Limit reached"
+plentyLeft = "Plenty left"
+
+[payg.gates]
+ai = "AI tools (AI Create, suggestions, AI-OCR)"
+automation = "Automations & pipelines"
+client = "Browser-only tools (viewer, page editor, file management)"
+offsite = "Server tools (compress, OCR, convert, watermark…)"
+pauses = "pauses at cap"
+title = "What happens when the cap is reached"
+
+[payg.header]
+eyebrow = "Processor plan · {{start}} – {{end}}"
+freeBody = "View, edit, merge, split, sign, watermark, compress, convert and manual OCR — as much as you want, no matter where you trigger it."
+freeLabel = "Always free"
+freeTitle = "Unlimited PDF editing"
+meterBody = "{{limit}} free PDFs to start, then billed per PDF up to your cap."
+meterLabel = "Metered"
+meterTitle = "Automation · AI · API"
+
+[payg.member]
+askLeader = "Only your team owner can change the cap."
+
+[payg.members]
+docs = "PDFs"
+subtitle = "Billable PDFs each teammate has processed this period."
+title = "Team member usage"
+
+[payg.role]
+leader = "Team owner"
+member = "Member"
+
+[payg.signupRequired]
+body = "Stirling PDF gives every signed-up account 500 free operations, enough to keep most workflows humming without paying a cent. You're currently using Stirling as a guest, which doesn't include billable tools like AI, automations, or hosted processing."
+cancel = "Not now"
+cta = "Sign up free"
+subtext = "Creating an account is free and takes a few seconds. No credit card required."
+title = "Sign up to use {{category}}"
+
+[payg.signupRequired.category]
+ai = "AI features"
+api = "this tool"
+automation = "automations"
+default = "this feature"
+
+[payg.spendCapMeter]
+capSuffix = "/ {{amount}} cap"
+metaCategories = "Automation · AI · API spend"
+resets = "Resets each billing period"
+
+[payg.state]
+degraded = "Cap reached"
+full = "Healthy"
+warned = "Approaching cap"
+
+[payg.stripe]
+open = "Open billing portal"
+subtitle = "Receipts, invoices, payment method, billing currency."
+title = "Manage billing in Stripe"
+
+[payg.stripe.toast.unavailable]
+body = "Billing portal isn't available right now. Try again in a moment."
+title = "Billing portal unavailable"
+
+[payg.upgrade]
+backAria = "Back"
+closeAria = "Close"
+
+[payg.upgrade.button]
+cancel = "Cancel"
+continue = "Continue →"
+finish = "Finish"
+
+[payg.upgrade.cap]
+help = "We'll never charge above this. Set $0 if you want to keep everything free while testing."
+title = "Set your monthly spend ceiling"
+usdNote = "Estimated in USD. You can adjust your cap any time after subscribing, in your own currency."
+
+[payg.upgrade.checkout]
+capValue = "{{symbol}}{{amount}} / month"
+edit = "Edit"
+help = "Stripe handles your card details. Stirling never sees them."
+loading = "Loading checkout…"
+noCap = "No cap"
+title = "Add your payment method"
+
+[payg.upgrade.help]
+aiBody = "summarize, classify, redact, AI-OCR"
+aiTitle = "AI tools"
+apiBody = "programmatic access to any Stirling endpoint"
+apiTitle = "API calls"
+automationBody = "chained tools or scheduled runs that don't need clicks"
+automationTitle = "Automation pipelines"
+footnote = "Manual tools (viewing, editing, merging, splitting, watermarking, compressing, manual OCR) are always free, even past 500. The distinction is the type of work, not where you click."
+title = "What we count toward billing"
+
+[payg.upgrade.promise]
+body = "You only pay for automation pipelines, AI tools, and API calls, the work that goes beyond a single click. Edit, merge, split, sign, compress as much as you want, no charge."
+highlight = "Manual tools stay free, always."
+
+[payg.upgrade.steps]
+cap = "Set monthly ceiling"
+payment = "Add payment method"
+
+[payg.upgrade.title]
+confirm = "You're subscribed"
+default = "Upgrade to Processor plan"
+
+[payg.usage]
+breakdown = "AI {{ai}} • Automation {{automation}} • API {{api}}"
+capLine = "{{cap}}/mo cap"
+estBill = "≈ {{amount}} so far this period"
+firstFree = "First {{free}} free"
+noCap = "No monthly cap"
+ofLimitProcessed = "/ {{limit}} PDFs processed"
+processed = "PDFs processed"
+resetsIn = "Resets in {{days}} days"
+resetsTomorrow = "Resets tomorrow"
+thisPeriod = "This billing period"
 
 [payment]
 autoClose = "Bu pəncərə avtomatik bağlanacaq..."
-billingPeriod = "Ödəniş dövrü"
 canCloseWindow = "Bu pəncərəni indi bağlaya bilərsiniz."
 checkoutInstructions = "İndi açılan brauzer pəncərəsində alışınızı tamamlayın. Ödəniş tamamlandıqdan sonra buraya qayıdın və hesab-faktura məlumatlarını yeniləmək üçün aşağıdakı düyməyə klikləyin."
 checkoutOpened = "Ödəniş səhifəsi brauzerdə açıldı"
 closeLater = "Bunu sonra edəcəyəm"
-emailInvalid = "Zəhmət olmasa düzgün e-poçt ünvanı daxil edin"
-enterpriseNote = "Yerləri checkout zamanı tənzimləyə bilərsiniz (1-1000)."
 error = "Ödəniş xətası"
 generatingLicense = "Lisenziya açarınız yaradılır..."
-installationId = "Quraşdırma ID-si"
 licenseActivated = "Lisenziya aktivləşdirildi! Lisenziya açarınız saxlanıldı. Qeydiyyat e-poçt ünvanınıza təsdiq göndərildi."
 licenseDelayed = "Ödəniş uğurludur! Lisenziyanız yaradılır. Tezliklə lisenziya açarınızla e-poçt alacaqsınız. 10 dəqiqə ərzində gəlməzsə, dəstək ilə əlaqə saxlayın."
 licenseDelayedMessage = "Lisenziya açarınız yaradılır. Tezliklə e-poçtunuzu yoxlayın və ya dəstəyə müraciət edin."
 licenseInstructions = "Bu, quraşdırmanıza əlavə edildi. Bir nüsxə e-poçtunuza da göndəriləcək."
 licenseKey = "Lisenziya açarınız"
-licenseKeyProcessing = "Lisenziya açarı işlənir"
 licensePollingError = "Ödəniş uğurludur, lakin lisenziya açarınızı avtomatik ala bilmədik. Zəhmət olmasa e-poçtunuzu yoxlayın və ya ödəniş təsdiqi ilə dəstək ilə əlaqə saxlayın."
 licenseRetrievalError = "Ödəniş uğurludur, lakin lisenziyanın alınması uğursuz oldu. Lisenziya açarınız e-poçtla göndəriləcək. 10 dəqiqə ərzində gəlməzsə, dəstək ilə əlaqə saxlayın."
 licenseSaveError = "Lisenziya açarını saxlamaq alınmadı. Aktivləşdirməni tamamlamaq üçün lisenziya açarınızla dəstəyə müraciət edin."
 monthly = "Aylıq"
 paymentCanceled = "Ödəniş ləğv edildi. Heç bir ödəniş tutulmadı."
-paymentSuccess = "Ödəniş uğurludur! Lisenziya açarınız alınır..."
 perMonth = "/ay"
-perYear = "/il"
 preparing = "Ödənişiniz hazırlanır..."
 redirecting = "Təhlükəsiz checkout-a yönləndirilir..."
 refreshBilling = "Ödənişi tamamladım - Hesab-fakturanı yenilə"
-stripeNotConfigured = "Stripe konfiqurasiya olunmayıb"
-stripeNotConfiguredMessage = "Stripe ödəniş inteqrasiyası konfiqurasiya olunmayıb. Zəhmət olmasa administratorla əlaqə saxlayın."
 success = "Ödəniş uğurludur!"
 successMessage = "Abunəliyiniz uğurla aktivləşdirildi. Tezliklə təsdiq e-poçtu alacaqsınız."
 syncError = "Ödəniş uğurludur, lakin lisenziyanın sinxronizasiyası uğursuz oldu. Lisenziyanız tezliklə yenilənəcək. Problem davam edərsə, dəstəyə müraciət edin."
@@ -5788,25 +5452,17 @@ description = "Lisenziya açarınızı və qəbzləri göndərmək üçün bunu 
 emailLabel = "E-poçt ünvanı"
 emailPlaceholder = "your@email.com"
 modalTitle = "Başlayaq - {{planName}}"
-title = "E-poçtunuzu daxil edin"
 
 [payment.paymentStage]
-backToPlan = "Plan seçiminə qayıt"
 modalTitle = "Ödənişi tamamlayın - {{planName}}"
-selectedPlan = "Seçilmiş plan"
 
 [payment.planStage]
-basePrice = "Baza qiymət"
 billedYearly = "İllik olaraq {{currency}}{{amount}} hesablanır"
 modalTitle = "Ödəniş dövrünü seçin - {{planName}}"
 savePercent = "{{percent}}% qənaət edin"
 savingsAmount = "{{amount}} qənaət edirsiniz"
-savingsNote = "İllik ödənişlə {{percent}}% qənaət edin"
-seatPrice = "Hər yer üçün"
 selectMonthly = "Aylığı seç"
 selectYearly = "İlliyi seç"
-title = "Ödəniş dövrünü seçin"
-totalForSeats = "Cəmi ({{count}} yer)"
 
 [pdfCommentAgent]
 submit = "Şərhləri yarat"
@@ -5827,24 +5483,9 @@ title = "Şərh edilmiş PDF"
 title = "Şərh təlimatları"
 
 [pdfOrganiser]
-header = "PDF Səhifə Tənzimləyicisi"
 placeholder = "(məs., 1,3,2 və ya 4-8,2,10-12 və ya 2n-1)"
-submit = "Səhifələri Yenidən Təşkil Edin"
 tags = "duplex,tək,cüt,sırala,yerini dəyiş"
 title = "Səhifə Tənzimləyicisi"
-
-[pdfOrganiser.desc]
-BOOKLET_SORT = "Broşür çapı üçün səhifələri düzün (son, birinci, ikinci, sondan ikinci, …)."
-CUSTOM = "Yeni düzülüşü müəyyən etmək üçün xüsusi səhifə nömrələri və ya ifadələrdən istifadə edin."
-DUPLEX_SORT = "Sanki duplex skaner əvvəlcə bütün önləri, sonra arxaları skan edibmiş kimi qarşılıqlı düzün (1, n, 2, n-1, …)."
-DUPLICATE = "Hər səhifəni xüsusi sayda təkrarlayın (məs., 4× dublikat)."
-ODD_EVEN_MERGE = "İki PDF-i növbə ilə birləşdirin: birincidən tək, ikincidən cüt səhifələr."
-ODD_EVEN_SPLIT = "Sənədi iki çıxışa bölün: bütün tək səhifələr və bütün cüt səhifələr."
-REMOVE_FIRST = "Sənədin ilk səhifəsini silin."
-REMOVE_FIRST_AND_LAST = "Sənədin həm ilk, həm də son səhifəsini silin."
-REMOVE_LAST = "Sənədin son səhifəsini silin."
-REVERSE_ORDER = "Sənədi elə çevirin ki, son səhifə birinci olsun və s."
-SIDE_STITCH_BOOKLET_SORT = "Yan tikişli broşür çapı üçün səhifələri düzün (yan bağlama üçün optimallaşdırılıb)."
 
 [pdfOrganiser.mode]
 1 = "Fərdi Səhifə Düzülüşü"
@@ -5881,32 +5522,22 @@ imageLabel = "Yerləşdirilmiş şəkil"
 noTextOnPage = "Bu səhifədə redaktə oluna bilən mətn aşkar edilmədi."
 pagePreviewAlt = "Səhifə önbaxışı"
 pageSummary = "Səhifə {{number}}/{{total}}"
+tags = "edit text,modify text,change text,edit content,update text,rewrite,correct,amend,redline,revise,text editor,content editor"
 title = "PDF JSON Redaktoru"
 viewLabel = "PDF redaktoru"
 
 [pdfTextEditor.actions]
 applyChanges = "Dəyişiklikləri tətbiq et"
 downloadCopy = "Nüsxəni endir"
-downloadJson = "JSON-u endir"
-generatePdf = "PDF yarat"
 reset = "Dəyişiklikləri sıfırla"
-saveChanges = "Dəyişiklikləri yadda saxla"
 
 [pdfTextEditor.badges]
 earlyAccess = "Erkən Giriş"
 modified = "Redaktə edilib"
-unsaved = "Redaktə edilib"
-
-[pdfTextEditor.disclaimer]
-alpha = "Bu alfa görüntüləyici hələ inkişaf edir—bəzi şriftlər, rənglər, şəffaflıq effektləri və yerləşim detalları cüzi dəyişə bilər. Paylaşmadan əvvəl yaradılan PDF-i bir daha yoxlayın."
-heading = "Önizləmə məhdudiyyətləri"
-previewVariance = "Bəzi vizuallar (məsələn, cədvəl çərçivələri, fiqurlar və ya annotasiya görünüşləri) önizləmədə tam dəqiq göstərilməyə bilər. İxrac olunan PDF mümkün olduqda orijinal çəkmə əmrlərini saxlayır."
-textFocus = "Bu iş sahəsi mətnin redaktəsinə və yerləşdirilmiş şəkillərin yerinin dəyişdirilməsinə fokuslanır. Mürəkkəb səhifə qrafikası, forma vidcetləri və qatlı qrafika ixrac üçün saxlanılır, lakin burada tam redaktə olunmur."
 
 [pdfTextEditor.empty]
 dropzone = "Buraya PDF və ya JSON faylını sürükləyib buraxın və ya baxmaq üçün klikləyin"
 dropzoneWithFiles = "Fayllar vərəqindən bir fayl seçin və ya buraya PDF və ya JSON faylını sürükləyib buraxın, yaxud baxmaq üçün klikləyin"
-subtitle = "Mətn məzmununu redaktə etməyə başlamaq üçün PDF və ya JSON faylı yükləyin."
 title = "Sənəd yüklənməyib"
 
 [pdfTextEditor.errors]
@@ -5968,12 +5599,13 @@ paragraphDescription = "Düzülmüş sətirləri çoxsətirli abzas mətn qutula
 singleLineDescription = "Hər PDF mətn sətrini ayrı mətn qutusu kimi saxlayır."
 title = "Mətn qruplaşdırma rejimi"
 
-[pdfTextEditor.options.manualGrouping]
-descriptionInline = "Məsləhət: Mətn qutularını çoxseçim üçün Ctrl (Cmd) və ya Shift basılı saxlayın. Seçimin üstündə üzən alət paneli görünəcək ki, birləşdirə, qruplaşdırmanı ləğv edə və ya enləri tənzimləyə biləsiniz."
-
 [pdfTextEditor.pageType]
 paragraph = "Paraqraf səhifəsi"
 sparse = "Seyrək mətn"
+
+[pdfTextEditor.stages]
+processing = "Processing"
+uploading = "Uploading"
 
 [pdfTextEditor.tooltip.alpha]
 text = "Bu alfa görüntüləyici hələ inkişaf edir—bəzi şriftlər, rənglər, şəffaflıq effektləri və maket detalları bir qədər dəyişə bilər. Zəhmət olmasa paylaşmazdan əvvəl yaradılan PDF-i iki dəfə yoxlayın."
@@ -6018,164 +5650,78 @@ title = "PDF Text Editor-ə xoş gəldiniz (Erkən Giriş)"
 
 [PDFToCSV]
 header = "PDF-i CSV-ə"
-prompt = "Çıxartmaq Üçün Səhifə Seç"
-submit = "Çıxart"
 title = "PDF-i CSV-ə"
 
 [PDFToHTML]
-credit = "Bu Servis Fayl Çevirmək Üçün pdftohtml İşlədir"
 header = "PDF-i HTML-ə"
-submit = "Çevir"
 tags = "veb-məzmun,brauzerə uyğun"
 title = "PDF-i HTML-ə"
 
 [pdfToImage]
-blackwhite = "Qara və Ağ (Data İtə Bilər)"
-color = "Rəng"
-colorType = "Rəng Tipi"
-grey = "Boz Tonlama"
-header = "PDF-i Şəklə"
-info = "Python Yüklü Deyil.WebP Çevirməsi Üçün Vacibdir"
-multi = "Çoxlu Şəkil, Səhifə Başına Bir Şəkil"
-placeholder = "(məsələn, 1,2,8 və ya 4,7,12-16 və ya 2n-1)"
-selectText = "Şəkil Formatı"
-single = "Bütün Səhifələri birləşdirən Tək Böyük Şəkil"
-singleOrMultiple = "Nəticə Şəkil Tipi"
-submit = "Çevir"
 tags = "çevirmə,şəkil,jpg,fotoşəkil,foto"
 title = "PDF-i Şəklə"
 
 [PDFToMarkdown]
 header = "PDF-dən Markdown-a"
-submit = "Çevir"
 tags = "işarələmə,web-məzmun,dəyişmə,çevirmə"
 title = "PDF-dən Markdown-a"
 
 [pdfToPDFA]
-credit = "Bu Servis PDF/A Çevirmək Üçün libreoffice İşlədir"
 header = "PDF-i PDF/A-ya"
-outputFormat = "Çıxış Formatı"
-pdfWithDigitalSignature = "PDF Rəqəmsal İmza Ehtiva Edir.Bu, növbəti addımda silinəcək."
-submit = "Çevir"
 tags = "arxiv,uzunmüddətli,standard,çevirmə,yaddaş,saxlama"
-tip = "Hazırda Birdən Çox Giriş Üçün İşləmir"
 title = "PDF-i PDF/A-ya"
 
 [pdfToPDFX]
-credit = "Bu xidmət PDF/X çevrilməsi üçün Ghostscript-dən istifadə edir"
-header = "PDF-dən PDF/X-ə"
-outputFormat = "Çıxış formatı"
-pdfWithDigitalSignature = "PDF rəqəmsal imza ehtiva edir. Bu imza növbəti addımda silinəcək."
-submit = "Çevir"
 tags = "çap,standart,çevrilmə,istehsal,prepress,arxiv"
-tip = "Hazırda eyni anda bir neçə girişi dəstəkləmir"
 title = "PDF-dən PDF/X-ə"
 
 [PDFToPresentation]
-credit = "Bu Servis Fayl Çevirmək Üçün LibreOffice İşlədir"
 header = "PDF-i Təqdimata"
-submit = "Çevir"
 tags = "slaydlar,şou,ofis,microsoft"
 title = "PDF-i Təqdimata"
-
-[PDFToPresentation.selectText]
-1 = "Çıxış Fayl Formatı"
 
 [PdfToSinglePage]
 tags = "tək səhifə"
 
 [pdfToSinglePage]
 description = "Bu alət PDF-inizin bütün səhifələrini bir böyük tək səhifədə birləşdirəcək. En orijinal səhifələrlə eyni qalacaq, lakin hündürlük bütün səhifə hündürlüklərinin cəmi olacaq."
-filenamePrefix = "tək_səhifə"
-header = "PDF-dən Tək Səhifəyə"
 submit = "Tək Səhifəyə Çevir"
+tags = "combine,merge,single,single page,one page,merge to single,combine all,stitch pages,concatenate vertical,long page,poster"
 title = "PDF-dən Tək Səhifəyə"
 
 [pdfToSinglePage.error]
 failed = "Tək səhifəyə çevrilərkən xəta baş verdi."
 
-[pdfToSinglePage.files]
-placeholder = "Başlamaq üçün əsas görünüşdə bir PDF faylı seçin"
-
 [pdfToSinglePage.results]
 title = "Tək səhifə nəticələri"
 
 [PDFToText]
-credit = "Bu Servis Fayl Çevirmək Üçün LibreOffice İşlədir"
 header = "PDF-i RTF (Mətn)-ə"
-submit = "Çevir"
 tags = "richformat,richtextformat,zəngin mətn formatı"
 title = "PDF-i RTF (Mətn)-ə"
 
-[PDFToText.selectText]
-1 = "Çıxış Fayl Formatı"
-
 [PDFToWord]
-credit = "Bu Servis Fayl Çevirmək Üçün LibreOffice İşlədir"
 header = "PDF-i Word-ə"
-submit = "Çevir"
 tags = "doc,docx,odt,word,dəyişmə,format,çevirmə,ofis,microsoft,docfile"
 title = "PDF-i Word-ə"
 
-[PDFToWord.selectText]
-1 = "Çıxış Fayl Formatı"
-
 [PDFToXLSX]
 header = "PDF-dən Excel-ə"
-prompt = "Cədvəlləri çıxarmaq üçün səhifələri seçin"
-submit = "Çevir"
 tags = "elektron cədvəl,excel,xlsx,cədvəl,çıxar,çevir"
 title = "PDF-dən Excel-ə (XLSX)"
 
 [PDFToXML]
-credit = "Bu Servis Fayl Çevirmək Üçün LibreOffice İşlədir"
 header = "PDF-i XML-ə"
-submit = "Çevir"
 tags = "data-xaricetmə,strukturlu-məzmun,interop,çevirmə,dəyişmə"
 title = "PDF-i XML-ə"
 
 [permissions]
-header = "İcazələri Dəyişdir"
-submit = "Dəyiş"
 tags = "oxu,yaz,redaktə et,çap et"
 title = "İcazələri Dəyişdir"
-warning = "Bu İcazələrin Dəyişməz Olması İlə Bağlı Xəbərdarlıq Edərək, Onları Parol Əlavə Et Səhifəsi Vasitəsilə Parolla Təyin Etmək Tövsiyə Olunur."
-
-[permissions.selectText]
-1 = "İcazələri Dəyişdirmək Üçün PDF-i Seç"
-10 = "Fərqli Formatlarda Çapın Qarşısını Al"
-2 = "Tənzimlənmiş İcazələr"
-3 = "Sənədin Yığılmasının Qarşısını Al"
-4 = "Məzmunun Çıxarılmasının Qarşısını Al"
-5 = "Əlçatanlıq Üçün Çıxarılmasının Qarşısını Alın"
-6 = "Formanın Doldurulmasının Qarşısını Alır"
-7 = "Modifikasiyanın Qarşısını Al"
-8 = "Annotasiyanın Dəyişdirilməsinin Qarşısını Almaq"
-9 = "Çapın Qarşısını Al"
 
 [pipeline]
-configureButton = "Konfiqurasiya Et"
-defaultOption = "Fərdi"
-deletePrompt = "Pipeline-ı silmək istədiyinizə əminsiniz?"
-header = "Pipeline Menyusu (Beta)"
-help = "Pipeline Köməyi"
-scanHelp = "Qovluq Skanlama Köməyi"
-submitButton = "Təsdiqlə"
 tags = "avtomatlaşdır,ardıcıllıq,skriptlənmiş,kütləvi-proses"
 title = "Boru xətti"
-uploadButton = "Fərdi Yüklə"
-
-[pipelineOptions]
-addOperationButton = "Əməliyyat əlavə et"
-header = "Pipeline Konfiqurasiyası"
-pipelineHeader = "Boru xətti:"
-pipelineNameLabel = "Pipeline Adı"
-pipelineNamePrompt = "Pipeline adını bura daxil et"
-saveButton = "Endir"
-saveForFolderScanning = "Qovluq skanı üçün saxla"
-saveSettings = "Əməliyyat Parametrlərini Saxla"
-selectOperation = "Əməliyyat seç"
-validateButton = "Doğrula"
 
 [plan]
 contact = "Bizimlə əlaqə"
@@ -6186,33 +5732,21 @@ featureComparison = "Xüsusiyyət Müqayisəsi"
 from = "Başlayır"
 hideComparison = "Xüsusiyyət müqayisəsini gizlət"
 included = "Daxildir"
-includedInCurrent = "Cari planınıza daxildir"
 licensedSeats = "Lisenziyalı: {{count}} yer"
 manage = "İdarə et"
 perMonth = "/ay"
 perSeat = "/yer"
 popular = "Məşhur"
-purchase = "Satın al"
-selectCredits = "Kredit miqdarını seçin"
 selectPlan = "Plan seç"
 showComparison = "Bütün xüsusiyyətləri müqayisə et"
-totalCost = "Ümumi məbləğ"
 upgrade = "Yüksəlt"
 withServer = "+ Server Planı"
-
-[plan.activePlan]
-subtitle = "Cari abunəlik detalları"
-title = "Aktiv Plan"
 
 [plan.api]
 large = "5,000 Credits"
 medium = "1,000 Credits"
 small = "500 Credits"
 xsmall = "100 Credits"
-
-[plan.apiPackages]
-subtitle = "Tətbiqləriniz üçün API kreditləri satın alın"
-title = "API kredit paketləri"
 
 [plan.availablePlans]
 loadError = "Plan qiymətləri yüklənə bilmədi. Defolt dəyərlər istifadə olunur."
@@ -6265,6 +5799,12 @@ highlight3 = "İcma dəstəyi"
 included = "Daxildir"
 name = "Pulsuz"
 
+[plan.freeLimit]
+cta = "View Processor Plan"
+dismiss = "Maybe Later"
+message = "That's your whole free allowance for automation, AI and the API. Seriously impressive! Keep the momentum going for just pennies a day."
+title = "Woah, {{total}} PDFs Processed!"
+
 [plan.highlights]
 advancedIntegrations = "Qabaqcıl inteqrasiyalar"
 allBasicFeatures = "Bütün əsas funksiyalar"
@@ -6287,12 +5827,8 @@ cta = "Planlara bax"
 overLimit = "{{limit}}-dən çox"
 title = "Pulsuz self-hosted limiti çatıb"
 
-[plan.manageSubscription]
-description = "Abunəliyi, ödənişləri və ödəmə üsullarını idarə edin"
-
 [plan.period]
 month = "ay"
-perUserPerMonth = "/istifadəçi/ay"
 
 [plan.pro]
 highlight1 = "Limitsiz Alət İstifadəsi"
@@ -6300,18 +5836,18 @@ highlight2 = "Təkmil PDF alətləri"
 highlight3 = "Su nişanları yoxdur"
 name = "Pro"
 
+[plan.spendCap]
+cta = "View Spending Limit"
+dismiss = "Not Now"
+message = "You've made the most of this month's cap. That's a load of automation, AI and API work! Bump it up whenever you like to keep going."
+title = "You're on a Roll!"
+
 [plan.static]
 activateLicense = "Lisenziyanızı aktivləşdirin"
-checkoutInstructions = "Ödənişi Stripe vərəqəsində tamamlayın. Ödənişdən sonra buraya qayıdın və lisenziyanı aktivləşdirmək üçün səhifəni yeniləyin. Lisenziya açarı olan e-poçt da alacaqsınız."
-checkoutOpened = "Ödəniş səhifəsi açıldı"
-contactSales = "Satışla əlaqə"
 contactToUpgrade = "Planınızı yüksəltmək və ya fərdiləşdirmək üçün bizimlə əlaqə saxlayın"
 getLicense = "Server lisenziyası al"
-maxUsers = "Maksimum İstifadəçi"
-message = "Onlayn ödəmə hazırda konfiqurasiya edilməyib. Planınızı yüksəltmək və ya abunələri idarə etmək üçün bizimlə birbaşa əlaqə saxlayın."
 monthlyBilling = "Aylıq ödəniş"
 selectPeriod = "Faktura dövrünü seçin"
-title = "Faktura Məlumatı"
 upgradeToEnterprise = "Enterprise-a yüksəlt"
 upTo = "Maksimum"
 yearlyBilling = "İllik ödəniş"
@@ -6332,30 +5868,120 @@ successMessage = "Lisenziyanız uğurla aktivləşdirildi. Bu pəncərəni indi 
 
 [plan.team]
 name = "Komanda"
-siteLicense = "Sayt lisenziyası"
 
 [plan.trial]
-badge = "Sınaq"
 continueWithFree = "Pulsuz davam et"
-daysRemaining = "Sınağınız {{days}} günə bitir"
-endDate = "Bitmə tarixi: {{date}}"
 expired = "Sınaq müddətiniz bitib"
 expiredMessage = "30 günlük Pro sınağınızın müddəti bitdi. Premium funksiyalardan istifadəni davam etdirmək üçün Pro-ya abunə olun və ya pulsuz səviyyə ilə davam edin."
 freeTierLimitations = "Pulsuz səviyyə istifadə məhdudiyyətləri ilə əsas PDF alətlərini əhatə edir."
-message = ""
 subscribe = "Pro-ya abunə ol"
 subscribeToPro = "Pro-ya abunə ol"
-subscriptionScheduled = "Abunəlik planlaşdırılıb - başlanır: {{date}}"
-title = "Pulsuz sınaq aktivdir"
+
+[policies]
+deleteConfirmBody = "This removes the policy and its workflow. Documents already processed are not affected."
+deleteConfirmTitle = "Delete {{label}} policy?"
+
+[policies.catalog]
+compliance = "Compliance"
+ingestion = "Ingestion"
+retention = "Retention"
+routing = "Routing"
+security = "Security"
+
+[policies.detail]
+editSettings = "Edit Settings"
+enforces = "Enforces"
+managedByOrg = "Managed by your organization. Contact a team leader to change this policy."
+noActivityDescription = "Documents will appear here once this policy runs."
+noActivityTitle = "No activity yet"
+onEveryUpload = "On every upload"
+originalsNote = "Originals stay untouched • Enforced version saved alongside"
+pause = "Pause"
+recentActivity = "Recent Activity"
+resume = "Resume"
+retry = "Retry"
+showLess = "Show less"
+showMore = "Show more"
+statActive = "Active"
+statDataProcessed = "Data processed"
+statDocsEnforced = "Docs enforced"
+statusActive = "Active"
+statusPaused = "Paused"
+
+[policies.fields]
+selectedCount = "{{count}} selected"
+
+[policies.pii]
+fieldLabel = "PII to redact"
+placeholder = "Select PII types"
+
+[policies.sidebar]
+activeCount = "{{count}} active"
+infoAriaLabel = "What is a policy?"
+infoTooltip = "A policy is a fixed set of tools that runs automatically whenever it's triggered — for example when a new document arrives — enforcing rules like redacting PII with no manual steps."
+loading = "Loading…"
+railAriaLabel = "{{label}} policy — {{status}}"
+railSuffixActive = " (Active)"
+railSuffixPaused = " (Paused)"
+setUp = "Set up"
+title = "Policies"
+upgradeToEnterprise = "Upgrade to enterprise"
+
+[policies.status]
+active = "Active"
+paused = "Paused"
+setup = "Set up"
+
+[policies.toolConfig]
+enableAriaLabel = "Enable {{tool}}"
+infoAriaLabel = "What does {{tool}} do?"
+
+[policies.wizard]
+allDocTypesDescription = "Enable the Classification policy to filter by document type."
+allDocTypesTitle = "All document types"
+back = "Back"
+builderDesc = "Build the sequence of tools this policy runs on each document."
+clear = "Clear"
+continue = "Continue"
+docTypesLabel = "Document types"
+edit = "Edit"
+editTitle = "Edit {{label}} Policy"
+enablePolicy = "Enable Policy"
+filenameAutoNumber = "Auto-number"
+filenamePositionAria = "Filename position"
+filenamePrefix = "Prefix"
+filenameSuffix = "Suffix"
+filenameTextAria = "Filename text"
+filenameTextPlaceholder = "Text to add (optional)"
+lockedDescription = "Contact a team leader to change this policy."
+lockedTitle = "Managed by your organization"
+maxRetriesLabel = "Max retries"
+noToolsError = "Add at least one configured tool to the workflow first."
+outputAsLabel = "Output as"
+outputFilenameSubhead = "Output filename"
+outputModeAria = "Output mode"
+outputNewFile = "New file"
+outputNewVersion = "New version"
+outputRetriesLabel = "Output & retries"
+outputSubhead = "Output"
+retryDelayAria = "Retry delay minutes"
+retryDelayLabel = "Retry delay (min)"
+runOnExport = "Export"
+runOnLabel = "Run on"
+runOnSubhead = "Run on"
+runOnUpload = "Upload"
+saveChanges = "Save Changes"
+saveError = "Couldn't save the policy. Please try again."
+setupClassification = "Set up Classification"
+setupTitle = "Set up {{label}} Policy"
+sourcesDesc = "Choose where this policy runs and which document types it applies to."
+sourcesLabel = "Sources"
+stepOf = "Step {{step}} of {{total}}"
+toolChainDesc = "Configure the tools this policy runs on each document."
+typesSelected = "{{count}} types selected"
 
 [printFile]
-header = "Faylı printerdə çap edin"
-submit = "Çap et"
 title = "Faylı çap edin"
-
-[printFile.selectText]
-1 = "Çap etmək üçün Fayl seçin"
-2 = "Printer adını daxil edin"
 
 [provider.googledrive]
 name = "Google Drive"
@@ -6582,12 +6208,9 @@ accessSelectedFile = "Seçilmiş fayl"
 accessSendInvite = "Dəvət göndər"
 accessTitle = "Sənədə giriş"
 accessYou = "Siz"
-account = "Hesab"
 activeSessions = "Aktiv sessiyalar"
 activeTab = "Aktiv"
 activity = "Aktivlik"
-adminSettings = "Admin Ayarları"
-allSessions = "Bütün sessiyalar"
 allTools = "All Tools"
 automate = "Auto"
 back = "Geri"
@@ -6596,7 +6219,6 @@ certSign = "Sertifikatla imzalama"
 completedSessions = "Tamamlanmış sessiyalar"
 completedTab = "Tamamlanmış"
 config = "Konfiq"
-createNew = "Yeni sorğu yarat"
 createSession = "İmzalama sorğusu yarat"
 dueDate = "Son tarix (seçim üzrə)"
 files = "Fayllar"
@@ -6620,7 +6242,6 @@ selectUsers = "İmzalama üçün istifadəçiləri seçin"
 selectUsersPlaceholder = "İştirakçıları seçin..."
 sendingRequest = "Göndərilir..."
 settings = "Ayarlar"
-showMeAround = "Məni gəzdir"
 sign = "İmzala"
 signatureRequests = "İmza sorğuları"
 signYourself = "Özünüz imzalayın"
@@ -6639,6 +6260,9 @@ whatsNewTourDesc = "Yenilənmiş tərtibat turu"
 admin = "Bələdçiləri buradan izləyin: Alətlər turu, Yeni V2 tərtibat turu və Admin turu."
 user = "Bələdçiləri buradan izləyin: Alətlər turu və Yeni V2 tərtibat turu."
 
+[read]
+tags = "view,open,display,read,viewer,PDF viewer,PDF reader,open PDF,view PDF,display PDF,preview,browse"
+
 [redact]
 submit = "Manual Redaction"
 tags = "Redact,Hide,black out,black,marker,hidden,manual"
@@ -6648,7 +6272,6 @@ title = "Manual Redaction"
 colorLabel = "Qutu rəngi"
 convertPDFToImageLabel = "PDF-i PDF-Image-ə çevir"
 customPaddingLabel = "Xüsusi əlavə boşluq"
-header = "Avtomatik məxfiləşdirmə"
 useRegexLabel = "Regex istifadə et"
 wholeWordSearchLabel = "Tam söz üzrə axtarış"
 
@@ -6666,54 +6289,17 @@ title = "Məxfiləşdiriləcək sözlər"
 failed = "PDF-də məxfiləşdirmə aparılarkən xəta baş verdi."
 
 [redact.manual]
-activate = "Qaraltma alətini aktiv et"
-active = "Qaraltma rejimi aktivdir"
 apply = "Tətbiq et"
-applyChanges = "Dəyişiklikləri tətbiq et"
-applyRedactions = "Apply Redactions"
 applyWarning = "⚠️ Daimi tətbiqdir, geri qaytarıla bilməz və altındakı məlumat silinəcək"
-boxRedaction = "Qutu çəkərək məxfiləşdirmə"
 colorLabel = "Qaraltma rəngi"
-colourPicker = "Rəng seçici"
 controlsTitle = "Əl ilə məxfiləşdirmə idarələri"
-convertPDFToImageLabel = "PDF-i PDF-Image-ə çevir (Qutunun arxasındakı mətni silmək üçün istifadə olunur)"
-export = "İxrac Et"
-findCurrentOutlineItem = "Cari kontur elementini tap"
-header = "Əl ilə məxfiləşdirmə"
 instructions = "Məxfiləşdirmə üçün məzmunu işarələmək məqsədilə PDF-də mətn seçin və ya sahələr çəkin."
-markArea = "Sahəni işarələ"
-markText = "Mətni işarələ"
-nextPage = "Növbəti səhifə"
-noMarks = "Məxfiləşdirmə işarələri yoxdur. Məxfiləşdirmək üçün yuxarıdakı alətlərdən istifadə edin."
-pageBasedRedaction = "Səhifə əsaslı məxfiləşdirmə"
-pendingLabel = "Gözləyir:"
-previousPage = "Əvvəlki səhifə"
-showAttachments = "Qoşmaları göstər"
-showDocumentOutline = "Sənədin konturunu göstər (bütün elementləri genişlətmək/yığmaq üçün iki dəfə klikləyin)"
-showLayers = "Təbəqələri göstər (bütün təbəqələri ilkin vəziyyətinə qaytarmaq için iki dəfə klikləyin)"
-showThumbnails = "Miniatürləri göstər"
-textBasedRedaction = "Mətn əsaslı məxfiləşdirmə"
 title = "Məxfiləşdirmə alətləri"
-toggleSidebar = "Yan paneli aç/bağla"
-upload = "Yüklə"
-zoom = "Miqyas"
-zoomIn = "Yaxınlaşdır"
-zoomOut = "Uzaqlaşdır"
-
-[redact.manual.pageRedactionNumbers]
-placeholder = "(məsələn, 1,2,8 və ya 4,7,12-16 və ya 2n-1)"
-title = "Səhifələr"
-
-[redact.manual.redactionColor]
-title = "Məxfiləşdirmə rəngi"
 
 [redact.modeSelector]
 automatic = "Avtomatik"
-automaticDesc = "Axtarış terminlərinə əsasən mətni məxfiləşdirin"
 automaticDisabledTooltip = "Birdən çox faylı birdən məxfiləşdirmək üçün fayl idarəçisində faylları seçin"
 manual = "Əl ilə"
-manualComingSoon = "Əl ilə məxfiləşdirmə tezliklə"
-manualDesc = "Müəyyən sahələri məxfiləşdirmək üçün klikləyin və sürüşdürün"
 mode = "Rejim"
 title = "Məxfiləşdirmə üsulu"
 
@@ -6784,16 +6370,9 @@ title = "Yayğın nümunələr"
 title = "Məxfiləşdiriləcək sözlər"
 
 [releases]
-footer = "Buraxılışlar"
-header = "Buraxılış Qeydləri"
-note = "Buraxılış Qeydləri yalnız ingiliscə mövcuddur"
 title = "Buraxılış Qeydləri"
 
-[releases.current]
-version = "Hazırki Buraxılış"
-
 [removeAnnotations]
-header = "Annotasiyaları silin"
 submit = "Sil"
 tags = "şərhlər,önə çıxanlar,qeydlər,işarələmə,sil"
 title = "Annotasiyaları silin"
@@ -6803,7 +6382,6 @@ failed = "PDF-dən annotasiyalar silinərkən xəta baş verdi."
 
 [removeAnnotations.info]
 description = "Bu alət PDF sənədlərinizdən bütün annotasiyaları (şərhlər, vurğular, qeydlər və s.) siləcək."
-title = "Annotasiyaların silinməsi haqqında"
 
 [removeAnnotations.settings]
 title = "Ayarlar"
@@ -6815,8 +6393,8 @@ title = "Nə edir"
 title = "Annotasiyaların silinməsi haqqında"
 
 [removeBlanks]
-header = "Boş SƏhifələri Silir"
 submit = "Boş Səhifələri Sil"
+tags = "delete,clean,empty,remove blank,delete blank pages,empty pages,white pages,remove empty,clean up,cleanup blank"
 title = "Boş Səhifələri Sil"
 
 [removeBlanks.error]
@@ -6860,13 +6438,9 @@ title = "Ağ faiz həddi"
 
 [removeBlanks.whitePercent]
 label = "Ağ faiz həddi"
-unit = "%"
 
 [removeCertSign]
 description = "Bu alət PDF sənədinizdən rəqəmsal sertifikat imzalarını siləcək."
-filenamePrefix = "imzasız"
-header = "Rəqəmsal sertifikatı PDF-dən çıxarın"
-selectPDF = "PDF faylı seçin:"
 submit = "İmzanı silin"
 tags = "Doğrula,PEM,P12,rəsmi,deşifr"
 title = "Sertifikat İmzasını Sil"
@@ -6874,16 +6448,12 @@ title = "Sertifikat İmzasını Sil"
 [removeCertSign.error]
 failed = "Sertifikat imzalarını silərkən xəta baş verdi."
 
-[removeCertSign.files]
-placeholder = "Başlamaq üçün əsas görünüşdə bir PDF faylı seçin"
-
 [removeCertSign.results]
 title = "Sertifikatın silinməsi nəticələri"
 
 [removeImage]
-header = "Şəkli silin"
-removeImage = "Şəkli silin"
 submit = "Şəkli silin"
+tags = "remove,delete,clean,remove image,delete image,strip images,remove pictures,delete photos,clean images,reduce size,remove graphics"
 title = "Şəkli silin"
 
 [removeImage.error]
@@ -6895,20 +6465,13 @@ title = "Şəkillərin silinməsi nəticələri"
 [removeImagePdf]
 tags = "Şəkil Sil,Səhifə Əməliyyatları,Back end,server-tərəf"
 
-[removeMetadata]
-submit = "Metadatanı sil"
-
 [removePages]
-filenamePrefix = "səhifələr_silinib"
 submit = "Sil"
 tags = "Səhifələri təmizlə,səhifələri sil"
 title = "Sil"
 
 [removePages.error]
 failed = "Səhifələr silinərkən xəta baş verdi."
-
-[removePages.files]
-placeholder = "Başlamaq üçün əsas görünüşdə bir PDF faylı seçin"
 
 [removePages.pageNumbers]
 error = "Yanlış səhifə nömrəsi formatı. Sayılar, aralıqlar (1-5) və ya riyazi ifadələr (2n+1) istifadə edin"
@@ -6940,17 +6503,8 @@ bullet4 = "Açıq aralıqlar: 5- (5-ci səhifədən sona qədər silir)"
 text = "PDF-dən hansı səhifələri siləcəyinizi göstərin. Ayrı-ayrı səhifələr, aralıqlar seçə və ya riyazi ifadələrdən istifadə edə bilərsiniz."
 title = "Səhifə seçimi"
 
-[removePages.tooltip.safety]
-bullet1 = "Emaldan əvvəl seçimlərinizi həmişə önizləyin"
-bullet2 = "Orijinal faylın ehtiyat nüsxəsini saxlayın"
-bullet3 = "Səhifə nömrələri 1-dən başlayır, 0-dan yox"
-bullet4 = "Yanlış səhifə nömrələri nəzərə alınmayacaq"
-text = "Səhifələri silərkən vacib məqamlar:"
-title = "Təhlükəsizlik məsləhətləri"
-
 [removePassword]
 desc = "PDF Sənədindən şifr qorumasını götür."
-filenamePrefix = "şifrəsi açılmış"
 submit = "Sil"
 tags = "təhlükəsiz,deşifr,təhlükəsizlik,kodu aç,kodu sil"
 title = "Şifri Sil"
@@ -6959,7 +6513,6 @@ title = "Şifri Sil"
 failed = "PDF-dən parolu silərkən xəta baş verdi."
 
 [removePassword.password]
-completed = "Parol təyin edildi"
 label = "Cari Şifr"
 placeholder = "Cari parolu daxil edin"
 stepTitle = "Şifri Sil"
@@ -6972,6 +6525,7 @@ description = "Parol mühafizəsini silmək üçün PDF-i şifrələmək üçün
 
 [reorganizePages]
 submit = "Səhifələri yenidən düz"
+tags = "rearrange,reorder,organize,reorganize,move pages,page order,sort pages,arrange pages,shuffle,resequence"
 
 [reorganizePages.error]
 failed = "Səhifələri yenidən düzəltmək alınmadı"
@@ -6984,8 +6538,6 @@ title = "Ayarlar"
 
 [repair]
 description = "Bu alət zədələnmiş və ya korlanmış PDF fayllarını bərpa etməyə cəhd edəcək. Əlavə ayarlar tələb olunmur."
-filenamePrefix = "bərpa_edilmiş"
-header = "PDFləri Bərpa Et"
 submit = "Bərpa Et"
 tags = "düzəlt,bərpa et,korreksiya et,geri qaytar"
 title = "Bərpa Et"
@@ -6993,32 +6545,17 @@ title = "Bərpa Et"
 [repair.error]
 failed = "PDF bərpa edilərkən xəta baş verdi."
 
-[repair.files]
-placeholder = "Başlamaq üçün əsas görünüşdə bir PDF faylı seçin"
-
 [repair.results]
 title = "Bərpa nəticələri"
 
 [replace-color]
-previewOverlayOpacity = "Önizləmə örtüyünün opaklığı"
-previewOverlayTransparency = "Önizləmə örtüyünün şəffaflığı"
-previewOverlayVisibility = "Önizləmə örtüyünü göstər"
 submit = "Əvəzlə"
 title = "Qabaqcıl Rəng Seçimləri"
-
-[replace-color.options]
-fill = "Doldurma rəngi"
-gradient = "Qradient"
 
 [replace-color.selectText]
 1 = "Rəngi dəyişmə və tərsinə çevirmə seçimləri"
 10 = "Mətn rəngi seç"
 11 = "Arxaplan rəngi seç"
-12 = "Başlanğıc rəngi seçin"
-13 = "Son rəngi seçin"
-2 = "Defolt(Defolt yüksək kontrastlı rənglər)"
-3 = "Fərdi(Fərdiləşdirilmiş rənglər)"
-4 = "Bütöv Tərsinə Çevir(Bütün rəngləri tərsinə çevir)"
 5 = "Yüksək kontrastlı rəng seçimləri"
 6 = "Qara arxaplanda ağ mətn"
 7 = "Ağ arxaplanda qara mətn"
@@ -7075,6 +6612,7 @@ rotateLeft = "Saat əksinə döndür"
 rotateRight = "Saat istiqamətində döndür"
 selectRotation = "Döndürmə bucağını seçin (saat istiqamətində)"
 submit = "Fırladın"
+tags = "turn,flip,orient,rotate,orientation,landscape,portrait,90 degrees,180 degrees,clockwise,counterclockwise,counter-clockwise,fix orientation"
 title = "PDF fırladın"
 
 [rotate.error]
@@ -7094,19 +6632,14 @@ text = "PDF səhifələrinizi 90 dərəcəlik addımlarla saat istiqamətində v
 title = "Döndürmə parametrlərinin icmalı"
 
 [sanitize]
-completed = "Sanitizasiya uğurla tamamlandı"
 desc = "PDF fayllarından potensial zərərli elementləri silin."
-filenamePrefix = "sanitizasiya olunmuş"
 sanitizationResults = "Sanitizasiya Nəticələri"
 submit = "PDF-i Təmizlə"
+tags = "clean,purge,remove,sanitize,remove scripts,remove javascript,remove metadata,strip metadata,security,clean document,remove hidden data,privacy"
 title = "Sanitizasiya"
 
 [sanitize.error]
 failed = "PDF sanitizasiyası zamanı xəta baş verdi."
-generic = "Sanitizasiya alınmadı"
-
-[sanitize.files]
-placeholder = "Başlamaq üçün əsas görünüşdə PDF faylı seçin"
 
 [sanitize.options]
 note = "PDF-dən silmək istədiyiniz elementləri seçin. Ən azı bir seçim seçilməlidir."
@@ -7137,37 +6670,20 @@ desc = "PDF-dən XMP metaməlumatını silin"
 label = "XMP Metaməlumatını sil"
 
 [sanitize.steps]
-files = "Fayllar"
-results = "Nəticələr"
 settings = "Parametrlər"
 
 [sanitizePdf]
 tags = "təmiz,təhlükəsiz,güvənli,sil"
 
 [sanitizePDF]
-header = "PDF Faylını Təmizlə"
-submit = "PDF-i Təmizlə"
 title = "PDF-i Təmizlə"
 
-[sanitizePDF.selectText]
-1 = "JavaScript Fəaliyyətlərini Sil"
-2 = "Daxil Edilmiş Faylları Sil"
-3 = "XMP metaməlumatını sil"
-4 = "Linkləri Sil"
-5 = "Şriftləri Sil"
-6 = "Sənəd məlumatı metaməlumatını sil"
-
 [scalePages]
-header = "Səhifə miqyasını tənzimləyin"
-keepPageSize = "Orijinal Ölçü"
-pageSize = "Sənədin bir səhifəsinin ölçüsü."
-scaleFactor = "Səhifənin böyütmə səviyyəsi (kəsmə)."
-submit = "Təsdiq edin"
+tags = "resize,adjust,scale,page size,resize page,scale page,change size,adjust size,enlarge,shrink page,fit to page,A4,letter size"
 title = "Səhifə miqyasını tənzimləyin"
 
-[ScannerImageSplit]
-info = "Python yüklənməyib. İşə salmaq üçün Python lazımdır."
-tags = "ayır,avtodetektə,skan,çoxlu şəkil,nizamla"
+[scannerEffect]
+tags = "scan,simulate,create,fake scan,look scanned,scanner effect,make look scanned,photocopy effect,simulate scanner,realistic scan"
 
 [ScannerImageSplit.selectText]
 1 = "Bucaq Aşağı Limiti:"
@@ -7183,6 +6699,7 @@ tags = "ayır,avtodetektə,skan,çoxlu şəkil,nizamla"
 
 [scannerImageSplit]
 submit = "Şəkil skanlarını çıxar"
+tags = "separate,auto-detect,scans,multi-photo,organize"
 title = "Çıxarılan şəkillər"
 
 [scannerImageSplit.error]
@@ -7227,7 +6744,6 @@ toolNotAvailableLocally = "Sizin Stirling-PDF serveriniz oflayndır və \"{{endp
 
 [session]
 expired = "Sessiyanızın vaxtı bitdi. Səhifəni yeniləyin və yenidən cəhd edin."
-refreshPage = "Səhifəni Yenilə"
 
 [sessionManagement.tooltip]
 header = "İmzalama sessiyalarının idarə edilməsi"
@@ -7269,6 +6785,7 @@ advanced = "Qabaqcıl"
 database = "Məlumat bazası"
 endpoints = "Endpointlər"
 features = "Funksiyalar"
+mcp = "MCP Server"
 storageSharing = "Fayl Saxlama və Paylaşma"
 systemSettings = "Sistem parametrləri"
 title = "Konfiqurasiya"
@@ -7406,6 +6923,18 @@ title = "Klaviatura qısayolları"
 mac = "Qısayolda ⌘ (Command), ⌥ (Option) və ya başqa bir modifikator daxil edin."
 windows = "Qısayolda Ctrl, Alt və ya başqa bir modifikator daxil edin."
 
+[settings.legal]
+label = "Legal"
+title = "Legal"
+
+[settings.legal.cookiePreferences]
+description = "Review or change your cookie consent choices."
+manage = "Manage"
+
+[settings.legal.documents]
+description = "Policies and legal information for this service."
+title = "Legal Documents"
+
 [settings.licensingAnalytics]
 audit = "Audit"
 plan = "Plan"
@@ -7524,31 +7053,13 @@ people = "İstifadəçilər"
 teams = "Komandalar"
 title = "İş sahəsi"
 
-[setup]
-description = "Stirling PDF-dən necə istifadə edəcəyinizi seçərək başlayın"
-welcome = "Stirling PDF-ə xoş gəlmisiniz"
-
 [setup.login]
 connectingTo = "Qoşulur:"
-hideInstructions = "Təlimatları gizlət"
-instructions = "Stirling PDF serverinizdə girişi aktivləşdirmək üçün:"
-instructionsEnvVar = "Mühit dəyişənini təyin edin:"
-instructionsOrYml = "Və ya settings.yml faylında:"
-instructionsRestart = "Dəyişikliklərin qüvvəyə minməsi üçün serveri yenidən başladın."
 oauthPending = "Təsdiqləmə üçün brauzer açılır..."
 orContinueWith = "Və ya e-poçt ilə davam edin"
-serverRequirement = "Qeyd: Serverdə giriş funksiyası aktiv olmalıdır."
-showInstructions = "Necə aktivləşdirmək olar?"
-signInWith = "Bununla daxil ol"
 skipSignIn = "Daxil olmadan davam et"
 sso = "Single Sign-On"
 submit = "Daxil ol"
-subtitle = "Davam etmək üçün məlumatlarınızı daxil edin"
-title = "Daxil ol"
-
-[setup.login.email]
-label = "E-poçt"
-placeholder = "E-poçtunuzu daxil edin"
 
 [setup.login.error]
 emptyEmail = "Zəhmət olmasa e-poçtunuzu daxil edin"
@@ -7556,24 +7067,7 @@ emptyPassword = "Zəhmət olmasa parolunuzu daxil edin"
 emptyUsername = "Zəhmət olmasa istifadəçi adınızı daxil edin"
 oauthFailed = "OAuth girişi uğursuz oldu. Yenidən cəhd edin."
 
-[setup.login.password]
-label = "Parol"
-placeholder = "Parolunuzu daxil edin"
-
-[setup.login.username]
-label = "İstifadəçi adı"
-placeholder = "İstifadəçi adınızı daxil edin"
-
-[setup.mode.saas]
-description = "Stirling hesabınızla daxil olun"
-title = "Stirling Cloud"
-
-[setup.mode.selfhosted]
-description = "Öz Stirling PDF serverinizə qoşulun"
-title = "Öz serveriniz"
-
 [setup.saas]
-subtitle = "Stirling hesabınızla daxil olun"
 title = "Stirling-ə daxil olun"
 
 [setup.selfhosted]
@@ -7585,7 +7079,6 @@ title = "Serverə daxil olun"
 
 [setup.selfhosted.unreachable]
 changeServer = "Başqa serverə qoşul"
-changeServerLocked = "Təşkilatınız bu tətbiqi konkret serverlə məhdudlaşdırıb"
 continueOffline = "Əvəzində yerli alətlərdən istifadə et"
 message = "{{url}} ünvanına qoşulmaq mümkün olmadı. Serverin işlədiyini və əlçatan olduğunu yoxlayın."
 retry = "Yenidən cəhd et"
@@ -7612,42 +7105,20 @@ step2 = "Yaxud settings.yml faylında security.enableLogin=true təyin edin"
 step3 = "Serveri yenidən başladın"
 title = "Giriş aktiv deyil"
 
-[setup.server.type]
-saas = "Stirling PDF SaaS"
-selfhosted = "Öz serveriniz"
-
 [setup.server.url]
 description = "Öz Stirling PDF serverinizin tam URL ünvanını daxil edin"
 label = "Server URL"
 
-[setup.step1]
-description = "Oflayn və ya Server"
-label = "Rejimi seçin"
-
-[setup.step2]
-description = "Öz serveriniz"
-label = "Server seçin"
-
-[setup.step3]
-description = "Məlumatları daxil edin"
-label = "Giriş"
-
 [showJS]
 done = "JavaScript çıxarıldı"
-downloadJS = "Javascripti Endir"
-header = "Javascripti Göstər"
 processing = "JavaScript çıxarılır..."
 results = "Nəticə"
-singleFileWarning = "Bu alət bir dəfəlik yalnız bir faylı dəstəkləyir. Zəhmət olmasa tək bir fayl seçin."
 submit = "Göstər"
 tags = "JS"
 title = "Javascripti Göstər"
 
 [showJS.view]
 title = "Çıxarılan JavaScript"
-
-[sidebar]
-toggle = "Yan paneli aç/bağla"
 
 [sign]
 activate = "İmza yerləşdirməni aktiv et"
@@ -7669,6 +7140,7 @@ redo = "Yenidən et"
 save = "İmzanı yadda Saxla"
 sharedSigs = "Paylaşılan İmzalar"
 submit = "Sənədi imzala"
+tags = "signature,autograph,e-sign,electronic signature,digital signature,sign document,approval,signoff,authorize,endorse,ink signature,handwriting"
 title = "İmza"
 undo = "Geri al"
 updateAndPlace = "Yenilə və yerləşdir"
@@ -7843,10 +7315,11 @@ passwordsDoNotMatch = "Parollar uyğun gəlmir"
 passwordTooShort = "Parol ən azı 6 simvol olmalıdır"
 pleaseFillAllFields = "Zəhmət olmasa bütün sahələri doldurun"
 signUp = "Qeydiyyatdan keç"
+signUpWith = "Sign up with"
+skip = "Skip"
 subtitle = "Başlamaq üçün Stirling PDF-ə qoşulun"
 title = "Hesab yaradın"
 unexpectedError = "Gözlənilməz xəta: {{message}}"
-useEmailInstead = "Əvəzində e-poçt istifadə et"
 
 [sizes]
 large = "Böyük"
@@ -7855,67 +7328,45 @@ small = "Kiçik"
 x-large = "Ekstra Böyük"
 
 [split]
-header = "PDF-i Bölün"
 resultsTitle = "Bölmə nəticələri"
 selectMethod = "Bölmə üsulunu seçin"
 splitPages = "Bölünəcək Səhifələri Daxil Edin:"
 submit = "Bölün"
+tags = "divide,separate,break,split,extract pages,separate pages,divide document,break apart,separate files,unbind,split by page,divide by chapter"
 title = "PDF-i Bölün"
-
-[split.desc]
-1 = "Seçdiyiniz Nömrələr Bölmək İstədiyiniz Səhifə Nömrəsidir"
-2 = "Beləliklə, 1,3,7-9 Seçimi 10 Səhifəlik Sənədi 6 Ayrı PDF-ə Böləcək:"
-3 = "Sənəd #1: Səhifə 1"
-4 = "Sənəd #2: Səhifə 2 və 3"
-5 = "Sənəd #3: Səhifə 4, 5, 6 və 7"
-6 = "Sənəd #4: Səhifə 8"
-7 = "Sənəd #5: Səhifə 9"
-8 = "Sənəd #6: Səhifə 10"
 
 [split.error]
 failed = "PDF-i bölərkən xəta baş verdi."
 
-[split.method]
-label = "Bölmə üsulunu seçin"
-placeholder = "PDF-i necə böləcəyinizi seçin"
-
 [split.methods.byChapters]
-desc = "Əlfəcin sərhədlərində böl"
 name = "Fəsillər"
 tooltip = "Bölünmə nöqtələrini müəyyən etmək üçün PDF əlfəcinlərindən istifadə edir"
 
 [split.methods.byDocCount]
-desc = "Müəyyən sayda fayl yaradın"
 name = "Sənəd sayı"
 tooltip = "Yaratmaq istədiyiniz fayl sayını daxil edin"
 
 [split.methods.byPageCount]
-desc = "Hər fayl üçün sabit səhifə sayı"
 name = "Səhifə sayı"
 tooltip = "Hər bölünən fayl üçün səhifə sayını daxil edin"
 
 [split.methods.byPageDivider]
-desc = "Ayırıcı vərəqlərlə avtomatik böl"
 name = "Ayırıcı səhifə"
 tooltip = "Skan edərkən sənədlər arasında QR kodlu ayırıcı vərəqlərdən istifadə edin"
 
 [split.methods.byPages]
-desc = "Müəyyən səhifələri çıxar (1,3,5-10)"
 name = "Səhifə nömrələri"
 tooltip = "Səhifə nömrələrini vergüllə ayırın və ya diapazonlar üçün tire istifadə edin"
 
 [split.methods.byPoster]
-desc = "Böyük səhifələri çap ölçülərinə böl"
 name = "Çap üçün hissələr"
 tooltip = "Böyük ölçülü səhifələri standart kağızlarda (A4, Letter və s.) çap üçün uyğun kiçik hissələrə bölün"
 
 [split.methods.bySections]
-desc = "Səhifələri tor bölmələrinə ayır"
 name = "Bölmələr"
 tooltip = "Hər səhifəni üfüqi və şaquli bölmələrə bölün"
 
 [split.methods.bySize]
-desc = "Maksimum fayl ölçüsünü məhdudlaşdır"
 name = "Fayl Ölçüsü"
 tooltip = "Maksimum fayl ölçüsünü göstərin (məs. 10MB, 500KB)"
 
@@ -7963,13 +7414,6 @@ bullet2 = "Metadatanı daxil et: Sənəd xüsusiyyətlərini qoruyun"
 bullet3 = "Dublikatlara icazə ver: Təkrarlanan əlfəcin adlarını idarə edin"
 text = "Fəsil sərhədlərində avtomatik bölmək üçün PDF əlfəcinlərindən istifadə edin. Əlfəcin strukturu olan PDF-lər tələb olunur."
 title = "Fəsillərə görə böl"
-
-[split.tooltip.byCount]
-bullet1 = "Səhifə sayı: Fayl başına sabit səhifə sayı"
-bullet2 = "Sənəd sayı: Çıxış fayllarının sabit sayı"
-bullet3 = "Toplu emal iş axınları üçün faydalıdır"
-text = "Hər biri üçün konkret səhifə sayı və ya sənəd sayı ilə bir neçə PDF yaradın."
-title = "Say üzrə böl"
 
 [split.tooltip.byDocCount]
 bullet1 = "İstədiyiniz çıxış fayllarının sayını daxil edin"
@@ -8023,9 +7467,6 @@ bullet3 = "Sistem səhifə sərhədlərində böləcək"
 text = "Göstərilən fayl ölçüsünü aşmayan bir neçə PDF yaradın. Fayl ölçüsü məhdudiyyətləri və ya e-poçt əlavələri üçün idealdır."
 title = "Fayl ölçüsünə görə böl"
 
-[split.tooltip.header]
-title = "Bölmə üsullarına icmal"
-
 [split.value.docCount]
 label = "Fayl sayı"
 placeholder = "məs. 3, 5"
@@ -8039,9 +7480,7 @@ label = "Fayl başına səhifə"
 placeholder = "məs. 5, 10"
 
 [split-by-sections]
-header = "PDF-i hissələrə bölün"
 merge = "Bir PDF-ə birləşdirin"
-submit = "Pdf-i bölmək"
 tags = "Hissə Bölgüsü, Ayır, Fərdiləşdir"
 title = "PDF-i hissələrə bölün"
 
@@ -8067,15 +7506,7 @@ label = "Şaquli bölmələr"
 placeholder = "Şaquli bölmələrin sayını daxil edin"
 
 [split-by-size-or-count]
-header = "PDF-i Ölçü və ya Sayına görə bölün"
-submit = "Təsdiq et"
 title = "PDF-i Ölçü və ya Sayına görə bölün"
-
-[split-by-size-or-count.type]
-docCount = "Sənədlərin sayına görə"
-label = "Bölmə növünü seçin"
-pageCount = "Səhifə sayına görə"
-size = "Ölçüyə görə"
 
 [split-by-size-or-count.value]
 label = "Dəyəri daxil edin"
@@ -8084,28 +7515,11 @@ placeholder = "Ölçü daxil edin (məsələn, 2MB və ya 3 KB) və ya sayın da
 [splitByChapters]
 allowDuplicates = "Dublikatlara icazə verin"
 bookmarkLevel = "Bookmark Səviyyəsi"
-header = "PDF-i hissələrə bölün"
 includeMetadata = "Metadata daxil edin"
-submit = "PDF-i Ayır"
 title = "PDF-i hissələrə bölün"
-
-[splitByChapters.desc]
-1 = "Bu alət fəsil strukturuna əsasən bir PDF faylını çoxlu PDF-lərə bölür."
-2 = "Bookmark Səviyyəsi: Bölmə üçün istifadə ediləcək Bookmark səviyyəsini seçin (üst səviyyə üçün 0, ikinci səviyyə üçün 1 və s.)."
-3 = "Metadatanı daxil edin: Əgər yoxlanılıbsa, orijinal PDF-in metadatası hər bir bölünmüş PDF-ə daxil ediləcək."
-4 = "Allow Duplicates: Dublikatlara icazə verin: Əgər işarələnərsə, eyni səhifədə birdən çox bookmarka ayrı-ayrı PDF sənədləri yaratmağa icazə verin."
 
 [splitPdfByChapters]
 tags = "böl,fəsillər,əlfəcinlər,nizamla"
-
-[storage]
-approximateSize = "Təxmini ölçü"
-fileTooLarge = "Fayl çox böyükdür. Hər fayl üçün maksimum ölçü"
-storageFull = "Yaddaş demək olar ki, doludur. Bəzi faylları silməyi düşünün."
-storageLimit = "Yaddaş limiti"
-storageQuotaExceeded = "Yaddaş kvotası aşılıb. Daha çox fayl yükləməzdən əvvəl bəzilərini silin."
-storageUsed = "Müvəqqəti yaddaş istifadəsi"
-temporaryNotice = "Fayllar brauzerinizdə müvəqqəti saxlanılır və avtomatik silinə bilər"
 
 [storageShare]
 accessDenied = "Bu paylaşılan fayla girişiniz yoxdur. Sahibdən sizinlə paylaşmağı xahiş edin."
@@ -8208,43 +7622,10 @@ title = "Serverə yüklə"
 updateButton = "Serverdə yenilə"
 uploadButton = "Serverə yüklə"
 
-[subscription]
-cancelsOn = "{{date}} tarixində ləğv olunur"
-renewsOn = "{{date}} tarixində yenilənir"
-
-[subscription.status]
-active = "Aktiv"
-canceled = "Ləğv edilib"
-incomplete = "Natamam"
-none = "Abunəlik yoxdur"
-pastDue = "Gecikmiş"
-trialing = "Sınaq"
-
 [survey]
-button = "Sorğuda iştirak edin"
-changes = "Stirling-PDF son sorğudan bəri dəyişdi! Daha çox məlumat əldə etmək üçün lütfən, buradakı blog yazımızı yoxlayın:"
-changes2 = "Bu dəyişikliklərlə biz ödənişli biznes dəstəyi və maliyyə alırıq"
-description = "Stirling-PDF-də izləmə yoxdur, ona görə də Stirling-PDF-ni təkmilləşdirmək üçün istifadəçilərimizi eşitmək istəyirik!"
-disabled = "(Sorğu pop-up növbəti yeniləmələrdə deaktiv ediləcək, lakin səhifənin altında mövcuddur)"
-dontShowAgain = "Bir daha göstərmə"
-nav = "Sorğu"
-please = "Lütfən, Stirling-PDF-nin gələcəyi ilə bağlı məlumat əldə etmək üçün sorğumuzda iştirak edin!"
 title = "Stirling-PDF sorğusu"
 
-[survey.meeting]
-1 = "Əgər Stirling PDF-i işdə istifadə edirsinizsə, sizinlə danışmaq istərdik. 15 dəqiqəlik istifadəçi araşdırması sessiyası qarşılığında texniki dəstək sessiyaları təklif edirik."
-2 = "Bu fürsət:"
-3 = "Yerləşdirmə, inteqrasiyalar və ya nasazlıqların aradan qaldırılması ilə bağlı kömək alın"
-4 = "Performans, kənar hallar və funksiya boşluqları barədə birbaşa rəy verin"
-5 = "Stirling PDF-i real dünya müəssisə istifadəsi üçün daha da təkmilləşdirməyimizə kömək edin"
-6 = "Maraqlısınızsa, komandamızla birbaşa vaxt təyin edə bilərsiniz. (Yalnız ingiliscə danışılır)"
-7 = "Sizin istifadə hallarınızı öyrənmək və Stirling PDF-i daha da yaxşı etmək üçün səbirsizliklə gözləyirik!"
-button = "Görüş təyin et"
-notInterested = "Biznes deyilsiniz və/və ya görüşlə maraqlanmırsınız?"
-
 [swagger]
-desc = "Stirling PDF API endpoint-lərini görüntüləyin və test edin"
-header = "API sənədləşməsi"
 tags = "api,sənədləşmə,swagger,endpointlər,inkişaf"
 title = "API sənədləşməsi"
 
@@ -8274,28 +7655,6 @@ removeError = "Üzvü silmək mümkün olmadı"
 renameError = "Komandanın adını dəyişmək mümkün olmadı"
 renameSuccess = "Komandanın adı uğurla dəyişdirildi"
 
-[team.features]
-badge = "Komanda xüsusiyyətləri"
-subtitle = "Komandanızla əməkdaşlıq edin"
-title = "Komanda əməkdaşlığı"
-viewPlans = "Planlara bax"
-
-[team.features.billing]
-description = "Hesab-fakturanı və abunələri idarə edin"
-title = "Hesab-fakturanın idarə edilməsi"
-
-[team.features.credits]
-description = "Bütün üzvlər üçün paylaşılmış kredit hovuzu"
-title = "Paylaşılan kreditlər"
-
-[team.features.dashboard]
-description = "Komanda fəaliyyəti və istifadəsinə baxın"
-title = "Komanda paneli"
-
-[team.features.invite]
-description = "Komandanıza üzvlər əlavə edin"
-title = "Üzvləri dəvət et"
-
 [team.invitationBanner]
 acceptButton = "Qəbul et"
 message = "sizi qoşulmağa dəvət edib"
@@ -8317,11 +7676,6 @@ remove = "Sil"
 roleColumn = "Rol"
 title = "Komanda üzvləri"
 
-[team.upgrade]
-button = "Komandaya yüksəlt"
-description = "Komanda əməkdaşlığı funksiyalarını açın"
-title = "Komanda planına yüksəlt"
-
 [textAlign]
 center = "Mərkəz"
 left = "Sol"
@@ -8330,9 +7684,6 @@ right = "Sağ"
 [textInput]
 clear = "Girişi təmizlə"
 
-[theme]
-toggle = "Mövzunu dəyiş"
-
 [time.relative]
 daysAgo = "{{count}} gün əvvəl"
 hoursAgo = "{{count}} saat əvvəl"
@@ -8340,19 +7691,14 @@ justNow = "indi"
 minutesAgo = "{{count}} dəqiqə əvvəl"
 
 [timestampPdf]
-completed = "PDF-ə zaman damğası uğurla tətbiq olundu"
 desc = "Etibarlı Zaman Damğası Orqanı (TSA) serverindən istifadə edərək PDF faylınıza RFC 3161 sənəd zaman damğası əlavə edin."
-filenamePrefix = "zaman-damğalı"
 results = "Zaman damğası nəticələri"
 submit = "Zaman damğası tətbiq et"
+tags = "timestamp,RFC 3161,TSA,time stamp authority,document timestamp,proof of existence,timestamp token,trusted timestamp,sign timestamp,notarize"
 title = "PDF-ə zaman damğası"
 
 [timestampPdf.error]
 failed = "PDF-ə zaman damğası tətbiq edilərkən xəta baş verdi."
-generic = "Zaman damğası uğursuz oldu"
-
-[timestampPdf.files]
-placeholder = "Başlamaq üçün əsas görünüşdə PDF faylı seçin"
 
 [timestampPdf.options]
 note = "Sənədinizin yalnız SHA-256 heşi TSA serverinə göndərilir; PDF faylının özü heç vaxt TSA serverinə göndərilmir."
@@ -8383,18 +7729,13 @@ singleFileScope = "Yalnız buna tətbiq olunur: {{fileName}}"
 viewerMode = "Bir neçə fayl seçmək üçün fayl redaktoruna keçin."
 
 [toolPanel]
-allTools = "Bütün alətlər"
 alpha = "Alfa"
 backToAllTools = "Bütün alətlərə qayıt"
-backToDefault = "Geri"
-backToTools = "Alətlərə qayıt"
 collapse = "Paneli yığ"
-comingSoon = "Tezliklə:"
 expand = "Paneli genişləndir"
 goBack = "Geri qayıt"
 placeholder = "Başlamaq üçün alət seçin"
 premiumFeature = "Premium xüsusiyyət:"
-search = "Alətlərdə axtar"
 toolsHeader = "Alətlər"
 viewAllTools = "Bütün alətlərə bax"
 
@@ -8422,10 +7763,6 @@ recommended = "Tövsiyə olunur"
 sidebarDescription = "Sürətli keçid üçün alətləri iş sahənizin yanında saxlayın."
 sidebarTitle = "Yan panel rejimi"
 title = "Alətləri necə gözdən keçirəcəyinizi seçin"
-
-[toolPanel.toggle]
-fullscreen = "Tam ekran rejiminə keç"
-sidebar = "Yan panel rejiminə keç"
 
 [toolPicker]
 allTools = "BÜTÜN ALƏTLƏR"
@@ -8460,8 +7797,6 @@ close = "İpucunu bağla"
 
 [unlockPDFForms]
 description = "Bu alət PDF forma sahələrindəki yalnız-oxu məhdudiyyətlərini siləcək, beləliklə onlar redaktə və doldurula bilən olacaq."
-filenamePrefix = "kilidi_açılmış_formalar"
-header = "PDF formalarını kiliddən çıxarın"
 submit = "Remove"
 tags = "sil,poz,forma,sahə,yalnızoxu"
 title = "Form sahələrindən \"yalnız oxu\" rejimini silin"
@@ -8469,15 +7804,11 @@ title = "Form sahələrindən \"yalnız oxu\" rejimini silin"
 [unlockPDFForms.error]
 failed = "PDF formalarının kilidini açarkən xəta baş verdi."
 
-[unlockPDFForms.files]
-placeholder = "Başlamaq üçün əsas görünüşdə bir PDF faylı seçin"
-
 [unlockPDFForms.results]
 title = "Açılmış formalar nəticələri"
 
 [update]
 allReleases = "Bütün buraxılışlar"
-availableUpdates = "Mövcud yeniləmələr"
 breaking = "Uyğunluğu pozan"
 breakingChanges = "Uyğunluğu pozan dəyişikliklər"
 breakingChangesDefault = "Bu versiya uyğunluğu pozan dəyişikliklər ehtiva edir."
@@ -8490,7 +7821,6 @@ defaultRecommendation = "Bu yeniləmə vacib düzəlişlər və təkmilləşdirm
 downloadLatest = "Ən sonunu yüklə"
 later = "Sonra"
 latest = "Ən son versiya"
-latestStable = "Ən son sabit"
 loadingDetailedInfo = "Ətraflı məlumat yüklənir..."
 migrationGuide = "Miqrasiya bələdçisi"
 migrationGuides = "Miqrasiya bələdçiləri"
@@ -8498,18 +7828,14 @@ migrationGuidesDesc = "Yeniləməzdən əvvəl vacib dəyişiklikləri nəzərd�
 modalSubtitle = "Stirling PDF-in yeni versiyası quraşdırmağa hazırdır."
 modalTitle = "Yeniləmə mövcuddur"
 notes = "Qeydlər"
-priorityLabel = "Prioritet"
-recommendedAction = "Tövsiyə olunan əməl"
 releaseNotes = "Buraxılış qeydləri"
 showLess = "Daha az versiya göstər"
 showMore = "Bütün {{count}} versiyanı göstər"
 stable = "STABLE"
-unableToLoadDetails = "Ətraflı məlumatı yükləmək mümkün olmadı."
 updateAvailable = "Yeniləmə mövcuddur"
 urgentUpdateAvailable = "Təcili yeniləmə"
 version = "Versiya"
 versionHistory = "Versiya tarixi"
-viewAllReleases = "Bütün buraxılışlara bax"
 viewGuide = "Bələdçiyə bax"
 whatsNewIn = "Nə yenidir"
 
@@ -8523,16 +7849,12 @@ urgent = "Təcili"
 attentionBody = "Daha çox məlumat üçün admin daxil olmalıdır. Zəhmət olmasa, dərhal əlaqə saxlayın."
 attentionBodyAdmin = "Bu serverin uyğunluğunu qorumaq üçün lisenziya tələblərini nəzərdən keçirin."
 attentionTitle = "Bu server admin diqqəti tələb edir"
-dismiss = "Baneri gizlət"
 message = "Limitsiz istifadəçi və qabaqcıl xüsusiyyətlərlə Stirling PDF-dən maksimum yararlanın"
 seeInfo = "Məlumata bax"
 title = "Server planına yüksəldin"
 upgradeButton = "İndi yüksəlt"
 
 [URLToPDF]
-credit = "WeasyPrint İstifadə Edir"
-header = "URL-i PDF-ə"
-submit = "Çevir"
 tags = "veb,səhifəni-saxla,webdən-sənədə,arxiv"
 title = "URL-i PDF-ə"
 
@@ -8585,7 +7907,6 @@ downloadCsv = "CSV yüklə"
 downloadJson = "JSON yüklə"
 downloadPdf = "PDF hesabatını yüklə"
 finalizing = "Yükləmələr hazırlanır..."
-header = "Rəqəmsal imzaları doğrula"
 location = "Məkan"
 noResults = "Hesabat yaratmaq üçün doğrulamayı işə salın."
 noSignatures = "Bu sənəddə rəqəmsal imzalar tapılmadı"
@@ -8594,7 +7915,6 @@ processing = "İmzalar doğrulanır..."
 reason = "Səbəb"
 results = "Doğrulama nəticələri"
 selectCustomCert = "Xüsusi Certificate Faylı X.509 (İstəyə bağlı)"
-selectPDF = "İmzalanmış PDF faylı seçin"
 signatureDate = "İmza tarixi"
 signer = "İmzalayan"
 submit = "İmzaları doğrula"
@@ -8606,21 +7926,15 @@ totalSignatures = "Cəmi imza"
 algorithm = "Alqoritm"
 bits = "bit"
 details = "Sertifikat detalları"
-expired = "Sertifikatın müddəti bitib"
-info = "Sertifikat detalları"
 issuer = "Veren"
 keySize = "Açar ölçüsü"
 keyUsage = "Açarın istifadəsi"
-revoked = "Sertifikat ləğv edilib"
 selfSigned = "Öz-özünə imzalanıb"
 serialNumber = "Seriya nömrəsi"
 subject = "Subyekt"
 validFrom = "Etibarlı olduğu tarixdən"
 validUntil = "Etibarlı olduğu tarixədək"
 version = "Versiya"
-
-[validateSignature.chain]
-invalid = "Sertifikat zənciri doğrulaması uğursuz oldu - imzalayanın şəxsiyyəti təsdiqlənə bilmir"
 
 [validateSignature.downloadType]
 csv = "CSV"
@@ -8668,22 +7982,11 @@ title = "Doğrulama ayarları"
 
 [validateSignature.signature]
 _value = "İmza"
-info = "İmza məlumatı"
-mathValid = "İmza riyazi cəhətdən etibarlıdır, AMMA:"
 
 [validateSignature.status]
-_value = "Status"
 complete = "Doğrulama tamamlandı"
 invalid = "Etibarsız"
 valid = "Etibarlı"
-
-[validateSignature.trust]
-invalid = "Sertifikat etibar anbarında deyil - mənbə təsdiqlənə bilmir"
-
-[view]
-fileManager = "Fayl Meneceri"
-pageEditor = "Səhifə Redaktoru"
-viewer = "Görüntüləyici"
 
 [viewer]
 cannotPreviewFile = "Faylın önizlənməsi mümkün deyil"
@@ -8730,10 +8033,8 @@ moreActions = "Daha çox əməl"
 nComments = "{{count}} şərh"
 oneComment = "1 şərh"
 pageLabel = "Səhifə {{page}}"
-placeholder = "Şərhinizi yazın..."
 removeCommentOnly = "Yalnız şərhi sil"
 saveReply = "Cavabı saxla"
-send = "Göndər"
 title = "Şərhlər"
 typeComment = "Şərh"
 typeInsertText = "Mətn əlavə et"
@@ -8760,7 +8061,6 @@ columnDefault = "Sütun {{index}}"
 convertToPdf = "PDF-ə çevir"
 csvStats = "{{rows}} sətir · {{columns}} sütun · {{size}}"
 emptyFile = "Boş fayl"
-fileTypeBadge = "{{type}} Faylı"
 htmlPreview = "HTML ön baxış"
 htmlPreviewWarning = "HTML ön baxış — xarici resurslar yüklənməyə bilər · {{size}}"
 invalidJson = "Etibarsız JSON — xam məzmun göstərilir"
@@ -8784,27 +8084,180 @@ resultsOf = "cəmi {{total}}"
 delete = "İmzanı sil"
 
 [viewPdf]
-header = "PDF-ə baxın"
 tags = "bax,oxu,sitat götür,mətn,şəkil"
 title = "PDF-ə Bax/Redaktə et"
 
 [warning]
 tooltipTitle = "Xəbərdarlıq"
 
-[watermark]
-completed = "Su nişanı əlavə olundu"
-desc = "PDF fayllarına mətn və ya şəkil su nişanları əlavə edin"
-filenamePrefix = "filigranlı"
-submit = "Watermark Əlavə Et"
-title = "Watermark Əlavə Et"
+[watchedFolders]
+alreadyInFolder = "Already in this folder"
+defaultFolderWarning = "This is a default folder and will be recreated on next reload."
+deleteConfirmBody = "This will remove the folder and its run history. Files already downloaded are not affected."
+deleteConfirmTitle = "Delete folder?"
+folderNotFound = "Folder not found"
+newFolder = "New folder"
+noFolders = "No watched folders yet"
+sidebarTitle = "Watched Folders"
+title = "Watched Folders"
 
-[watermark.alphabet]
-arabic = "Ərəb"
-chinese = "Çin"
-japanese = "Yapon"
-korean = "Koreya"
-roman = "Roman/Latın"
-thai = "Tay"
+[watchedFolders.actions]
+back = "Back"
+collapse = "Collapse"
+dismiss = "Dismiss"
+download = "Download"
+downloadInput = "Download input"
+downloadOutput = "Download output"
+expand = "Expand"
+retry = "Retry"
+
+[watchedFolders.card]
+delete = "Delete folder"
+edit = "Edit folder"
+
+[watchedFolders.home]
+addAnother = "Add another Watched Folder"
+addAnotherDesc = "Automatically process files with a new pipeline"
+create = "Create your first Watched Folder"
+deleteFolder = "Delete folder"
+editFolder = "Edit folder"
+empty = "No watched folders yet"
+emptyDesc = "Set up a Watched Folder once. Drop PDFs in and they're automatically compressed, OCR'd, split, merged — whatever your pipeline does."
+emptyTitle = "Automate your PDF workflows"
+file = "file"
+files = "files"
+pause = "Pause"
+resume = "Resume"
+
+[watchedFolders.howItWorks]
+step1Desc = "Drag PDFs onto any Watched Folder card — or send them from your file list"
+step1Title = "Drop files"
+step2Desc = "Your configured tools process each file automatically"
+step2Title = "Pipeline runs"
+step3Desc = "Download processed files from inside the folder"
+step3Title = "Output ready"
+title = "How Watched Folders work"
+
+[watchedFolders.modal]
+advanced = "Advanced"
+automation = "Automation"
+automationNameFallback = "Watched Folder automation"
+automationRequired = "Add at least one configured step before saving."
+autoNumber = "Auto-number"
+autoNumberExample = "e.g. document.pdf → document (1).pdf"
+autoScanHelp = "New PDF files in this folder are processed automatically every 10 seconds."
+changeFolder = "Change"
+chooseFolder = "Choose"
+clearFolder = "Clear"
+color = "Accent color"
+createFolder = "Create Folder"
+createTitle = "New Watched Folder"
+editTitle = "Edit Watched Folder"
+inputFolder = "Input folder"
+inputFolderNotChosen = "No folder chosen — required for auto-scan"
+inputSource = "Input source"
+inputSourceBrowser = "Browser — drop files here"
+inputSourceLocal = "Local folder (auto-scan)"
+inputSourceLocalUnsupported = "Local folder (auto-scan) — Chrome/Edge only"
+localOutputFolder = "Local output folder"
+maxRetries = "Max retries"
+name = "Folder name"
+namePlaceholder = "My Watched Folder"
+nameRequired = "Folder name is required"
+nameTooLong = "Folder name must be 50 characters or less"
+outputFolderNotSet = "Not set — outputs stay in app"
+outputFolderUnsupported = "Not supported in this browser"
+outputModeNewDesc = "Output is saved as a new separate file"
+outputModeVersion = "Replace original?"
+outputModeVersionDesc = "Output becomes a new version of the input file rather than a separate file"
+outputName = "Output filename prefix"
+outputNamePrefix = "Filename prefix"
+outputNameSuffix = "Suffix"
+positionPrefix = "Prefix"
+positionSuffix = "Suffix"
+replaceOriginal = "Replace original file"
+retryDelay = "Delay (minutes)"
+saveChanges = "Save Changes"
+saveFailed = "Failed to save folder. Please try again."
+sectionFolder = "Folder"
+sectionSourceOutput = "Source & Output"
+sectionSteps = "Steps"
+
+[watchedFolders.status]
+active = "Active"
+done = "Done"
+paused = "Paused"
+processing = "Processing"
+
+[watchedFolders.time]
+daysAgo = "{{count}}d ago"
+hoursAgo = "{{count}}h ago"
+justNow = "just now"
+minutesAgo = "{{count}}m ago"
+
+[watchedFolders.workbench]
+activity = "Activity"
+addFiles = "Add files"
+allTime = "All time"
+cancel = "Cancel"
+chartTooltipComplete = "{{count}} complete"
+chartTooltipFailed = "{{count}} failed"
+clearSelection = "Clear selection"
+countProcessing = "{{count}} processing"
+countQueued = "{{count}} queued"
+countSelected = "{{count}} selected"
+dataSaved = "Saved"
+dayRunning = "day running"
+daysRunning = "days running"
+delete = "Delete"
+deleteConfirmBody = "Remove notifications only clears the activity log. Delete outputs also removes the processed files from storage. Your original input files are never touched."
+deleteOutputs = "Delete outputs"
+directionIn = "in"
+directionOut = "out"
+dropToProcess = "Drop to process"
+export = "Export"
+exportSeparately = "Export separately"
+exportZip = "Export zip"
+failed = "Failed"
+filesProcessedOverTime = "Files processed over time"
+filterAll = "All"
+filterPending = "Pending"
+inputs = "Inputs"
+inputSize = "Input size"
+legendComplete = "Complete"
+noActivity = "No activity yet — drop a PDF to start"
+noActivityMatch = "No matching activity"
+noInputFolder = "No input folder — edit to configure"
+outputs = "Outputs"
+pause = "Pause"
+preview = "Preview"
+previewInput = "Preview input"
+previewLoadFailed = "Could not load file preview."
+previewOutput = "Preview output"
+queued = "Queued"
+queuedWaiting = "Queued — waiting to run"
+removeEntries = "Remove {{count}} entries"
+removeEntry = "Remove entry"
+removeNotificationsOnly = "Remove notifications only"
+resume = "Resume"
+retryAll = "Retry all"
+retryIn = "retry in {{count}}m"
+retryingSoon = "retrying…"
+retryMixedConfirm = "Some selected files have already completed and will be skipped. Only failed files will be retried. Continue?"
+running = "Running"
+search = "Search…"
+selectAll = "Select all {{count}}"
+sortNameAsc = "A → Z"
+sortNameDesc = "Z → A"
+sortNewest = "Newest"
+sortOldest = "Oldest"
+watching = "Watching: {{name}}"
+
+[watermark]
+desc = "PDF fayllarına mətn və ya şəkil su nişanları əlavə edin"
+submit = "Watermark Əlavə Et"
+tags = "stamp,mark,overlay,watermark,branding,logo,confidential,draft,copyright,trademark,text overlay,image overlay,background text"
+title = "Watermark Əlavə Et"
 
 [watermark.error]
 failed = "PDF-ə su nişanı əlavə edərkən xəta baş verdi."
@@ -8816,16 +8269,12 @@ title = "Filigran nəticələri"
 alphabet = "Şrift/Dil"
 color = "Su nişanı rəngi"
 convertToImage = "PDF səhifələrini şəkillərə çevirməklə yastılaşdır"
-fontSize = "Şrift Ölçüsü"
 opacity = "Şəffaflıq (%)"
 rotation = "Fırlanma (dərəcə)"
 size = "Ölçü"
-type = "Su nişanı növü"
 
 [watermark.settings.image]
 choose = "Şəkil seç"
-label = "Su nişanı şəkli"
-selected = "Seçilən: {{filename}}"
 
 [watermark.settings.spacing]
 height = "Hündürlük aralığı"
@@ -8834,7 +8283,6 @@ vertical = "Şaquli aralıq"
 width = "En aralığı"
 
 [watermark.settings.text]
-label = "Su nişanı mətni"
 placeholder = "Su nişanı mətnini daxil edin"
 
 [watermark.steps]
@@ -8868,13 +8316,6 @@ bullet3 = "Yüksək qətnaməli şəkillər keyfiyyəti daha yaxşı qoruyur"
 text = "Filigran kimi istifadə etmək üçün bir şəkil faylı yükləyin."
 title = "Şəkil seçimi"
 
-[watermark.tooltip.formatting.appearance]
-bullet1 = "Fırlatma: bucaqlı filigranlar üçün -360°‑dən 360°‑dək"
-bullet2 = "Qeyri-şəffaflıq: şəffaflığı idarə etmək üçün 0–100%"
-bullet3 = "Aşağı qeyri-şəffaflıq daha incə filigran yaradır"
-text = "Filigranınızın necə göründüyünü və sənədlə necə qarışdığını idarə edin."
-title = "Görünüş ayarları"
-
 [watermark.tooltip.formatting.header]
 title = "Formatlama və maket"
 
@@ -8890,13 +8331,6 @@ title = "Təhlükəsizlik seçimi"
 bullet1 = "Daha böyük ölçülər daha nəzərə çarpan filigran yaradır"
 text = "Filigranınızın (mətn və ya şəkil) ölçüsünü tənzimləyin."
 title = "Ölçüyə nəzarət"
-
-[watermark.tooltip.formatting.spacing]
-bullet1 = "Üfüqi ara məsafəsi: soldan sağa filigranlar arasındakı məsafə"
-bullet2 = "Şaquli ara məsafəsi: yuxarıdan aşağıya filigranlar arasındakı məsafə"
-bullet3 = "Daha yüksək dəyərlər daha geniş yayılan naxışlar yaradır"
-text = "Səhifə üzrə təkrarlanan filigranlar arasındakı məsafəni tənzimləyin."
-title = "Ara məsafəsinə nəzarət"
 
 [watermark.tooltip.language]
 text = "Mətininizin düzgün şrift göstərilməsi üçün uyğun dil ayarını seçin."
@@ -8918,10 +8352,6 @@ title = "Rəng seçimi"
 
 [watermark.tooltip.textStyle.header]
 title = "Mətn üslubu"
-
-[watermark.tooltip.textStyle.language]
-text = "Düzgün şrift göstərilməsi üçün uyğun dil ayarını seçin."
-title = "Dil dəstəyi"
 
 [watermark.tooltip.type.description]
 text = "Ehtiyaclarınıza əsasən mətn və ya şəkil filigranı seçin."
@@ -8992,17 +8422,13 @@ annotations = "Annotasiyalar"
 applyRedactionsFirst = "Əvvəlcə gizlətmələri tətbiq et"
 closeAll = "Bütün faylları bağla"
 closePdf = "PDF-i bağla"
-closeSelected = "Seçilmiş faylları bağla"
 deleteSelected = "Seçilmiş səhifələri sil"
 deselectAll = "Hamısını seçmə"
 downloadAll = "Hamısını endir"
-downloadSelected = "Seçilmiş faylları endir"
-draw = "Rəsm çək"
 exitRedaction = "Gizlətmə rejimindən çıx"
 exportAll = "PDF-i ixrac et"
 exportSelected = "Seçilmiş səhifələri ixrac et"
 formFill = "Formu doldur"
-language = "Dil"
 multiTool = "Çoxfunksiyalı alət"
 panMode = "Sürüşdürmə rejimi"
 print = "PDF-i çap et"
@@ -9021,14 +8447,12 @@ search = "PDF-də axtar"
 selectAll = "Hamısını seç"
 selectByNumber = "Səhifə nömrələrinə görə seç"
 selectLanguage = "Dili seçin"
-share = "Paylaş"
 toggleAnnotations = "Annotasiyaların görünməsini dəyiş"
 toggleAttachments = "Qoşmaları aç/bağla"
 toggleBookmarks = "Əlfəcinləri aç/bağla"
 toggleComments = "Şərhlər"
 toggleLayers = "Qatları aç/bağla"
 toggleSidebar = "Yan paneli aç/bağla"
-toggleTheme = "Mövzunu dəyiş"
 viewer = "Görüntüləyici"
 
 [workflow.participant]
@@ -9088,7 +8512,6 @@ member = "Üzv"
 noMembersFound = "Üzv tapılmadı"
 role = "Rol"
 searchMembers = "Üzvlərdə axtar..."
-status = "Status"
 team = "Komanda"
 title = "İnsanlar"
 unlockAccount = "Hesabın kilidini aç"
@@ -9097,25 +8520,21 @@ unlockUserSuccess = "İstifadəçi hesabının kilidi uğurla açıldı"
 user = "İstifadəçi"
 
 [workspace.people.actions]
-label = "Əməliyyatlar"
 upgrade = "Yüksəlt"
 
 [workspace.people.addMember]
 authType = "Doğrulama növü"
-cancel = "Ləğv et"
 error = "İstifadəçi yaratmaq alınmadı"
 forceMFA = "Növbəti daxilolmada MFA quraşdırılmasını məcbur et"
 forcePasswordChange = "İlk girişdə parol dəyişikliyi tələb olunsun"
 password = "Parol"
 passwordPlaceholder = "Parolu daxil edin"
 passwordRequired = "Şifrə tələb olunur"
-passwordTooShort = "Parol ən azı 6 simvol olmalıdır"
 role = "Rol"
 submit = "Üzv əlavə et"
 success = "İstifadəçi uğurla yaradıldı"
 team = "Komanda (İstəyə bağlı)"
 teamPlaceholder = "Komanda seçin"
-title = "Üzv əlavə et"
 username = "İstifadəçi adı (E-poçt)"
 usernamePlaceholder = "user@example.com"
 usernameRequired = "İstifadəçi adı və parol tələb olunur"
@@ -9151,15 +8570,7 @@ subtitle = "Aşağıdakı istifadəçi üçün parolu yeniləyin"
 success = "Parol uğurla yeniləndi"
 title = "Parolu dəyiş"
 
-[workspace.people.delete]
-error = "İstifadəçini silmək alınmadı"
-success = "İstifadəçi uğurla silindi"
-
-[workspace.people.directInvite]
-tab = "Birbaşa Yarat"
-
 [workspace.people.editMember]
-cancel = "Ləğv et"
 editing = "Redaktə edilir:"
 error = "İstifadəçini yeniləmək alınmadı"
 role = "Rol"
@@ -9171,7 +8582,6 @@ title = "Üzvü redaktə et"
 
 [workspace.people.emailInvite]
 allFailed = "İstifadəçiləri dəvət etmək alınmadı"
-description = "Aşağıya vergüllə ayrılmış e-poçtları yazın və ya yapışdırın. İstifadəçilərə giriş məlumatları e-poçtla göndəriləcək."
 emails = "E-poçt Ünvanları"
 emailsPlaceholder = "user1@example.com, user2@example.com"
 emailsRequired = "Ən azı bir e-poçt ünvanı tələb olunur"
@@ -9179,34 +8589,20 @@ error = "Dəvətnamələri göndərmək alınmadı"
 partialFailure = "Bəzi dəvətlər uğursuz oldu"
 submit = "Dəvətnamələri göndər"
 success = "istifadəçi(lər) uğurla dəvət olundu"
-tab = "E-poçt Dəvəti"
 
 [workspace.people.inviteLink]
 copied = "Link mübadilə buferinə kopyalandı"
-description = "İstifadəçiyə öz parolunu təyin etməyə imkan verən təhlükəsiz link yaradın"
 email = "E-poçt ünvanı"
 emailDescription = "İstəyə bağlı - hər kəsin istifadə edə biləcəyi ümumi dəvət linki üçün boş buraxın"
-emailFailed = "Dəvət linki yaradıldı, lakin e-poçt göndərilmədi"
-emailFailedDetails = "Xəta: {0}. Zəhmət olmasa dəvət linkini əl ilə paylaşın."
-emailOptional = "İstəyə bağlı - ümumi dəvət linki üçün boş buraxın"
 emailPlaceholder = "user@example.com (istəyə bağlı)"
-emailRequired = "E-poçt ünvanı tələb olunur"
-emailRequiredForSend = "E-poçt bildirişi göndərmək üçün e-poçt ünvanı tələb olunur"
 emailSent = "Dəvət linki yaradıldı və e-poçtla göndərildi"
 error = "Dəvət linki yaratmaq alınmadı"
-expiryDescription = "Linkin neçə saatdan sonra bitəcəyini göstərin"
 expiryHours = "Müddət (saat)"
 generate = "Link yarat"
 generated = "Dəvət Linki Yaradıldı"
 sendEmail = "Dəvət linkini e-poçtla göndər"
 sendEmailDescription = "Aktivdirsə, dəvət linki göstərilən e-poçt ünvanına göndəriləcək"
-smtpRequired = "SMTP konfiqurasiya edilməyib"
 submit = "Dəvət Linki Yarat"
-success = "Dəvət linki uğurla yaradıldı"
-successWithEmail = "Dəvət linki yaradıldı və e-poçtla göndərildi"
-
-[workspace.people.inviteLinkTab]
-tab = "Dəvət Linki"
 
 [workspace.people.inviteMembers]
 label = "Üzvləri dəvət et"
@@ -9219,7 +8615,6 @@ link = "Keçid"
 username = "İstifadəçi adı"
 
 [workspace.people.license]
-availableSlots = "Mövcud yerlər"
 currentUsage = "Hazırda {{max}} istifadəçi lisenziyasından {{current}} istifadə olunur"
 fromLicense = "lisenziyadan"
 grandfathered = "Grandfathered"
@@ -9243,12 +8638,10 @@ error = "İstifadəçi statusunu yeniləmək alınmadı"
 success = "İstifadəçi statusu uğurla yeniləndi"
 
 [workspace.teams]
-actions = "Hərəkətlər"
 addMember = "Üzv əlavə et"
 backToTeams = "Komandalara qayıt"
 cannotAddToInternal = "Daxili komandaya üzv əlavə etmək mümkün deyil"
 cannotDeleteInternal = "Daxili komandanı silmək mümkün deyil"
-cannotRemoveFromSystemTeam = "Sistem komandasından çıxarmaq mümkün deyil"
 cannotRenameInternal = "Daxili komandanın adını dəyişmək mümkün deyil"
 confirmDelete = "Bu komandanı silmək istədiyinizə əminsiniz? Silmək üçün komanda boş olmalıdır."
 confirmRemove = "İstifadəçi bu komandadan çıxarılsın?"
@@ -9274,7 +8667,6 @@ viewTeam = "Komandaya bax"
 
 [workspace.teams.addMemberToTeam]
 addingTo = "Əlavə edilir"
-cancel = "Ləğv et"
 currentlyIn = "hazırda"
 error = "Üzvü komandaya əlavə etmək alınmadı"
 selectUser = "İstifadəçi seçin"
@@ -9298,7 +8690,6 @@ success = "Komanda uğurla dəyişdirildi"
 title = "Komandanı dəyiş"
 
 [workspace.teams.createTeam]
-cancel = "Ləğv et"
 error = "Komanda yaratmaq alınmadı"
 nameRequired = "Komanda adı tələb olunur"
 submit = "Komanda yarat"
@@ -9310,10 +8701,8 @@ title = "Yeni Komanda Yaradın"
 [workspace.teams.deleteTeam]
 error = "Komandanı silmək alınmadı. Komandanın boş olduğundan əmin olun."
 success = "Komanda uğurla silindi"
-teamMustBeEmpty = "Silmədən əvvəl komanda boş olmalıdır"
 
 [workspace.teams.renameTeam]
-cancel = "Ləğv et"
 error = "Komandanın adını dəyişmək alınmadı"
 nameRequired = "Komanda adı tələb olunur"
 newTeamName = "Yeni komanda adı"
