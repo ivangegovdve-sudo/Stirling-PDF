@@ -34,7 +34,7 @@ export const Z_INDEX_COOKIE_PREFERENCES_MODAL = 1450;
 // Sign-in modal — must appear above all app UI including config and analytics modals
 export const Z_INDEX_SIGN_IN_MODAL = 9000;
 
-// Toast notifications and error displays - Always on top (higher than rainbow theme at 10000)
+// Toast notifications and error displays - Always on top
 export const Z_INDEX_TOAST = 10001;
 
 // Signature preview overlays inside the PDF viewer
